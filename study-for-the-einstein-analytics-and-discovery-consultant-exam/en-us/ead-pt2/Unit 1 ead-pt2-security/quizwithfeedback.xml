@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Next</nextbuttontext>
+  <submitbuttontext>Submit</submitbuttontext>
+  <reviewbuttontext>Review</reviewbuttontext>
+  <retakequizbuttontext>Retake</retakequizbuttontext>
+  <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttextbegin>Question</questioncounttextbegin>
+  <questioncounttextmiddle>of</questioncounttextmiddle>
+  <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
+  <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
+  <numberofattempts>Number of attempts: </numberofattempts>
+  <numberofquestions>2</numberofquestions>
+  <question1>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>1</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second
+      option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <question>An Einstein Analytics consultant is working on a dataset where row-level security needs to be implemented.<br><br>How can the user accomplish this?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Define a security predicate, turn on sharing inheritance, or do both.</option1text>
+    <option1textexplanation>Correct. To restrict access to records, you can implement row-level security on a dataset when you use sharing inheritance and security predicates.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Enable field-level security on a dataset.</option2text>
+    <option2textexplanation>Incorrect. Field-level security does not implement row-level security on a dataset. </option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Adjust the user’s profile to determine row-level security on a dataset.</option3text>
+    <option3textexplanation>Incorrect. Adjusting the user’s profile affects all users with that profile and does not determine row-level security on a dataset.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Create a permission set to enable row-level sharing on a dataset.</option4text>
+    <option4textexplanation>Incorrect. Permission sets do not enable row-level sharing on a dataset in Einstein Analytics. </option4textexplanation>
+  </question1>
+  <question2>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>3</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>An Einstein Analytics consultant wants to restrict row-level access within the dataset to only users who own the specific records.<br><br>How can a user achieve this through a security predicate? </question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>'Record.Id' == "$User.Id"</option1text>
+    <option1textexplanation>Incorrect. Record.Id is not the correct field to use. </option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>'UserId' == "$User.Id"</option2text>
+    <option2textexplanation>Incorrect. UserId is not the correct field to use.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>'OwnerId' == "$User.Id" </option3text>
+    <option3textexplanation>Correct. OwnerId refers to the dataset column that contains the user ID of the owner of the record. While $User.Id refers to the Id column of the User object. </option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>'User.Id' == "$Role.Id"</option4text>
+    <option4textexplanation>Incorrect. Role.Id is not the correct field to use. </option4textexplanation>
+  </question2>
+</quizwithfeedback>

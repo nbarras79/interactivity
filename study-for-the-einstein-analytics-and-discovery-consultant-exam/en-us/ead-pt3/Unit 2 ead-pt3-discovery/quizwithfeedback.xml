@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Next</nextbuttontext>
+  <submitbuttontext>Submit</submitbuttontext>
+  <reviewbuttontext>Review</reviewbuttontext>
+  <retakequizbuttontext>Retake</retakequizbuttontext>
+  <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttextbegin>Question</questioncounttextbegin>
+  <questioncounttextmiddle>of</questioncounttextmiddle>
+  <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
+  <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
+  <numberofattempts>Number of attempts: </numberofattempts>
+  <numberofquestions>2</numberofquestions>
+  <question1>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>2</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second
+      option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <question>How can the What Could Happen Insights feature help an Einstein Analytics consultant with analysis and discovery? </question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>It displays existing data from past transactions to help the consultant understand dashboards that have been created.</option1text>
+    <option1textexplanation>Incorrect. Analyzing past transactions does not help a consultant understand dashboards that have been created. </option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>It uses data to statistically calculate probable outcomes of future events. </option2text>
+    <option2textexplanation>Correct. Einstein Discovery conducts predictive analysis to predict future outcomes, and prescriptive analysis to suggest ways in which to improve those outcomes.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>It determines what data should be excluded from the dataset.</option3text>
+    <option3textexplanation>Incorrect. What Could Happen insights do not analyze the dataset to determine what fields should be excluded from predictive analysis. </option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>It summarizes data from the past and gives the consultant performance information about the dashboards.</option4text>
+    <option4textexplanation>Incorrect. What Could Happen insights do not determine dashboard performance. </option4textexplanation>
+  </question1>
+  <question2>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>4</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>When preparing data for predictive analytics, how can an Einstein Analytics consultant address the data quality issue of missing values?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Filling in the missing values with the word “empty” will create unnecessary additional values that do not address the data quality. </option1text>
+    <option1textexplanation>Incorrect. Fill in the missing values with the word “empty”.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>If you filter out records with missing values, you could be missing the pattern within the missing data or possibly undermine the real-world aspects in your analysis.</option2text>
+    <option2textexplanation>Incorrect. Create a filter to remove all records that are missing any data in any field.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Filling in missing values with other trending information from other records will skew the results.</option3text>
+    <option3textexplanation>Incorrect. Fill in the missing values with trending information from other records.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>This is the most efficient way to cleanse and prepare your data for Einstein Analytics.</option4text>
+    <option4textexplanation>Correct. Reduce the standard deviation by introducing a mean value or remove records with missing values (only if the records don’t impact the analysis).</option4textexplanation>
+  </question2>
+</quizwithfeedback>

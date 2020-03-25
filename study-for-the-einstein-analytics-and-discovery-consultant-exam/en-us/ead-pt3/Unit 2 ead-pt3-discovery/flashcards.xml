@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<numberofflashcards>4</numberofflashcards>
+<flashcardcounttextmiddle>of</flashcardcounttextmiddle>
+<leftarrowaccessibility>Click or press the Left Arrow on the keyboard to go to the previous flashcard.</leftarrowaccessibility>
+<rightarrowaccessibility>Click or press the Right Arrow on the keyboard to go to the next flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. The controls for the flashcards are as follows: To go to the previous flashcard press the left arrow key. To go to the next flashcard, press the right arrow key. To flip the flashcard from the front to the back and vice
+    versa, press the down arrow key. There are 4 flashcards in this set.</accessibility>
+  <front>What are the total maximum number of story creations per org per day?</front>
+  <back>20</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>When preparing the data, what is the term when there are too many variable fields used?</front>
+  <back>Overfitting</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>What permission and permission set does a user need to access Einstein Discovery?</front>
+  <back>Einstein Analytics Plus User general users, and Einstein Analytics Plus Admin for admin access</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Flashcard 4</accessibility>
+  <front>Einstein Discovery uses waterfall charts to help you visualize what type of insight? </front>
+  <back>Why It Happened insights</back>
+</flashcard4>
