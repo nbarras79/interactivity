@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Next</nextbuttontext>
+  <submitbuttontext>Submit</submitbuttontext>
+  <reviewbuttontext>Review</reviewbuttontext>
+  <retakequizbuttontext>Retake</retakequizbuttontext>
+  <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttextbegin>Question</questioncounttextbegin>
+  <questioncounttextmiddle>of</questioncounttextmiddle>
+  <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
+  <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
+  <numberofattempts>Number of attempts: </numberofattempts>
+  <numberofquestions>1</numberofquestions>
+  <question1>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>2</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second
+      option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <question>The marketing manager at Universal Containers wants to view Twitter social data on the Account record. However, when they compare one of their Account records with other marketing managers, the Twitter data is missing. What can the App
+      Builder recommend?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Social is no longer enabled in the organization.</option1text>
+    <option1textexplanation>Incorrect. Since the colleague could see the social data, then Social is still enabled for the organization. In order to see social data on their records, the user needs to first link a personal social account and then
+      log in.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>The marketing manager needs to link a personal social account.</option2text>
+    <option2textexplanation>Correct. In order to see social data, the user needs to link personal social account and log in.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Twitter is not supported in Social Accounts.</option3text>
+    <option3textexplanation>Incorrect. Twitter is supported in Social Accounts. In order to see social data, the user needs to link personal social account and log in.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>The marketing manager does not have permission to access the Accounts object on their profile.</option4text>
+    <option4textexplanation>Incorrect. The marketing manager can see the Account record, but just not see the social data. In order to see social data, the user needs to link personal social account and log in.</option4textexplanation>
+  </question1>
+</quizwithfeedback>

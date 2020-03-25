@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Next</nextbuttontext>
+  <submitbuttontext>Submit</submitbuttontext>
+  <reviewbuttontext>Review</reviewbuttontext>
+  <retakequizbuttontext>Retake</retakequizbuttontext>
+  <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttextbegin>Question</questioncounttextbegin>
+  <questioncounttextmiddle>of</questioncounttextmiddle>
+  <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
+  <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
+  <numberofattempts>Number of attempts: </numberofattempts>
+  <numberofquestions>3</numberofquestions>
+  <question1>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>2</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second
+      option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <question>An App Builder for Universal Containers wants to change a field type that is currently used as an external ID. What field type can the field be changed to without potentially losing data?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Text Area (Long)</option1text>
+    <option1textexplanation>Incorrect. Choosing a data type other than text, number, or email causes the field to no longer act as an external ID.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Text</option2text>
+    <option2textexplanation>Correct. Choosing a data type other than text, number, or email causes the field to no longer act as an external ID.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Text Area (Rich)</option3text>
+    <option3textexplanation>Incorrect. Choosing a data type other than text, number, or email causes the field to no longer act as an external ID.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>URL</option4text>
+    <option4textexplanation>Incorrect. Choosing a data type other than text, number, or email causes the field to no longer act as an external ID.</option4textexplanation>
+  </question1>
+  <question2>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>4</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>The App Builder at Universal Containers is creating a new tool to track bugs with cases. Since there can be many bugs associated with a case and many cases can be associated with a bug, what can the App Builder do to meet this business
+      requirement?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Create a custom Bug object and create a custom field with the field type Master-Detail looking to the Case object.</option1text>
+    <option1textexplanation>Incorrect. This setup would only allow a single case to be associated with a bug, but allow many bugs to be associated with a case. This would not meet the business requirement. To create many-to-many relationships, a
+      junction object would need to be created and associated to both Case and Bug objects.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Create a lookup relationship on the Case object to the Bug object.</option2text>
+    <option2textexplanation>Incorrect. A lookup relationship allows the user to only select a single record instead of associating many records. This would not meet the business requirement. To create many-to-many relationships, a junction object
+      would need to be created and associated to both Case and Bug objects.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Create custom fields on the Case object to capture bug information.</option3text>
+    <option3textexplanation>Incorrect. This would not meet the business requirement. To create many-to-many relationships, a junction object would need to be created and associated to both Case and Bug objects.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Create a junction object and establish a many-to-many relationship between the Case object and a custom Bug object.</option4text>
+    <option4textexplanation>Correct. To create many-to-many relationships, a junction object would need to be created and associated to both Case and Bug objects.</option4textexplanation>
+  </question2>
+  <question3>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>1</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 3. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>Universal Containers is importing 1,000 records into Salesforce. The team wants to avoid creating duplicate records during the import. How can these requirements be met?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Include a column in the import file that has either record names, Salesforce IDs, or external IDs that can be used to match records.</option1text>
+    <option1textexplanation>Correct: These are required fields in the import file.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>When importing the file, select the Prevent Duplicates option on the last step of the Import Wizard and import the file.</option2text>
+    <option2textexplanation>Incorrect: Without a key identifier duplicates will still be created.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>After importing all of the custom objects, run a duplicate check report, export the report to a CSV file, and run a mass delete to purge any duplicates.</option3text>
+    <option3textexplanation>Incorrect: This would not prevent duplicates.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>After importing all of the custom objects, review all records created and manually merge or delete any duplicate records.</option4text>
+    <option4textexplanation>Incorrect: This would not prevent duplicates.</option4textexplanation>
+  </question3>
+</quizwithfeedback>

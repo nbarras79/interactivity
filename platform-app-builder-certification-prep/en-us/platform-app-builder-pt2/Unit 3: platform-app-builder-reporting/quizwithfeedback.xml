@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Next</nextbuttontext>
+  <submitbuttontext>Submit</submitbuttontext>
+  <reviewbuttontext>Review</reviewbuttontext>
+  <retakequizbuttontext>Retake</retakequizbuttontext>
+  <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttextbegin>Question</questioncounttextbegin>
+  <questioncounttextmiddle>of</questioncounttextmiddle>
+  <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
+  <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
+  <numberofattempts>Number of attempts: </numberofattempts>
+  <numberofquestions>1</numberofquestions>
+  <question1>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>2</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second
+      option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <question>The VP of sales at Ursa Major is building a report to see a current total of sales grouped by each sales representative and wants to show those values in a chart. What report type should an App Builder use?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Tabular</option1text>
+    <option1textexplanation>Incorrect. Tabular reports are great for showing a list of records and giving a single grand total.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Summary</option2text>
+    <option2textexplanation>Correct. Summary reports are great for giving subtotals by groups of rows and can include charts.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Matrix</option3text>
+    <option3textexplanation>Incorrect. Matrix reports are great for grouping rows and columns and comparing subtotals across those groupings.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Joined</option4text>
+    <option4textexplanation>Incorrect. Joined reports provide multiple report blocks, where each block acts like a “sub-report.”</option4textexplanation>
+  </question1>
+</quizwithfeedback>

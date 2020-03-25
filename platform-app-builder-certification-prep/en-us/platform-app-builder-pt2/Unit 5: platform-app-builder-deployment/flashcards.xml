@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<numberofflashcards>4</numberofflashcards>
+<flashcardcounttextmiddle>of</flashcardcounttextmiddle>
+<leftarrowaccessibility>Click or press the Left Arrow on the keyboard to go to the previous flashcard.</leftarrowaccessibility>
+<rightarrowaccessibility>Click or press the Right Arrow on the keyboard to go to the next flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. The controls for the flashcards are as follows: To go to the previous flashcard press the left arrow key. To go to the next flashcard, press the right arrow key. To flip the flashcard from the front to the back and vice
+    versa, press the down arrow key. There are 4 flashcards in this set.</accessibility>
+  <front>What is one component that is unavailable in a change set?</front>
+  <back>Account Teams</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>What is a managed package?</front>
+  <back>A managed package is a collection of components that are made available to other organizations through the AppExchange.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>What is the refresh interval of a Partial Copy Sandbox?</front>
+  <back>5 days</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Flashcard 4</accessibility>
+  <front>For new app development, what deployment plan is best practice for the App Builder to follow?</front>
+  <back>Develop, test, build the release, stage, release</back>
+</flashcard4>

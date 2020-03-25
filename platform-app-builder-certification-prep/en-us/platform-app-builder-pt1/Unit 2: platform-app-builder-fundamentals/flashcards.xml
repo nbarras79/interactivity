@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<numberofflashcards>2</numberofflashcards>
+<flashcardcounttextmiddle>of</flashcardcounttextmiddle>
+<leftarrowaccessibility>Click or press the Left Arrow on the keyboard to go to the previous flashcard.</leftarrowaccessibility>
+<rightarrowaccessibility>Click or press the Right Arrow on the keyboard to go to the next flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. The controls for the flashcards are as follows: To go to the previous flashcard press the left arrow key. To go to the next flashcard, press the right arrow key. To flip the flashcard from the front to the back and vice
+    versa, press the down arrow key. There are 3 flashcards in this set.</accessibility>
+  <front>How many assignment rules can be active on Case?</front>
+  <back>For each rule type, only one rule can be in effect at any time.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>Universal Containers has limited in-house development resources, but would like to support online payment processing for its products. What is the recommended solution to meet this requirement?</front>
+  <back>Install a third-party App from AppExchange. Download AppExchange Packages permissions to install and uninstall packages.</back>
+</flashcard2>

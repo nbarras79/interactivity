@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Next</nextbuttontext>
+  <submitbuttontext>Submit</submitbuttontext>
+  <reviewbuttontext>Review</reviewbuttontext>
+  <retakequizbuttontext>Retake</retakequizbuttontext>
+  <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttextbegin>Question</questioncounttextbegin>
+  <questioncounttextmiddle>of</questioncounttextmiddle>
+  <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
+  <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
+  <numberofattempts>Number of attempts: </numberofattempts>
+  <numberofquestions>2</numberofquestions>
+  <question1>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>1</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second
+      option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <question>A sales representative at Universal Containers is the delegated approver for their manager’s approval requests. The sales representative wants to be able to respond to approval requests through email. What permission do they need to
+      meet this requirement?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>The user needs API Enabled permission on their profile or assigned permission set.</option1text>
+    <option1textexplanation>Correct. The API Enabled permission can be enabled on the profile or the permission set assigned to the user.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>The user needs System Administrator profile assigned.</option2text>
+    <option2textexplanation>Incorrect. This would give more access than the user needs. To respond to an approval request through email, the user will need API Enabled permission on their profile or assigned permission set.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>The user needs Email Enabled Approvals permission on their profile or assigned permission set.</option3text>
+    <option3textexplanation>Incorrect. There is no such permission as Email Enabled Approvals. To respond to an approval request through email, the user needs API Enabled permission on their profile or assigned permission set.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>The user needs Approvals for Email permission on their profile or assigned permission set.</option4text>
+    <option4textexplanation>Incorrect. There is no such permission as Approvals for Email. To respond to an approval request through email, the user needs API Enabled permission on their profile or assigned permission set.</option4textexplanation>
+  </question1>
+  <question2>
+    <numbercorrect>2</numbercorrect>
+    <correctanswer1>1</correctanswer1>
+    <correctanswer2>3</correctanswer2>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 2 correct answer(s).</accessibility>
+    <question>Universal Containers wants to standardize its business logic to ensure the logic’s order is guaranteed to be the same each time. Which two features can an App Builder use to accomplish this? (Choose two.)</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Lightning Process Builder</option1text>
+    <option1textexplanation>Correct: With Process Builder an App Builder can determine the order of when processes trigger.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Workflow</option2text>
+    <option2textexplanation>Incorrect: Process Builder and Flow are more flexible and powerful tools for standardizing business logic.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Flow</option3text>
+    <option3textexplanation>Correct: With Flow an App Builder can determine the order of when processes trigger.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Global Quick actions</option4text>
+    <option4textexplanation>Incorrect: Global Quick Actions are used on pages to support user actions.</option4textexplanation>
+  </question2>
+</quizwithfeedback>

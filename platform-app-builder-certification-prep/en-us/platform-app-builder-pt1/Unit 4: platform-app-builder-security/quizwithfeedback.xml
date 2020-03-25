@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Next</nextbuttontext>
+  <submitbuttontext>Submit</submitbuttontext>
+  <reviewbuttontext>Review</reviewbuttontext>
+  <retakequizbuttontext>Retake</retakequizbuttontext>
+  <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttextbegin>Question</questioncounttextbegin>
+  <questioncounttextmiddle>of</questioncounttextmiddle>
+  <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
+  <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
+  <numberofattempts>Number of attempts: </numberofattempts>
+  <numberofquestions>3</numberofquestions>
+  <question1>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>4</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second
+      option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <question>Senior sales managers need to be able to manage account records but cannot be given the “Modify All” permission. How can the App Builder meet this requirement while applying the least privilege possible?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Modify the profile assigned to senior managers and enable Modify App on object settings.</option1text>
+    <option1textexplanation>Incorrect. This is not the best solution since modifying the profile affects all users assigned to that profile. The best solution would be to create a custom permission set with the appropriate permissions, and assign
+      that permission set to the senior managers.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Create a new custom profile with the enabled permissions and assign the new profile to senior managers.</option2text>
+    <option2textexplanation>Incorrect. This is not the best solution since only a small number of users need this additional access. The best solution would be to create a custom permission set with the appropriate permissions, and assign that
+      permission set to the senior managers.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Adjust the Org-Wide Default to Public Read/Write.</option3text>
+    <option3textexplanation>Incorrect. This is not the best solution since org-wide defaults don’t determine what a user can do with records, only what a user can see. The best solution would be to create a custom permission set with the appropriate
+      permissions, and assign that permission set to the senior managers.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Create a custom permission set with the appropriate access and assign the permission set to the senior managers.</option4text>
+    <option4textexplanation>Correct. Profiles give the base access and permission sets can extend that access. Since there are only a few senior managers that need this access, the ideal solution is to create and assign a custom permission set with
+      the View All and Modify All object settings for Accounts.</option4textexplanation>
+  </question1>
+  <question2>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>3</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>Universal Containers has a small team of individuals across multiple job functions that audit Salesforce records. The team needs to audit accounts who have reached the end of the contract date. Users have different access to the
+      Accounts object. How can the App Builder address this business need?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Create a custom permission set and assign the permission set to the auditors.</option1text>
+    <option1textexplanation>Incorrect. Not all auditors are assigned the same profile. Not all profiles have the same access to accounts and permission sets only extend access already set up on the profile. The better solution would be to create a
+      criteria-based sharing rule and share records with a group for auditors.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Create a custom profile and assign the profile to the auditors.</option2text>
+    <option2textexplanation>Incorrect. Since not all auditors are in the same job function, they do not have the same profile. Not all profiles have the same access to Accounts. The better solution would be to create a criteria-based sharing rule
+      and share records with a group for auditors.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Create a criteria based sharing rule and share records with a group for auditors.</option3text>
+    <option3textexplanation>Correct. A sharing rule can never be stricter than your org-wide default settings. It simply allows greater access for particular group of users. A criteria-based sharing rule can filter the records that meet the specific
+      criteria and share the record information to a particular group of users.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Use Apex to create a criteria based sharing rule.</option4text>
+    <option4textexplanation>Incorrect. You cannot use Apex to create or test a criteria-based sharing rule. The better solution would be to create a criteria based sharing rule and share records with a group for auditors.</option4textexplanation>
+  </question2>
+  <question3>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>4</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 3. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>A custom object named Assignment has a private sharing setting that grants access using hierarchies. The organization has a role hierarchy where the Specialist role reports to a Manager role which reports to a Director role. The
+      Director role is at the top of the role hierarchy. A user who is in the Manager role creates a new Assignment record. Which users can see this record?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>The record owner and the Managers in their hierarchy.</option1text>
+    <option1textexplanation>Incorrect. The owner of the record and the roles above in the hierarchy can see the record.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>The record owner and those above the Specialist role in their hierarchy.</option2text>
+    <option2textexplanation>Incorrect. The owner of the record and the roles above in the hierarchy can see the record.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>The record owner and the Specialists in their hierarchy.</option3text>
+    <option3textexplanation>Incorrect. The owner of the record and the roles above in the hierarchy can see the record.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>The record owner and the Directors in their hierarchy.</option4text>
+    <option4textexplanation>Correct. The owner of the record and the roles above in the hierarchy can see the record.</option4textexplanation>
+  </question3>
+</quizwithfeedback>
