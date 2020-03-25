@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<numberofflashcards>9</numberofflashcards>
+<flashcardcounttextmiddle>of</flashcardcounttextmiddle>
+<leftarrowaccessibility>Click or press the Left Arrow on the keyboard to go to the previous flashcard.</leftarrowaccessibility>
+<rightarrowaccessibility>Click or press the Right Arrow on the keyboard to go to the next flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. The controls for the flashcards are as follows: To go to the previous flashcard press the left arrow key. To go to the next flashcard, press the right arrow key. To flip the flashcard from the front to the back and vice versa, press the down arrow key. There are 9 flashcards in this set.</accessibility>
+  <front>Ursa Major Solar wants to assign a task automatically to account managers when a customer’s agreement is about to expire.<br><br>How should an administrator configure this functionality?</front>
+  <back>Create a time-based workflow on account with a rule criteria of Agreement End Date &gt; TODAY().</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>An administrator created a workflow rule that sends email alerts when a case with a high priority is created. A new support engineer who works remotely at Ursa Major Solar complains about not receiving the email alerts. All other users at Ursa Major Solar receive these email alerts.<br><br>How can an administrator troubleshoot this issue?</front>
+  <back>Verify the user’s email address.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>Ursa Major Solar wants to create a workflow rule to send an email alert to members of its board of directors, none of whom use Salesforce.<br><br>How many of the board members can be added to a single email alert?</front>
+  <back>Up to 5 additional email addresses can be added to the email alert.</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Flashcard 4</accessibility>
+  <front>Flow</front>
+  <back>FA flow is an application that can execute logic, interact with the Salesforce database, call Apex classes, and collect data from users.</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Flashcard 5</accessibility>
+  <front>Quick Action</front>
+  <back>Quick actions can be object-specific or global actions. Only Create, Update, and Log a Call actions are supported. You can also use actions in a process, and can only set values for fields that are part of the action’s layout.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Flashcard 6</accessibility>
+  <front>Process Trigger</front>
+  <back>Every process includes a trigger, which tells the process when to start. How you configure that trigger depends on what type of process you’re creating—record change, event, invokable.</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Flashcard 7</accessibility>
+  <front>Approval Process</front>
+  <back>An approval process automates how records are approved in Salesforce. An approval process specifies each step of approval, including from whom to request approval and what to do at each point of the process.</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Flashcard 8</accessibility>
+  <front>Delete an Approval Process</front>
+  <back>Before you delete an approval process, make sure it’s inactive. Delete pending approval requests that are associated with it, and remove them from the recycle bin.</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>Flashcard 9</accessibility>
+  <front>Activate an Approval Process</front>
+  <back>An approval process must have at least one step before you can activate it. After an approval process is activated, you can’t add, delete, or change the order of the steps, or change its reject or skip behavior, even if the process is inactive.</back>
+</flashcard9>

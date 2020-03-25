@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<numberofflashcards>12</numberofflashcards>
+<flashcardcounttextmiddle>of</flashcardcounttextmiddle>
+<leftarrowaccessibility>Click or press the Left Arrow on the keyboard to go to the previous flashcard.</leftarrowaccessibility>
+<rightarrowaccessibility>Click or press the Right Arrow on the keyboard to go to the next flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. The controls for the flashcards are as follows: To go to the previous flashcard press the left arrow key. To go to the next flashcard, press the right arrow key. To flip the flashcard from the front to the back and vice versa, press the down arrow key. There are 12 flashcards in this set.</accessibility>
+  <front>A delegated administrator at Ursa Major Solar cannot edit the Created Date field for the account record.<br><br>What reason should the administrator give for why this is occurring?</front>
+  <back>This is a System Audit field and it’s Read-Only for existing records.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>Ursa Major Solar wants to create a field to store credit card numbers and needs to make sure the information is protected.<br><br>What two actions allow the administrator to provide enhanced security for this field?</front>
+  <back>Create an encrypted text field.<br><br>Update field-level security settings.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>Ursa Major Solar has a renewals sales team that uses the Opportunity object. The team wants to use many of the same picklist fields that are already defined, but needs unique picklist values. What feature allows an administrator to maintain the same field for two different teams?</front>
+  <back>Record types</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Flashcard 4</accessibility>
+  <front>Ursa Major Solar has a sales team focused on renewals. The team uses many of the same Opportunity fields as other teams, but needs different Stage values.<br><br>What should the administrator update to support this requirement?</front>
+  <back>Stage Selected Values in the Sales Processes</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Flashcard 5</accessibility>
+  <front>Ursa Major Solar has a complex sales process with multiple record types, each shared with all Profiles. Some users complain about the Record Type selection screen when creating new Opportunities.<br><br>What two actions should the administrator take to allow these users to bypass choosing a record type?</front>
+  <back>Instruct users to update the Default Record Type in My Settings.<br><br>Remove Record Types from the users\' Profiles.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Flashcard 6</accessibility>
+  <front>The customer support team wants to use a different Page Layout when closing a Case.<br><br>What method should the administrator use to fulfill this request?</front>
+  <back>Case Close Page Layout</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Flashcard 7</accessibility>
+  <front>Formula Field</front>
+  <back>A read-only field whose value is evaluated from the formula or expression defined by us. You can define formula field on both standard and custom objects. Any change in expression or formula automatically updates the value of formula field. You can define formula field for 7 types:<br><br>(1) Number, (2) Currency, (3) Percent, (4) Date, (5) Date / Time, (6) Checkbox, (7) Text</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Flashcard 8</accessibility>
+  <front>Custom Objects</front>
+  <back>These are the objects created by user according to their need. Each custom object has five standard fields. Objects, having five standard fields, created by users to address their need</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>Flashcard 9</accessibility>
+  <front>Roll-up Summary Field</front>
+  <back>A roll-up summary field is custom object field that calculates values from related records or the records in a related list. Roll-up summary field is created to display a value in a master record based on the values of fields in a detail record. Roll-up summary can be defined on Master-Detail relationship only.</back>
+</flashcard9>
+<flashcard10>
+  <accessibility>Flashcard 10</accessibility>
+  <front>Lookup Field</front>
+  <back>Lookup is also a one-to-many relationship, but in this relationship, two objects has no effect on deletion or security. Child objects are independent.<br><br>Child objects have a separate setting. If you delete the parent object, the child object remains in the system. A child object may or may not have a parent.</back>
+</flashcard10>
+<flashcard11>
+  <accessibility>Flashcard 11</accessibility>
+  <front>Master-detail</front>
+  <back>Closely links objects together such that the master record controls certain behaviors of the detail and subdetail record. For example, you can define a two-object master-detail relationship, such as Account—Expense Report, that extends the relationship to subdetail records, such as Account—Expense Report—Expense Line Item. You can then perform operations across the master—detail—subdetail relationship.</back>
+</flashcard11>
+<flashcard12>
+  <accessibility>Flashcard 12</accessibility>
+  <front>One-to-many</front>
+  <back>Relationship with many child objects but one Parent Object, for instance, many metro cities are associated withto one country. This kind of relationship is represented in four different forms:<br><br>(1) Master-detail, (2) LookUp (loosely coupled relationship), (3) Self, (4) Hierarchical</back>
+</flashcard12>

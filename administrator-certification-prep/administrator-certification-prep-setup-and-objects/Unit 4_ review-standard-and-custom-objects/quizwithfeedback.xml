@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Next</nextbuttontext>
+  <submitbuttontext>Submit</submitbuttontext>
+  <reviewbuttontext>Review</reviewbuttontext>
+  <retakequizbuttontext>Retake</retakequizbuttontext>
+  <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttextbegin>Question</questioncounttextbegin>
+  <questioncounttextmiddle>of</questioncounttextmiddle>
+  <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
+  <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
+  <numberofattempts>Number of attempts: </numberofattempts>
+  <numberofquestions>8</numberofquestions>
+  <question1>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>4</correctanswer1>
+    <numberofansweroptions></numberofansweroptions>
+    <accessibility>Question 1. This question has possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <question>The VP of sales at Ursa Major Solar wants to take a look at all of the sales deals that are currently in play for the Sales team to determine how well they’re tracking toward their goal for quarter end.<br><br>Which standard object stores information about sales deals?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Accounts</option1text>
+    <option1textexplanation>Incorrect. Accounts store information about customers or individuals you do business with. There are two types of accounts. Business accounts store information about companies. Person accounts store information about individual people.</option1textexplanation>
+  </question1>
+  <question2>
+    <numbercorrect>2</numbercorrect>
+    <correctanswer1>1</correctanswer1>
+    <correctanswer2>3</correctanswer2>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 2 correct answer(s).</accessibility>
+    <question>A sales team member at Ursa Major Solar wants to view information related to one of their accounts to have a 360-degree view of the customer.<br><br>Which two standard objects are related to account records? (Choose two answers.)</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Cases</option1text>
+    <option1textexplanation>Correct. Cases is a standard object related to an account.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Campaigns</option2text>
+    <option2textexplanation>Incorrect. Campaigns are not related to accounts.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Opportunities</option3text>
+    <option3textexplanation>Correct. Opportunities is a standard object related to an account.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Leads</option4text>
+    <option4textexplanation>Incorrect. Leads are not related to accounts. They are converted into accounts/contacts.</option4textexplanation>
+  </question2>
+  <question3>
+    <numbercorrect>3</numbercorrect>
+    <correctanswer1>1</correctanswer1>
+    <correctanswer2>2</correctanswer2>
+    <correctanswer3>4</correctanswer3>
+    <numberofansweroptions>5</numberofansweroptions>
+    <accessibility>Question 3. This question has 5 possible answer(s) to chose from. The question has 3 correct answer(s).</accessibility>
+    <question>The marketing manager at Ursa Major Solar wants to run a marketing campaign for their upcoming event called the Ray-a-thon. The manager wants to capture as much information as possible from the campaign in Salesforce.<br><br>Which three objects have a relationship with a Campaign? (Choose three answers.)</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Lead</option1text>
+    <option1textexplanation>Correct. You can find the campaign related list on the Lead object. A company’s campaigns typically target prospective customers (leads). Associate contacts and leads with campaigns as campaign members.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Contact</option2text>
+    <option2textexplanation>Correct. A company’s campaigns typically target existing customers (contacts). Associate contacts and leads with campaigns as campaign members.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Account</option3text>
+    <option3textexplanation>Incorrect. Accounts are not associated with campaigns.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Opportunity</option4text>
+    <option4textexplanation>Correct. Opportunities are related to campaigns, and they can track which opportunities were created as a result of various campaigns.</option4textexplanation>
+    <option5buttontext>E</option5buttontext>
+    <option5text>Contact Role</option5text>
+    <option5textexplanation>Incorrect. Contact roles are not related to campaigns.</option5textexplanation>
+  </question3>
+  <question4>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>3</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 4. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>Ursa Major Solar needs a field that reflects account size based on the standard field, number of employees.<br><br>Which formula function should an administrator use to evaluate different results based on a specific condition with multiple outcomes?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>ISPICKVAL</option1text>
+    <option1textexplanation>Incorrect. ISPICKVAL determines if the value of a picklist field is equal to a text literal you specify. It evaluates picklist values, and you’re looking at the number of employees.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>TEXT</option2text>
+    <option2textexplanation>Incorrect. TEXT converts a percent, number, date/time, or currency type field into text anywhere formulas are used. This does not meet the requirements.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>IF</option3text>
+    <option3textexplanation>Correct. IF determines if expressions are true or false. It returns a given value if true and another value if false. This is correct because you can string together multiple IFs to evaluate a specific condition with multiple outcomes.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>AND</option4text>
+    <option4textexplanation>Incorrect. AND returns a TRUE response if all values are true, and returns a FALSE response if one or more values are false. This is incorrect because it joins together multiple conditions and our requirements are for a specific condition.</option4textexplanation>
+  </question4>
+  <question5>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>1</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 5. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>The sales managers at Ursa Major Solar want opportunities, not updated in the past 30 days, to be flagged automatically.<br><br>How should an administrator implement this requirement?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Create a formula field to calculate the time since last update and display an image of a red flag if it meets the defined criteria.</option1text>
+    <option1textexplanation>Correct. Adding a formula field to display a red flag if it has been at least 30 days since the last update would meet this requirement.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Add a formula to the default value of the Last Modified Date field to turn the text red if the record meets the criteria.</option2text>
+    <option2textexplanation>Incorrect. Changing the color of text is not possible with declarative formulas.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Add a formula to the default value of the opportunity name field to turn the background red if the record meets the criteria.</option3text>
+    <option3textexplanation>Incorrect. Changing the color of text is not possible with declarative formulas.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Create a formula field to show the Last Login date of the owner and display an alert message if it meets the defined criteria.</option4text>
+    <option4textexplanation>Incorrect. Just because the owner of the record has logged in recently, doesn’t mean they have updated their opportunities.</option4textexplanation>
+  </question5>
+  <question6>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>3</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 6. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>The Ursa Major Solar CEO does not want to see the list of contacts when viewing an account page but still needs to access contact records.<br><br>How should the administrator configure this?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Remove read access permissions for contacts from the CEO’s profile.</option1text>
+    <option1textexplanation>Incorrect. This would remove all access to contact records, and the CEO would still need access to contact records, just not from the account page.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Set the Contact Org-wide Default Sharing settings to Private.</option2text>
+    <option2textexplanation>Incorrect. This would remove access to the contact record for the whole organization.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Create an account page layout without the Contacts Related List</option3text>
+    <option3textexplanation>Correct. Removing the Contacts Related list from the account page layout would prevent the user from seeing contacts on the account page, but they would still have access to contact records.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Remove the Account Related List from the contact page layout.</option4text>
+    <option4textexplanation>Incorrect. This would prevent the user from seeing the Account Related list on the Contact Record, not the Contact Related list on the account record.</option4textexplanation>
+  </question6>
+  <question7>
+    <numbercorrect>2</numbercorrect>
+    <correctanswer1>3</correctanswer1>
+    <correctanswer2>4</correctanswer2>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 7. This question has 4 possible answer(s) to chose from. The question has 2 correct answer(s).</accessibility>
+    <question>The VP of sales at Universal Containers wants to ensure that there is a consistent, color-coded report to track picklist values easily from the stage field on an opportunity.<br><br>How should an administrator ensure that a picklist field’s values display in consistent colors on all reports? (Choose two answers.)</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Use a Bucket field that defines the color for each value.</option1text>
+    <option1textexplanation>Incorrect. Bucket fields colors are dynamically defined and do not default between reports.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Configure report conditional highlighting for each value.</option2text>
+    <option2textexplanation>Incorrect. Conditional highlighting on reporting is for a range of values.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Update the Picklist field and set the color for each value</option3text>
+    <option3textexplanation>Correct. Picklist values can be assigned fixed colors to all values.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Create a Formula field that defines the color for each value.</option4text>
+    <option4textexplanation>Correct. Formula fields using the IMAGE function can be defined for each value in the picklist.</option4textexplanation>
+  </question7>
+  <question8>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>1</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 8. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>Ursa Major Solar wants to track invoice payments on an opportunity related list. Only the finance team should see this related list. But, all users should be able to view Invoice Payment reports.<br><br>How should the administrator implement this requirement?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Create a new page layout and profile for the finance team.</option1text>
+    <option1textexplanation>Correct. This solution would allow only the finance team to see the page layout with the related list, and all users to view the invoice payment reports.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Set the Invoice Payment org-wide sharing settings to private.</option2text>
+    <option2textexplanation>Incorrect. This would prevent the finance team from seeing the information as well as all other users.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Build an invoice payment report with a running user of finance.</option3text>
+    <option3textexplanation>Incorrect. This solution would allow only users to view the reports. The finance team should see the related list on the page layout.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Grant finance access only to the Invoice Payment object.</option4text>
+    <option4textexplanation>Incorrect. This would not meet the requirements. The scenario states that all users would be able to view the Invoice Payments reports.</option4textexplanation>
+  </question8>
+</quizwithfeedback>

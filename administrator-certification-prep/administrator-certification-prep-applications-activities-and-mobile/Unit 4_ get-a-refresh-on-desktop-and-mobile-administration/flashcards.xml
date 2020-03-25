@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<numberofflashcards>3</numberofflashcards>
+<flashcardcounttextmiddle>of</flashcardcounttextmiddle>
+<leftarrowaccessibility>Click or press the Left Arrow on the keyboard to go to the previous flashcard.</leftarrowaccessibility>
+<rightarrowaccessibility>Click or press the Right Arrow on the keyboard to go to the next flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. The controls for the flashcards are as follows: To go to the previous flashcard press the left arrow key. To go to the next flashcard, press the right arrow key. To flip the flashcard from the front to the back and vice versa, press the down arrow key. There are 3 flashcards in this set.</accessibility>
+  <front>What option can be added to Outlook Publisher Layouts?</front>
+  <back>Quick Actions</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>Lightning for Outlook</front>
+  <back>Lightning for Outlook can link emails in Microsoft Outlook to contacts, leads, accounts, opportunities, and cases in Salesforce. It can also relate events to records within Salesforce.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>Salesforce Mobile App</front>
+  <back>The Salesforce app gives you access to the same information you see on your computer, but organized for getting work done while away from the office.</back>
+</flashcard3>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<numberofflashcards>9</numberofflashcards>
+<flashcardcounttextmiddle>of</flashcardcounttextmiddle>
+<leftarrowaccessibility>Click or press the Left Arrow on the keyboard to go to the previous flashcard.</leftarrowaccessibility>
+<rightarrowaccessibility>Click or press the Right Arrow on the keyboard to go to the next flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. The controls for the flashcards are as follows: To go to the previous flashcard press the left arrow key. To go to the next flashcard, press the right arrow key. To flip the flashcard from the front to the back and vice versa, press the down arrow key. There are 9 flashcards in this set.</accessibility>
+  <front>How can a system administrator discover who added a field to the account page layout?</front>
+  <back>Use the Setup Audit Trail.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>Ursa Major Solar uses a private sharing model for cases. Each product line has several product specialists who want to have visibility to all cases involving their product line.<br><br>How should the administrator meet this requirement?</front>
+  <back>Create a predefined case team for each group of product specialists and assign the team using Case Assignment Rules.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>Ursa Major Solar uses a custom object within the product development team. Product development, executives, and administrators should be the only users with access to records of this object. Product development needs read/write access to all the records within the object, while the executives should be able to view only the records.<br><br>How can the administrator configure the security model to meet these requirements?</front>
+  <back>Set the organization-wide defaults for the custom object to Private. Give the Product Development Profile Read, Create, and Edit permissions. Give the Executive Profile Read Only permissions for that object.</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Flashcard 4</accessibility>
+  <front>Ursa Major Solar created a new custom object to track Inventory items. The support team cannot see the Inventory object’s tab.<br><br>What two settings should the system administrator check to find the cause of the problem? (Choose two answers.)</front>
+  <back>Support team profiles<br><br>Support team permission sets</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Flashcard 5</accessibility>
+  <front>Ursa Major Solar has three account record types: Prospect, Customer, and Vendor. The Customer record type is only for accounts that have a Closed Won opportunity.<br><br>How should a system administrator prevent users from selecting the Customer record type when they create new account records?</front>
+  <back>Remove the Customer record type as an Assigned record type in the users' profiles and permission sets.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Flashcard 6</accessibility>
+  <front>A system administrator cannot share a report folder.<br><br>What is a possible reason?</front>
+  <back>The folder is private.</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Flashcard 7</accessibility>
+  <front>Sharing Rules</front>
+  <back>Sharing rules give chosen users greater access by making automatic exceptions to your org-wide sharing settings. Use sharing rules to extend sharing access to users in public groups, roles, or territories.</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Flashcard 8</accessibility>
+  <front>Role Hierarchy</front>
+  <back>Salesforce offers a user role hierarchy that you can use with sharing settings to determine the levels of access that users have to your Salesforce org’s data. Roles within the hierarchy affect access on key components such as records and reports.</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>Flashcard 9</accessibility>
+  <front>Organization-wide Sharing Default (OWD)</front>
+  <back>Defines the default access level for an object’s records with organization-wide sharing settings. Organization-wide sharing settings can be set separately for custom objects and many standard objects, including assets, campaigns, cases, and accounts and their contracts.</back>
+</flashcard9>

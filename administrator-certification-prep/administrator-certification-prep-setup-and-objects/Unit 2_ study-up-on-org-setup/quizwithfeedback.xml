@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Next</nextbuttontext>
+  <submitbuttontext>Submit</submitbuttontext>
+  <reviewbuttontext>Review</reviewbuttontext>
+  <retakequizbuttontext>Retake</retakequizbuttontext>
+  <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttextbegin>Question</questioncounttextbegin>
+  <questioncounttextmiddle>of</questioncounttextmiddle>
+  <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
+  <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
+  <numberofattempts>Number of attempts: </numberofattempts>
+  <numberofquestions>3</numberofquestions>
+  <question1>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>2</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <question>Solar components and systems supplier, Ursa Major Solar wants to ensure that the information is up to date on their Company Information page in Salesforce.<br><br>Which set of information can an administrator specify in the Company Information page?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Business Hours, Translation Settings, Corporate Currency</option1text>
+    <option1textexplanation>Incorrect. Though corporate currency is found on the Company Information page, Business Hours is found under Company Settings in its own category, and Translation Settings is found under the User Interface &gt; Translation Workbench section.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Organization Name, Default Time Zone, Default Language</option2text>
+    <option2textexplanation>Correct. The Organization Name, Default Time Zone, and Default Language are all found on the Company Information page.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Primary Contact, Chatter Settings, Set Domains</option3text>
+    <option3textexplanation>Incorrect. Primary Contact is found on the Contact Information page. However, Chatter Settings is found under the Chatter section, and you would create a custom domain under the Company Settings &gt; My Domain section. You can find any domains that are already active under the User Interface &gt; Domains section.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Fiscal Year, Password Policies, Default Time Zone</option4text>
+    <option4textexplanation>Incorrect. Though Default Time Zone is found on the Company Information page, Fiscal Year is found under the Company Settings section in its own category, and Password Policies is found under the Security section.</option4textexplanation>
+  </question1>
+  <question2>
+    <numbercorrect>2</numbercorrect>
+    <correctanswer1>2</correctanswer1>
+    <correctanswer2>3</correctanswer2>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 2 correct answer(s).</accessibility>
+    <question>Ursa Major Solar wants to ensure that all of its locale settings are up to date and consistent in the Salesforce system. The administrator is going through the process of making updates and configuring parameters for this information.<br><br>Which two sets of parameters are configured using Locale settings? (Choose two answers.)</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Business Hours and Holidays</option1text>
+    <option1textexplanation>Incorrect. A locale is determined by language, and can be made up of many countries and business locations. Business hours should be set by individual locations and vary based on country, time zone, and so on. Holidays vary based on location as well.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Time and Number Display Format</option2text>
+    <option2textexplanation>Correct. Time and Number Display Format is universal within each locale.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>First/Last Name and Date Format</option3text>
+    <option3textexplanation>Correct. First/Last Name and Date format are universal within each locale.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Phone Number and Currency Format</option4text>
+    <option4textexplanation>Incorrect. Phone Number format and Currency Format vary based on the locale. There are varying currencies among different countries that fall within the same locale, and the same applies to phone numbers.</option4textexplanation>
+  </question2>
+  <question3>
+    <numbercorrect>2</numbercorrect>
+    <correctanswer1>1</correctanswer1>
+    <correctanswer2>2</correctanswer2>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 3. This question has 4possible answer(s) to chose from. The question has 2 correct answer(s).</accessibility>
+    <question>The VP of sales has changed the naming convention for opportunities to make it more uniform across the company. The sales manager wants to update multiple opportunity names for his sales team in Europe using his “Team Europe” list view in Salesforce.<br><br>Which user interface settings should be used to allow users, with all required profile permissions, to edit records in List Views? (Choose two answers.)</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Enable Inline Editing</option1text>
+    <option1textexplanation>Correct. Enable Inline Editing allows mass editing of a record’s fields straight from a list view. Note that this can be done on team list views that are predefined to contain only one record type.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Enable Enhanced Lists</option2text>
+    <option2textexplanation>Correct. Enable Enhanced Lists gives you the ability to quickly view, customize, and edit list data to speed up your daily productivity.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Enable Enhanced Page Layout Editor</option3text>
+    <option3textexplanation>Incorrect. Enable Enhanced Page Layout Editor allows you to customize page layouts, not list views.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Enable Enhanced Profile List Views</option4text>
+    <option4textexplanation>Incorrect. Enable Enhanced Profile List Views pertains to mass editing profiles, and permissions within those profiles. It’s a form of a filtering tool to access specific profile information and apply a blanket edit to all profile information that applies to that filter.</option4textexplanation>
+  </question3>
+</quizwithfeedback>

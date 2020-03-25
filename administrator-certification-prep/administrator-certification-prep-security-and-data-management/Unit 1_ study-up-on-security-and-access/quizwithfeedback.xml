@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Next</nextbuttontext>
+  <submitbuttontext>Submit</submitbuttontext>
+  <reviewbuttontext>Review</reviewbuttontext>
+  <retakequizbuttontext>Retake</retakequizbuttontext>
+  <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttextbegin>Question</questioncounttextbegin>
+  <questioncounttextmiddle>of</questioncounttextmiddle>
+  <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
+  <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
+  <numberofattempts>Number of attempts: </numberofattempts>
+  <numberofquestions>4</numberofquestions>
+  <question1>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>1</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <question>The Executive Team at Ursa Major Solar is exploring ways to increase protection of the organization’s Salesforce data from unauthorized access. It has been proposed to leverage the Trusted IP Ranges feature.<br><br>What is a benefit of entering Trusted IP ranges in the network access section?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Users who log in within the network are not required to verify their identity.</option1text>
+    <option1textexplanation>Correct. Users logging in via the company network, a trusted IP range, are not required to verify their identity.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>All attempts to log in from outside the network are denied.</option2text>
+    <option2textexplanation>Incorrect. Users are still able to log in from addresses outside the Trusted IP Ranges through the activation process.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Users are unable to log in through the API on networks not marked as trusted.</option3text>
+    <option3textexplanation>Incorrect: Users are still able to log in from addresses outside the Trusted IP Ranges through the activation process.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>AppExchange packages can communicate with an external site.</option4text>
+    <option4textexplanation>Incorrect: Trusted IP Ranges do not affect AppExchange packages.</option4textexplanation>
+  </question1>
+  <question2>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>2</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>Ursa Major Solar uses a hybrid sharing model where contacts and accounts are read only and opportunities and cases are private. The Account Executive (AE) team owns all the accounts. Some contacts are owned by AEs, and other contacts are owned by support reps.<br><br>How should the system administrator ensure the AEs can edit all the contacts associated with their accounts, no matter who owns the contact?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Account owner privileges give the AE edit access to all related records by default.</option1text>
+    <option1textexplanation>Incorrect. Account owner privileges do not inherently give edit access to all related records.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Select the edit all associated contacts option for the AE role in the Role Hierarchy.</option2text>
+    <option2textexplanation>Correct. The Role Hierarchy menu has a checkbox to allow editing of all associated contacts option.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Create a private Chatter group for AEs and support reps to share relevant data.</option3text>
+    <option3textexplanation>Incorrect. Being part of a private Chatter group does not grant read/write access to objects that are otherwise restricted.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Use the Mass Transfer Tool to transfer ownership of all contacts to the AEs.</option4text>
+    <option4textexplanation>Incorrect: AEs need to be able to edit contacts associated to only their accounts, not all contacts.</option4textexplanation>
+  </question2>
+  <question3>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>3</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 3. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>The password policy in Ursa Major Solar’s org shows that the length of time until passwords expire is 60 days. However, sales reps are complaining that their passwords expire every 30 days.<br><br>Where should the system administrator change the password expiration period for the sales rep users?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Individual user records</option1text>
+    <option1textexplanation>Incorrect. Password expiration is not accessible in a user’s individual record.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Permission Sets assigned to the users</option2text>
+    <option2textexplanation>Incorrect. A permission set is a collection of settings and permissions that give users access to various tools and functions. Password expiration is not one of those functions.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Profiles assigned to the users</option3text>
+    <option3textexplanation>Correct: Since the issue is affecting users with the same profile, the password expiration should be adjusted for the profile used by the sales reps.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Roles assigned to the users</option4text>
+    <option4textexplanation>Incorrect: Roles affect access on key components such as records and reports, not a setting such password expiration.</option4textexplanation>
+  </question3>
+  <question4>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>2</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 4. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>Ursa Major Solar’s vice president of global Sales has requested that the sales rep commission report be visible to the executive team.<br><br>How should the system administrator provide visibility to the sales rep commission report to the executive team only?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Set opportunity org-wide default sharing settings to private.</option1text>
+    <option1textexplanation>Incorrect. Setting the opportunity object to Private makes all opportunity records visible only to record owners and those above them in the role hierarchy. This would have a greater effect on the org than needed.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Save the report in a folder shared with the executive team.</option2text>
+    <option2textexplanation>Correct. Access to folder contents can be controlled based on roles, permissions, public groups, and license types.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Name the report “For Executive Team Use Only - DO NOT USE.”</option3text>
+    <option3textexplanation>Incorrect. While including the phrasing “do not use” in the folder name may deter some users, it is not a secure option.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Save the report in the My Personal Reports folder.</option4text>
+    <option4textexplanation>Incorrect. As the My Personal Reports folder name implies, this report folder is inherently visible only to you. So, this doesn’t meet the criteria of providing visibility to the Executive team.</option4textexplanation>
+  </question4>
+</quizwithfeedback>

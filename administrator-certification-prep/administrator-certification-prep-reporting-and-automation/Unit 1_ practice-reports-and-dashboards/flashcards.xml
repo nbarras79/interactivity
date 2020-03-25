@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<numberofflashcards>8</numberofflashcards>
+<flashcardcounttextmiddle>of</flashcardcounttextmiddle>
+<leftarrowaccessibility>Click or press the Left Arrow on the keyboard to go to the previous flashcard.</leftarrowaccessibility>
+<rightarrowaccessibility>Click or press the Right Arrow on the keyboard to go to the next flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. The controls for the flashcards are as follows: To go to the previous flashcard press the left arrow key. To go to the next flashcard, press the right arrow key. To flip the flashcard from the front to the back and vice versa, press the down arrow key. There are 8 flashcards in this set.</accessibility>
+  <front>What report should an administrator use to display the number of contacts related to an account?</front>
+  <back>Summary report with a report formula</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>What are three reports that can be used to display a list of the top 10 accounts on a dashboard?</front>
+  <back>Tabular report with Rows to Display set to 10<br><br>Summary report with a chart<br><br>Summary report without a chart</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>What should an administrator do to organize the fields available on a report?</front>
+  <back>Create a custom report type.</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Flashcard 4</accessibility>
+  <front>Tabular Report</front>
+  <back>This report is the simplest and fastest way to look at data. Similar to spreadsheets, it consist simply of an ordered set of fields in columns, with each matching record listed in a row. Use this report type for creating lists of records or a list with a single grand total. They can’t be used to create groups of data or charts, and can’t be used in dashboards unless rows are limited. Examples include contact mailing lists and activity reports.</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Flashcard 5</accessibility>
+  <front>Summary Report</front>
+  <back>This report is similar to a tabular report, but allow users also to group rows of data, view subtotals, and create charts. It can be used as the source report for dashboard components. Use this type of report to show subtotals based on the value of a particular field, or when you want to create a hierarchical list, such as all opportunities for your team, subtotal by Stage and Owner.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Flashcard 6</accessibility>
+  <front>Matrix Report</front>
+  <back>Matrix reports allow you to group and summarize data by both rows and columns. They can be used as the source report for dashboard components. Use this type of report for comparing related totals, especially if you have large amounts of data to summarize and you need to compare values in several different fields, or you want to look at data by date and by product, person, or geography. Matrix reports without at least one row and one column grouping show as summary reports on the report run page.</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Flashcard 7</accessibility>
+  <front>Report Type</front>
+  <back>Two kinds of report types:<br><br>Standard report<br><br>Custom report<br><br>Standard report type gives you access to most Salesforce data. For example, the opportunities report type gives you access to opportunity records and fields in your report.<br><br>Custom report type gives you access to custom objects in Salesforce, or custom views of standard objects, which an admin configures.</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Flashcard 8</accessibility>
+  <front>Filter Logic</front>
+  <back>Use filter logic to customize how existing filters apply to a report. Each filter is assigned a number. If you’d like your report to return records that meet the criteria of Filter 1 and either Filter 2 or Filter 3, use this filter logic: Filter 1 AND (Filter 2 OR Filter 3). Filter logic requires at least one field filter.</back>
+</flashcard8>

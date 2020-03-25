@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Next</nextbuttontext>
+  <submitbuttontext>Submit</submitbuttontext>
+  <reviewbuttontext>Review</reviewbuttontext>
+  <retakequizbuttontext>Retake</retakequizbuttontext>
+  <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttextbegin>Question</questioncounttextbegin>
+  <questioncounttextmiddle>of</questioncounttextmiddle>
+  <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
+  <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
+  <numberofattempts>Number of attempts: </numberofattempts>
+  <numberofquestions>7</numberofquestions>
+  <question1>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>3</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <question>A sales manager at Ursa Major Solar wants a team of sales reps to know how many open opportunities they have at any given time.<br><br>How should an administrator configure a report for each sales rep to see their own open opportunities?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Create a reporting snapshot grouped by sales rep.</option1text>
+    <option1textexplanation>Incorrect. This does not show a sales rep just their own open opportunities.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Create a report with a cross filter by My Opportunities.</option2text>
+    <option2textexplanation>Incorrect. Cross filters are used in reports to filter for cross object fields.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Create a report filtered by My Opportunities.</option3text>
+    <option3textexplanation>Correct. This report shows a sales rep their own open opportunities.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Create a report schedule for each sales rep.</option4text>
+    <option4textexplanation>Incorrect. A schedule doesn’t create a report that allows each sales rep to see their own open opportunities.</option4textexplanation>
+  </question1>
+  <question2>
+    <numbercorrect>3</numbercorrect>
+    <correctanswer1>2</correctanswer1>
+    <correctanswer2>3</correctanswer2>
+    <correctanswer3></correctanswer3>
+    <numberofansweroptions>5</numberofansweroptions>
+    <accessibility>Question 2. This question has 5 possible answer(s) to chose from. The question has 3 correct answer(s).</accessibility>
+    <question>Which three report charts show how many leads are in the marketing pipeline based on lead status and what percent each lead status represents? (Choose three answers.)</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Grouped bar chart</option1text>
+    <option1textexplanation>Incorrect. A grouped bar chart shows siloed, individual lead information.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Pie chart</option2text>
+    <option2textexplanation>Correct. A pie chart shows the number of leads and the percentage of leads as part of the whole.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Donut chart</option3text>
+    <option3textexplanation>Correct. A donut chart shows the number of leads and the percentage of leads as part of the whole.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Line chart</option4text>
+    <option4textexplanation>Incorrect. A line chart does not show a percentage of leads relative to the whole.</option4textexplanation>
+    <option5buttontext>E</option5buttontext>
+    <option5text>Funnel chart</option5text>
+    <option5textexplanation>Correct. A funnel chart shows the number of leads and the percentage of leads as part of the whole.</option5textexplanation>
+  </question2>
+  <question3>
+    <numbercorrect>2</numbercorrect>
+    <correctanswer1>1</correctanswer1>
+    <correctanswer2></correctanswer2>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 3. This question has 4 possible answer(s) to chose from. The question has 2 correct answer(s).</accessibility>
+    <question>A finance user with the View All Data permission enabled sees no opportunities when opening a sales pipeline report. However, a sales rep sees opportunities as expected. Opportunities should be visible to only those with permission.<br><br>Which two actions should the administrator perform to ensure that the finance user sees opportunities in the pipeline report? (Choose two answers.)</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Select Save Hierarchy Level on the pipeline report.</option1text>
+    <option1textexplanation>Correct. The Save Hierarchy Level checkbox being selected ensures that the hierarchy level that was used when creating a report stays intact. So if the finance user had permission to see reports originally, the same applies when any subsequent report is created.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Create a new report formula on the pipeline report.</option2text>
+    <option2textexplanation>Incorrect: Creating a formula does not change which opportunities are visible.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Update the report filter to show all opportunities.</option3text>
+    <option3textexplanation>Correct. Using a filter to show all opportunities allows users with the View All Data permission enabled to see all of the opportunities on the report.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Change the org-wide opportunity sharing default to Public Read.</option4text>
+    <option4textexplanation>Incorrect. This would allow everyone in the organization to see opportunities.</option4textexplanation>
+  </question3>
+  <question4>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>4</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 4. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>What should an administrator configure to provide each sales rep a dashboard that shows their current Opportunity pipeline?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Set a dashboard filter to the current user.</option1text>
+    <option1textexplanation>Incorrect. Setting the dashboard filter to the current user would only show opportunities for that user, not the user running the dashboard.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Create a dashboard folder for each user.</option2text>
+    <option2textexplanation>Incorrect. Creating a dashboard folder for each user would not filter the dashboard for users. A dashboard folder is for storing dashboards, limiting visibility to the dashboards in the folder.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Filter the dashboard with a dynamic view set to the VP of sales.</option3text>
+    <option3textexplanation>Incorrect. Dynamic dashboards are limited. The View Dashboard As options are: <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 20px;padding-left: 20px;font-size:20px;">
+        <li>Me</li>
+        <li>Another person</li>
+        <li>Dashboard viewer</li>
+      </ul>
+    </option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Set the dashboard running user to "the dashboard viewer.“</option4text>
+    <option4textexplanation>Correct. This ensures that the dashboard shows data relevant to only the user viewing it.</option4textexplanation>
+  </question4>
+  <question5>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>3</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 5. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>A sales user wants to add components to their dashboard.<br><br>What is the maximum number of components that can be added to a single dashboard?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>3</option1text>
+    <option1textexplanation>Incorrect. Each dashboard can have up to 20 components. Each report can have up to 3 cross filters.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>15</option2text>
+    <option2textexplanation>Incorrect. Each dashboard can have up to 20 components.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>20</option3text>
+    <option3textexplanation>Correct. Each dashboard can have up to 20 components.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>50</option4text>
+    <option4textexplanation>Incorrect. Each dashboard can have up to 20 components. A dashboard filter can have up to 50 values.</option4textexplanation>
+  </question5>
+  <question6>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>1</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 6. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>What should the system administrator do when users are unable to find a custom report type?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Make sure the new report type is deployed.</option1text>
+    <option1textexplanation>Correct. Users are not able to access a custom report type if it hasn’t been deployed.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Make sure the user profile includes the report type.</option2text>
+    <option2textexplanation>Incorrect. Access to objects is controlled by profiles not based on report type.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Add the new report type to the related objects.</option3text>
+    <option3textexplanation>Incorrect. Report types are created for the object that is reported on.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Add a button for the new report type to the Report Builder.</option4text>
+    <option4textexplanation>Incorrect. Report types are part of the Report Builder when deployed.</option4textexplanation>
+  </question6>
+  <question7>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>1</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 7. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>Ursa Major Solar uses a private data access model. Product managers and sales representatives are in different branches of the role hierarchy.<br><br>What should an administrator do to ensure that product managers can report on opportunities in their product line?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Create a sharing rule based on criteria.</option1text>
+    <option1textexplanation>Correct. Criteria-based sharing rules determine what records to share based on field values other than ownership.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Save all opportunity reports in a public folder.</option2text>
+    <option2textexplanation>Incorrect. Saving reports in a public folder will give access to everyone.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Move all product managers to a role below the sales representatives.</option3text>
+    <option3textexplanation>Incorrect. If product managers are in a role below sales representatives, they will not be able to see the reports. Product managers would have to be in a role above the sales representatives according to the role hierarchy.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Create a new role for product managers and sales representatives.</option4text>
+    <option4textexplanation>Incorrect. Creating a new role would further separate the role hierarchy. The product managers and sales representatives would not need to be combined or branched off.</option4textexplanation>
+  </question7>
+</quizwithfeedback>

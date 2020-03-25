@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Next</nextbuttontext>
+  <submitbuttontext>Submit</submitbuttontext>
+  <reviewbuttontext>Review</reviewbuttontext>
+  <retakequizbuttontext>Retake</retakequizbuttontext>
+  <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttextbegin>Question</questioncounttextbegin>
+  <questioncounttextmiddle>of</questioncounttextmiddle>
+  <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
+  <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
+  <numberofattempts>Number of attempts: </numberofattempts>
+  <numberofquestions>4</numberofquestions>
+  <question1>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>1</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <question>Ursa Major Solar has created a new product line of solar panels with a special sales team to sell these products. The sales process for the new line is more complex than the current sales process and requires additional stages to the sales path.<br><br>How should the system administrator configure Salesforce to ensure only the appropriate stages are visible based on the product line?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Create a sales process and Opportunity record type for each product line.</option1text>
+    <option1textexplanation>Correct. Two configurations need to be made.1) Create a new sales process to determine which stages appear for this new product line. 2) Create a new Opportunity record type to display a unique page layout for this new product line.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Create a validation rule to display the appropriate stages based on product line.</option2text>
+    <option2textexplanation>Incorrect. Validation rules verify that the data a user enters in a record meets the standards you specify before the user can save the record. Therefore, a validation rule would not meet the needs of displaying the appropriate stages to the new sales team.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Create new forecast categories and assign the new stage picklist values to those categories.</option3text>
+    <option3textexplanation>Incorrect. A forecast category is the category within the sales cycle to which an opportunity is assigned based on its opportunity stage. Creating new forecast categories would not result in the appropriate stages becoming visible for the new sales team.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Create a validation rule to display the appropriate stages based on the user’s role.</option4text>
+    <option4textexplanation>Incorrect. Validation rules verify that the data a user enters in a record meets the standards you specify before the user can save the record. Therefore, a validation rule would not meet the needs of displaying the appropriate stages to the new sales team.</option4textexplanation>
+  </question1>
+  <question2>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>2</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>Ursa Major Solar’s sales operations director has noticed an increase in sales reps logging opportunities without products. The operations team then has to go back into each opportunity after the fact and add products. Which configuration change should the system administrator make to help sales reps remember to add products to every opportunity?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Create a related list to enable the user to view the related products.</option1text>
+    <option1textexplanation>Incorrect. Adding a related list would not necessarily remind sales reps to add products when logging opportunities.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Enable the opportunity setting to prompt users to add products to opportunities.</option2text>
+    <option2textexplanation>Correct. There is a setting that can be toggled on/off to prompt users to add a product to an opportunity.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Create a workflow rule on the Opportunity object to add a default product to opportunities with no products.</option3text>
+    <option3textexplanation>Incorrect. Adding a default product to every opportunity without a product listed would not fix the problem of sales reps not adding products when logging opportunities.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Set the org-wide defaults for Price Books to Use and Products to Read Only.</option4text>
+    <option4textexplanation>Incorrect. Access and visibility of Price Books and Products would not remind sales reps to add products when logging opportunities.</option4textexplanation>
+  </question2>
+  <question3>
+    <numbercorrect>2</numbercorrect>
+    <correctanswer1>1</correctanswer1>
+    <correctanswer2>4</correctanswer2>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 3. This question has 4 possible answer(s) to chose from. The question has 2 correct answer(s).</accessibility>
+    <question>Ursa Major Solar’s newest product line has just been announced. The web form on the Ursa Major Solar website is generating a lot of leads where prospects have indicated interest in particular products. These leads are imported directly into Salesforce automatically.<br><br>Which features should the system administrator use to assign ownership of a Lead to the appropriate product team using the custom Lead field Product Interest? (Choose two answers.)</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Assignment Rules</option1text>
+    <option1textexplanation>Correct. Assignment rules define conditions that determine how leads or cases are processed. In this scenario, when a potential customer indicates interest in a certain product (custom Lead field Product Interest) in the web form, the lead is generated and assigned to the appropriate product team.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Escalation Rules</option2text>
+    <option2textexplanation>Incorrect. Escalation rules are used to specify the conditions under which a case escalates. Leads are not cases, so escalation rules do not apply in this situation.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Lead Teams</option3text>
+    <option3textexplanation>Incorrect. A Lead Team refers to a group of users who can view/access a lead. It does not assign ownership as requested.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Queues</option4text>
+    <option4textexplanation>Correct. Queues prioritize, distribute, and assign records to teams who share workloads. In this scenario, it’s indicated that the lead needs to be assigned to the appropriate product teams, so queues are needed.</option4textexplanation>
+  </question3>
+  <question4>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>2</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 4. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>A sales rep for Ursa Major Solar is working with a potential customer who cannot open email attachments per company IT restrictions.<br><br>How should this sales rep send the product data sheet to a prospect without attaching the document to an email?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Copy and paste the data sheet content and create a custom page within the customer community.</option1text>
+    <option1textexplanation>Incorrect. This solution is inefficient and not a secure way of sharing information with an individual prospect.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Upload the data sheet to a Library and create/send a content pack to the prospect.</option2text>
+    <option2textexplanation>Correct. The recipient of a content delivery, such as a content pack, can click a single URL to open a preview player with which they can preview and download the content. Additionally, the sender can view tracking information to see how often the content pack was viewed and which documents were downloaded.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Attach the data sheet to a Notes and Attachment related list and email the link to the prospect.</option3text>
+    <option3textexplanation>Incorrect. A prospect does not have access to the Notes and Attachments related list in the Ursa Major Solar Salesforce org.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Assign the prospect as a campaign member to the product data sheet campaign record.</option4text>
+    <option4textexplanation>Incorrect. A campaign is an outbound marketing project that‘s planned, managed, and tracked within Salesforce. This isn’t the appropriate tool to use for a one-time delivery of a product data sheet.</option4textexplanation>
+  </question4>
+</quizwithfeedback>

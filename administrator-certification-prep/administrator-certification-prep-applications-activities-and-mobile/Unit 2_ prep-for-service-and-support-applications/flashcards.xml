@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<numberofflashcards>12</numberofflashcards>
+<flashcardcounttextmiddle>of</flashcardcounttextmiddle>
+<leftarrowaccessibility>Click or press the Left Arrow on the keyboard to go to the previous flashcard.</leftarrowaccessibility>
+<rightarrowaccessibility>Click or press the Right Arrow on the keyboard to go to the next flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. The controls for the flashcards are as follows: To go to the previous flashcard press the left arrow key. To go to the next flashcard, press the right arrow key. To flip the flashcard from the front to the back and vice versa, press the down arrow key. There are 12 flashcards in this set.</accessibility>
+  <front>What configuration action should be performed to ensure every case gets assigned to a valid Owner?</front>
+  <back>Define the Default Case Owner in Support Settings.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>Support representatives at Ursa Major Solar want the same technical engineer group to be associated with each new case.<br><br>What should a system administrator define to implement this requirement?</front>
+  <back>A case assignment rule to associate the case team</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>What is a potential benefit of using Suggested Solutions?</front>
+  <back>Reduced support costs</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Flashcard 4</accessibility>
+  <front>What Salesforce feature should a company implement to provide a method for its resellers to track their leads and opportunities?</front>
+  <back>Lightning Partner Community</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Flashcard 5</accessibility>
+  <front>A system administrator enables Case Feed Actions and Feed Items in Support Settings.<br><br>With the appropriate profile permissions enabled, what change will users see?</front>
+  <back>Cases will use feed layouts rather than standard page layouts.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Flashcard 6</accessibility>
+  <front>Ursa Major Solar wants internal support requests to be directed to any of the IT representatives. They want external support requests to be directed to customer support representatives based on the contact’s location.<br><br>What should the system administrator use to set this up?</front>
+  <back>Assignment Rules and Queues</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Flashcard 7</accessibility>
+  <front>Web-to-case</front>
+  <back>Gather customer support requests directly from your company’s website and automatically generate new cases with web-to-case.</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Flashcard 8</accessibility>
+  <front>Salesforce Communities</front>
+  <back>Salesforce Communities provide a way for employees, customers, and partners to connect in one place. Companies can collaborate and communicate outside of the company with people who are key to the business.</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>Flashcard 9</accessibility>
+  <front>Assignment Rules</front>
+  <back>Define conditions that determine how leads or cases are processed.</back>
+</flashcard9>
+<flashcard10>
+  <accessibility>Flashcard 10</accessibility>
+  <front>Auto-response Rules</front>
+  <back>Send automatic email responses to lead or case submissions based on the record\’s attributes.</back>
+</flashcard10>
+<flashcard11>
+  <accessibility>Flashcard 11</accessibility>
+  <front>Salesforce Knowledge</front>
+  <back>Salesforce Knowledge lets you create and manage a knowledge base with your company information and securely share it when and where it's needed.</back>
+</flashcard11>
+<flashcard12>
+  <accessibility>Flashcard 12</accessibility>
+  <front>Case Escalation Rules</front>
+  <back>Escalation rules automatically escalate cases when the case meets the criteria defined in the rule entry.</back>
+</flashcard12>

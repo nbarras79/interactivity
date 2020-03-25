@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Next</nextbuttontext>
+  <submitbuttontext>Submit</submitbuttontext>
+  <reviewbuttontext>Review</reviewbuttontext>
+  <retakequizbuttontext>Retake</retakequizbuttontext>
+  <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttextbegin>Question</questioncounttextbegin>
+  <questioncounttextmiddle>of</questioncounttextmiddle>
+  <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
+  <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
+  <numberofattempts>Number of attempts: </numberofattempts>
+  <numberofquestions>2</numberofquestions>
+  <question1>
+    <numbercorrect>1</numbercorrect>
+    <correctanswer1>2</correctanswer1>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <question>The sales director at Ursa Major Solar has a team of 50 sales reps located around the world. The sales director’s team uses the calendar feature in Salesforce so she can access the team’s busy schedule. However, members of the team log their all-day events differently and the sales director wants some uniformity.<br><br>How should a sales rep create an all-day event in Salesforce?</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Use a task for an all-day event because then no time fields are needed.</option1text>
+    <option1textexplanation>Incorrect. Tasks within Salesforce are used mostly as to-dos or reminders. Tasks should not be used in place of events.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Check the all-day event checkbox on the event.</option2text>
+    <option2textexplanation>Correct. Using the all-day event checkbox is the most efficient way to log an all-day event. This avoids the office hours discrepancies of sales reps across multiple time zones.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Ensure the event is scheduled for times within the Start and End of Day hours.</option3text>
+    <option3textexplanation>Incorrect. Start and End of Day hours differ among the sales director’s international team, so this is not a consistent option.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Ask the system administrator to check all-day events in the activity settings.</option4text>
+    <option4textexplanation>Incorrect. This option is inefficient as the system administrator shouldn’t have to fix each sales rep’s events.</option4textexplanation>
+  </question1>
+  <question2>
+    <numbercorrect>2</numbercorrect>
+    <correctanswer1>1</correctanswer1>
+    <correctanswer2>3</correctanswer2>
+    <numberofansweroptions>4</numberofansweroptions>
+    <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 2 correct answer(s).</accessibility>
+    <question>Ursa Major Solar is implementing Salesforce within its organization. All users at Ursa Major Solar have been loaded into the system, but a small group of users have been identified to be the test users before full company adoption. These test users provide feedback via Chatter to ensure all features and tools are adjusted to work for the company-wide deployment.<br><br>Which actions allow the system administrator to limit Chatter access during rollout to a subset of Salesforce users? (Choose two answers.)</question>
+    <option1buttontext>A</option1buttontext>
+    <option1text>Create a permission set with the Enable Chatter permission for the subset of users.</option1text>
+    <option1textexplanation>Correct. A permission set is a collection of settings and permissions that give users access to various tools and functions, such as Chatter.</option1textexplanation>
+    <option2buttontext>B</option2buttontext>
+    <option2text>Add the subset of users to the company-wide Chatter group.</option2text>
+    <option2textexplanation>Incorrect. Adding the subset of users to the company-wide Chatter group does not limit access to Chatter to just the needed subset of users.</option2textexplanation>
+    <option3buttontext>C</option3buttontext>
+    <option3text>Edit a profile to Enable Chatter for the subset of users.</option3text>
+    <option3textexplanation>Correct. Profiles define how users access objects and data, and what they can do within the application. When users are created, they’re assigned a profile. In this situation, customizing the profile settings of the subset of users can limit Chatter access to just the specified subset of users.</option3textexplanation>
+    <option4buttontext>D</option4buttontext>
+    <option4text>Create an email invitation for the subset of users.</option4text>
+    <option4textexplanation>Incorrect. An email invitation is not a way to limit Chatter access because it does not limit other users from accessing Chatter.</option4textexplanation>
+  </question2>
+</quizwithfeedback>

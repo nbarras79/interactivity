@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<numberofflashcards>10</numberofflashcards>
+<flashcardcounttextmiddle>of</flashcardcounttextmiddle>
+<leftarrowaccessibility>Click or press the Left Arrow on the keyboard to go to the previous flashcard.</leftarrowaccessibility>
+<rightarrowaccessibility>Click or press the Right Arrow on the keyboard to go to the next flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. The controls for the flashcards are as follows: To go to the previous flashcard press the left arrow key. To go to the next flashcard, press the right arrow key. To flip the flashcard from the front to the back and vice versa, press the down arrow key. There are 10 flashcards in this set.</accessibility>
+  <front>Custom fields in the Lead object can be mapped to what two types of fields?</front>
+  <back>Custom opportunity<br><br>Custom account</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>Ursa Major Solar has an inside sales team that sells only warranty renewals, and an outside sales team that sells only products. Each type of sale captures different information and has a different sales cycle.<br><br>How should the system administrator configure Salesforce to meet these requirements?</front>
+  <back>Create a page layout, sales process, and record type for each type of sale.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>Ursa Major Solar offers a variety of products that are comparable to products from other companies. Sales representatives request a method to track product strengths and weaknesses compared to those offered by other vendors.<br><br>What should the system administrator implement?</front>
+  <back>Competitors on the opportunity page layout</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Flashcard 4</accessibility>
+  <front>Ursa Major Solar wants the sales team to access information about Closed Won opportunities with a common competitor for all pending big deals.<br><br>What set of features should the system administrator implement?</front>
+  <back>Competitors and Similar Opportunities</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Flashcard 5</accessibility>
+  <front>How should the system administrator implement biweekly notifications for sales reps that include opportunities that need attention based on the opportunity owner's last login, past due opportunities, and all opportunities that have not been updated in the last 30 days?</front>
+  <back>Create opportunity update reminders.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Flashcard 6</accessibility>
+  <front>Ursa Major Solar sells through many different reseller networks. Each reseller's deals are tracked on separate opportunities. The sales manager is concerned that the pipeline report is not accurate due to multiple opportunities for the same end customer.<br><br>How should the sale process be modified to ensure opportunities are not double-counted in the pipeline?</front>
+  <back>Change the forecast category to Omitted on the duplicate opportunities.</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Flashcard 7</accessibility>
+  <front>What two objects can be related to campaign members?</front>
+  <back>Leads<br><br>Contacts</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Flashcard 8</accessibility>
+  <front>How can multiple Campaign records be associated with a single opportunity?</front>
+  <back>Campaign Influence</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>Flashcard 9</accessibility>
+  <front>What feature tracks how often a file is viewed?</front>
+  <back>Content Deliveries</back>
+</flashcard9>
+<flashcard10>
+  <accessibility>Flashcard 10</accessibility>
+  <front>What two related lists should be added to the opportunity page layout to track how campaigns contribute to the overall pipeline?</front>
+  <back>Campaign Influence<br><br>Contact Roles</back>
+</flashcard10>
