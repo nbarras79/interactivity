@@ -1,88 +1,71 @@
-<reviewbuttontext>Review</reviewbuttontext>
-<retakequizbuttontext>Retake</retakequizbuttontext>
-<nextbuttontext>Try Again</nextbuttontext>
-<answernothingselectedtext>Please select an answer.</answernothingselectedtext>
-<twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
-<twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
-<threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
-<threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
-<numberofattempts>Number of attempts: </numberofattempts>
-<numberofquestions>4</numberofquestions>
-<question1>
-  <numbercorrect>1</numbercorrect>
-  <correctanswer1>1</correctanswer1>
-  <numberofansweroptions>4</numberofansweroptions>
-  <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
-  <question>The customer support manager at Ursa Major Solar has received feedback from customers that they’re not being notified when Ursa Major Solar’s support reps add comments to their support case. The customer support manager needs a way to automatically email the customer when her team adds a comment to a case.<br><br>How should the system administrator configure the Salesforce org for an email to be automatically sent to a customer when the support rep adds a comment to the case?</question>
-  <option1buttontext>A</option1buttontext>
-  <option1text>Enable case comment notifications to contacts.</option1text>
-  <option1textexplanation>Correct. Enabling the case comment notification to contacts feature allows a customer to be notified when a comment is added to their support case.</option1textexplanation>
-  <option2buttontext>B</option2buttontext>
-  <option2text>Add the comment to the case Chatter feed.</option2text>
-  <option2textexplanation>Incorrect. The customer may not necessarily have access to the case Chatter feed.</option2textexplanation>
-  <option3buttontext>C</option3buttontext>
-  <option3text>Include the customer in the assignment rule.</option3text>
-  <option3textexplanation>Incorrect. Assignment rules define conditions that determine how leads or cases are processed, not the configuration of notifications.</option3textexplanation>
-  <option4buttontext>D</option4buttontext>
-  <option4text>Set the customer as the automated case user.</option4text>
-  <option4textexplanation>Incorrect. A customer should not be set as the automated case user. The automated case user is the user who is listed in the case history for all automated case actions in Salesforce.</option4textexplanation>
-</question1>
-<question2>
-  <numbercorrect>1</numbercorrect>
-  <correctanswer1>3</correctanswer1>
-  <numberofansweroptions>4</numberofansweroptions>
-  <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
-  <question>Ursa Major Solar provides various levels of customer support. The VP of support wants an automated way to notify the support team when an unresolved case has been open for over 4 hours.<br><br>Which feature should be used to alert support managers when a case has been open for more than 4 hours?</question>
-  <option1buttontext>A</option1buttontext>
-  <option1text>Case queues</option1text>
-  <option1textexplanation>Incorrect: Case queues prioritize, distribute, and assign records to teams who share workloads. However, just placing a case in a queue does not alert a support manager that a case is in jeopardy.</option1textexplanation>
-  <option2buttontext>B</option2buttontext>
-  <option2text>Auto-response rules</option2text>
-  <option2textexplanation>Incorrect: Auto-response rules send automatic email responses to lead or case submissions based on the record’s attributes. For example, set up an auto-response rule to send quick replies to customers to let them know someone at your company received their inquiry or details about their issue.</option2textexplanation>
-  <option3buttontext>C</option3buttontext>
-  <option3text>Escalation rules</option3text>
-  <option3textexplanation>Correct: Escalation rules automatically escalate cases when the case meets the criteria defined in the rule entry.</option3textexplanation>
-  <option4buttontext>D</option4buttontext>
-  <option4text>Case assignment rules</option4text>
-  <option4textexplanation>Incorrect: Case assignment rules define conditions that determine how leads or cases are processed. However, as soon as a match is found, Salesforce processes the item and stops evaluating the rule entries for that item.</option4textexplanation>
-</question2>
-<question3>
-  <numbercorrect>2</numbercorrect>
-  <correctanswer1>2</correctanswer1>
-  <correctanswer2>3</correctanswer2>
-  <numberofansweroptions>4</numberofansweroptions>
-  <accessibility>Question 3. This question has 4 possible answer(s) to chose from. The question has 2 correct answer(s).</accessibility>
-  <question>Ursa Major Solar has noticed an uptick in support cases that could be resolved easily if the customers had access to the proper documentation. So, Ursa Major Solar wants to create a knowledge base where articles can be classified into categories.<br><br>What are two benefits of using Data Categories with Salesforce Knowledge? (Choose two answers.)</question>
-  <option1buttontext>A</option1buttontext>
-  <option1text>Article owners can track views.</option1text>
-  <option1textexplanation>Incorrect. The use of Data Categories does not affect whether article owners can track article views.</option1textexplanation>
-  <option2buttontext>B</option2buttontext>
-  <option2text>Articles can be classified into groups.</option2text>
-  <option2textexplanation>Correct. Data Categories with Salesforce Knowledge allows articles to be classified into groups, which makes the articles easier to find.</option2textexplanation>
-  <option3buttontext>C</option3buttontext>
-  <option3text>Article access can be controlled.</option3text>
-  <option3textexplanation>Correct. Data Categories with Salesforce Knowledge allows controlled article access. For example, US users could be limited to knowledge articles specific to US products, while European users have access only to knowledge articles regarding products exclusive to Europe.</option3textexplanation>
-  <option4buttontext>D</option4buttontext>
-  <option4text>Articles can be referenced in Chatter posts.</option4text>
-  <option4textexplanation>Incorrect. Data Categories do not affect if articles can be posted to Chatter.</option4textexplanation>
-</question3>
-<question4>
-  <numbercorrect>1</numbercorrect>
-  <correctanswer1>1</correctanswer1>
-  <numberofansweroptions>4</numberofansweroptions>
-  <accessibility>Question 4. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
-  <question>Ursa Major Solar is looking to reduce support costs by allowing customers to work together to answer one another’s questions and solve problems.<br><br>Which feature should a Salesforce administrator use to allow its customers to interact with each other and share best practices?</question>
-  <option1buttontext>A</option1buttontext>
-  <option1text>Communities</option1text>
-  <option1textexplanation>Correct. Communities are a great way to share information and collaborate with people who are key to your business processes, such as customers, partners, or employees. This also includes collaboration between customers.</option1textexplanation>
-  <option2buttontext>B</option2buttontext>
-  <option2text>Campaigns</option2text>
-  <option2textexplanation>Incorrect. A campaign is an outbound marketing project that you plan, manage, and track within Salesforce.</option2textexplanation>
-  <option3buttontext>C</option3buttontext>
-  <option3text>Omni-channel</option3text>
-  <option3textexplanation>Incorrect. Omni-channel routes are any type of incoming work item to the most qualified, available support agents in your call center. It’s not a collaboration tool between customers.</option3textexplanation>
-  <option4buttontext>D</option4buttontext>
-  <option4text>Mass emails</option4text>
-  <option4textexplanation>Incorrect: Mass emails don’t allow customers to interact with each other to share best practices.</option4textexplanation>
-</question4>
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Next</nextbuttontext>
+  <submitbuttontext>Submit</submitbuttontext>
+  <reviewbuttontext>Review</reviewbuttontext>
+  <retakequizbuttontext>Retake</retakequizbuttontext>
+  <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttext>Question {0} of {1}</questioncounttext>
+  <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
+  <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
+  <numberofattempts>Number of attempts: </numberofattempts>
+  <question1>
+    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second
+      option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <question>The customer support manager at Ursa Major Solar has received feedback from customers that they’re not being notified when Ursa Major Solar’s support reps add comments to their support case. The customer support manager needs a way to
+      automatically email the customer when her team adds a comment to a case.<br><br>How should the system administrator configure the Salesforce org for an email to be automatically sent to a customer when the support rep adds a comment to the
+      case?</question>
+    <option1text>Enable case comment notifications to contacts.</option1text>
+    <option1textexplanation>Correct. Enabling the case comment notification to contacts feature allows a customer to be notified when a comment is added to their support case.</option1textexplanation>
+    <option2text>Add the comment to the case Chatter feed.</option2text>
+    <option2textexplanation>Incorrect. The customer may not necessarily have access to the case Chatter feed.</option2textexplanation>
+    <option3text>Include the customer in the assignment rule.</option3text>
+    <option3textexplanation>Incorrect. Assignment rules define conditions that determine how leads or cases are processed, not the configuration of notifications.</option3textexplanation>
+    <option4text>Set the customer as the automated case user.</option4text>
+    <option4textexplanation>Incorrect. A customer should not be set as the automated case user. The automated case user is the user who is listed in the case history for all automated case actions in Salesforce.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>Ursa Major Solar provides various levels of customer support. The VP of support wants an automated way to notify the support team when an unresolved case has been open for over 4 hours.<br><br>Which feature should be used to alert
+      support managers when a case has been open for more than 4 hours?</question>
+    <option1text>Case queues</option1text>
+    <option1textexplanation>Incorrect: Case queues prioritize, distribute, and assign records to teams who share workloads. However, just placing a case in a queue does not alert a support manager that a case is in jeopardy.</option1textexplanation>
+    <option2text>Auto-response rules</option2text>
+    <option2textexplanation>Incorrect: Auto-response rules send automatic email responses to lead or case submissions based on the record’s attributes. For example, set up an auto-response rule to send quick replies to customers to let them know
+      someone at your company received their inquiry or details about their issue.</option2textexplanation>
+    <option3text>Escalation rules</option3text>
+    <option3textexplanation>Correct: Escalation rules automatically escalate cases when the case meets the criteria defined in the rule entry.</option3textexplanation>
+    <option4text>Case assignment rules</option4text>
+    <option4textexplanation>Incorrect: Case assignment rules define conditions that determine how leads or cases are processed. However, as soon as a match is found, Salesforce processes the item and stops evaluating the rule entries for that item.</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>Question 3. This question has 4 possible answer(s) to chose from. The question has 2 correct answer(s).</accessibility>
+    <question>Ursa Major Solar has noticed an uptick in support cases that could be resolved easily if the customers had access to the proper documentation. So, Ursa Major Solar wants to create a knowledge base where articles can be classified into
+      categories.<br><br>What are two benefits of using Data Categories with Salesforce Knowledge? (Choose two answers.)</question>
+    <option1text>Article owners can track views.</option1text>
+    <option1textexplanation>Incorrect. The use of Data Categories does not affect whether article owners can track article views.</option1textexplanation>
+    <option2text>Articles can be classified into groups.</option2text>
+    <option2textexplanation>Correct. Data Categories with Salesforce Knowledge allows articles to be classified into groups, which makes the articles easier to find.</option2textexplanation>
+    <option3text>Article access can be controlled.</option3text>
+    <option3textexplanation>Correct. Data Categories with Salesforce Knowledge allows controlled article access. For example, US users could be limited to knowledge articles specific to US products, while European users have access only to knowledge
+      articles regarding products exclusive to Europe.</option3textexplanation>
+    <option4text>Articles can be referenced in Chatter posts.</option4text>
+    <option4textexplanation>Incorrect. Data Categories do not affect if articles can be posted to Chatter.</option4textexplanation>
+  </question3>
+  <question4>
+    <accessibility>Question 4. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
+    <question>Ursa Major Solar is looking to reduce support costs by allowing customers to work together to answer one another’s questions and solve problems.<br><br>Which feature should a Salesforce administrator use to allow its customers to
+      interact with each other and share best practices?</question>
+    <option1text>Communities</option1text>
+    <option1textexplanation>Correct. Communities are a great way to share information and collaborate with people who are key to your business processes, such as customers, partners, or employees. This also includes collaboration between customers.</option1textexplanation>
+    <option2text>Campaigns</option2text>
+    <option2textexplanation>Incorrect. A campaign is an outbound marketing project that you plan, manage, and track within Salesforce.</option2textexplanation>
+    <option3text>Omni-channel</option3text>
+    <option3textexplanation>Incorrect. Omni-channel routes are any type of incoming work item to the most qualified, available support agents in your call center. It’s not a collaboration tool between customers.</option3textexplanation>
+    <option4text>Mass emails</option4text>
+    <option4textexplanation>Incorrect: Mass emails don’t allow customers to interact with each other to share best practices.</option4textexplanation>
+  </question4>
 </quizwithfeedback>

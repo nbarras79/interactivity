@@ -5,88 +5,66 @@
   <reviewbuttontext>Review</reviewbuttontext>
   <retakequizbuttontext>Retake</retakequizbuttontext>
   <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttext>Question {0} of {1}</questioncounttext>
   <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
   <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
   <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
   <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
   <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
   <numberofattempts>Number of attempts: </numberofattempts>
-  <numberofquestions>4</numberofquestions>
   <question1>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>3</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
-    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second
+      option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
     <question>Ursa Major Solar regularly imports accounts from an external order system that has its own ID field for each record.<br><br>What should the system administrator do to help prevent duplicates during these imports?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>Import the data using the Data Loader.</option1text>
     <option1textexplanation>Incorrect. Just using the Data Loader to import data does not prevent duplicates.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Use the ID from the order system in place of the Salesforce ID.</option2text>
     <option2textexplanation>Incorrect. Each record in a Salesforce org requires a unique Salesforce ID. An external ID cannot be used in place of the Salesforce ID.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Create a unique external ID field on accounts in Salesforce for matching.</option3text>
     <option3textexplanation>Correct: Creating a unique external ID field on accounts would guarantee no duplicates from an external order system.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Create a formula field that identifies matches.</option4text>
     <option4textexplanation>Incorrect. A formula field only works on data already imported into the org. Since the goal is to prevent data duplication before being imported, the formula field does is not an accurate solution.</option4textexplanation>
   </question1>
   <question2>
-    <numbercorrect>2</numbercorrect>
-    <correctanswer1>1</correctanswer1>
-    <correctanswer2>2</correctanswer2>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 2 correct answer(s).</accessibility>
-    <question>The sales operations team at Ursa Major Solar needs to import and export accounts, contacts, opportunities, and orders.<br><br>Which profile permissions do the sales operation team need to be able to perform this task? (Choose two answers.)</question>
-    <option1buttontext>A</option1buttontext>
+    <question>The sales operations team at Ursa Major Solar needs to import and export accounts, contacts, opportunities, and orders.<br><br>Which profile permissions do the sales operation team need to be able to perform this task? (Choose two
+      answers.)</question>
     <option1text>API Enabled</option1text>
     <option1textexplanation>Correct. To use the Data Loader for importing and exporting accounts, contacts, opportunities, and orders the profile permissions need API enabled.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Modify All for those objects</option2text>
-    <option2textexplanation>Correct. The Modify All setting on accounts, contacts, opportunities, and orders objects means users with this permission can view, edit, and delete all records regardless of sharing. This meets the need of importing and exporting on just the stated objects.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
+    <option2textexplanation>Correct. The Modify All setting on accounts, contacts, opportunities, and orders objects means users with this permission can view, edit, and delete all records regardless of sharing. This meets the need of importing and
+      exporting on just the stated objects.</option2textexplanation>
     <option3text>View All Data</option3text>
     <option3textexplanation>Incorrect: View all data would give access to more objects than just accounts, contacts, opportunities, and orders.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Weekly Data Export</option4text>
     <option4textexplanation>Incorrect: Weekly data export generates backup files of the data on a weekly basis depending on the edition. This does not meet the stated need of the sales operations team.</option4textexplanation>
   </question2>
   <question3>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>1</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 3. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
-    <question>The director of operations at Ursa Major Solar has noticed that when sales reps move opportunities to the closed stage, they don\’t always fill in the product installation date. When the date is not logged, the operations team has to reach out to the sales rep to confirm the installation date. The director of operations has requested that sales reps not be able to close an opportunity without first logging the product installation date.<br><br>Which feature allows Ursa Major Solar to require a value in the product installation date, a custom date field, when the opportunity stage changes to Closed?</question>
-    <option1buttontext>A</option1buttontext>
+    <question>The director of operations at Ursa Major Solar has noticed that when sales reps move opportunities to the closed stage, they don\’t always fill in the product installation date. When the date is not logged, the operations team has to
+      reach out to the sales rep to confirm the installation date. The director of operations has requested that sales reps not be able to close an opportunity without first logging the product installation date.<br><br>Which feature allows Ursa
+      Major Solar to require a value in the product installation date, a custom date field, when the opportunity stage changes to Closed?</question>
     <option1text>Validation Rule</option1text>
     <option1textexplanation>Correct: Validation rules can be used to make fields conditionally required based on the opportunity stage.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Dependent Picklist</option2text>
-    <option2textexplanation>Incorrect: A dependent picklist is a custom or multi-select picklist for which the valid values depend on the value of another field, called the controlling field. A dependent picklist is not inherently required so would not meet the requirements of the situation.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
+    <option2textexplanation>Incorrect: A dependent picklist is a custom or multi-select picklist for which the valid values depend on the value of another field, called the controlling field. A dependent picklist is not inherently required so would
+      not meet the requirements of the situation.</option2textexplanation>
     <option3text>Page Layout</option3text>
     <option3textexplanation>Incorrect: While page layouts can determine which fields are required, they can’t be set up to be conditional based on the stage.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Record Type</option4text>
-    <option4textexplanation>Incorrect: A record type allows users to select different page layouts and picklist values for different business scenarios, based on their profiles. Record type can not be used to require a date field to be entered when the stage is set to closed.</option4textexplanation>
+    <option4textexplanation>Incorrect: A record type allows users to select different page layouts and picklist values for different business scenarios, based on their profiles. Record type can not be used to require a date field to be entered when
+      the stage is set to closed.</option4textexplanation>
   </question3>
   <question4>
-    <numbercorrect>2</numbercorrect>
-    <correctanswer1>2</correctanswer1>
-    <correctanswer2>4</correctanswer2>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 4. This question has 4 possible answer(s) to chose from. The question has 2 correct answer(s).</accessibility>
-    <question>The VP of marketing at Ursa Major Solar loaded leads into the org and now realizes they need to be deleted. The VP has asked the system administrator to delete them.<br><br>Which best practices are recommended prior to mass-deleting records? (Choose two answers.)</question>
-    <option1buttontext>A</option1buttontext>
+    <question>The VP of marketing at Ursa Major Solar loaded leads into the org and now realizes they need to be deleted. The VP has asked the system administrator to delete them.<br><br>Which best practices are recommended prior to mass-deleting
+      records? (Choose two answers.)</question>
     <option1text>Download a Setup Audit Trail for the last six months before deletion</option1text>
     <option1textexplanation>Incorrect: The Setup Audit Trail is a history of the 20 most recent setup changes made to the org. It’s not a data backup.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Schedule a weekly data export and download the backup zip files.</option2text>
     <option2textexplanation>Correct. Scheduling a weekly data export and downloading the backup zip file is a best practice. This is recommended just in case the system administrator accidentally deletes leads beyond the expected.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Create a new list view for all records that need to be deleted.</option3text>
     <option3textexplanation>Incorrect. A new list view only creates a new view of the records, not a data management best practice.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Run and export a report to archive data before deletion.</option4text>
     <option4textexplanation>Correct: Running and exporting a report to archive data before deletion is a best practice. This is recommended just in case the system administrator accidentally deletes leads beyond the expected.</option4textexplanation>
   </question4>

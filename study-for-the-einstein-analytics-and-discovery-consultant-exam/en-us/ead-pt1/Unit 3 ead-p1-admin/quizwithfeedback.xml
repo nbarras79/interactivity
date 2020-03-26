@@ -5,49 +5,35 @@
   <reviewbuttontext>Review</reviewbuttontext>
   <retakequizbuttontext>Retake</retakequizbuttontext>
   <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttext>Question {0} of {1}</questioncounttext>
   <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
   <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
   <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
   <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
   <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
   <numberofattempts>Number of attempts: </numberofattempts>
-  <numberofquestions>2</numberofquestions>
   <question1>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>1</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second
       option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
     <question>An Einstein Analytics consultant wants to determine the first day of the week, customize the display labels of fields, and customize colors of charts based on field values.<br><br>How can the consultant achieve this?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>By using extended metadata (XMD) to customize the formatting of dataset fields and their values in Analytics dashboards and lenses. </option1text>
     <option1textexplanation>Correct. Extended metadata (XMD) enables you to modify dataset fields and their values.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Create a custom dashboard, and change the attributes in dashboard designer.</option2text>
     <option2textexplanation>Incorrect. Modifying the labels, days of the week, and customizing colors is not possible through dashboard designer. </option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Edit the dataset JSON.</option3text>
     <option3textexplanation>Incorrect. The JSON defines the components of the dashboard and how they interact. </option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Use Einstein REST API to modify these attributes. </option4text>
     <option4textexplanation>Incorrect. REST API does not allow users to modify these attributes.</option4textexplanation>
   </question1>
   <question2>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>4</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
     <question>An Einstein Analytics consultant notices their dashboard takes too long to load Salesforce data.<br><br>What can an Einstein Analytics user do to improve dashboard performance?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>Run the dashboard from the data that was imported from an Excel sheet. </option1text>
     <option1textexplanation>Incorrect. The dashboard performance is not dependent upon what format the data was used to create the dataset.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Run an efficiency check on the entire org through Einstein Analytics to ensure everything is running efficiently.</option2text>
     <option2textexplanation>Incorrect. Running an efficiency check on the entire org through Einstein Analytics is not currently a feature. </option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Run the dashboards in a separate org, then reconnect the dashboard to the initial org.</option3text>
     <option3textexplanation>Incorrect. Running a dashboard in a separate org would separate it from the data. </option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Run a performance check on the dashboard and its queries to ensure that everything is running optimally. </option4text>
     <option4textexplanation>Correct. When a dashboard design is complete, you run a performance check to ensure the queries and lenses are running optimally. </option4textexplanation>
   </question2>

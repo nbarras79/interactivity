@@ -5,70 +5,49 @@
   <reviewbuttontext>Review</reviewbuttontext>
   <retakequizbuttontext>Retake</retakequizbuttontext>
   <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttext>Question {0} of {1}</questioncounttext>
   <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
   <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
   <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
   <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
   <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
   <numberofattempts>Number of attempts: </numberofattempts>
-  <numberofquestions>3</numberofquestions>
   <question1>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>2</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second
       option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
     <question>A customer needs to find a chart that is useful for visualizing recurring discrete activities, such as closing accounts, over long periods of time. In this chart, the customer needs to be able to easily change the granularity of the
       time-based grouping, such as from month to week or day.<br><br>Which chart would help with this requirement?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>Pie chart </option1text>
     <option1textexplanation>Incorrect. A pie chart is best used to show multiple groupings combined into a single value for each grouping against the total. </option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Calendar heat map chart</option2text>
     <option2textexplanation>Correct. Calendar heat maps are useful for visualizing recurring discrete activities. You can easily change the granularity of the time-based grouping, such as from month to week or day. </option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Column chart</option3text>
     <option3textexplanation>Incorrect. A column chart is very much like a bar chart, but it can be a better format for showing relative counts of things. </option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Funnel chart</option4text>
     <option4textexplanation>Incorrect. A funnel chart is best used to show multiple groupings in an ordered set. </option4textexplanation>
   </question1>
   <question2>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>1</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
     <question>How can an Einstein Analytics consultant implement timeseries?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>Open up your SAQL editor in the dashboard. Use foreach to project the data you want to look at, then use timeseries to make the prediction for your chosen measure.</option1text>
     <option1textexplanation>Correct. timeseries crunches your data and selects the forecasting model that gives the best fit. timeseries detects seasonality in your data. It considers periodic cycles when predicting what your data will look like in
       the future.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Open up the dataset you want to manipulate, find the timeseries section and select the correct prediction you want to make.</option2text>
     <option2textexplanation>Incorrect. There is no need to manipulate the timeseries section. Timeseries analyzes the data and selects the forecasting model that is the best fit. </option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Open up your SOQL editor in the dashboard. Use foreach to project the data you want to look at, then use timeseries to make the prediction for your chosen measure.</option3text>
     <option3textexplanation>Incorrect. SOQL is not needed for timeseries to make the best prediction. </option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Open up the dashboard you want to manipulate, find the timeseries section and edit the lens to make the prediction best fit.</option4text>
     <option4textexplanation>Incorrect. Editing a lens is not needed for timeseries to make the best prediction. </option4textexplanation>
   </question2>
   <question3>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>4</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 3. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
     <question>An Einstein Analytics consultant wants to be able to compare year-to-date values with the same values from last year. <br><br>Which functionality from Einstein Analytics should the consultant use? </question>
-    <option1buttontext>A</option1buttontext>
     <option1text>Scheduling a dataflow run</option1text>
     <option1textexplanation>Incorrect. Scheduling a dataflow run does not give you the ability to compare data. </option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Donut chart</option2text>
     <option2textexplanation>Incorrect. Donut charts don’t give you the ability to compare data values with the same value. </option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Lense cloning</option3text>
     <option3textexplanation>Incorrect. Cloning a lense copies the current data into a snapshot. The data is not comparable in this format. </option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Compare tables</option4text>
     <option4textexplanation>Correct. You use a compare table functionality to compare data values with the same values over time. </option4textexplanation>
   </question3>

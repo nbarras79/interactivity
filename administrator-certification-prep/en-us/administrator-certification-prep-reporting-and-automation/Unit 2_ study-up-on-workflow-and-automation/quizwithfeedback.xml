@@ -5,106 +5,74 @@
   <reviewbuttontext>Review</reviewbuttontext>
   <retakequizbuttontext>Retake</retakequizbuttontext>
   <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttext>Question (0) of (1)</questioncounttext>
   <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
   <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
   <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
   <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
   <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
   <numberofattempts>Number of attempts: </numberofattempts>
-  <numberofquestions>5</numberofquestions>
   <question1>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>1</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
-    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
-    <question>The administrator at Ursa Major Solar created a process in Process Builder that sends email alerts when a high-priority case is created. A new support engineer who works remotely complains about not receiving the email alerts. All other users receive these email alerts.<br><br>How can a Salesforce administrator troubleshoot this issue?</question>
-    <option1buttontext>A</option1buttontext>
+    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second
+      option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <question>The administrator at Ursa Major Solar created a process in Process Builder that sends email alerts when a high-priority case is created. A new support engineer who works remotely complains about not receiving the email alerts. All
+      other users receive these email alerts.<br><br>How can a Salesforce administrator troubleshoot this issue?</question>
     <option1text>Verify the user’s email address.</option1text>
     <option1textexplanation>Correct. Make sure the user’s email address is in that support engineer’s user record, and thus receiving the notifications.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Check that the process is active.</option2text>
     <option2textexplanation>Incorrect. Others are receiving the email alerts, so you know that the process is active.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Check that the correct email template is used.</option3text>
     <option3textexplanation>Incorrect. Others are receiving the correct email from the email alerts, so you know the correct email template is used.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Check that the process evaluation criteria is correct.</option4text>
     <option4textexplanation>Incorrect. Others are receiving the email, so you know the process evaluation criteria is correct when the process is being triggered.</option4textexplanation>
   </question1>
   <question2>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>3</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
-    <question>Ursa Major Solar created an action that sends a follow-up email to the customer two days after a case is closed. The administrator wants to verify that the process functions correctly.<br><br>Which queue should the administrator view to monitor pending actions?</question>
-    <option1buttontext>A</option1buttontext>
+    <question>Ursa Major Solar created an action that sends a follow-up email to the customer two days after a case is closed. The administrator wants to verify that the process functions correctly.<br><br>Which queue should the administrator view
+      to monitor pending actions?</question>
     <option1text>Outbound Messaging Delivery Queue</option1text>
     <option1textexplanation>Incorrect. Outbound Messaging Delivery Queue shows the messages that have already been sent and delivered.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Mass Email Queue</option2text>
     <option2textexplanation>Incorrect. The Mass Email Queue shows only the mass emails that are sent out.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
-    <option3text>Process Action Queue</option3text>
-    <option3textexplanation>Correct. The Process Action Queue shows process actions, and the administrator would be able to monitor pending process actions in this queue.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
+    <option3text>Paused Flow Interviews</option3text>
+    <option3textexplanation>Correct. The administrator would be able to monitor pending process actions in this queue.</option3textexplanation>
     <option4text>Background Jobs Queue</option4text>
     <option4textexplanation>Incorrect. Time-based actions do not show in the Background Jobs Queue. Background Jobs, such as when a parallel sharing recalculation is running, are monitored here.</option4textexplanation>
   </question2>
   <question3>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>2</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 3. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
-    <question>Ursa Major Solar has an auto-response rule to send emails when a customer submits a new case, and an assignment rule to determine case ownership for new cases. In addition, the case object has validation rules to ensure that each case includes values for all fields needed by its owner to resolve the case.<br><br>In which order does Salesforce process the immediate actions associated with workflow rules and related business automations for a newly created record?</question>
-    <option1buttontext>A</option1buttontext>
+    <question>Ursa Major Solar has an auto-response rule to send emails when a customer submits a new case, and an assignment rule to determine case ownership for new cases. In addition, the case object has validation rules to ensure that each case
+      includes values for all fields needed by its owner to resolve the case.<br><br>In which order does Salesforce process the immediate actions associated with workflow rules and related business automations for a newly created record?</question>
     <option1text>Escalation rules, validation rules, workflow rules, auto-response rules, assignment rules</option1text>
     <option1textexplanation>Incorrect. Validation rules are evaluated before escalation rules, and auto-response rules are evaluated before workflow rules.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Validation rules, assignment rules, auto-response rules, workflow rules, escalation rules</option2text>
     <option2textexplanation>Correct. This is the correct order of evaluation.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Workflow rules, validation rules, assignment rules, escalation rules, auto-response rules</option3text>
     <option3textexplanation>Incorrect. Workflow rules are evaluated after validation rules.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Validation rules, Escalation rules, assignment rules, auto-response rules, workflow rules</option4text>
     <option4textexplanation>Incorrect. Workflow rules are evaluated after validation rules.</option4textexplanation>
   </question3>
   <question4>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>2</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 4. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
     <question>Ursa Major Solar has a team of account managers that requested email alerts anytime an opportunity or case is created on accounts that they own.<br><br>What is the minimum number of workflows needed to accomplish this task?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>One workflow rule with two email alerts</option1text>
     <option1textexplanation>Incorrect. Each workflow rule applies to a single object. In this solution the email alerts would be for the same object.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Two workflow rules with one email alert each</option2text>
     <option2textexplanation>Correct. Each workflow rule applies to a single object. Opportunity and/or case would need a separate workflow for each object.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>No workflow rules, but two email alerts</option3text>
     <option3textexplanation>Incorrect. Email alerts need a workflow to define criteria for the email to be sent.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Four workflow rules for create and update on opportunities and accounts</option4text>
     <option4textexplanation>Incorrect. Opportunities and cases are created on accounts by the users. The email alerts are to communicate to the account managers that there is a record on their account.</option4textexplanation>
   </question4>
   <question5>
-    <numbercorrect>2</numbercorrect>
-    <correctanswer1>2</correctanswer1>
-    <correctanswer2>3</correctanswer2>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 5. This question has 4 possible answer(s) to chose from. The question has 2 correct answer(s).</accessibility>
     <question>Ursa Major Solar has created an automated approval process to quickly communicate and improve their customer service.<br><br>What are two final approval actions in an approval process?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>Create a Chatter post.</option1text>
     <option1textexplanation>Incorrect. Posting to Chatter is not a final approval action.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Add an email alert.</option2text>
     <option2textexplanation>Correct. This is a final approval action.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Send an outbound message.</option3text>
     <option3textexplanation>Correct. Sending an outbound message is a final approval action in an approval process.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Call Apex.</option4text>
     <option4textexplanation>Incorrect. This is not a final approval action in an approval process.</option4textexplanation>
   </question5>

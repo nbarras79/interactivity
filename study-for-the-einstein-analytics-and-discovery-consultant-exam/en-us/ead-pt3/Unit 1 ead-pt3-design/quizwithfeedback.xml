@@ -5,68 +5,47 @@
   <reviewbuttontext>Review</reviewbuttontext>
   <retakequizbuttontext>Retake</retakequizbuttontext>
   <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttext>Question {0} of {1}</questioncounttext>
   <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
   <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
   <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
   <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
   <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
   <numberofattempts>Number of attempts: </numberofattempts>
-  <numberofquestions>3</numberofquestions>
   <question1>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>4</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second
       option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
     <question>An Einstein Analytics consultant needs to show total values of all cases by case status, grouped by month/year the case was created. <br><br>Which chart would effectively achieve this business requirement?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>Pie chart</option1text>
     <option1textexplanation>Incorrect. Use a pie chart when you have multiple groupings and want to show the proportion of a single value for each grouping against the total. </option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Line chart for each status value</option2text>
     <option2textexplanation>Incorrect. Use a line chart when you have one important grouping representing an ordered set of data and one value to show. </option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Funnel chart</option3text>
     <option3textexplanation>Incorrect. Use a funnel chart when you have multiple groupings in an ordered set and want to show the proportions among them. </option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Stacked bar chart or stacked column chart</option4text>
     <option4textexplanation>Correct. Use the bar or column chart to provide a quick visual comparison of related values.</option4textexplanation>
   </question1>
   <question2>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>1</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
     <question>What is an advantage of using Analytics templated apps?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>When creating an app from a template, it automatically creates datasets and dashboards, speeding your organization’s time to value.</option1text>
     <option1textexplanation>Correct. Analytics templated apps and prebuilt Analytics apps from Salesforce speed your organization’s time-to-value with Analytics. </option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>When creating an app from a template, the template automatically creates the users, profiles, and permission sets needed to execute the application, so that the user can start building their dashboards.</option2text>
     <option2textexplanation>Incorrect. Einstein Analytics does not create users, profiles, or permission sets.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>When creating an app from a template, Analytics automatically creates recipes for lenses and datasets in the application.</option3text>
     <option3textexplanation>Incorrect. Einstein Analytics templates do not automatically create recipes between datasets. </option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>When creating an app from a template, Analytics automatically creates the flows needed.</option4text>
     <option4textexplanation>Incorrect. Einstein Analytics does not create flows in your org. </option4textexplanation>
   </question2>
   <question3>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>3</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 3. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
     <question>What is a requirement when using an Approval Analytics Template?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>The user needs to have View All Data access as well as the right licenses to use this template.</option1text>
     <option1textexplanation>Incorrect. This gives the user more visibility than required. </option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Make sure all app users, including the Analytics Integration User, have the Einstein Analytics license</option2text>
     <option2textexplanation>Incorrect. Ensuring users have the correct license assigned does not complete all of the requirements to utilize Approval Analytics templates. </option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>The org needs to have a defined approval process and at least one object with a record submitted for approval, and users need the right licenses.</option3text>
     <option3textexplanation>Correct. All users need the appropriate analytics user licenses; the org must have a defined approval process; and the field-level security must be set for the Analytics Integration User to see all fields used in the app.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>The org needs to have sharing rules defined for the data that will be processed by the application.</option4text>
     <option4textexplanation>Incorrect. Defining sharing rules does not complete all of the requirements to utilize Approval Analytics templates. </option4textexplanation>
   </question3>

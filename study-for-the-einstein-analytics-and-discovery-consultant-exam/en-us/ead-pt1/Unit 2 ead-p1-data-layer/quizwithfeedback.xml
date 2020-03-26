@@ -5,90 +5,60 @@
   <reviewbuttontext>Review</reviewbuttontext>
   <retakequizbuttontext>Retake</retakequizbuttontext>
   <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttext>Question {0} of {1}</questioncounttext>
   <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
   <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
   <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
   <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
   <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
   <numberofattempts>Number of attempts: </numberofattempts>
-  <numberofquestions>4</numberofquestions>
   <question1>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>3</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second
       option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
     <question>Universal Containers (UC) has two Salesforce organizations, Org 1 and Org 2. UC needs to create a dataset in Einstein Analytics based on data from the two separate Salesforce orgs.<br><br>How can an Einstein Analytics consultant help
       UC achieve this?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>Use Dataset Builder to create a single dataset in Org 1 based on Salesforce Data in Org 2.</option1text>
     <option1textexplanation>Incorrect. The Dataset Builder only works if the data is from the same org.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Extract the Salesforce data from Org 1 using Dataloader, then use the Einstein Analytics Connector for Excel in Org 2. </option2text>
     <option2textexplanation>Incorrect. This method will not keep the data in sync.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Use the Einstein Analytics Connector to join the two orgs’ data. </option3text>
     <option3textexplanation>Correct. This method syncs the datas from both orgs within Analytics. </option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Enable Data Sync in your org to join the two orgs’ data. </option4text>
     <option4textexplanation>Incorrect. Enabling Data Sync will not allow sync between two different orgs. </option4textexplanation>
   </question1>
   <question2>
-    <numbercorrect>2</numbercorrect>
-    <correctanswer1>1</correctanswer1>
-    <correctanswer2>4</correctanswer2>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 2 correct answer(s).</accessibility>
     <question>Which two statements about Einstein Analytics datasets are correct?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>When Analytics loads dates into a dataset, it breaks up each date into multiple fields, such as day, week, month, quarter, and year, based on the calendar year. </option1text>
     <option1textexplanation>Correct. Once the dataset is created, you can view or edit the attributes for each field on the Edit Field Attributes screen.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Datasets cannot be created based on data from one or more related Salesforce objects. </option2text>
     <option2textexplanation>Incorrect. Multiple datasets can be created based on Salesforce Objects.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>When loading data into a dataset, and no default value is specified, Analytics forces you to indicate a default value so there are no blanks on the dataset.</option3text>
     <option3textexplanation>Incorrect. The key identifier in the dataset (such as record Id) cannot be empty, but there can be other empty fields. </option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Use the upload user interface to create a single dataset based on external .csv data. </option4text>
     <option4textexplanation>Correct. A dataset can be created from a .csv file.</option4textexplanation>
   </question2>
   <question3>
-    <numbercorrect>2</numbercorrect>
-    <correctanswer1>1</correctanswer1>
-    <correctanswer2>2</correctanswer2>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 3. This question has 4 possible answer(s) to chose from. The question has 2 correct answer(s).</accessibility>
     <question>In which two use cases would an Einstein Analytics consultant use Data Recipes?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>To perform transformations like combining data from multiple datasets or connected objects. </option1text>
     <option1textexplanation>Correct. To combine data from multiple datasets, you create a recipe and determine the shared key value for each dataset referenced in the recipe. </option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>To bucket data and add formula fields. </option2text>
     <option2textexplanation>Correct. To group data together into bucked, you use a recipe to create the buckets and select which data should be included. </option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>To translate certain columns of dataset depends on the user’s location.</option3text>
     <option3textexplanation>Incorrect. Labels can be translated, but the data is not translated in Einstein Analytics.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>To mass update fields included in the dataset with a formula field created on the recipe. </option4text>
     <option4textexplanation> Incorrect. A recipe is a saved set of transformations, or steps, that you want to perform on a specific source dataset or connected data. You cannot mass update fields with dataset recipes.</option4textexplanation>
   </question3>
   <question4>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>4</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 4. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
     <question>An Einstein Analytics consultant decides to turn on Data Sync in Einstein Analytics.<br><br>In which way can Data Sync optimize the dataflows?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>Data Sync does not optimize dataflows, since dataflows have this functionality built in.</option1text>
     <option1textexplanation>Incorrect. This functionality is not built in. Data sync optimizes the extraction of Salesforce data from a user’s dataflows.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Data Sync runs just before the dataflow, which provides live data for the user.</option2text>
     <option2textexplanation>Incorrect. The data extracted into a data sync or data flow is a copy of live data. By being a copy, the data in the data sync and dataflows is not considered live.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Dataflows run just after the data sync, which allows the dataflow to load fast, and then update the necessary values.</option3text>
     <option3textexplanation>Incorrect. Schedule the data sync to run after a data flow. By scheduling sync ahead of time, the user’s dataflow has less to do and runs faster.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Data Sync will decouple the extract of Salesforce data from the dataflows and sync this data in Analytics on a separate schedule. </option4text>
     <option4textexplanation>Correct. The update to the data happens incrementally versus pulling all the data each time.</option4textexplanation>
   </question4>

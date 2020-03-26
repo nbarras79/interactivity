@@ -5,49 +5,37 @@
   <reviewbuttontext>Review</reviewbuttontext>
   <retakequizbuttontext>Retake</retakequizbuttontext>
   <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttext>Question {0} of {1}</questioncounttext>
   <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
   <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
   <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
   <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
   <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
   <numberofattempts>Number of attempts: </numberofattempts>
-  <numberofquestions>2</numberofquestions>
   <question1>
-    <numbercorrect>2</numbercorrect>
-    <correctanswer1>2</correctanswer1>
-    <correctanswer2>4</correctanswer2>
-    <numberofansweroptions>4</numberofansweroptions>
-    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 2 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
-    <question>As Salesforce adoption has increased throughout Ursa Major Solar, the sales reps need access to the Salesforce mobile app while on the road. However, the Salesforce mobile app needs to be customized to fit their needs.<br><br>Which functions can be customized for the Salesforce mobile app? (Choose two answers.)</question>
-    <option1buttontext>A</option1buttontext>
+    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 2 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second
+      option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <question>As Salesforce adoption has increased throughout Ursa Major Solar, the sales reps need access to the Salesforce mobile app while on the road. However, the Salesforce mobile app needs to be customized to fit their needs.<br><br>Which
+      functions can be customized for the Salesforce mobile app? (Choose two answers.)</question>
     <option1text>Field permissions</option1text>
     <option1textexplanation>Incorrect. Field security can not be customized exclusively for the Salesforce mobile app. The same field permissions on the desktop version are reflected on the mobile app.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Navigation menu content</option2text>
     <option2textexplanation>Correct. The navigation menu can be customized for the Salesforce mobile app.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Custom objects</option3text>
     <option3textexplanation>Incorrect. Custom objects can not be customized exclusively for the Salesforce mobile app. Custom objects have the same read/write access on the desktop version as they do on the mobile app.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Object Compact layout</option4text>
     <option4textexplanation>Correct: The Object Compact layout can be customized for the Salesforce mobile app.</option4textexplanation>
   </question1>
   <question2>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>2</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
-    <question>Ursa Major Solar uses Outlook for its email needs. As Ursa Major Solar has begun to implement Salesforce, sales reps are concerned that Salesforce won’t integrate with Outlook and they’ll be forced to change email providers (which they don’t want to do).<br><br>What can the system administrator synchronize between Salesforce and Outlook using Lightning for Outlook?</question>
-    <option1buttontext>A</option1buttontext>
+    <question>Ursa Major Solar uses Outlook for its email needs. As Ursa Major Solar has begun to implement Salesforce, sales reps are concerned that Salesforce won’t integrate with Outlook and they’ll be forced to change email providers (which they
+      don’t want to do).<br><br>What can the system administrator synchronize between Salesforce and Outlook using Lightning for Outlook?</question>
     <option1text>Accounts</option1text>
     <option1textexplanation>Incorrect. Account information can be accessed via Lightning for Outlook but Account information is not synchronized (downloaded) from Salesforce to Outlook.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Events</option2text>
     <option2textexplanation>Correct. Events in Salesforce can be synchronized between Salesforce and Outlook.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Tasks</option3text>
     <option3textexplanation>Incorrect. Tasks are not synchronized between Salesforce and Outlook.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Notes</option4text>
     <option4textexplanation>Incorrect: Notes are not synchronized between Salesforce and Outlook.</option4textexplanation>
   </question2>

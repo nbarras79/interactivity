@@ -5,91 +5,63 @@
   <reviewbuttontext>Review</reviewbuttontext>
   <retakequizbuttontext>Retake</retakequizbuttontext>
   <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttext>Question {0} of {1}</questioncounttext>
   <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
   <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
   <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
   <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
   <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
   <numberofattempts>Number of attempts: </numberofattempts>
-  <numberofquestions>4</numberofquestions>
   <question1>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>2</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second
       option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
     <question>An App Builder at Universal Containers has completed all development for a new sales app. The release manager confirms the change set is ready and notices a number of apex unit tests are included. What is the best way to reduce
       deployment time to production?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>Deploy each metadata component individually.</option1text>
     <option1textexplanation>Incorrect. Deploying each component individually is not efficient or effective. You can initiate multiple deployments, but only one deployment can run at a time. The other deployments remain in the queue until the current
       one finishes.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Perform a Quick Deploy and only run specific Apex tests.</option2text>
     <option2textexplanation>Correct. All Apex tests are run in production as part of a deployment. Executing all tests can be time-consuming and delay your deployment. Using quick deployments give the ability to deploy and execute specific tests.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Manually create the metadata in production.</option3text>
     <option3textexplanation>Incorrect. There is no need to create metadata in production. Development should take place in a sandbox and then the changes are released to production.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Lock users from logging in and perform the deploy.</option4text>
     <option4textexplanation>Incorrect. Locking users from logging in during the deploy does not improve the time to deploy. It only ensures no data changes or activity will be lost during the deployment.</option4textexplanation>
   </question1>
   <question2>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>1</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
     <question>An App Builder at Universal Containers is working on a project that requires them to work with specific metadata and about 2 GB of sample data from production. What sandbox would the App Builder use to meet their requirements?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>Partial Copy</option1text>
     <option1textexplanation>Correct. Partial Copy sandboxes have the data limit of up to 5GB and can be created using specific sandbox templates giving the developer a sandbox with specific metadata and sample data.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Full</option2text>
     <option2textexplanation>Incorrect. The Full sandbox has all metadata and production data whereas the new developer only needs to work with specific metadata and data. The Full sandbox is not ideal for development as that sandbox is used for
       processes later in the development cycle such as performance testing and staging.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Developer Pro</option3text>
     <option3textexplanation>Incorrect. The Developer Pro sandbox has the size limit of 1GB for data and storage. This sandbox also does not contain any data, only metadata.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Developer</option4text>
     <option4textexplanation>Incorrect. The Developer sandbox has the size limit of 200MB for data and storage. This sandbox also does not contain any data, only metadata.</option4textexplanation>
   </question2>
   <question3>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>3</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 3. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
     <question>Universal Containers is preparing for a hackathon session with the development team. An App Builder needs to share a package of components with many sandboxes at once. What package type can the App Builder use to meet this requirement?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>Managed - beta</option1text>
     <option1textexplanation>Incorrect. Managed packages are typically used by Salesforce partners to distribute and sell applications to customers. Managed packages also prevent destructive changes, like removing objects or fields once installed.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Managed</option2text>
     <option2textexplanation>Incorrect. Managed packages are typically used by Salesforce partners to distribute and sell applications to customers. Managed packages also prevent destructive changes, like removing objects or fields once installed.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Unmanaged</option3text>
     <option3textexplanation>Correct. Unmanaged packages are typically used to distribute open-source projects to provide developers with the basic building blocks for an application. Once the components are installed, the components can be edited in
       the organization they are installed in.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Managed - released</option4text>
     <option4textexplanation>Incorrect. Managed packages are typically used by Salesforce partners to distribute and sell applications to customers. Managed packages also prevent destructive changes, like removing objects or fields once installed.</option4textexplanation>
   </question3>
   <question4>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>1</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 4. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
     <question>Which sandbox type is intended to be used for staging and a testing environment?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>Full Sandbox</option1text>
     <option1textexplanation>Correct: A Full Sandbox is intended to be used as a staging and testing environment. This sandbox includes a copy of production metadata and sample production data.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Partial Copy</option2text>
     <option2textexplanation>Incorrect: This is only a partial copy created with a template. Not all scenarios are able to be tested.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Developer</option3text>
     <option3textexplanation>Incorrect: Developer sandbox only includes a copy of metadata from production.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Developer Pro</option4text>
     <option4textexplanation>Incorrect: Developer Pro is intended for development and testing in an isolated environment. This sandbox only includes metadata from production.</option4textexplanation>
   </question4>

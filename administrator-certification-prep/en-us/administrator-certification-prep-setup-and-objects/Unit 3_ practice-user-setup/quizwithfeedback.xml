@@ -5,106 +5,77 @@
   <reviewbuttontext>Review</reviewbuttontext>
   <retakequizbuttontext>Retake</retakequizbuttontext>
   <nextbuttontext>Try Again</nextbuttontext>
+  <questioncounttext>Question {0} of {1}</questioncounttext>
   <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
   <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
   <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
   <threeanswerstoofewselected>Select Three (3) Answers</threeanswerstoofewselected>
   <threeanswerstoomanyselected>Select Only Three (3) Answers</threeanswerstoomanyselected>
   <numberofattempts>Number of attempts: </numberofattempts>
-  <numberofquestions>5</numberofquestions>
   <question1>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>1</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
-    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
-    <question>A new hire at Ursa Major Solar has joined the customer service team to interact with customers and handle cases. This user needs access to the Service Console to manage the cases and customer information.<br><br>What should an administrator do to assign a Service Cloud user license to a new user?</question>
-    <option1buttontext>A</option1buttontext>
+    <accessibility>Question 1. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s). The controls for the knowledge check are as follows: To select the first option press 1 on the keyboard, to select the second
+      option, press 2, the third 3, the fourth 4, and if there is a fifth 5. To submit your answer choice, select Enter on the keyboard. If you incorrectly answered the question, press Shift-Enter to reset your selections.</accessibility>
+    <question>A new hire at Ursa Major Solar has joined the customer service team to interact with customers and handle cases. This user needs access to the Service Console to manage the cases and customer information.<br><br>What should an
+      administrator do to assign a Service Cloud user license to a new user?</question>
     <option1text>Enable Service Cloud User on the user record detail page.</option1text>
     <option1textexplanation>Correct. Feature licenses such as Service Cloud User or Marketing Cloud User can be found on the user profile page. These licenses enable features in addition to the User Licenses, such as the Salesforce User License.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Clone the Sample Console and assign it to the user.</option2text>
     <option2textexplanation>Incorrect. Assigning the Sample Console or clone of it does not assign a user to the Service Cloud User license. They would need to have the Service Cloud User feature license to even access the console.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Create a new permission set license assignment.</option3text>
-    <option3textexplanation>Incorrect. You would not create a feature license through a permission set. A feature license is assigned to the company with the purchase of a product—such as the Service Cloud User license for the Service Cloud product. A permission set is a collection of settings and permissions that give users access to various tools and functions.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
+    <option3textexplanation>Incorrect. You would not create a feature license through a permission set. A feature license is assigned to the company with the purchase of a product—such as the Service Cloud User license for the Service Cloud product.
+      A permission set is a collection of settings and permissions that give users access to various tools and functions.</option3textexplanation>
     <option4text>Enable Service Console in Support Settings.</option4text>
     <option4textexplanation>Incorrect. The Service Console should already be enabled. You just need to make sure the user is assigned the Service Cloud User license to access it.</option4textexplanation>
   </question1>
   <question2>
-    <numbercorrect>2</numbercorrect>
-    <correctanswer1>1</correctanswer1>
-    <correctanswer2>2</correctanswer2>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 2. This question has 4 possible answer(s) to chose from. The question has 2 correct answer(s).</accessibility>
-    <question>Ursa Major Solar, a medium-size, Southwest-based supplier of solar components and systems, is growing internationally. An administrator receives details of a new hire in the Tokyo office who requires access to the Salesforce organization.<br><br>Which two requirements should the administrator consider when creating a new user in a production Salesforce org? (Choose two answers.)</question>
-    <option1buttontext>A</option1buttontext>
+    <question>Ursa Major Solar, a medium-size, Southwest-based supplier of solar components and systems, is growing internationally. An administrator receives details of a new hire in the Tokyo office who requires access to the Salesforce
+      organization.<br><br>Which two requirements should the administrator consider when creating a new user in a production Salesforce org? (Choose two answers.)</question>
     <option1text>Usernames must be unique across all production Salesforce orgs.</option1text>
-    <option1textexplanation>Correct. All usernames must be unique across all production orgs. If a company has a standard email domain (which is used as a username), an administrator needs to add an additional identifier in the email to make it unique.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
+    <option1textexplanation>Correct. All usernames must be unique across all production orgs. If a company has a standard email domain (which is used as a username), an administrator needs to add an additional identifier in the email to make it
+      unique.</option1textexplanation>
     <option2text>Usernames must be in the form of an email address.</option2text>
     <option2textexplanation>Correct. All usernames must be in the form of an email address but do not need to be an actual email.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Usernames must be the same as the user’s email address.</option3text>
     <option3textexplanation>Incorrect. A username can be different from the user’s email address, but the username must be in the form of an email.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Usernames must include the company’s email domain.</option4text>
     <option4textexplanation>Incorrect. Usernames can include any email domain, as long as it is in the form of an email.</option4textexplanation>
   </question2>
   <question3>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>1</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 3. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
-    <question>A new employee is trying to login to Salesforce, but is having trouble and getting login error messages. He reaches out to the Salesforce admin for help.<br><br>What should the administrator do first to troubleshoot login error messages?</question>
-    <option1buttontext>A</option1buttontext>
+    <question>A new employee is trying to login to Salesforce, but is having trouble and getting login error messages. He reaches out to the Salesforce admin for help.<br><br>What should the administrator do first to troubleshoot login error
+      messages?</question>
     <option1text>Check the user’s login history related list on the user record.</option1text>
     <option1textexplanation>Correct. The administrator should start by checking the login history related list to get an understanding of what is causing the login issue.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Review entries in the Setup Audit Trail.</option2text>
     <option2textexplanation>Incorrect. The entries in the Setup Audit Trail track changes that an admin has made in Salesforce, not a user.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Log in as the user to view the error message.</option3text>
     <option3textexplanation>Incorrect. Logging in as the user would not show the login error message.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Search the debug log for the error message.</option4text>
     <option4textexplanation>Incorrect. A debug login would not capture the login issue.</option4textexplanation>
   </question3>
   <question4>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>2</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 4. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
-    <question>The administrator is notified that one of Ursa Major Solar’s employees is going on leave for a few weeks. Ursa Major Solar does not want the employee logging in to Salesforce while on leave.<br><br>What should the administrator do to prevent a user from logging into Salesforce temporarily?</question>
-    <option1buttontext>A</option1buttontext>
+    <question>The administrator is notified that one of Ursa Major Solar’s employees is going on leave for a few weeks. Ursa Major Solar does not want the employee logging in to Salesforce while on leave.<br><br>What should the administrator do to
+      prevent a user from logging into Salesforce temporarily?</question>
     <option1text>Reset the user’s password.</option1text>
     <option1textexplanation>Incorrect. Users are still able to log in after they reset their password themselves.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>Freeze the user’s account.</option2text>
     <option2textexplanation>Correct. You would freeze the user’s account. The license is still in use, but the user is not able to log in. When the employee returns from leave, you can simply unfreeze the account.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>Change the user’s login hours.</option3text>
     <option3textexplanation>Incorrect. The user is still able to log in during the newly created login hours.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>Delete the user’s account.</option4text>
     <option4textexplanation>Incorrect. Deleting the user’s account deactivates their license. This means it is not temporary. You are able to reactivate an account that’s deactivated, but this is not the most efficient response to the scenario.</option4textexplanation>
   </question4>
   <question5>
-    <numbercorrect>1</numbercorrect>
-    <correctanswer1>1</correctanswer1>
-    <numberofansweroptions>4</numberofansweroptions>
     <accessibility>Question 5. This question has 4 possible answer(s) to chose from. The question has 1 correct answer(s).</accessibility>
     <question>The administrator is asked to deactivate the Salesforce user account for an employee who has recently left the company.<br><br>When a user account is deactivated, what happens to the associated license?</question>
-    <option1buttontext>A</option1buttontext>
     <option1text>The license becomes available for reassignment.</option1text>
     <option1textexplanation>Correct. When a user license is deactivated, it’s available to be reassigned to another employee in the company.</option1textexplanation>
-    <option2buttontext>B</option2buttontext>
     <option2text>The license is deleted.</option2text>
     <option2textexplanation>Incorrect. The user license becomes available for reassignment. It’s not deleted.</option2textexplanation>
-    <option3buttontext>C</option3buttontext>
     <option3text>The license is removed from the billable licenses for the organization.</option3text>
     <option3textexplanation>Incorrect. The company has already paid for this license. It’s not removed from the billable licenses.</option3textexplanation>
-    <option4buttontext>D</option4buttontext>
     <option4text>The license is automatically assigned to another user.</option4text>
     <option4textexplanation>Incorrect. The license does not get automatically assigned to another user. The admin needs to reassign the license.</option4textexplanation>
   </question5>
