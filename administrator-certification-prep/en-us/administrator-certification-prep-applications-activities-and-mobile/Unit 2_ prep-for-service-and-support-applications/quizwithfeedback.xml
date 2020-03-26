@@ -1,8 +1,6 @@
 <reviewbuttontext>Review</reviewbuttontext>
 <retakequizbuttontext>Retake</retakequizbuttontext>
 <nextbuttontext>Try Again</nextbuttontext>
-<questioncounttextbegin>Question</questioncounttextbegin>
-<questioncounttextmiddle>of</questioncounttextmiddle>
 <answernothingselectedtext>Please select an answer.</answernothingselectedtext>
 <twoanswerstoofewselected>Select Two (2) Answers</twoanswerstoofewselected>
 <twoanswerstoomanyselected>Select Only Two (2) Answers</twoanswerstoomanyselected>
