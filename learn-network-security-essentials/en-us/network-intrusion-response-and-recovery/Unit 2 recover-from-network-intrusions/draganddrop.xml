@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Submit</submitbutton>
+  <resetbutton>Reset</resetbutton>
+  <restartbutton>Restart</restartbutton>
+  <incorrecttext>Please rearrange any options that are red and try again.</incorrecttext>
+  <correcttext>Great Job!</correcttext>
+  <dragoptions>
+    <drag1>Use a Business Continuity Plan</drag1>
+    <drag2>Restore affected systems and devices from a backup environment</drag2>
+    <drag3>Identify the intrusion</drag3>
+    <drag4>Contain the threat from spreading</drag4>
+    <drag5>Hold an after-action meeting to discuss lessons learned</drag5>
+    <drag6>Perform system validation and testing to certify the systems are operational</drag6>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Response</drop1>
+    <drop2>Recovery</drop2>
+  </dropoptions>
+</draganddrop>

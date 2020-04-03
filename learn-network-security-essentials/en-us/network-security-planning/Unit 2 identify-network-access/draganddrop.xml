@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Submit</submitbutton>
+  <resetbutton>Reset</resetbutton>
+  <restartbutton>Restart</restartbutton>
+  <incorrecttext>Please rearrange any options that are red and try again.</incorrecttext>
+  <correcttext>Great Job!</correcttext>
+  <dragoptions>
+    <drag1>Set Permissions based on job responsibilities</drag1>
+    <drag2>Implement least-privilege</drag2>
+    <drag3>Identify software vulnerabilities</drag3>
+    <drag4>Inventory hardware devices</drag4>
+    <drag5>Identify the network topology</drag5>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Manage Assets</drop1>
+    <drop2>Manage Users</drop2>
+  </dropoptions>
+</draganddrop>

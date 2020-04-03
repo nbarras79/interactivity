@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Submit</submitbutton>
+  <resetbutton>Reset</resetbutton>
+  <restartbutton>Restart</restartbutton>
+  <incorrecttext>Please rearrange any options that are red and try again.</incorrecttext>
+  <correcttext>Great Job!</correcttext>
+  <dragoptions>
+    <drag1>Denial of Service (DOS)</drag1>
+    <drag2>Man in the Middle (MITM)</drag2>
+    <drag3>Malware</drag3>
+    <drag4>Phishing</drag4>
+    <drag5>Zero Day</drag5>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Malicious software such as computer viruses, worms, Trojan horses, or spyware, that infect a computer network and allow hackers to compromise the confidentiality, integrity, or availability of information</drop1>
+    <drop2>A cybercrime in which users are contacted by email, phone, or text by someone posing as a legitimate institution in order to lure the user into providing sensitive data such as usernames or passwords, or downloading malware</drop2>
+    <drop3>An attacker prevents legitimate users from accessing a network by flooding the network with traffic</drop3>
+    <drop4>A cybercriminal sets up a WiFi connection and lures a user to connect, then monitors their activity and intercepts login credentials, payment information, and more.</drop4>
+    <drop5>A security hole in software that has been discovered by hackers but is not yet known to the software maker or antivirus vendors.</drop5>
+  </dropoptions>
+</draganddrop>

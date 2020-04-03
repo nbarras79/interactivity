@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Submit</submitbutton>
+  <resetbutton>Reset</resetbutton>
+  <restartbutton>Restart</restartbutton>
+  <incorrecttext>Please rearrange any options that are red and try again.</incorrecttext>
+  <correcttext>Great Job!</correcttext>
+  <dragoptions>
+    <drag1>1. Identify an intrusion</drag1>
+    <drag2>2. Stop the intrusion</drag2>
+    <drag3>3. Contain the threat</drag3>
+    <drag4>4. Control and eradicate the threat</drag4>
+  </dragoptions>
+  <draganddrop>

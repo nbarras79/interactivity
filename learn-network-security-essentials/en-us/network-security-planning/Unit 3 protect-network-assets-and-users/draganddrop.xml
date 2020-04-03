@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Submit</submitbutton>
+  <resetbutton>Reset</resetbutton>
+  <restartbutton>Restart</restartbutton>
+  <incorrecttext>Please rearrange any options that are red and try again.</incorrecttext>
+  <correcttext>Great Job!</correcttext>
+  <dragoptions>
+    <drag1>Centralized dynamic access management solution</drag1>
+    <drag2>Access control systems</drag2>
+    <drag3>Strong Authentication</drag3>
+    <drag4>VPN</drag4>
+    <drag5>Firewall</drag5>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Using something the user has and something the user knows to grant access to sensitive resources.</drop1>
+    <drop2>A tool that can filter specific types of data to protect the data from getting exfiltrated.</drop2>
+    <drop3>Systems that limit connections to computer networks.</drop3>
+    <drop4>A tool that allows administrators to audit who has accessed different resources.</drop4>
+    <drop5>A method of protecting data in transit by creating an encrypted connection over a less secure network.</drop5>
+  </dropoptions>
+</draganddrop>

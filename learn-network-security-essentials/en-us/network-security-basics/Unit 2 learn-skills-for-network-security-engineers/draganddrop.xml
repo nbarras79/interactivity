@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Submit</submitbutton>
+  <resetbutton>Reset</resetbutton>
+  <restartbutton>Restart</restartbutton>
+  <incorrecttext>Please rearrange any options that are red and try again.</incorrecttext>
+  <correcttext>Great Job!</correcttext>
+  <dragoptions>
+    <drag1>A hacker working for a rival company steals the secret formula a pharmaceutical company has spent months developing.</drag1>
+    <drag2>As a result of a breach at a retail giant, customers no longer trust the company to secure their data, and take their business elsewhere.</drag2>
+    <drag3>An email service provider is found to have been negligent in protecting usernames and passwords associated with customer accounts, and is ordered to provide credit monitoring services to users affected by a breach.</drag3>
+    <drag4>After learning of a breach of its computer systems, a company CEO sells shares of the company’s stocks, but does not inform the public or other investors of the breach.</drag4>
+    <drag5>A cyberwarrior defaces the tax website of another government by publishing an image of a pirate ship flying her country’s flag.</drag5>
+    <drag6>A cybercriminal accesses a bank’s customer’s account and drains it of all its funds.</drag6>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Financial Impact</drop1>
+    <drop2>Reputational Impact</drop2>
+    <drop3>Legal Impact</drop3>
+  </dropoptions>
+</draganddrop>

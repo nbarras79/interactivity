@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <drag1>
+    <fulltext>Network segmentation is an important part of a {blank_space} strategy.</fulltext>
+    <answer>defense-in-depth</answer>
+  </drag1>
+  <drag2>
+    <fulltext>It’s especially important to segment {blank_space} from lower risk systems.</fulltext>
+    <answer>high value assets</answer>
+  </drag2>
+  <drag3>
+    <fulltext>Traditional network security relied on {blank_space} defenses, such as firewalls.</fulltext>
+    <answer>perimeter</answer>
+  </drag3>
+  <drag4>
+    <fulltext>Today there is a trend toward {blank_space}, in which network segmentation and data protections are used to protect sensitive information within the network boundary.</fulltext>
+    <answer>zero trust</answer>
+  </drag4>
+  <drag5>
+    <fulltext>In an instance where a security professional is unable to implement the primary technology solution, {blank_space} can be used to provide a similar level of defense.</fulltext>
+    <answer>compensating controls</answer>
+  </drag5>
+  <drag6>
+    <fulltext>The use of these controls should never be a {blank_space} solution.</fulltext>
+    <answer>permanent</answer>
+  </drag6>
+  <submitbutton>Submit</submitbutton>
+  <resetbutton>Reset</resetbutton>
+  <restartbutton>Restart</restartbutton>
+  <incorrecttext>Please rearrange any options that are red and try again.</incorrecttext>
+  <correcttext>Great Job!</correcttext>
+</draganddrop>

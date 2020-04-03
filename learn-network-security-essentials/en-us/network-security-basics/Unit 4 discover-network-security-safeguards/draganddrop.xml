@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <drag1>
+    <fulltext>A typical network security strategy is made up of three parts: policy, enforcement, and {blank_space}.</fulltext>
+    <answer>audit/assessment</answer>
+  </drag1>
+  <drag2>
+    <fulltext>The last of these seeks to test the security posture of the comapny, and understand and resolve residual {blank_space}.</fulltext>
+    <answer>risks</answer>
+  </drag2>
+  <drag3>
+    <fulltext>In {blank_space} network security protections, engineers can use several technologies.</fulltext>
+    <answer>enforcing</answer>
+  </drag3>
+  <drag4>
+    <fulltext>{blank_space} blocks unauthroized devices from connecting to the network.</fulltext>
+    <answer>Network Access Control (NAC)</answer>
+  </drag4>
+  <drag5>
+    <fulltext>Firewalls {blank_space} and control incoming and outgoing network traffic based on predetermined security rules.</fulltext>
+    <answer>monitor</answer>
+  </drag5>
+  <drag6>
+    <fulltext>{blank_space} montior network traffic to identify possible incidents and prevent intrusions on the network.</fulltext>
+    <answer>Intrusion Detection and Prevention Systems (IDPS)</answer>
+  </drag6>
+  <drag7>
+    <fulltext>Finally, a Security Incident and Event Monitoring (SIEM) system can help {blank_space} log information from all of these devices in one place, combined with threat information to make analyzing security alerts easier.</fulltext>
+    <answer>aggregate</answer>
+  </drag7>
+  <submitbutton>Submit</submitbutton>
+  <resetbutton>Reset</resetbutton>
+  <restartbutton>Restart</restartbutton>
+  <incorrecttext>Please rearrange any options that are red and try again.</incorrecttext>
+  <correcttext>Great Job!</correcttext>
+</draganddrop>

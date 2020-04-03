@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Submit</submitbutton>
+  <resetbutton>Reset</resetbutton>
+  <restartbutton>Restart</restartbutton>
+  <incorrecttext>Please rearrange any options that are red and try again.</incorrecttext>
+  <correcttext>Great Job!</correcttext>
+  <dragoptions>
+    <drag1>Identify</drag1>
+    <drag2>Protect</drag2>
+    <drag3>Detect</drag3>
+    <drag4>Respond</drag4>
+    <drag5>Recover</drag5>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Use network based IDPS</drop1>
+    <drop2>Manage communication during an incident</drop2>
+    <drop3>Restore systems and assets affected by an incident</drop3>
+    <drop4>Determine how laptops connect to the network</drop4>
+    <drop5>Proactively secure the settings on a device</drop5>
+  </dropoptions>
+</draganddrop>

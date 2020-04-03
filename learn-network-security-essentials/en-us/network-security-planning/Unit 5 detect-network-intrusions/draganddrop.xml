@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Submit</submitbutton>
+  <resetbutton>Reset</resetbutton>
+  <restartbutton>Restart</restartbutton>
+  <incorrecttext>Please rearrange any options that are red and try again.</incorrecttext>
+  <correcttext>Great Job!</correcttext>
+  <dragoptions>
+    <drag1>NAC</drag1>
+    <drag2>SIEM</drag2>
+    <drag3>IDS</drag3>
+    <drag4>IPS</drag4>
+    <drag5></drag5>
+    <drag6></drag6>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Combines outputs from multiple sources (such as logs, IDS/IPS, threat intelligence) to provide alerts</drop1>
+    <drop2>Detects and alerts on the connection of unauthorized hardware</drop2>
+    <drop3>Stops detected incidents by dropping malicious packets, blocking offending IPs, or resetting connections</drop3>
+    <drop4>Monitors network traffic for signs of possible incidents and informs analysts through alerts</drop4>
+    <drop5></drop5>
+    <drop6></drop6>
+  </dropoptions>
+</draganddrop>

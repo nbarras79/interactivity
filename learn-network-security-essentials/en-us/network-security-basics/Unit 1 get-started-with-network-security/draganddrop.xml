@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Submit</submitbutton>
+  <resetbutton>Reset</resetbutton>
+  <restartbutton>Restart</restartbutton>
+  <incorrecttext>Please rearrange any options that are red and try again.</incorrecttext>
+  <correcttext>Great Job!</correcttext>
+  <dragoptions>
+    <drag1>A ransomware attack uses malware to encrypt the users data, making it inaccessible, and demands the user pay a sum of money to the hacker to recover the data.</drag1>
+    <drag2>A hacker defaces a corporation’s website with a picture of a pirate flag.</drag2>
+    <drag3>A cybercriminal gains access to the Point of Sale (POS) devices of a major retailer, and steals customer’s private credit card information.</drag3>
+    <drag4>A Denial of Service attack takes the government’s healthcare system offline, making it impossible for legitimate users to access the site to enroll in a healthcare plan.</drag4>
+    <drag5>A cyberwarrior accesses a government document that contains instructions on how to properly secure a nuclear reactor, and changes the instructions in the document.</drag5>
+    <drag6>A hacker guesses a user’s password from their social media profile, and uses it to access their photos in the cloud.</drag6>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Confidentiality</drop1>
+    <drop2>Integrity</drop2>
+    <drop3>Availability</drop3>
+  </dropoptions>
+</draganddrop>
