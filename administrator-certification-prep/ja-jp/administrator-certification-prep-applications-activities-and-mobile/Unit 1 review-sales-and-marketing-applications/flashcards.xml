@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} / {1}</flashcardcounttext>
+<leftarrowaccessibility>左矢印をクリックまたはキーボードの左矢印キーを押すと、前のフラッシュカードに移動します。</leftarrowaccessibility>
+<rightarrowaccessibility>右矢印をクリックまたはキーボードの左矢印キーを押すと、次のフラッシュカードに移動します。</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>フラッシュカード 1。フラッシュカードのコントロールは次のとおりです。前のフラッシュカードに移動するには、左矢印キーを押します。次のフラッシュカードに移動するには、右矢印キーを押します。フラッシュカードの表面と裏面を切り替えるには、下矢印キーを押します。このセットには 10 枚のフラッシュカードがあります。</accessibility>
+  <front>リードオブジェクトのカスタム項目を対応付けることができる 2 種類の項目はどれですか?</front>
+  <back>カスタム商談<br><br>カスタム取引先</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>フラッシュカード 2</accessibility>
+  <front>Ursa Major Solar には、保証の更新のみを扱うインサイドセールスチームと、商品の販売のみを行うフィールドセールスチームがあります。営業チームの種別ごとに収集する情報も営業サイクルも異なります。<br><br>上記の要件を満たすために、システム管理者は Salesforce をどのように設定すべきですか?</front>
+  <back>営業チーム別のページレイアウト、セールスプロセス、レコードタイプを作成する。</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>フラッシュカード 3</accessibility>
+  <front>Ursa Major Solar では、他社の商品と競合するさまざまな商品を揃えています。営業担当から、他のベンダーが提供する商品との比較における自社商品の長所と短所を示す手段を要望されました。<br><br>システム管理者は何を実装すべきですか?</front>
+  <back>商談ページレイアウトの競合</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>フラッシュカード 4</accessibility>
+  <front>Ursa Major Solar では、進行中のすべての大規模商談について、代表的な競合他社が成立させた商談に関する情報に営業チームがアクセスできるようにしたいと考えています。<br><br>システム管理者はどの機能の組み合わせを実装すべきですか?</front>
+  <back>競合と類似商談</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>フラッシュカード 5</accessibility>
+  <front>商談所有者の最終ログイン、完了予定日を過ぎた商談、過去 30 日間に更新されていないすべての商談に基づいて、注意を向ける必要のある商談を営業担当に知らせるために、システム管理者は隔週の通知をどのように実装すべきですか?</front>
+  <back>商談アップデートリマインダーを作成する。</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>フラッシュカード 6</accessibility>
+  <front>Ursa Major Solar はさまざまな再販業者ネットワークを通して販売を行っています。各再販業者の案件は、個別の商談で追跡されます。営業マネージャは、同一の顧客の商談が重複しているため、パイプラインレポートが正確ではないのではないかと懸念しています。<br><br>パイプラインの商談が二重にカウントされないように、セールスプロセスをどのように変更すべきですか?</front>
+  <back>重複する商談の売上予測分類を [売上予測から除外] に変更する。</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>フラッシュカード 7</accessibility>
+  <front>キャンペーンメンバーに関連付けることができる 2 つのオブジェクトは何ですか?</front>
+  <back>リード<br><br>取引先責任者</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>フラッシュカード 8</accessibility>
+  <front>1 つの商談に複数のキャンペーンレコードを関連付けることができる方法は何ですか?</front>
+  <back>キャンペーンインフルエンス</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>フラッシュカード 9</accessibility>
+  <front>ファイルが表示された回数を追跡する機能は何ですか?</front>
+  <back>コンテンツ配信</back>
+</flashcard9>
+<flashcard10>
+  <accessibility>フラッシュカード 10</accessibility>
+  <front>キャンペーンがパイプライン全体にどの程度貢献しているかを追跡するために、商談ページレイアウトに追加すべき 2 つの関連リストは何ですか?</front>
+  <back>キャンペーンインフルエンス<br><br>取引先責任者の役割</back>
+</flashcard10>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} / {1}</flashcardcounttext>
+<leftarrowaccessibility>左矢印をクリックまたはキーボードの左矢印キーを押すと、前のフラッシュカードに移動します。</leftarrowaccessibility>
+<rightarrowaccessibility>右矢印をクリックまたはキーボードの左矢印キーを押すと、次のフラッシュカードに移動します。</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>フラッシュカード 1。フラッシュカードのコントロールは次のとおりです。前のフラッシュカードに移動するには、左矢印キーを押します。次のフラッシュカードに移動するには、右矢印キーを押します。フラッシュカードの表面と裏面を切り替えるには、下矢印キーを押します。このセットには 4 枚のフラッシュカードがあります。</accessibility>
+  <front>1 つの組織で 1 日に作成できるストーリーの最大数はいくつですか?</front>
+  <back>20</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>フラッシュカード 2</accessibility>
+  <front>データの準備をするときに、使用されている変数項目が多くあり過ぎることを何と言いますか?</front>
+  <back>過剰適合</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>フラッシュカード 3</accessibility>
+  <front>Einstein Discovery にアクセスするためにユーザに必要な権限および権限セットは何ですか?</front>
+  <back>一般ユーザには「Einstein Analytics Plus ユーザ」、システム管理者アクセスには「Einstein Analytics Plus システム管理者」</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>フラッシュカード 4</accessibility>
+  <front>Einstein Discovery で使用される滝グラフは、どのような種類のインサイトを視覚化するのに役立ちますか? </front>
+  <back>「なぜそれが起きたか」インサイト</back>
+</flashcard4>

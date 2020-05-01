@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} / {1}</flashcardcounttext>
+<leftarrowaccessibility>左矢印をクリックまたはキーボードの左矢印キーを押すと、前のフラッシュカードに移動します。</leftarrowaccessibility>
+<rightarrowaccessibility>右矢印をクリックまたはキーボードの左矢印キーを押すと、次のフラッシュカードに移動します。</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>フラッシュカード 1。フラッシュカードのコントロールは次のとおりです。前のフラッシュカードに移動するには、左矢印キーを押します。次のフラッシュカードに移動するには、右矢印キーを押します。フラッシュカードの表面と裏面を切り替えるには、下矢印キーを押します。このセットには 9 枚のフラッシュカードがあります。</accessibility>
+  <front>Ursa Major Solar は、顧客の契約の有効期限が近づいたときに自動的に取引先マネージャに ToDo を割り当てたいと考えています。<br><br>システム管理者は、どのようにしてこの機能を設定すべきですか?</front>
+  <back>取引先で、[Agreement End Date (契約終了日)] [&gt;] [TODAY()] のルール条件を設定した時間ベースのワークフローを作成する。</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>フラッシュカード 2</accessibility>
+  <front>システム管理者が、優先度が高いケースが作成されたときにメールアラートを送信するワークフロールールを作成しました。Ursa Major Solar にリモート勤務している新しいサポートエンジニアから、メールアラートを受信していないという苦情が来ました。Ursa Major Solar の他のすべてのユーザはこれらのメールアラートを受信しています。<br><br>システム管理者は、どのようにしてこの問題をトラブルシューティングできますか?</front>
+  <back>ユーザのメールアドレスを確認する。</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>フラッシュカード 3</accessibility>
+  <front>Ursa Major Solar は、取締役会のメンバーにメールアラートを送信するワークフロールールを作成したいと考えています。取締役会の誰も Salesforce を使用していません。<br><br>1 つのメールアラートに何人の取締役会メンバーを追加できますか?</front>
+  <back>メールアラートには、最大 5 件の追加メールアドレスを追加できます。</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>フラッシュカード 4</accessibility>
+  <front>フロー</front>
+  <back>フローは、ロジックの実行、Salesforce データベースの操作、Apex クラスのコール、ユーザからのデータの収集を行えるアプリケーションです。</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>フラッシュカード 5</accessibility>
+  <front>クイックアクション</front>
+  <back>クイックアクションには、オブジェクト固有のアクションまたはグローバルアクションを指定できます。作成、更新、および活動の記録アクションのみがサポートされています。これらのクイックアクションはプロセスでも使用できます。その場合、アクションのレイアウトに含まれる項目に対してのみ値を設定できます。</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>フラッシュカード 6</accessibility>
+  <front>プロセストリガ</front>
+  <back>すべてのプロセスには、いつ開始するかをプロセスに指示するトリガが含まれています。トリガの設定方法は、作成するプロセスの種別 (レコード変更、イベント、起動可能) に応じて異なります。</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>フラッシュカード 7</accessibility>
+  <front>承認プロセス</front>
+  <back>承認プロセスでは、Salesforce でレコードを承認する方法を自動化します。承認プロセスでは、承認申請者、プロセスの各ポイントでの実行内容など、承認の各ステップを指定します。</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>フラッシュカード 8</accessibility>
+  <front>承認プロセスの削除</front>
+  <back>承認プロセスを削除する前に、承認プロセスが無効であることを確認します。プロセスに関連付けられた未承認申請を削除し、[ごみ箱] から削除します。</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>フラッシュカード 9</accessibility>
+  <front>承認プロセスの有効化</front>
+  <back>承認プロセスを有効にするには、その承認プロセスに最低でも 1 つのステップが必要です。承認プロセスを有効にした後は、プロセスが無効であっても、ステップの追加、削除、順序の変更、プロセスの却下やスキップの動作の変更はできません。</back>
+</flashcard9>

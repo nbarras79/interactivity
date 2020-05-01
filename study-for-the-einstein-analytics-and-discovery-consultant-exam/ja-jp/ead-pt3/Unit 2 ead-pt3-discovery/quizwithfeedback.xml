@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>次へ</nextbuttontext>
+  <submitbuttontext>送信</submitbuttontext>
+  <reviewbuttontext>確認</reviewbuttontext>
+  <retakequizbuttontext>やり直し</retakequizbuttontext>
+  <nextbuttontext>再試行</nextbuttontext>
+  <questioncounttext>質問 {0} / (1)</questioncounttext>
+  <answernothingselectedtext>回答を選択してください。</answernothingselectedtext>
+  <twoanswerstoofewselected>回答を 2 つ選択</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>回答を 2 つだけ選択</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>回答を 3 つ選択</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>回答を 3 つだけ選択</threeanswerstoomanyselected>
+  <numberofattempts>試行回数: </numberofattempts>
+  <question1>
+    <accessibility>質問 1.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。知識チェックのコントロールは次のとおりです。1 番目の選択肢を選択するにはキーボードの「1」、2 番目は「2」、3 番目は「3」、4 番目は「4」、5 番目がある場合は「5」を押します。選択した回答を送信するには、キーボードの Enter キーを押します。回答が不正解だった場合は、Shift-Enter キーを押すと選択をリセットできます。</accessibility>
+    <question>[何が起きる可能性があるか] インサイト機能は、Einstein Analytics コンサルタントが分析とディスカバリーを行う上でどのように役立ちますか? </question>
+    <option1text>過去のトランザクションから既存のデータを表示し、コンサルタントが作成されたダッシュボードを理解するのに役立つ。</option1text>
+    <option1textexplanation>不正解。過去のトランザクションを分析しても、コンサルタントが作成されたダッシュボードを理解するのには役立ちません。 </option1textexplanation>
+    <option2text>データを使用して、将来の行動の可能性の高い結果を統計的に計算する。 </option2text>
+    <option2textexplanation>正解。Einstein Discovery は、予測分析を実施て将来の結果を予測し、指示的分析を実施してそれらの予測された結果を改善する方法を提案します。</option2textexplanation>
+    <option3text>データセットから除外すべきデータを判断する。</option3text>
+    <option3textexplanation>不正解。[何が起きる可能性があるか] インサイトでは、予測分析から除外すべき項目を判断するためのデータセット分析は行われません。 </option3textexplanation>
+    <option4text>過去のデータを要約し、コンサルタントにダッシュボードのパフォーマンス情報を提供する。</option4text>
+    <option4textexplanation>不正解。[何が起きる可能性があるか] インサイトでは、ダッシュボードのパフォーマンスは判断されません。 </option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <question>予測分析のためのデータを準備するとき、Einstein Analytics コンサルタントは欠損値というデータ品質の問題にどう対処することができますか?</question>
+    <option1text>欠損値に「empty」という語を入力すると、不要な追加値が作成されてデータ品質の対処にはなりません。 </option1text>
+    <option1textexplanation>不正解。欠損値に「empty」という語を入力する。</option1textexplanation>
+    <option2text>欠損値のあるレコードを除外すると、欠損データ内のパターンを見落としたり、分析における現実的な側面が損なわれる可能性があります。</option2text>
+    <option2textexplanation>不正解。任意の項目のデータが欠損しているすべてのレコードを除外する検索条件を作成する。</option2textexplanation>
+    <option3text>他のレコードのトレンド情報を欠損値に入力すると、結果を歪ませます。</option3text>
+    <option3textexplanation>不正解。他のレコードのトレンド情報を欠損値に入力する。</option3textexplanation>
+    <option4text>これは、Einstein Analytics 用のデータを整理および準備する最も効率的な方法です。</option4text>
+    <option4textexplanation>正解。平均値を導入することで標準偏差を小さくするか、欠損値のあるレコードを除外する (ただし、そのレコードが分析に影響しない場合に限る)。</option4textexplanation>
+  </question2>
+</quizwithfeedback>

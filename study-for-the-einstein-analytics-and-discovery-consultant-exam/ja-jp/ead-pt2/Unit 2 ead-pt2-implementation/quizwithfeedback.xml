@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>次へ</nextbuttontext>
+  <submitbuttontext>送信</submitbuttontext>
+  <reviewbuttontext>確認</reviewbuttontext>
+  <retakequizbuttontext>やり直し</retakequizbuttontext>
+  <nextbuttontext>再試行</nextbuttontext>
+  <questioncounttext>質問 {0} / (1)</questioncounttext>
+  <answernothingselectedtext>回答を選択してください。</answernothingselectedtext>
+  <twoanswerstoofewselected>回答を 2 つ選択</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>回答を 2 つだけ選択</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>回答を 3 つ選択</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>回答を 3 つだけ選択</threeanswerstoomanyselected>
+  <numberofattempts>試行回数: </numberofattempts>
+  <question1>
+    <accessibility>質問 1.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。知識チェックのコントロールは次のとおりです。1 番目の選択肢を選択するにはキーボードの「1」、2 番目は「2」、3 番目は「3」、4 番目は「4」、5 番目がある場合は「5」を押します。選択した回答を送信するには、キーボードの Enter キーを押します。回答が不正解だった場合は、Shift-Enter キーを押すと選択をリセットできます。</accessibility>
+    <question>ある顧客が、長期にわたって繰り返される個別の活動 (アカウントのクローズなど) を視覚化するのに便利なグラフを見つける必要があります。このグラフでは、月から週または日のように、時間ベースのグルーピングの粒度を簡単に変更できる必要があります。<br><br>この要件を満たすグラフはどれですか?</question>
+    <option1text>円グラフ </option1text>
+    <option1textexplanation>不正解。円グラフは、複数のグループが存在し、合計に対する各グループの個別値の比率を表示する場合に最適です。 </option1textexplanation>
+    <option2text>カレンダーヒートマップグラフ</option2text>
+    <option2textexplanation>正解。カレンダーヒートマップは、繰り返される個別の活動を視覚化する場合に便利です。月から週または日のように、時間ベースのグルーピングの粒度を簡単に変更できます。 </option2textexplanation>
+    <option3text>縦棒グラフ</option3text>
+    <option3textexplanation>不正解。縦棒グラフは棒グラフと非常によく似ていますが、相対的な件数を示すのにより適した形式です。 </option3textexplanation>
+    <option4text>じょうごグラフ</option4text>
+    <option4textexplanation>不正解。じょうごグラフは、順序付けられたセット内の複数のグループを表示するのに適しています。 </option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <question>Einstein Analytics コンサルタントはどのように timeseries を実装できますか?</question>
+    <option1text>ダッシュボードで SAQL エディタを開く。foreach を使用して調べるデータを抽出し、timeseries を使用して選択した基準の予測を行う。</option1text>
+    <option1textexplanation>正解。timeseries はデータを分析して、最適な予測モデルを選択します。timeseries はデータ内の季節性を検出します。将来データがどのようになるかを予測するときに周期が考慮されます。</option1textexplanation>
+    <option2text>操作するデータセットを開き、timeseries セクションを見つけて、正しい予測を選択する。</option2text>
+    <option2textexplanation>不正解。timeseries セクションを操作する必要はありません。timeseries はデータを分析して、最適な予測モデルを選択します。 </option2textexplanation>
+    <option3text>ダッシュボードで SOQL エディタを開く。foreach を使用して調べるデータを抽出し、timeseries を使用して選択した基準の予測を行う。</option3text>
+    <option3textexplanation>不正解。timeseries で最適な予測を行うには、SOQL は必要ありません。 </option3textexplanation>
+    <option4text>操作するダッシュボードを開き、timeseries セクションを見つけて、予測を最適にするようにレンズを編集する。</option4text>
+    <option4textexplanation>不正解。timeseries で最適な予測を行うには、レンズの編集は必要ありません。 </option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>質問 3.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <question>ある Einstein Analytics コンサルタントが、年度累計値を昨年の同じ値と比較できるようにしたいと考えています。 <br><br>コンサルタントは、Einstein Analytics のどの機能を使用すべきですか? </question>
+    <option1text>データフロー実行のスケジュール設定</option1text>
+    <option1textexplanation>不正解。データフロー実行のスケジュールを設定しても、データを比較することはできません。 </option1textexplanation>
+    <option2text>ドーナツグラフ</option2text>
+    <option2textexplanation>不正解。ドーナツグラフでは、データ値を同じ値と比較できません。 </option2textexplanation>
+    <option3text>レンズのコピー</option3text>
+    <option3textexplanation>不正解。レンズをコピーすると、現在のデータがスナップショットにコピーされます。この形式ではデータを比較できません。 </option3textexplanation>
+    <option4text>比較テーブル</option4text>
+    <option4textexplanation>正解。データ値を経時的に同じ値と比較するには比較テーブル機能を使用します。 </option4textexplanation>
+  </question3>
+</quizwithfeedback>

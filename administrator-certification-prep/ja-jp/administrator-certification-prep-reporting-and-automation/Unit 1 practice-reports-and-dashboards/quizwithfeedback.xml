@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>次へ</nextbuttontext>
+  <submitbuttontext>送信</submitbuttontext>
+  <reviewbuttontext>確認</reviewbuttontext>
+  <retakequizbuttontext>やり直し</retakequizbuttontext>
+  <nextbuttontext>再試行</nextbuttontext>
+  <questioncounttext>質問 {0} / (1)</questioncounttext>
+  <answernothingselectedtext>回答を選択してください。</answernothingselectedtext>
+  <twoanswerstoofewselected>回答を 2 つ選択</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>回答を 2 つだけ選択</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>回答を 3 つ選択</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>回答を 3 つだけ選択</threeanswerstoomanyselected>
+  <numberofattempts>試行回数: </numberofattempts>
+  <question1>
+    <accessibility>質問 1.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。知識チェックのコントロールは次のとおりです。1 番目の選択肢を選択するにはキーボードの「1」、2 番目は「2」、3 番目は「3」、4 番目は「4」、5 番目がある場合は「5」を押します。選択した回答を送信するには、キーボードの Enter キーを押します。回答が不正解だった場合は、Shift-Enter キーを押すと選択をリセットできます。</accessibility>
+    <question>Ursa Major Solar の営業マネージャは、営業担当のチームが任意の時点での自分の進行中の商談件数を知ることができるようにしたいと考えています。<br><br>各営業担当が自分の進行中の商談を表示できるようにするために、システム管理者はレポートをどのように設定すべきですか?</question>
+    <option1text>営業担当別にグループ化されたレポート作成スナップショットを作成する。</option1text>
+    <option1textexplanation>不正解。これによって営業担当に各自の進行中の商談のみが表示されることはありません。</option1textexplanation>
+    <option2text>[私の商談] によるクロス条件を使用したレポートを作成する。</option2text>
+    <option2textexplanation>不正解。クロス条件は、クロスオブジェクト項目で絞り込むためにレポートで使用されます。</option2textexplanation>
+    <option3text>[私の商談] で絞り込まれたレポートを作成する。</option3text>
+    <option3textexplanation>正解。このレポートには、営業担当の進行中の商談が表示されます。</option3textexplanation>
+    <option4text>各営業担当のレポートスケジュールを作成する。</option4text>
+    <option4textexplanation>不正解。スケジュールでは、各営業担当が自分の進行中の商談を確認できるレポートは作成されません。</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>質問 2.この質問の回答には 5 つの選択肢があります。質問の正解は 3 つです。</accessibility>
+    <question>リード状況に基づくマーケティングパイプライン内のリード件数と各リード状況が表す割合が表示されるレポートグラフはどれですか? 3 つ選択してください。(答えを 3 つ選択してください)</question>
+    <option1text>集合棒グラフ</option1text>
+    <option1textexplanation>不正解。集合棒グラフには、サイロ化された個々のリード情報が表示されます。</option1textexplanation>
+    <option2text>円グラフ</option2text>
+    <option2textexplanation>正解。円グラフには、リード数と全体に対するリードの割合が表示されます。</option2textexplanation>
+    <option3text>ドーナツグラフ</option3text>
+    <option3textexplanation>正解。ドーナツグラフには、リード数と全体に対するリードの割合が表示されます。</option3textexplanation>
+    <option4text>折れ線グラフ</option4text>
+    <option4textexplanation>不正解。棒線グラフには、全体に対するリードの割合は表示されません。</option4textexplanation>
+    <option5text>じょうごグラフ</option5text>
+    <option5textexplanation>正解。じょうごグラフには、リード数と全体に対するリードの割合が表示されます。</option5textexplanation>
+  </question2>
+  <question3>
+    <accessibility>質問 3.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <question>ある財務ユーザは、「すべてのデータの参照」権限が有効になっていますが、セールスパイプラインレポートを開いたときに商談が表示されません。一方、営業担当には期待どおりに商談が表示されます。商談は、権限があるユーザにのみ表示される必要があります。<br><br>財務ユーザにパイプラインレポートで商談が表示されるようにするために、システム管理者が実行すべきアクションはどれですか? 2 つ選択してください。(答えを 2 つ選択してください)</question>
+    <option1text>パイプラインレポートで [階層レベルの保存] を選択する。</option1text>
+    <option1textexplanation>正解。[階層レベルの保存] チェックボックスをオンにすると、レポートの作成時に使用された階層レベルが保持されます。そのため、元々財務ユーザにレポートを表示する権限があれば、以降のレポートが作成されたときにも同じ権限が適用されます。</option1textexplanation>
+    <option2text>パイプラインレポートで新しいレポート数式を作成する。</option2text>
+    <option2textexplanation>不正解: 数式を作成しても、どの商談が表示されるかは変更されません。</option2textexplanation>
+    <option3text>レポートの検索条件を更新して、すべての商談が表示されるようにする。</option3text>
+    <option3textexplanation>正解。検索条件を使用してすべての商談を表示すれば、「すべてのデータの参照」権限が有効になっているユーザには、レポートのすべての商談が表示されます。</option3textexplanation>
+    <option4text>商談の組織の共有設定を「公開/参照」に変更する。</option4text>
+    <option4textexplanation>不正解。こうすると、組織のすべてのユーザに商談が表示されます。</option4textexplanation>
+  </question3>
+  <question4>
+    <accessibility>質問 4.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <question>各営業担当に各自の現在の商談パイプラインが表示されるダッシュボードを提供するには、システム管理者は何を設定すべきですか?</question>
+    <option1text>ダッシュボード検索条件を現在のユーザに設定する。</option1text>
+    <option1textexplanation>不正解。ダッシュボード検索条件を現在のユーザに設定すると、ダッシュボードを実行しているユーザではなく、設定されたユーザの商談のみが表示されます。</option1textexplanation>
+    <option2text>各ユーザのダッシュボードフォルダを作成する。</option2text>
+    <option2textexplanation>不正解。各ユーザのダッシュボードフォルダを作成しても、ユーザのダッシュボードは絞り込まれません。ダッシュボードフォルダは、ダッシュボードを保存するためのもので、フォルダ内のダッシュボードの表示が制限されます。</option2textexplanation>
+    <option3text>動的ビューを営業担当副社長に設定してダッシュボードを絞り込む。</option3text>
+    <option3textexplanation>不正解。動的ダッシュボードは制限されています。[次のユーザとしてダッシュボードを参照] オプションは次のとおりです。 <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 20px;padding-left: 20px;font-size:20px;">
+        <li>自分</li>
+        <li>別のユーザ</li>
+        <li>ダッシュボード閲覧者</li>
+      </ul>
+    </option3textexplanation>
+    <option4text>ダッシュボード実行ユーザを [ダッシュボード閲覧者] に設定する。</option4text>
+    <option4textexplanation>正解。これにより、ダッシュボードには閲覧ユーザに関連するデータのみが表示されます。</option4textexplanation>
+  </question4>
+  <question5>
+    <accessibility>質問 5.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <question>ある営業ユーザが、ダッシュボードにコンポーネントを追加したいと考えています。<br><br>1 つのダッシュボードに追加できるコンポーネントの最大数はどれですか?</question>
+    <option1text>3</option1text>
+    <option1textexplanation>不正解。各ダッシュボードには、最大 20 個のコンポーネントを含めることができます。各レポートには、最大 3 個のクロス条件を含めることができます。</option1textexplanation>
+    <option2text>15</option2text>
+    <option2textexplanation>不正解。各ダッシュボードには、最大 20 個のコンポーネントを含めることができます。</option2textexplanation>
+    <option3text>20</option3text>
+    <option3textexplanation>正解。各ダッシュボードには、最大 20 個のコンポーネントを含めることができます。</option3textexplanation>
+    <option4text>50</option4text>
+    <option4textexplanation>不正解。各ダッシュボードには、最大 20 個のコンポーネントを含めることができます。ダッシュボード検索条件には、最大 50 個の値を設定できます。</option4textexplanation>
+  </question5>
+  <question6>
+    <accessibility>質問 6.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <question>ユーザにカスタムレポートタイプが表示されない場合、システム管理者が実行すべきことは何ですか?</question>
+    <option1text>新しいレポートタイプがリリースされていることを確認する。</option1text>
+    <option1textexplanation>正解。カスタムレポートタイプがリリースされていない場合、ユーザはそのレポートタイプにアクセスできません。</option1textexplanation>
+    <option2text>ユーザプロファイルにそのレポートタイプが含まれていることを確認する。</option2text>
+    <option2textexplanation>不正解。オブジェクトへのアクセスは、プロファイルによって制御され、レポートタイプには基づきません。</option2textexplanation>
+    <option3text>新しいレポートタイプを関連オブジェクトに追加する。</option3text>
+    <option3textexplanation>不正解。レポートタイプは、レポートの対象となるオブジェクトに対して作成されます。</option3textexplanation>
+    <option4text>レポートビルダーに新しいレポートタイプのボタンを追加する。</option4text>
+    <option4textexplanation>不正解。レポートタイプは、リリースされたときにレポートビルダーに含まれます。</option4textexplanation>
+  </question6>
+  <question7>
+    <accessibility>質問 7.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <question>Ursa Major Solar は、非公開データアクセスモデルを使用しています。商品マネージャと営業担当は、ロール階層の異なるブランチにいます。<br><br>商品マネージャが商品パイプライン内の商談についてのレポートを作成できるようにするために、システム管理者がすべきことは何ですか?</question>
+    <option1text>条件に基づく共有ルールを作成する。</option1text>
+    <option1textexplanation>正解。条件に基づく共有ルールは、所有権、あるいは項目値に基づいて共有するレコードを決定します。</option1textexplanation>
+    <option2text>すべての商談レポートを公開フォルダに保存する。</option2text>
+    <option2textexplanation>不正解。レポートを公開フォルダに保存すると、すべてのユーザにアクセス権が付与されます。</option2textexplanation>
+    <option3text>すべての商品マネージャを営業担当の下位のロールに移動する。</option3text>
+    <option3textexplanation>不正解。商品マネージャが営業担当の下位のロールにいる場合、商品マネージャはレポートを表示できません。商品マネージャは、ロール階層で営業担当の上位のロールにいる必要があります。</option3textexplanation>
+    <option4text>商品マネージャと営業担当用の新しいロールを作成する。</option4text>
+    <option4textexplanation>不正解。新しいロールを作成すると、ロール階層がさらに分割されます。商品マネージャと営業担当をまとめたり分岐したりする必要はありません。</option4textexplanation>
+  </question7>
+</quizwithfeedback>

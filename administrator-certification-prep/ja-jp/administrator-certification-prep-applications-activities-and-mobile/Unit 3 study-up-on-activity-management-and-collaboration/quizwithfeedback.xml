@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>次へ</nextbuttontext>
+  <submitbuttontext>送信</submitbuttontext>
+  <reviewbuttontext>確認</reviewbuttontext>
+  <retakequizbuttontext>やり直し</retakequizbuttontext>
+  <nextbuttontext>再試行</nextbuttontext>
+  <questioncounttext>質問 {0} / (1)</questioncounttext>
+  <answernothingselectedtext>回答を選択してください。</answernothingselectedtext>
+  <twoanswerstoofewselected>回答を 2 つ選択</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>回答を 2 つだけ選択</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>回答を 3 つ選択</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>回答を 3 つだけ選択</threeanswerstoomanyselected>
+  <numberofattempts>試行回数: </numberofattempts>
+  <question1>
+    <accessibility>質問 1.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。知識チェックのコントロールは次のとおりです。1 番目の選択肢を選択するにはキーボードの「1」、2 番目は「2」、3 番目は「3」、4 番目は「4」、5 番目がある場合は「5」を押します。選択した回答を送信するには、キーボードの Enter キーを押します。回答が不正解だった場合は、Shift-Enter キーを押すと選択をリセットできます。</accessibility>
+    <question>Ursa Major Solar の営業部長は、世界各地の 50 人の営業担当で編成されたチームを統括しています。このチームは Salesforce のカレンダー機能を使用しているため、営業部長がチームの多忙なスケジュールにアクセスすることができます。けれども、チームのメンバーが終日の行動をそれぞれのやり方で記録していることから、営業部長はある程度統一したいと考えています。<br><br>営業担当は Salesforce で終日の行動をどのように作成すべきですか?</question>
+    <option1text>終日の行動に ToDo を使用して、時間項目が不要になるようにする。</option1text>
+    <option1textexplanation>不正解。Salesforce 内の ToDo は、主としてやることリストやリマインダーとして使用されます。ToDo を行動の代わりに使用すべきではありません。</option1textexplanation>
+    <option2text>行動の [終日の行動] チェックボックスをオンにする。</option2text>
+    <option2textexplanation>正解。終日の行動を記録する最も効率的な方法は、[終日の行動] チェックボックスをオンにすることです。こうすれば、複数のタイムゾーンにまたがる営業担当の勤務時間の時差を考慮する必要がなくなります。</option2textexplanation>
+    <option3text>行動が始業時間から終業時間までスケジュールされていることを確認する。</option3text>
+    <option3textexplanation>不正解。この海外チームでは各人の始業時間と終業時間がそれぞれ異なるため、これは一貫したオプションではありません。</option3textexplanation>
+    <option4text>活動設定の [終日の行動] チェックボックスをオンにするようシステム管理者に依頼する。</option4text>
+    <option4textexplanation>不正解。システム管理者が各営業担当の行動を修正すべきではなく、このオプションは非効率的です。</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <question>Ursa Major Solar がその組織内に Salesforce を実装しています。Ursa Major Solar のユーザ全員がシステムに読み込まれましたが、全社で導入する前に少人数のユーザグループがテストユーザとして選定されました。
+      これらのテストユーザは、会社全体のリリースに向けて、あらゆる機能とツールがきちんと動作するよう調整されているかどうかに関するフィードバックを Chatter に投稿します。<br><br>ロールアウト中の Chatter へのアクセスを Salesforce ユーザのサブセットに制限するために、システム管理者はどのような操作を実行すればよいですか? (答えを 2 つ選択してください)</question>
+    <option1text>ユーザのサブセットに「Chatter の有効化」権限を付与する権限セットを作成する。</option1text>
+    <option1textexplanation>正解。権限セットは、Chatter などのさまざまなツールや機能へのアクセス権をユーザに付与する設定と権限のコレクションです。</option1textexplanation>
+    <option2text>ユーザのサブセットを会社全体の Chatter グループに追加する。</option2text>
+    <option2textexplanation>不正解。ユーザのサブセットを会社全体の Chatter グループに追加しても、Chatter へのアクセスをユーザのサブセットに限定することにはなりません。</option2textexplanation>
+    <option3text>ユーザのサブセットに「Chatter の有効化」が付与されるようにプロファイルを編集する。</option3text>
+    <option3textexplanation>正解。プロファイルは、ユーザがオブジェクトやデータにアクセスする方法や、アプリケーション内で実行可能な操作を定義します。ユーザが作成されると、プロファイルが割り当てられます。この状況では、ユーザのサブセットのプロファイル設定をカスタマイズすれば、Chatter へのアクセスを指定したユーザのサブセットに限定できます。</option3textexplanation>
+    <option4text>ユーザのサブセット宛の招待メールを作成する。</option4text>
+    <option4textexplanation>不正解。招待メールは、他のユーザの Chatter へのアクセスを制限するものではないため、Chatter へのアクセスを制限する手段にはなりません。</option4textexplanation>
+  </question2>
+</quizwithfeedback>

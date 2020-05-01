@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>次へ</nextbuttontext>
+  <submitbuttontext>送信</submitbuttontext>
+  <reviewbuttontext>確認</reviewbuttontext>
+  <retakequizbuttontext>やり直し</retakequizbuttontext>
+  <nextbuttontext>再試行</nextbuttontext>
+  <questioncounttext>質問 {0} / (1)</questioncounttext>
+  <answernothingselectedtext>回答を選択してください。</answernothingselectedtext>
+  <twoanswerstoofewselected>回答を 2 つ選択</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>回答を 2 つだけ選択</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>回答を 3 つ選択</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>回答を 3 つだけ選択</threeanswerstoomanyselected>
+  <numberofattempts>試行回数: </numberofattempts>
+  <question1>
+    <accessibility>質問 1.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。知識チェックのコントロールは次のとおりです。1 番目の選択肢を選択するにはキーボードの「1」、2 番目は「2」、3 番目は「3」、4 番目は「4」、5 番目がある場合は「5」を押します。選択した回答を送信するには、キーボードの Enter キーを押します。回答が不正解だった場合は、Shift-Enter キーを押すと選択をリセットできます。</accessibility>
+    <question>Ursa Major Solar では、ソーラーパネルの新しい商品ラインを開発し、この商品のみを取り扱う営業チームを編成しました。新商品ラインのセールスプロセスは現行のものより複雑で、セールスパスにフェーズを追加する必要があります。<br><br>商品ラインに基づいて適切なフェーズのみが表示されるようにするために、システム管理者は Salesforce をどのように設定すべきですか?</question>
+    <option1text>商品ライン別にセールスプロセスと商談レコードタイプを作成する。</option1text>
+    <option1textexplanation>正解。2 つの設定を行う必要があります。1 つは、この新しい商品ラインに表示するフェーズを決定することで、もう 1 つは、この新しい商品ラインに固有のページレイアウトを表示する、新しい商談レコードタイプを作成することです。</option1textexplanation>
+    <option2text>商品ラインに基づいて適切なフェーズを表示する入力規則を作成する。</option2text>
+    <option2textexplanation>不正解。入力規則は、ユーザがレコードを保存する前に、入力したデータが指定した基準を満たしているかどうかを検証するものです。したがって、入力規則は、新設の営業チームに適切なフェーズを表示するというニーズを満たしません。</option2textexplanation>
+    <option3text>新しい売上予測分類を作成し、この分類に新しいフェーズ選択リスト値を割り当てる。</option3text>
+    <option3textexplanation>不正解。売上予測分類は、商談フェーズに基づいて商談を割り当てる営業サイクル内の分類です。新しい売上予測分類を作成しても、新設の営業チームに適切なフェーズが表示されるようにはなりません。</option3textexplanation>
+    <option4text>ユーザのロールに基づいて適切なフェーズを表示する入力規則を作成する。</option4text>
+    <option4textexplanation>不正解。入力規則は、ユーザがレコードを保存する前に、入力したデータが指定した基準を満たしているかどうかを検証するものです。したがって、入力規則は、新設の営業チームに適切なフェーズを表示するというニーズを満たしません。</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <question>Ursa Major Solar の営業業務部長は、商品を指定せずに商談を記録する営業担当が増えていることに気が付きました。商品のない商談が記録されると、後々業務チームが各商談を見直して商品を追加しなければなりません。営業担当が各商談に必ず商品を追加するよう促すために、システム管理者が設定に行うべき変更はどれですか?</question>
+    <option1text>ユーザが関連商品を表示できるようにする関連リストを作成する。</option1text>
+    <option1textexplanation>不正解。関連リストを追加しても、商談を記録する営業担当に必ず商品を追加するよう促すことになるとは限りません。</option1textexplanation>
+    <option2text>商品の商談への追加をユーザに促す商談設定を有効にする。</option2text>
+    <option2textexplanation>正解。商品の商談への追加をユーザに促すかどうかのオン/オフを切り替えられる設定があります。</option2textexplanation>
+    <option3text>商品が指定されていない場合はデフォルトの商品を商談に追加するワークフロールールを商談に作成する。</option3text>
+    <option3textexplanation>不正解。商品がリストされていない各商談にデフォルトの商品を追加しても、営業担当が商談を記録するときに商品を追加しないという問題の解決にはなりません。</option3textexplanation>
+    <option4text>価格表の組織の共有設定を [使用]、商品の組織の共有設定を [参照のみ] に設定する。</option4text>
+    <option4textexplanation>不正解。価格表や商品のアクセスおよび表示は、商談を記録するときに商品を追加するよう営業担当に促すものではありません。</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>質問 3.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <question>Ursa Major Solar が先ごろ、最新の商品ラインを発表しました。Ursa Major Solar のサイト上の Web フォームで多数のリードが生み出され、こうした見込み客が特定の商品への関心を示しています。これらのリードは直接 Salesforce に自動的にインポートされます。<br><br>リードの [Product Interest (商品への関心)] というカスタム項目を使用して、リードの所有権を適切な商品チームに割り当てるために、システム管理者が使用すべき機能はどれですか? (答えを 2 つ選択してください)</question>
+    <option1text>割り当てルール</option1text>
+    <option1textexplanation>正解。割り当てルールは、リードまたはケースの処理方法を決定する条件を定義します。このシナリオでは、見込み客が Web フォームで特定の商品に関心を示すと (リードの [Product Interest (商品への関心)] カスタム項目)、リードが生成され、適切な商品チームに割り当てられます。</option1textexplanation>
+    <option2text>エスカレーションルール</option2text>
+    <option2textexplanation>不正解。エスカレーションルールは、ケースをエスカレーションする条件を指定するために使用します。リードはケースではないため、この状況ではエスカレーションルールは該当しません。</option2textexplanation>
+    <option3text>リードチーム</option3text>
+    <option3textexplanation>不正解。リードチームは、リードを表示してアクセスできるユーザのグループのことです。要望に応じて所有権を割り当てるものではありません。</option3textexplanation>
+    <option4text>キュー</option4text>
+    <option4textexplanation>正解。キューは、レコードの優先度の設定、レコードの分配、ワークロードを分担するチームへのレコードの割り当てを行います。このシナリオでは、リードを適切な商品チームに割り当てる必要があるため、キューの必要性が示唆されます。</option4textexplanation>
+  </question3>
+  <question4>
+    <accessibility>質問 4.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <question>Ursa Major Solar のある営業担当が見込み客に対応していますが、この見込み客は会社の IT 規定により添付ファイルを開くことができません。<br><br>この営業担当が、商品データシートをメール添付以外の方法で見込み客に送信するにはどうすればよいですか?</question>
+    <option1text>データシートの内容のコピー/貼り付け操作で、カスタマーコミュニティ内にカスタムページを作成する。</option1text>
+    <option1textexplanation>不正解。この解決策は非効率的で、個々の見込み客と情報を共有する安全な手段ではありません。</option1textexplanation>
+    <option2text>データシートをライブラリにアップロードし、コンテンツパックを作成して見込み客に送信する。</option2text>
+    <option2textexplanation>正解。コンテンツパックなどのコンテンツ配信の受信者は、1 つの URL をクリックすれば、プレビュープレーヤーを起動して、コンテンツのプレビューやダウンロードを行うことができます。さらに、配信者が追跡情報を表示して、コンテンツパックが表示された回数やダウンロードされたドキュメントを確認できます。</option2textexplanation>
+    <option3text>データシートを [メモと添付ファイル] 関連リストに添付して、そのリンクを見込み客に送信する。</option3text>
+    <option3textexplanation>不正解。見込み客は Ursa Major Solar の Salesforce 組織にある [メモと添付ファイル] 関連リストにアクセスできません。</option3textexplanation>
+    <option4text>見込み客を商品データシートキャンペーンレコードにキャンペーンメンバーとして割り当てる。</option4text>
+    <option4textexplanation>不正解。キャンペーンは、Salesforce 内で計画、管理、追跡する外部向けマーケティングプロジェクトです。商品データシートを 1 回のみ配信するという用途に適したツールではありません。</option4textexplanation>
+  </question4>
+</quizwithfeedback>

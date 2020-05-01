@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>次へ</nextbuttontext>
+  <submitbuttontext>送信</submitbuttontext>
+  <reviewbuttontext>確認</reviewbuttontext>
+  <retakequizbuttontext>やり直し</retakequizbuttontext>
+  <nextbuttontext>再試行</nextbuttontext>
+  <questioncounttext>質問 {0} / (1)</questioncounttext>
+  <answernothingselectedtext>回答を選択してください。</answernothingselectedtext>
+  <twoanswerstoofewselected>回答を 2 つ選択</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>回答を 2 つだけ選択</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>回答を 3 つ選択</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>回答を 3 つだけ選択</threeanswerstoomanyselected>
+  <numberofattempts>試行回数: </numberofattempts>
+  <question1>
+    <accessibility>質問 1.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。知識チェックのコントロールは次のとおりです。1 番目の選択肢を選択するにはキーボードの「1」、2 番目は「2」、3 番目は「3」、4 番目は「4」、5 番目がある場合は「5」を押します。選択した回答を送信するには、キーボードの Enter キーを押します。回答が不正解だった場合は、Shift-Enter キーを押すと選択をリセットできます。</accessibility>
+    <question>Ursa Major Solar の新入社員がカスタマサービスチームに配属され、顧客対応やケース処理をすることになりました。ケースと顧客情報を管理するために、このユーザにはサービスコンソールへのアクセス権が必要です。<br><br>新規ユーザに 
+Service Cloud ユーザライセンスを割り当てるために、システム管理者は何をすべきですか?</question>
+    <option1text>ユーザレコードの詳細ページで Service Cloud ユーザを有効化する。</option1text>
+    <option1textexplanation>正解。Service Cloud ユーザや Marketing Cloud ユーザのような機能ライセンスは、ユーザプロファイルページにあります。これらのライセンスを使用して、Salesforce ユーザライセンスなどのユーザライセンスに加えて、他の機能を有効化できます。</option1textexplanation>
+    <option2text>サンプルコンソールをコピーしてユーザに割り当てる。</option2text>
+    <option2textexplanation>不正解。サンプルコンソールを割り当てたり、コピーしたりしても、Service Cloud ユーザライセンスがユーザに割り当てられることはありません。コンソールへのアクセスにさえ、Service Cloud ユーザ機能ライセンスが必要になります。</option2textexplanation>
+    <option3text>新しい権限セットライセンスの割り当てを作成する。</option3text>
+    <option3textexplanation>不正解。権限セットによって機能ライセンスが作成されることはありません。機能ライセンスは、Service Cloud 製品の Service Cloud ユーザライセンスなど、製品を購入することで会社に割り当てられます。
+      権限セットは、ユーザがさまざまなツールや機能にアクセスできるようにする設定と権限のコレクションです。</option3textexplanation>
+    <option4text>[サポート設定] でサービスコンソールを有効化する。</option4text>
+    <option4textexplanation>不正解。サービスコンソールはすでに有効化されている必要があります。必要なのは、サービスコンソールにアクセスするための Service Cloud ユーザライセンスがユーザに割り当てられるようにすることだけです。</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <question>米国南西部に本拠を置く、太陽光発電機器およびシステムの中規模サプライヤである Ursa Major Solar は国際的に成長しています。システム管理者は、Salesforce 組織へのアクセス権が必要な東京オフィスの新入社員に関する詳細を
+受け取りました。<br><br>本番 Salesforce 組織に新規ユーザを作成するとき、システム管理者が考慮すべき 2 つの要件はどれですか? (答えを 2 つ選択してください)</question>
+    <option1text>ユーザ名はすべての本番 Salesforce 組織で一意にする必要がある。</option1text>
+    <option1textexplanation>正解。すべてのユーザ名はすべての本番組織で一意にする必要があります。会社に標準のメールドメイン (ユーザ名として使用される) がある場合、システム管理者はメールに識別子を追加して一意にする必要があります。</option1textexplanation>
+    <option2text>ユーザ名はメールアドレス形式にする必要がある。</option2text>
+    <option2textexplanation>正解。すべてのユーザ名はメールアドレス形式にする必要がありますが、実在するメールでなくてもかまいません。</option2textexplanation>
+    <option3text>ユーザ名はユーザのメールアドレスと同じでなければならない。</option3text>
+    <option3textexplanation>不正解。ユーザ名はユーザのメールアドレスと違ってもかまいませんが、メール形式にする必要があります。</option3textexplanation>
+    <option4text>ユーザ名に会社のメールドメインを含める必要がある。</option4text>
+    <option4textexplanation>不正解。ユーザ名がメール形式でさえあれば、任意のメールドメインを含めることができます。</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>質問 3.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <question>新規従業員が Salesforce にログインしようとしていますが、ログインエラーメッセージが表示されて失敗します。そこで Salesforce システム管理者に連絡してサポートを求めています。<br><br>ログインエラーメッセージをトラブルシューティングするために、システム管理者が最初にすべきことは
+何ですか?</question>
+    <option1text>ユーザレコードでユーザのログイン履歴関連リストを確認する。</option1text>
+    <option1textexplanation>正解。システム管理者はまず、ログイン履歴関連リストを確認して、ログイン問題の発生原因を把握する必要があります。</option1textexplanation>
+    <option2text>[設定変更履歴] でエントリを確認する。</option2text>
+    <option2textexplanation>不正解。[設定変更履歴] のエントリで追跡されるのは、ユーザではなくシステム管理者が Salesforce で加えた変更です。</option2textexplanation>
+    <option3text>ユーザとしてログインし、エラーメッセージを表示する。</option3text>
+    <option3textexplanation>不正解。ユーザとしてログインしてもこのログインエラーメッセージは表示されません。</option3textexplanation>
+    <option4text>デバッグログでこのエラーメッセージを検索する。</option4text>
+    <option4textexplanation>不正解。デバッグログではログインの問題は取得されません。</option4textexplanation>
+  </question3>
+  <question4>
+    <accessibility>質問 4.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <question>システム管理者は、Ursa Major Solar の従業員の 1 人が数週間休暇を取るという通知を受け取りました。Ursa Major Solar では、休暇中の従業員が Salesforce にログインできないようにする必要があります。<br><br>一時的に従業員が Salesforce にログインできなくするために、
+システム管理者がすべきことは何ですか?</question>
+    <option1text>ユーザのパスワードをリセットする。</option1text>
+    <option1textexplanation>不正解。ユーザは、自分でパスワードをリセットした後もログインできます。</option1textexplanation>
+    <option2text>ユーザのアカウントを凍結する。</option2text>
+    <option2textexplanation>正解。ユーザのアカウントを凍結します。ライセンスは使用中のままですが、ユーザはログインできません。従業員が休暇から戻ったら、アカウントの凍結を解除するだけです。</option2textexplanation>
+    <option3text>ユーザのログイン時間を変更する。</option3text>
+    <option3textexplanation>不正解。ユーザは、新しく作成されたログイン時間中に引き続きログインできます。</option3textexplanation>
+    <option4text>ユーザのアカウントを削除する。</option4text>
+    <option4textexplanation>不正解。ユーザのアカウントを削除すると、そのユーザのライセンスが無効化されます。つまり、一時的ではありません。無効化されたアカウントを再有効化できますが、それはこのシナリオでの最も効率的な対応ではありません。</option4textexplanation>
+  </question4>
+  <question5>
+    <accessibility>質問 5.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <question>システム管理者は、最近退職した従業員の Salesforce ユーザアカウントを無効化するように依頼されました。<br><br>ユーザアカウントを無効化すると、関連付けられたライセンスはどうなりますか?</question>
+    <option1text>ライセンスは再割り当て可能になる。</option1text>
+    <option1textexplanation>正解。ユーザライセンスが無効化されると、社内の別の従業員に再割り当て可能になります。</option1textexplanation>
+    <option2text>ライセンスは削除される。</option2text>
+    <option2textexplanation>不正解。ユーザライセンスは再割り当て可能になります。削除はされません。</option2textexplanation>
+    <option3text>ライセンスは組織の請求可能ライセンスから削除される。</option3text>
+    <option3textexplanation>不正解。会社はすでにこのライセンスの支払をしています。請求可能ライセンスから削除されることはありません。</option3textexplanation>
+    <option4text>ライセンスは自動的に別のユーザに割り当てられる。</option4text>
+    <option4textexplanation>不正解。ライセンスが別のユーザに自動的に割り当てられることはありません。システム管理者がライセンスを再割り当てする必要があります。</option4textexplanation>
+  </question5>
+</quizwithfeedback>

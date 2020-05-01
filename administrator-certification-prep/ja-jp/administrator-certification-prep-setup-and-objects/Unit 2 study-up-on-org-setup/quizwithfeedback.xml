@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>次へ</nextbuttontext>
+  <submitbuttontext>送信</submitbuttontext>
+  <reviewbuttontext>確認</reviewbuttontext>
+  <retakequizbuttontext>やり直し</retakequizbuttontext>
+  <nextbuttontext>再試行</nextbuttontext>
+  <questioncounttext>質問 {0} / (1)</questioncounttext>
+  <answernothingselectedtext>回答を選択してください。</answernothingselectedtext>
+  <twoanswerstoofewselected>回答を 2 つ選択</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>回答を 2 つだけ選択</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>回答を 3 つ選択</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>回答を 3 つだけ選択</threeanswerstoomanyselected>
+  <numberofattempts>試行回数: </numberofattempts>
+  <question1>
+    <accessibility>質問 1.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。知識チェックのコントロールは次のとおりです。1 番目の選択肢を選択するにはキーボードの「1」、2 番目は「2」、3 番目は「3」、4 番目は「4」、5 番目がある場合は「5」を押します。選択した回答を送信するには、キーボードの Enter キーを押します。回答が不正解だった場合は、Shift-Enter キーを押すと選択をリセットできます。</accessibility>
+    <question>太陽光発電機器およびシステムのサプライヤである Ursa Major Solar では、Salesforce の [組織情報] ページに表示される情報を最新に保ちたいと考えています。<br><br>システム管理者が [組織情報] ページで指定できる
+情報のセットはどれですか?</question>
+    <option1text>営業時間、翻訳設定、マスタ通貨</option1text>
+    <option1textexplanation>不正解。マスタ通貨は [組織情報] ページにありますが、営業時間は [会社の設定] の独自のカテゴリにあり、翻訳設定は [ユーザインターフェース] &gt; 
+[トランスレーションワークベンチ] セクションにあります。</option1textexplanation>
+    <option2text>組織名、タイムゾーンのデフォルト値、言語のデフォルト値</option2text>
+    <option2textexplanation>正解。組織名、タイムゾーンのデフォルト値、言語のデフォルト値はすべて [組織情報] ページにあります。</option2textexplanation>
+    <option3text>主取引先責任者、Chatter 設定、設定されているドメイン</option3text>
+    <option3textexplanation>不正解。主取引先責任者は [取引先責任者情報] ページにあります。一方、Chatter 設定 は [Chatter] セクションにあり、カスタムドメインは [会社の設定] &gt; [私のドメイン] セクションで作成します。
+      すでに有効なドメインはすべて [ユーザインターフェース] &gt; [ドメイン] セクションにあります。</option3textexplanation>
+    <option4text>会計年度、パスワードポリシー、タイムゾーンのデフォルト値</option4text>
+    <option4textexplanation>不正解。タイムゾーンのデフォルト値は [組織情報] ページにありますが、会計年度は [会社の設定] セクションの独自のカテゴリにあり、パスワードポリシーは [セキュリティ] セクションにあります。</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <question>Ursa Major Solar では、Salesforce システム内のすべてのロケール設定を最新で一貫した状態に保ちたいと考えています。システム管理者は、この情報の更新とパラメータの設定を行うプロセスを確認中です。<br><br>ロケール設定を使用して
+設定される 2 つのパラメータセットはどれですか? (答えを 2 つ選択してください)</question>
+    <option1text>営業時間と休日</option1text>
+    <option1textexplanation>不正解。ロケールは言語によって決まります。また、複数の国や事業所で構成されることがあります。営業時間は個々の場所ごとに設定する必要があり、国、タイムゾーンなどに応じて変わります。休日も
+場所に応じて変わります。</option1textexplanation>
+    <option2text>時間と数値の表示形式</option2text>
+    <option2textexplanation>正解。時間と数値の表示形式は、各ロケール内で共通です。</option2textexplanation>
+    <option3text>名/姓と日付の形式</option3text>
+    <option3textexplanation>正解。名/姓と日付の形式は、各ロケール内で共通です。</option3textexplanation>
+    <option4text>電話番号と通貨の形式</option4text>
+    <option4textexplanation>不正解。電話番号と通貨の形式はロケールに応じて変わります。ロケールが同じでも、国によって通貨や電話番号の形式が異なる場合があります。</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>質問 3.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <question>営業担当副社長は、商談の命名規則を変更して会社全体で統一されるようにしました。営業マネージャは、Salesforce の [Team Europe (ヨーロッパチーム)] リストビューで自分の営業チームが担当する
+複数の商談名を更新したいと考えています。<br><br>必要なプロファイル権限をすべて持つユーザがリストビューのレコードを編集できるようにするには、どのユーザインターフェース設定を使用すべきですか? (答えを 2 つ選択してください)</question>
+    <option1text>インライン編集を有効化</option1text>
+    <option1textexplanation>正解。[インライン編集を有効化] を使用すると、リストビューから直接、レコードの項目を一括編集できます。これは、1 つのレコードタイプのみが含まれるように事前定義されたチームリストビューに対してのみ実行できます。</option1textexplanation>
+    <option2text>拡張リストを有効化</option2text>
+    <option2textexplanation>正解。[拡張リストを有効化] を使用すると、リストデータをすばやく表示、カスタマイズ、編集して日々の生産性を高めることができます。</option2textexplanation>
+    <option3text>高度なページレイアウトエディタを有効化</option3text>
+    <option3textexplanation>不正解。[高度なページレイアウトエディタを有効化] を使用してカスタマイズできるのは、リストビューではなくページレイアウトです。</option3textexplanation>
+    <option4text>拡張プロファイルリストビューを有効化</option4text>
+    <option4textexplanation>不正解。[拡張プロファイルリストビューを有効化] は、プロファイルとそのプロファイル内の権限の一括編集に関連する設定です。これは一種の絞り込みツールであり、特定のプロファイル情報にアクセスして、その絞り込み条件に該当するすべてのプロファイル情報に
+一括編集を適用できます。</option4textexplanation>
+  </question3>
+</quizwithfeedback>
