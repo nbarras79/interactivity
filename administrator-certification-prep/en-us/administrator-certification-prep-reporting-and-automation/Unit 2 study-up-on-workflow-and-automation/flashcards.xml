@@ -20,7 +20,7 @@
 <flashcard4>
   <accessibility>Flashcard 4</accessibility>
   <front>Flow</front>
-  <back>FA flow is an application that can execute logic, interact with the Salesforce database, call Apex classes, and collect data from users.</back>
+  <back>Flow is an application that can execute logic, interact with the Salesforce database, call Apex classes, and collect data from users.</back>
 </flashcard4>
 <flashcard5>
   <accessibility>Flashcard 5</accessibility>
