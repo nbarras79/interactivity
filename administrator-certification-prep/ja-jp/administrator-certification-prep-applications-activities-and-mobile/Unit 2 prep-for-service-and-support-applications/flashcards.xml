@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} / {1}</flashcardcounttext>
+<leftarrowaccessibility>左矢印をクリックまたはキーボードの左矢印キーを押すと、前のフラッシュカードに移動します。</leftarrowaccessibility>
+<rightarrowaccessibility>右矢印をクリックまたはキーボードの左矢印キーを押すと、次のフラッシュカードに移動します。</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>フラッシュカード 1。フラッシュカードのコントロールは次のとおりです。前のフラッシュカードに移動するには、左矢印キーを押します。次のフラッシュカードに移動するには、右矢印キーを押します。フラッシュカードの表面と裏面を切り替えるには、下矢印キーを押します。このセットには 12 枚のフラッシュカードがあります。</accessibility>
+  <front>各ケースが有効な所有者に割り当てられるようにするために、実行すべき設定アクションは何ですか?</front>
+  <back>サポート設定でデフォルトのケース所有者を定義する。</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>フラッシュカード 2</accessibility>
+  <front>Ursa Major Solar のサポート担当は、各新規ケースに同一のテクニカルエンジニアグループが関連付けられることを望んでいます。<br><br>この要件を実現するために、システム管理者が定義すべきことは何ですか?</front>
+  <back>ケースチームを関連付けるケースの割り当てルール</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>フラッシュカード 3</accessibility>
+  <front>推奨ソリューションを使用する潜在的な利点は何ですか?</front>
+  <back>サポートコストが削減される</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>フラッシュカード 4</accessibility>
+  <front>再販業者が各自のリードや商談を追跡できるようにするために、会社が実装すべき Salesforce の機能は何ですか?</front>
+  <back>Lightning パートナーコミュニティ</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>フラッシュカード 5</accessibility>
+  <front>システム管理者がサポート設定でケースフィードアクションとフィード項目を有効にしました。<br><br>適切なプロファイル権限が有効な場合、ユーザの表示はどのように変化しますか?</front>
+  <back>ケースに、標準のページレイアウトではなく、フィードレイアウトが使用される。</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>フラッシュカード 6</accessibility>
+  <front>Ursa Major Solar では、社内のサポートリクエストがいずれかの IT 担当に転送されるようにしたいと考えています。社外のサポートリクエストは、取引先責任者の所在地に基づいてカスタマーサポート担当に転送されるようにします。<br><br>この設定のために、システム管理者が使用すべきものは何ですか?</front>
+  <back>割り当てルールとキュー</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>フラッシュカード 7</accessibility>
+  <front>Web-to-ケース</front>
+  <back>Web-to-ケースを使用すると、会社の Web サイトから直接カスタマーサポートリクエストが収集され、新規ケースが自動的に生成されます。</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>フラッシュカード 8</accessibility>
+  <front>Salesforce コミュニティ</front>
+  <back>Salesforce コミュニティは、従業員、顧客、パートナーが 1 か所でつながる手段です。企業が、ビジネスにとって重要な人々と会社という枠を超えてコラボレーションやコミュニケーションすることが可能になります。</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>フラッシュカード 9</accessibility>
+  <front>割り当てルール</front>
+  <back>リードまたはケースの処理方法を決定する条件を定義します。</back>
+</flashcard9>
+<flashcard10>
+  <accessibility>フラッシュカード 10</accessibility>
+  <front>自動レスポンスルール</front>
+  <back>レコードの属性に基づいてリードまたはケースの登録に対する自動メールレスポンスを送信します。</back>
+</flashcard10>
+<flashcard11>
+  <accessibility>フラッシュカード 11</accessibility>
+  <front>Salesforce ナレッジ</front>
+  <back>Salesforce ナレッジでは、会社の情報をまとめた知識ベースを作成して管理し、必要なときに必要な場所で安全に共有することができます。</back>
+</flashcard11>
+<flashcard12>
+  <accessibility>フラッシュカード 12</accessibility>
+  <front>ケースのエスカレーションルール</front>
+  <back>ケースがルールエントリに定義された条件を満たすと、エスカレーションルールに従ってケースが自動的にエスカレーションされます。</back>
+</flashcard12>

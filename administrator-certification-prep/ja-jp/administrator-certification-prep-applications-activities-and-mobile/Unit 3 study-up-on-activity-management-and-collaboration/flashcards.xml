@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} / {1}</flashcardcounttext>
+<leftarrowaccessibility>左矢印をクリックまたはキーボードの左矢印キーを押すと、前のフラッシュカードに移動します。</leftarrowaccessibility>
+<rightarrowaccessibility>右矢印をクリックまたはキーボードの左矢印キーを押すと、次のフラッシュカードに移動します。</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>フラッシュカード 1。フラッシュカードのコントロールは次のとおりです。前のフラッシュカードに移動するには、左矢印キーを押します。次のフラッシュカードに移動するには、右矢印キーを押します。フラッシュカードの表面と裏面を切り替えるには、下矢印キーを押します。このセットには 3 枚のフラッシュカードがあります。</accessibility>
+  <front>Chatter ユーザが別の Chatter ユーザに、当人以外が表示できない方法でメッセージを送信するにはどのようにすべきですか?</front>
+  <back>非公開メッセージを受信者に投稿する。</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>フラッシュカード 2</accessibility>
+  <front>活動</front>
+  <back>活動とは、取引先、取引先責任者、商談などのレコードに対する組織のインタラクションの記録で、ToDo か行動のいずれかです。</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>フラッシュカード 3</accessibility>
+  <front>Chatter グループの機能</front>
+  <back>Chatter グループのユーザは次のことを実行できます。<br><br>
+    <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 20px;padding-left: 20px;font-size:20px;">
+      <li>非公開グループ、公開グループ、リストに記載しないグループでコラボレーションする。</li>
+      <li>重要なメッセージにお知らせを使用する。</li>
+      <li>更新、ファイル、リンクを投稿する。</li>
+      <li>顧客を非公開グループに追加する。</li>
+    </ul>
+  </back>
+</flashcard3>

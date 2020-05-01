@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} / {1}</flashcardcounttext>
+<leftarrowaccessibility>左矢印をクリックまたはキーボードの左矢印キーを押すと、前のフラッシュカードに移動します。</leftarrowaccessibility>
+<rightarrowaccessibility>右矢印をクリックまたはキーボードの左矢印キーを押すと、次のフラッシュカードに移動します。</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>フラッシュカード 1。フラッシュカードのコントロールは次のとおりです。前のフラッシュカードに移動するには、左矢印キーを押します。次のフラッシュカードに移動するには、右矢印キーを押します。フラッシュカードの表面と裏面を切り替えるには、下矢印キーを押します。このセットには 4 枚のフラッシュカードがあります。</accessibility>
+  <front>あるユーザを無効化できない理由はどれですか? 2 つ選択してください。</front>
+  <back>そのユーザがワークフローメールアラートの受信者である。<br><br>そのユーザがカスタマーコミュニティ管理者である。</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>フラッシュカード 2</accessibility>
+  <front>ユーザライセンス</front>
+  <back>ユーザライセンスによって、ユーザがアクセスできる機能の基準が決まります。各ユーザにユーザライセンスが 1 つだけ必要です。プロファイルと必要に応じた 1 つ以上の権限セットを使用して、データアクセス権限をユーザに割り当てます。</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>フラッシュカード 3</accessibility>
+  <front>権限セット</front>
+  <back>権限セットは、ユーザがさまざまなツールや機能にアクセスできるようにする設定と権限のコレクションです。権限セットの設定と権限はプロファイルにも含まれますが、権限セットは、ユーザのプロファイルを変更せずにユーザの機能アクセス権を拡張します。</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>フラッシュカード 4</accessibility>
+  <front>プロファイル</front>
+  <back>プロファイルは、ユーザがオブジェクトやデータにアクセスする方法や、アプリケーション内で実行可能な操作を定義します。ユーザの作成時に、各ユーザにプロファイルを割り当てます。</back>
+</flashcard4>

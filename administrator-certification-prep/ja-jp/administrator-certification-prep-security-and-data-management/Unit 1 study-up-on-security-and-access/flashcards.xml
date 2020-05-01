@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} / {1}</flashcardcounttext>
+<leftarrowaccessibility>左矢印をクリックまたはキーボードの左矢印キーを押すと、前のフラッシュカードに移動します。</leftarrowaccessibility>
+<rightarrowaccessibility>右矢印をクリックまたはキーボードの左矢印キーを押すと、次のフラッシュカードに移動します。</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>フラッシュカード 1。フラッシュカードのコントロールは次のとおりです。前のフラッシュカードに移動するには、左矢印キーを押します。次のフラッシュカードに移動するには、右矢印キーを押します。フラッシュカードの表面と裏面を切り替えるには、下矢印キーを押します。このセットには 9 枚のフラッシュカードがあります。</accessibility>
+  <front>項目を取引先ページレイアウトに追加したのが誰なのかをシステム管理者が確認するにはどうすればよいですか?</front>
+  <back>設定変更履歴を使用する。</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>フラッシュカード 2</accessibility>
+  <front>Ursa Major Solar では、ケースに非公開共有モデルを使用しています。各商品ラインに数人の商品スペシャリストが存在し、担当する商品ラインに関連するすべてのケースを表示できるようにしたいと思っています。<br><br>システム管理者がこの要件を満たすにはどうすればよいですか?</front>
+  <back>商品スペシャリストのグループごとに定義済みケースチームを作成し、ケースの割り当てルールを使用してチームを割り当てる。</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>フラッシュカード 3</accessibility>
+  <front>Ursa Major Solar では、商品開発チーム内であるカスタムオブジェクトを使用しています。このオブジェクトのレコードにアクセスできるユーザを、商品開発、役員、システム管理者に限定する必要があります。商品開発はこのオブジェクト内のすべてのレコードに対する「参照・更新」アクセス権を必要とする一方で、役員はレコードを参照できれば事足ります。<br><br>上記の要件を満たすために、システム管理者はセキュリティモデルをどのように設定すればよいですか?</front>
+  <back>カスタムオブジェクトの組織の共有設定を [非公開] に設定する。商品開発プロファイルに「参照」「作成」「編集」権限を付与する。役員プロファイルにこのオブジェクトに対する「参照のみ」権限を付与する。</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>フラッシュカード 4</accessibility>
+  <front>Ursa Major Solar は、在庫項目を追跡する新しいカスタムオブジェクトを作成しました。けれども、サポートチームがこの Inventory (在庫) オブジェクトのタブを表示できません。<br><br>この問題の原因を解明するためにシステム管理者が確認すべき 2 つの設定はどれですか? (答えを 2 つ選択してください)</front>
+  <back>サポートチームプロファイル<br><br>サポートチーム権限セット</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>フラッシュカード 5</accessibility>
+  <front>Ursa Major Solar には、Prospect (見込み客)、Customer (顧客)、Vendor (ベンダー) という 3 種類の取引先レコードタイプがあります。Customer (顧客) レコードタイプは、商談が成立した取引先のみに使用します。<br><br>ユーザが新しい取引先レコードを作成するときに Customer (顧客) レコードタイプを選択できないようにするには、システム管理者が何をすべきですか?</front>
+  <back>ユーザのプロファイルと権限セットで、Customer (顧客) レコードタイプを割り当てられたレコードタイプとして削除する。</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>フラッシュカード 6</accessibility>
+  <front>システム管理者がレポートフォルダを共有できません。<br><br>何が原因だと考えられますか?</front>
+  <back>フォルダが非公開である。</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>フラッシュカード 7</accessibility>
+  <front>共有ルール</front>
+  <back>共有ルールは、組織の共有設定に自動的な例外を設け、選定したユーザに付与するアクセス権を拡大するものです。共有ルールを使用して、公開グループ、ロール、テリトリー内のユーザに共有アクセス権を拡大します。</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>フラッシュカード 8</accessibility>
+  <front>ロール階層</front>
+  <back>Salesforce にはユーザロール階層があり、共有設定と併用して Salesforce 組織のデータに対するユーザのアクセスレベルを指定できます。階層内のロールによって、レコードやレポートなど主要なコンポーネントへのアクセスが左右されます。</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>フラッシュカード 9</accessibility>
+  <front>組織の共有設定 (OWD)</front>
+  <back>組織の共有設定を使用して、オブジェクトのレコードに対するデフォルトのアクセスレベルを定義します。組織の共有設定は、カスタムオブジェクトや多くの標準オブジェクト (納入商品、キャンペーン、ケース、取引先とその契約など) に個別に設定できます。</back>
+</flashcard9>

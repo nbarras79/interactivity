@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} / {1}</flashcardcounttext>
+<leftarrowaccessibility>左矢印をクリックまたはキーボードの左矢印キーを押すと、前のフラッシュカードに移動します。</leftarrowaccessibility>
+<rightarrowaccessibility>右矢印をクリックまたはキーボードの左矢印キーを押すと、次のフラッシュカードに移動します。</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>フラッシュカード 1。フラッシュカードのコントロールは次のとおりです。前のフラッシュカードに移動するには、左矢印キーを押します。次のフラッシュカードに移動するには、右矢印キーを押します。フラッシュカードの表面と裏面を切り替えるには、下矢印キーを押します。このセットには 4 枚のフラッシュカードがあります。</accessibility>
+  <front>24 時間以内のデータフローおよびレシピ実行の最大数はいくつですか?</front>
+  <back>60</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>フラッシュカード 2</accessibility>
+  <front>複数のデータセットを 1 つのデータセットに結合するために使用するデータフロー変換は何ですか? </front>
+  <back>Append</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>フラッシュカード 3</accessibility>
+  <front>レシピを取得または更新、データセットバージョンのリストを取得、および XMD 情報にアクセスするために使用できる API は何ですか?</front>
+  <back>Analytics REST API</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>フラッシュカード 4</accessibility>
+  <front>Salesforce オブジェクトに基づいてデータセットを生成するために使用するデータ変換は何ですか?</front>
+  <back>sfdcDigest</back>
+</flashcard4>

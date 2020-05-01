@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>次へ</nextbuttontext>
+  <submitbuttontext>送信</submitbuttontext>
+  <reviewbuttontext>確認</reviewbuttontext>
+  <retakequizbuttontext>やり直し</retakequizbuttontext>
+  <nextbuttontext>再試行</nextbuttontext>
+  <questioncounttext>質問 {0} / (1)</questioncounttext>
+  <answernothingselectedtext>回答を選択してください。</answernothingselectedtext>
+  <twoanswerstoofewselected>回答を 2 つ選択</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>回答を 2 つだけ選択</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>回答を 3 つ選択</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>回答を 3 つだけ選択</threeanswerstoomanyselected>
+  <numberofattempts>試行回数: </numberofattempts>
+  <question1>
+    <accessibility>質問 1.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。知識チェックのコントロールは次のとおりです。1 番目の選択肢を選択するにはキーボードの「1」、2 番目は「2」、3 番目は「3」、4 番目は「4」、5 番目がある場合は「5」を押します。選択した回答を送信するには、キーボードの Enter キーを押します。回答が不正解だった場合は、Shift-Enter キーを押すと選択をリセットできます。</accessibility>
+    <question>ある Einstein Analytics コンサルタントが、ケースの状況別にケースの作成された年および月でグループ化して、すべてのケースの合計値を表示する必要があります。 <br><br>このビジネス要件を効果的に満たすことができるのは、どのグラフですか?</question>
+    <option1text>円グラフ</option1text>
+    <option1textexplanation>不正解。円グラフは、複数のグループが存在し、合計に対する各グループの個別値の比率を表示する場合に使用します。 </option1textexplanation>
+    <option2text>各状況値の折れ線グラフ</option2text>
+    <option2textexplanation>不正解。折れ線グラフは、順序付けられたデータセットを表す 1 つの重要なグループが存在し、1 つの値を表示する場合に使用します。 </option2textexplanation>
+    <option3text>じょうごグラフ</option3text>
+    <option3textexplanation>不正解。じょうごグラフは、順序付けられたセット内に複数のグループが存在し、それらのグループの比率を表示する場合に使用します。 </option3textexplanation>
+    <option4text>積み上げ棒グラフまたは積み上げ縦棒グラフ</option4text>
+    <option4textexplanation>正解。棒または縦棒グラフは、関連する値をすばやく視覚的に比較する場合に使用します。</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <question>Analytics テンプレートアプリケーションを使用する利点は何ですか?</question>
+    <option1text>テンプレートからアプリケーションを作成すると、データセットとダッシュボードが自動的に作成され、組織が価値を実現するまでの時間が短縮される。</option1text>
+    <option1textexplanation>正解。Analytics テンプレートアプリケーションと Salesforce が提供する事前構築済み Analytics アプリケーションにより、組織が Analytics で価値を実現するまでの時間が短縮されます。 </option1textexplanation>
+    <option2text>テンプレートからアプリケーションを作成すると、アプリケーションを実行するために必要なユーザ、プロファイル、権限セットが自動的に作成され、ユーザはダッシュボードの作成を開始できる。</option2text>
+    <option2textexplanation>不正解。Einstein Analytics では、ユーザ、プロファイル、権限セットは自動的に作成されません。</option2textexplanation>
+    <option3text>テンプレートからアプリケーションを作成すると、アプリケーションのレンズとデータセットのレシピが自動的に作成される。</option3text>
+    <option3textexplanation>不正解。Einstein Analytics テンプレートでは、データセット間のレシピは自動的に作成されません。 </option3textexplanation>
+    <option4text>テンプレートからアプリケーションを作成すると、必要なフローが自動的に作成される。</option4text>
+    <option4textexplanation>不正解。Einstein Analytics では、組織にフローは自動的に作成されません。 </option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>質問 3.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <question>Approval Analytics テンプレートを使用する場合の要件は何ですか?</question>
+    <option1text>このテンプレートを使用するには、ユーザは「すべてのデータの参照」アクセス権と適切なライセンスを持っている必要がある。</option1text>
+    <option1textexplanation>不正解。この場合は必要以上の情報がユーザに表示されてしまいます。 </option1textexplanation>
+    <option2text>Analytics インテグレーションユーザも含めたすべてのアプリケーションユーザが Einstein Analytics ライセンスを持っていることを確認する。</option2text>
+    <option2textexplanation>不正解。適切なライセンスがユーザに割り当てられていることを確認しても、Approval Analytics テンプレートを使用するための要件のすべてを満たしていません。 </option2textexplanation>
+    <option3text>組織には定義された承認プロセス、承認申請されたレコードに関連付けられた少なくとも 1 つのオブジェクトがあり、ユーザには適切なライセンスが必要である。</option3text>
+    <option3textexplanation>正解。すべてのユーザが適切な Analytics ユーザライセンスを持っていること、組織に定義された承認プロセスがあること、アプリケーションで使用されているすべての項目を表示するために項目レベルセキュリティが Analytics インテグレーションユーザに設定されていることが必要です。</option3textexplanation>
+    <option4text>組織には、アプリケーションによって処理されるデータに共有ルールが定義されている必要がある。</option4text>
+    <option4textexplanation>不正解。共有ルールを定義しても、Approval Analytics テンプレートを使用するための要件のすべてを満たしていません。 </option4textexplanation>
+  </question3>
+</quizwithfeedback>
