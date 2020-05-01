@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} / {1}</flashcardcounttext>
+<leftarrowaccessibility>左矢印をクリックまたはキーボードの左矢印キーを押すと、前のフラッシュカードに移動します。</leftarrowaccessibility>
+<rightarrowaccessibility>右矢印をクリックまたはキーボードの左矢印キーを押すと、次のフラッシュカードに移動します。</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>フラッシュカード 1。フラッシュカードのコントロールは次のとおりです。前のフラッシュカードに移動するには、左矢印キーを押します。次のフラッシュカードに移動するには、右矢印キーを押します。フラッシュカードの表面と裏面を切り替えるには、下矢印キーを押します。このセットには 10 枚のフラッシュカードがあります。</accessibility>
+  <front>データがごみ箱に保存される期間はどのくらいですか?</front>
+  <back>最長 15 日間</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>フラッシュカード 2</accessibility>
+  <front>Ursa Major Solar には 2 万件の既存の取引先のデータがありますが、一貫性に欠けるため、標準の国項目をすべて ISO コードに変換するようシステム管理者に指示しました。システム管理者はどの方法を使用すべきですか?</front>
+  <back>住所の一括更新</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>フラッシュカード 3</accessibility>
+  <front>Salesforce レコードのうち、データローダでのエクスポートではなく、[すべてをエクスポート] オプションを選択する方法でエクスポートされる一連のレコードはどれですか?</front>
+  <back>指定したオブジェクトのレコード (ごみ箱に入っているものを含む)</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>フラッシュカード 4</accessibility>
+  <front>システム管理者は、既存の取引先レコードの更新にインポートウィザードを使用しています。一致するレコードを検出するためにインポートウィザードで使用できる 2 つの値はどれですか?</front>
+  <back>取引先名<br><br>部門項目</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>フラッシュカード 5</accessibility>
+  <front>営業担当が商談を保存する前に入力する必要のある項目を示す設定オプションはどれですか?</front>
+  <back>ページレイアウトの必須項目</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>フラッシュカード 6</accessibility>
+  <front>ルックアップ検索条件</front>
+  <back>ルックアップ検索条件は、参照項目、主従関係項目、階層関係項目の有効な値とルックアップダイアログ結果を制限するシステム管理者の設定です。たとえば、商談の [取引先名] 項目で有効な取引先のみを許可するように制限します。</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>フラッシュカード 7</accessibility>
+  <front>データインポートウィザード</front>
+  <back>データインポートウィザードは、取引先、取引先責任者、リード、ソリューション、キャンペーンメンバー、個人取引先など、さまざまな Salesforce 標準オブジェクトのデータをインポートするツールです。また、カスタムオブジェクトのデータもインポートできます。一度にインポート可能なレコードの最大数は 5 万件です。</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>フラッシュカード 8</accessibility>
+  <front>入力規則</front>
+  <back>入力規則は、ユーザがレコードを保存する前に、入力したデータが指定した基準を満たしているかどうかを検証するものです。</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>フラッシュカード 9</accessibility>
+  <front>データローダとインポートウィザードの違い</front>
+  <back>データローダを使用する状況: <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 20px;padding-left: 20px;font-size:12px;"><li>5 万～ 500 万件のレコードを読み込む必要がある。データローダは最大 500 万件のレコードの読み込みに対応します。</li><li>夜間インポートなど、定期的なデータの読み込みスケジュールを設定する。</li><li>バックアップの目的でデータをエクスポートする。</li></ul><br><br>インポートウィザードを使用する状況: <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 20px;padding-left: 20px;font-size:12px;"><li>5 万件未満のレコードを読み込む。</li><li>レコードをアップロードするときに取引先名と取引先部門、取引先責任者のメールアドレス、またはリードのメールアドレスを照合して重複を防ぐ。</li></ul></back>
+</flashcard9>
+<flashcard10>
+  <accessibility>フラッシュカード 10</accessibility>
+  <front>CSV ファイル</front>
+  <back>カンマ区切り値 (CSV) ファイルは、データのリストを記載したプレーンテキストファイルです。CSV 形式のファイルは、データローダとデータインポートウィザードで使用できます。</back>
+</flashcard10>

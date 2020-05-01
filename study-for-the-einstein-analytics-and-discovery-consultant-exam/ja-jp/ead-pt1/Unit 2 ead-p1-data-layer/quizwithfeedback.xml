@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>次へ</nextbuttontext>
+  <submitbuttontext>送信</submitbuttontext>
+  <reviewbuttontext>確認</reviewbuttontext>
+  <retakequizbuttontext>やり直し</retakequizbuttontext>
+  <nextbuttontext>再試行</nextbuttontext>
+  <questioncounttext>質問 {0} / (1)</questioncounttext>
+  <answernothingselectedtext>回答を選択してください。</answernothingselectedtext>
+  <twoanswerstoofewselected>回答を 2 つ選択</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>回答を 2 つだけ選択</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>回答を 3 つ選択</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>回答を 3 つだけ選択</threeanswerstoomanyselected>
+  <numberofattempts>試行回数: </numberofattempts>
+  <question1>
+    <accessibility>質問 1.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。知識チェックのコントロールは次のとおりです。1 番目の選択肢を選択するにはキーボードの「1」、2 番目は「2」、3 番目は「3」、4 番目は「4」、5 番目がある場合は「5」を押します。選択した回答を送信するには、キーボードの Enter キーを押します。回答が不正解だった場合は、Shift-Enter キーを押すと選択をリセットできます。</accessibility>
+    <question>Universal Containers (UC) 社には、Org 1 と Org 2 という 2 つの Salesforce 組織があります。UC 社は、これら 2 つの Salesforce 組織のデータに基づいて、Einstein Analytics でデータセットを作成する必要があります。<br><br>Einstein Analytics コンサルタントは、これをどのように実現できますか?</question>
+    <option1text>データセットビルダーを使用して、Org 2 の Salesforce データに基づいて、Org 1 で 1 つのデータセットを作成する。</option1text>
+    <option1textexplanation>不正解。データセットビルダーは、データが同じ組織のものでなければ機能しません。</option1textexplanation>
+    <option2text>データローダを使用して Org 1 から Salesforce データを抽出してから、Org 2 で Einstein Analytics Connector for Excel を使用する。 </option2text>
+    <option2textexplanation>不正解。この方法ではデータが同期されません。</option2textexplanation>
+    <option3text>Einstein Analytics Connector を使用して 2 つの組織のデータを結合する。 </option3text>
+    <option3textexplanation>正解。この方法を使用すれば、Analytics 内で両組織のデータが同期されます。 </option3textexplanation>
+    <option4text>組織でデータ同期を有効にし、2 つの組織のデータを結合する。 </option4text>
+    <option4textexplanation>不正解。データ同期を有効にしても、2 つの組織間の同期は許可されません。 </option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <question>Einstein Analytics のデータセットに関して正しい文はどれですか? 2 つ選択してください。</question>
+    <option1text>Analytics でデータセットに日付が読み込まれるときに、各日付はカレンダー年に基づいて、日、週、月、四半期、年などの複数の項目に分割される。 </option1text>
+    <option1textexplanation>正解。データセットが作成されたら、[項目属性を編集] 画面で各項目の属性を表示または編集できます。</option1textexplanation>
+    <option2text>1 つ以上の関連 Salesforce オブジェクトのデータに基づいてデータセットを作成することはできない。 </option2text>
+    <option2textexplanation>不正解。Salesforce オブジェクトに基づいて複数のデータセットを作成することができます。</option2textexplanation>
+    <option3text>データセットにデータを読み込むときに、デフォルト値が指定されていない場合は、データセットに空白がないようにデフォルト値を指定しなければならない。</option3text>
+    <option3textexplanation>不正解。データセットの鍵識別子 (レコード ID など) を空にすることはできませんが、他の項目は空にできます。 </option3textexplanation>
+    <option4text>アップロードユーザインターフェースを使用して、外部の .csv データに基づいて 1 つのデータセットを作成する。 </option4text>
+    <option4textexplanation>正解。データセットは .csv ファイルから作成することができます。</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>質問 3.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <question>Einstein Analytics コンサルタントがデータレシピを使用する使用事例はどれですか? 2 つ選択してください。</question>
+    <option1text>複数のデータセットまたは接続済みオブジェクトのデータ結合などの変換を実行する。 </option1text>
+    <option1textexplanation>正解。複数のデータセットのデータを結合するには、レシピを作成し、レシピで参照される各データセットの共有キー値を判断します。 </option1textexplanation>
+    <option2text>データをバケット化し、数式項目を追加する。 </option2text>
+    <option2textexplanation>正解。データをバケットにグループ化するには、レシピを使用してバケットを作成し、含めるデータを選択します。 </option2textexplanation>
+    <option3text>ユーザの場所に応じてデータセットの特定の列を翻訳する。</option3text>
+    <option3textexplanation>不正解。Einstein Analytics では、表示ラベルは翻訳できますが、データは翻訳されません。</option3textexplanation>
+    <option4text>レシピに作成された数式項目を使用して、データセットに含まれた項目を一括更新する。 </option4text>
+    <option4textexplanation> 不正解。レシピは、特定のソースデータセットまたは接続されたデータに対して実行する、保存された変換 (ステップ) セットです。データセットレシピを使用して項目を一括更新することはできません。</option4textexplanation>
+  </question3>
+  <question4>
+    <accessibility>質問 4.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <question>ある Einstein Analytics コンサルタントが、Einstein Analytics でデータ同期を有効にすることにしました。<br><br>データ同期ではデータフローをどう最適化できますか?</question>
+    <option1text>データフローにはこの機能が組み込まれているので、データ同期でデータフローは最適化されない。</option1text>
+    <option1textexplanation>不正解。この機能は組み込まれていません。データ同期によって、ユーザのデータフローからの Salesforce データの抽出が最適化されます。</option1textexplanation>
+    <option2text>データ同期はデータフローの直前に実行され、ユーザにライブデータを提供する。</option2text>
+    <option2textexplanation>不正解。データ同期またはデータフローに抽出されるデータは、ライブデータのコピーです。コピーなので、データ同期およびデータフローのデータはライブとみなされません。</option2textexplanation>
+    <option3text>データフローはデータ同期の直後に実行され、データフローを高速で読み込み、必要な値を更新できる。</option3text>
+    <option3textexplanation>不正解。データ同期はデータフローの後に実行されるようにスケジュールします。同期を事前にスケジュールすることで、ユーザのデータフローの処理が少なくなり、より高速で実行されます。</option3textexplanation>
+    <option4text>データ同期はデータフローからの Salesforce データの抽出を切り離し、このデータを Analytics で別のスケジュールで同期する。 </option4text>
+    <option4textexplanation>正解。毎回すべてのデータをプルするのと対比して、データの更新は増分実行されます。</option4textexplanation>
+  </question4>
+</quizwithfeedback>

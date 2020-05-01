@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} / {1}</flashcardcounttext>
+<leftarrowaccessibility>左矢印をクリックまたはキーボードの左矢印キーを押すと、前のフラッシュカードに移動します。</leftarrowaccessibility>
+<rightarrowaccessibility>右矢印をクリックまたはキーボードの左矢印キーを押すと、次のフラッシュカードに移動します。</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>フラッシュカード 1。フラッシュカードのコントロールは次のとおりです。前のフラッシュカードに移動するには、左矢印キーを押します。次のフラッシュカードに移動するには、右矢印キーを押します。フラッシュカードの表面と裏面を切り替えるには、下矢印キーを押します。このセットには 3 枚のフラッシュカードがあります。</accessibility>
+  <front>インタラクション (旧称バインド) の 2 つの種別は何ですか?</front>
+  <back>結果インタラクションと選択インタラクション</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>フラッシュカード 2</accessibility>
+  <front>開発者が Analytics データに直接アクセスする SAQL を記述できる 2 つの方法は何ですか?</front>
+  <back>Analytics REST API とダッシュボード JSON</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>フラッシュカード 3</accessibility>
+  <front>接続されたデータソースを使用してデータセット間のファセットを設定する理由は何ですか?</front>
+  <back>異なるデータセットからのクエリをファセットするには、それらのクエリ間の共通項目を使用してクエリを接続します。</back>
+</flashcard3>
