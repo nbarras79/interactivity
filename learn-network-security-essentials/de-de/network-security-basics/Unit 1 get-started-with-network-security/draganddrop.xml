@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Senden</submitbutton>
+  <resetbutton>Zurücksetzen</resetbutton>
+  <restartbutton>Neu starten</restartbutton>
+  <incorrecttext>Ordnen Sie alle rot markierten Optionen neu an und versuchen Sie es erneut.</incorrecttext>
+  <correcttext>Gut gemacht!</correcttext>
+  <dragoptions>
+    <drag1>Bei einem Ransomware-Angriff werden die Daten des Benutzers mithilfe von Schadsoftware verschlüsselt und damit unzugänglich gemacht. Der Benutzer wird aufgefordert, dem Hacker einen Geldbetrag zu zahlen, damit dieser die Daten wiederherstellt.</drag1>
+    <drag2>Ein Hacker verunstaltet die Website eines Unternehmens mit dem Bild einer Piratenflagge.</drag2>
+    <drag3>Ein Cyberkrimineller verschafft sich Zugang zu den Kassensystemen eines großen Einzelhändlers und stiehlt die privaten Kreditkartendaten eines Kunden.</drag3>
+    <drag4>Bei einem Denial-of-Service-Angriff wird das staatliche Gesundheitssystem offline geschaltet, wodurch es für legitime Benutzer unmöglich wird, auf die Website zuzugreifen, um sich für einen Behandlungsplan zu registrieren.</drag4>
+    <drag5>Ein Cyberkrieger greift auf ein behördliches Dokument zu, das Anweisungen zur ordnungsgemäßen Absicherung eines Kernreaktors enthält, und ändert die Anweisungen in diesem Dokument.</drag5>
+    <drag6>Ein Hacker errät das Kennwort eines Benutzers anhand seines Social Media-Profils und verwendet es, um auf seine Fotos in der Cloud zuzugreifen.</drag6>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Vertraulichkeit</drop1>
+    <drop2>Integrität</drop2>
+    <drop3>Verfügbarkeit</drop3>
+  </dropoptions>
+</draganddrop>

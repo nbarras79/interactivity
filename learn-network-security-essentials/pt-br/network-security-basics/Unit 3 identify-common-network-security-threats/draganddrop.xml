@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Enviar</submitbutton>
+  <resetbutton>Redefinir</resetbutton>
+  <restartbutton>Reiniciar</restartbutton>
+  <incorrecttext>Reorganize todas as opções que estejam vermelhas e tente novamente.</incorrecttext>
+  <correcttext>Ótimo trabalho!</correcttext>
+  <dragoptions>
+    <drag1>Negação de serviço (DOS)</drag1>
+    <drag2>Man in the Middle (MITM)</drag2>
+    <drag3>Malware</drag3>
+    <drag4>Phishing</drag4>
+    <drag5>Dia zero</drag5>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Softwares maliciosos, como vírus, worms, cavalos de Troia ou spyware, que infectam uma rede de computadores e permitem que hackers comprometam a confidencialidade, integridade ou disponibilidade de informações</drop1>
+    <drop2>Um cibercrime no qual os usuários são contatados por e-mail, telefone ou texto por alguém que se faz passar por uma instituição legítima, a fim de atrair o usuário a fornecer dados confidenciais, como nomes de usuário ou senhas, ou baixar malware</drop2>
+    <drop3>Um invasor impede que usuários legítimos acessem uma rede inundando a rede com tráfego</drop3>
+    <drop4>Um cibercriminoso cria uma conexão WiFi e atrai um usuário para se conectar, depois monitora suas atividades e intercepta credenciais de login, informações de pagamento e muito mais.</drop4>
+    <drop5>Uma falha de segurança no software que foi descoberta por hackers, mas ainda não é conhecida pelo fabricante de software ou fornecedores de antivírus.</drop5>
+  </dropoptions>
+</draganddrop>

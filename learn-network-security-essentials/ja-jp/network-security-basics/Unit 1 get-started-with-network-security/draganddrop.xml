@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>送信</submitbutton>
+  <resetbutton>リセット</resetbutton>
+  <restartbutton>再開始</restartbutton>
+  <incorrecttext>赤のオプションを置き換えて、もう一度試してください。</incorrecttext>
+  <correcttext>正解です!</correcttext>
+  <dragoptions>
+    <drag1>ランサムウェア攻撃で、マルウェアを使用してユーザデータを暗号化してアクセスできないようにし、ユーザにデータを復元するためのお金を支払うことを要求する。</drag1>
+    <drag2>ハッカーが企業の Web サイトを書き換えて海賊の旗を表示する。</drag2>
+    <drag3>サイバー犯罪者が、大手小売業者の販売時点管理 (POS) デバイスにアクセスし、非公開の顧客クレジットカード情報を盗む。</drag3>
+    <drag4>サービス拒否攻撃で、政府のヘルスケアシステムをオフラインにし、正当なユーザがヘルスケアプランに登録するためにサイトにアクセスできなくする。</drag4>
+    <drag5>サイバー戦士が、原子炉を適切に保護する方法の手順を記載した政府のドキュメントにアクセスし、ドキュメント内の手順を変更する。</drag5>
+    <drag6>ハッカーが、ユーザのソーシャルメディアプロファイルからパスワードを推測し、それを使用してクラウド内のそのユーザの写真にアクセスする。</drag6>
+  </dragoptions>
+  <dropoptions>
+    <drop1>機密性</drop1>
+    <drop2>完全性</drop2>
+    <drop3>対応可能状況</drop3>
+  </dropoptions>
+</draganddrop>

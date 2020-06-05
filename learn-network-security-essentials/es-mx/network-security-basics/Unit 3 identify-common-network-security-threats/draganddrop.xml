@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Enviar</submitbutton>
+  <resetbutton>Restablecer</resetbutton>
+  <restartbutton>Reiniciar</restartbutton>
+  <incorrecttext>Reordene cualquier opción que sea roja e inténtelo de nuevo.</incorrecttext>
+  <correcttext>¡Excelente trabajo!</correcttext>
+  <dragoptions>
+    <drag1>Denegación de servicio (DOS)</drag1>
+    <drag2>Man in the Middle (MITM)</drag2>
+    <drag3>Malware</drag3>
+    <drag4>Phishing</drag4>
+    <drag5>Día cero</drag5>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Software maliciosos como virus informáticos, gusanos, troyanos o spyware, que infectan una red informática y permiten a los hackers poner en peligro la confidencialidad, la integridad o la disponibilidad de la información</drop1>
+    <drop2>Un cibercrimen en que se hace contacto con los usuarios por email, teléfono o mensaje de texto por parte de alguien haciéndose pasar por una institución legítima con el fin de engañar al usuario para proporcionar datos confidenciales como nombres de usuario y contraseñas o descargar malware.</drop2>
+    <drop3>Un atacante impide a los usuarios legítimos acceder a una red inundando la red de tráfico</drop3>
+    <drop4>Un cibercriminal configura una conexión WiFi y engaña un usuario para conectarse, luego monitorea su actividad e intercepta credenciales de inicio de sesión, información de pago y mucho más.</drop4>
+    <drop5>Una brecha de seguridad en software descubierta por hackers pero desconocida por el creador del software o vendedores de antivirus.</drop5>
+  </dropoptions>
+</draganddrop>

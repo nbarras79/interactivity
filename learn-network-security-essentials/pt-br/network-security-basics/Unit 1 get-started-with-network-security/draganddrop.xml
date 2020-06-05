@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Enviar</submitbutton>
+  <resetbutton>Redefinir</resetbutton>
+  <restartbutton>Reiniciar</restartbutton>
+  <incorrecttext>Reorganize todas as opções que estejam vermelhas e tente novamente.</incorrecttext>
+  <correcttext>Ótimo trabalho!</correcttext>
+  <dragoptions>
+    <drag1>Um ataque de ransomware usa malware para criptografar os dados dos usuários, tornando-os inacessíveis, e exige que o usuário pague uma quantia de dinheiro ao hacker para recuperar os dados.</drag1>
+    <drag2>Um hacker desfigura o site de uma empresa com uma foto de uma bandeira pirata.</drag2>
+    <drag3>Um cibercriminoso ganha acesso aos dispositivos de ponto de venda (POS) de um grande varejista, e rouba as informações do cartão de crédito privado do cliente.</drag3>
+    <drag4>Um ataque de Negação de Serviço derruba o sistema de saúde do governo, impossibilitando que usuários legítimos acessem o site para se inscreverem em um programa de saúde.</drag4>
+    <drag5>Um ciberguerreiro acessa um documento do governo que contém instruções sobre como proteger adequadamente um reator nuclear, e altera as instruções no documento.</drag5>
+    <drag6>Um hacker adivinha a senha de um usuário com base no perfil de mídia social dele, e a usa para acessar fotos na nuvem.</drag6>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Confidencialidade</drop1>
+    <drop2>Integração</drop2>
+    <drop3>Disponibilidade de um agente</drop3>
+  </dropoptions>
+</draganddrop>

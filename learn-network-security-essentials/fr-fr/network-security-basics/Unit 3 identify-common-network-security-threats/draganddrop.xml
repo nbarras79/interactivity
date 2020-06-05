@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Soumettre</submitbutton>
+  <resetbutton>Réinitialiser</resetbutton>
+  <restartbutton>Redémarrer</restartbutton>
+  <incorrecttext>Veuillez modifier le placement des éléments en rouge et réessayer.</incorrecttext>
+  <correcttext>Bon travail !</correcttext>
+  <dragoptions>
+    <drag1>Déni de service (DOS)</drag1>
+    <drag2>Man in the Middle (MITM)</drag2>
+    <drag3>Logiciel malveillant</drag3>
+    <drag4>L’hameçonnage</drag4>
+    <drag5>Zero-day</drag5>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Logiciels employés de manière malintentionnée par des pirates tels que les virus, les vers, les chevaux de Troie ou les logiciels espions, qui infectent un réseau informatique et leur permettent de compromettre la confidentialité, l’intégrité ou la disponibilité des informations.</drop1>
+    <drop2>Un cybercrime qui consiste à contacter des utilisateurs par e-mail, téléphone ou SMS en se faisant passer pour une institution légitime afin de les inciter à fournir des données confidentielles telles que des noms d’utilisateur ou des mots de passe, ou à télécharger des logiciels malveillants.</drop2>
+    <drop3>Un pirate empêche les utilisateurs légitimes d’un réseau d’y accéder en le saturant.</drop3>
+    <drop4>Un cybercriminel met à disposition une connexion Wi-Fi et incite un utilisateur à s’y connecter, puis surveille son activité et intercepte des informations de connexion, de paiement, etc.</drop4>
+    <drop5>Une faille de sécurité dans un logiciel qui a été découverte par des pirates, mais qui n’est pas encore connue du fabricant du logiciel ou des fournisseurs d’antivirus.</drop5>
+  </dropoptions>
+</draganddrop>
