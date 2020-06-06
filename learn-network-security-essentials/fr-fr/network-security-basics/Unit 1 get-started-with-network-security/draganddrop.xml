@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Soumettre</submitbutton>
+  <resetbutton>Réinitialiser</resetbutton>
+  <restartbutton>Redémarrer</restartbutton>
+  <incorrecttext>Veuillez modifier le placement des éléments en rouge et réessayer.</incorrecttext>
+  <correcttext>Bon travail !</correcttext>
+  <dragoptions>
+    <drag1>Une attaque par rançongiciel emploie un logiciel malveillant pour crypter les données des utilisateurs, les rendant inaccessibles. Pour pouvoir récupérer ses données, l’utilisateur doit payer une somme d’argent au pirate.</drag1>
+    <drag2>Un pirate attaque le site Web d’une entreprise en y affichant une image représentant un drapeau pirate.</drag2>
+    <drag3>Un cybercriminel accède aux appareils des points de vente d’un grand détaillant et vole les informations privées des carte de crédit des clients.</drag3>
+    <drag4>Une attaque par déni de service entraîne la mise hors ligne du système de santé d’un gouvernement, ce qui empêche ses utilisateurs légitimes d’accéder au site pour demander la prise en charge de leurs soins de santé.</drag4>
+    <drag5>Un cyberguerrier accède à un document gouvernemental qui contient des instructions sur la manière de sécuriser correctement un réacteur nucléaire et modifie celles-ci.</drag5>
+    <drag6>Un pirate devine le mot de passe d’un utilisateur grâce aux informations de son profil sur un réseau social et l’utilise pour accéder à ses photos dans le Cloud.</drag6>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Confidentialité</drop1>
+    <drop2>Intégrité</drop2>
+    <drop3>Disponibilité</drop3>
+  </dropoptions>
+</draganddrop>

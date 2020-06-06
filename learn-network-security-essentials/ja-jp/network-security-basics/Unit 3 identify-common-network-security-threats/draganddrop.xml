@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>送信</submitbutton>
+  <resetbutton>リセット</resetbutton>
+  <restartbutton>再開始</restartbutton>
+  <incorrecttext>赤のオプションを置き換えて、もう一度試してください。</incorrecttext>
+  <correcttext>正解です!</correcttext>
+  <dragoptions>
+    <drag1>サービス拒否 (DOS)</drag1>
+    <drag2>中間者 (MITM)</drag2>
+    <drag3>マルウェア</drag3>
+    <drag4>フィッシング</drag4>
+    <drag5>ゼロデイ</drag5>
+  </dragoptions>
+  <dropoptions>
+    <drop1>コンピュータネットワークに感染し、ハッカーが情報の機密性、整合性、可用性を侵害できるようにするコンピュータウィルス、ワーム、トロイの木馬、スパイウェアなどの悪意のあるソフトウェア。</drop1>
+    <drop2>正当な機関を装った者がユーザにメール、電話、テキストで連絡し、ユーザ名やパスワードなどの機密データを提供させたり、マルウェアをダウンロードさせたりしようとするサイバー犯罪。</drop2>
+    <drop3>攻撃者がネットワークをトラフィックで溢れさせて正当なユーザがネットワークにアクセスできないようにする。</drop3>
+    <drop4>サイバー犯罪者が Wi-Fi 接続を設定し、ユーザを誘い込んで接続させ、ユーザの活動を監視し、ログイン情報や支払情報などを傍受する。</drop4>
+    <drop5>ハッカーによって発見されたが、ソフトウェアメーカーやウィルス対策ベンダーがまだ気付いていないソフトウェアのセキュリティホール。</drop5>
+  </dropoptions>
+</draganddrop>

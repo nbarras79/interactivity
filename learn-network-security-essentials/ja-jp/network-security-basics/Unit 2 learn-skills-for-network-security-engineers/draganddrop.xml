@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>送信</submitbutton>
+  <resetbutton>リセット</resetbutton>
+  <restartbutton>再開始</restartbutton>
+  <incorrecttext>赤のオプションを置き換えて、もう一度試してください。</incorrecttext>
+  <correcttext>正解です!</correcttext>
+  <dragoptions>
+    <drag1>ライバル会社のために働くハッカーが、製薬会社が何か月もかけて開発した秘密の製法を盗む。</drag1>
+    <drag2>大手小売業者の侵害の結果、顧客がデータのセキュリティに関してその会社を信用しなくなり、ビジネスを他の会社に移す。</drag2>
+    <drag3>メールサービスプロバイダが顧客アカウントに関連するユーザ名とパスワードの保護を怠っていたことが判明し、侵害の影響を受けたユーザにクレジット監視サービスを提供することを命令される。</drag3>
+    <drag4>コンピュータシステムへの侵害を知った後に、会社の CEO が自分の持つ自社株を売ったが、侵害について世間や他の投資家には知らせない。</drag4>
+    <drag5>サイバー戦士が、他国政府の税金 Web サイトを書き換えて、自分の国の旗を掲げた海賊船の画像を表示する。</drag5>
+    <drag6>サイバー犯罪者が銀行の顧客口座にアクセスし、全資金を奪う。</drag6>
+  </dragoptions>
+  <dropoptions>
+    <drop1>経済的影響</drop1>
+    <drop2>評判への影響</drop2>
+    <drop3>法的影響</drop3>
+  </dropoptions>
+</draganddrop>

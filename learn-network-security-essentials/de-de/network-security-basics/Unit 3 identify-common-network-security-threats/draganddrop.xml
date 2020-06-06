@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Senden</submitbutton>
+  <resetbutton>Zurücksetzen</resetbutton>
+  <restartbutton>Neu starten</restartbutton>
+  <incorrecttext>Ordnen Sie alle rot markierten Optionen neu an und versuchen Sie es erneut.</incorrecttext>
+  <correcttext>Gut gemacht!</correcttext>
+  <dragoptions>
+    <drag1>Denial-of-Service (DoS)</drag1>
+    <drag2>Man-in-the-Middle (MITM)</drag2>
+    <drag3>Schadsoftware</drag3>
+    <drag4>Phishing</drag4>
+    <drag5>Zero Day</drag5>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Schadsoftware wie Computerviren, Würmer, Trojaner oder Spyware, die ein Computernetzwerk infizieren und es Hackern ermöglichen, die Vertraulichkeit, Integrität oder Verfügbarkeit von Informationen zu kompromittieren</drop1>
+    <drop2>Ein Cyberverbrechen, bei dem Benutzer per E-Mail, Telefon oder SMS von jemandem kontaktiert werden, der sich als legitime Institution ausgibt, um den Benutzer dazu zu verleiten, sensible Daten wie Benutzernamen oder Kennwörter zur Verfügung zu stellen oder Schadsoftware herunterzuladen</drop2>
+    <drop3>Ein Angreifer hindert legitime Benutzer am Zugriff auf ein Netzwerk, indem er das Netzwerk mit Datenverkehr überschwemmt</drop3>
+    <drop4>Ein Cyberkrimineller richtet eine WLAN-Verbindung ein und verleitet einen Benutzer zur Herstellung einer Verbindung, überwacht dann seine Aktivitäten und fängt Anmelde-, Zahlungs- und viele weitere Informationen ab.</drop4>
+    <drop5>Eine Sicherheitslücke in Software, die von Hackern entdeckt wurde, aber dem Softwarehersteller oder den Anbietern von Virenschutzsoftware noch nicht bekannt ist</drop5>
+  </dropoptions>
+</draganddrop>

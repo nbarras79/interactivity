@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <drag1>
+    <fulltext>一般的なネットワークセキュリティ戦略は、ポリシー、適用、{blank_space} の 3 つの部分で構成されています。</fulltext>
+    <answer>監査/評価</answer>
+  </drag1>
+  <drag2>
+    <fulltext>最後の部分では、会社のセキュリティ体制をテストし、残っている {blank_space} を理解して解決します。</fulltext>
+    <answer>リスク</answer>
+  </drag2>
+  <drag3>
+    <fulltext>ネットワークセキュリティ保護の {blank_space} では、エンジニアはいくつかのテクノロジを使用できます。</fulltext>
+    <answer>適用</answer>
+  </drag3>
+  <drag4>
+    <fulltext>{blank_space} は、未承認デバイスがネットワークに接続するのをブロックします。</fulltext>
+    <answer>ネットワークアクセス制御 (NAC)</answer>
+  </drag4>
+  <drag5>
+    <fulltext>ファイアウォールは、事前に定められたセキュリティルールに基づいてネットワークの送受信トラフィックを {blank_space} し、制御します。</fulltext>
+    <answer>監視</answer>
+  </drag5>
+  <drag6>
+    <fulltext>{blank_space} は、ネットワークトラフィックを監視して、可能性のあるインシデントを識別し、ネットワーク上の侵入を防ぎます。</fulltext>
+    <answer>侵入検知・防止システム (IDPS)</answer>
+  </drag6>
+  <drag7>
+    <fulltext>最後に、セキュリティ情報イベント管理 (SIEM) システムは、これらのすべてのデバイスのログ情報を 1 か所に {blank_space} し、脅威情報と組み合わせてセキュリティアラートを分析しやすくするために役立ちます。</fulltext>
+    <answer>集約</answer>
+  </drag7>
+  <submitbutton>送信</submitbutton>
+  <resetbutton>リセット</resetbutton>
+  <restartbutton>再開始</restartbutton>
+  <incorrecttext>赤のオプションを置き換えて、もう一度試してください。</incorrecttext>
+  <correcttext>正解です!</correcttext>
+</draganddrop>

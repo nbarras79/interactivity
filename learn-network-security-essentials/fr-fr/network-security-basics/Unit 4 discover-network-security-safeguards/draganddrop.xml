@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <drag1>
+    <fulltext>Une stratégie de sécurité réseau classique se compose de trois éléments : la politique, l’application et l’{blank_space}.</fulltext>
+    <answer>audit/évaluation</answer>
+  </drag1>
+  <drag2>
+    <fulltext>Ce dernier élément a pour but de tester la position de l’entreprise en matière de sécurité, ainsi que de comprendre et de résoudre les {blank_space} résiduels.</fulltext>
+    <answer>risques</answer>
+  </drag2>
+  <drag3>
+    <fulltext>Les ingénieurs peuvent utiliser plusieurs technologies pour {blank_space} des protections de sécurité réseau.</fulltext>
+    <answer>appliquer</answer>
+  </drag3>
+  <drag4>
+    <fulltext>Le {blank_space} empêche les appareils non autorisés de se connecter au réseau.</fulltext>
+    <answer>contrôle d’accès au réseau</answer>
+  </drag4>
+  <drag5>
+    <fulltext>Les pare-feux procèdent à la {blank_space} et au contrôle du trafic réseau entrant et sortant selon des règles de sécurité prédéterminées.</fulltext>
+    <answer>surveillance</answer>
+  </drag5>
+  <drag6>
+    <fulltext>Les {blank_space} surveillent le trafic réseau pour identifier d’éventuels incidents et empêcher les intrusions sur le réseau.</fulltext>
+    <answer>systèmes de détection et de prévention des intrusions (IDPS)</answer>
+  </drag6>
+  <drag7>
+    <fulltext>Enfin, un système de surveillance des incidents et des événements de sécurité (SIEM) peut aider à {blank_space} les informations de tous ces appareils en un seul endroit, en les combinant aux informations sur les menaces pour faciliter l’analyse des alertes de sécurité.</fulltext>
+    <answer>agréger</answer>
+  </drag7>
+  <submitbutton>Soumettre</submitbutton>
+  <resetbutton>Réinitialiser</resetbutton>
+  <restartbutton>Redémarrer</restartbutton>
+  <incorrecttext>Veuillez modifier le placement des éléments en rouge et réessayer.</incorrecttext>
+  <correcttext>Bon travail !</correcttext>
+</draganddrop>

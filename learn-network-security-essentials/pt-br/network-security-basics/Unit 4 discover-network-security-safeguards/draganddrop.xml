@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <drag1>
+    <fulltext>Uma estratégia típica de segurança de rede é composta por três partes: política, aplicação e {blank_space}.</fulltext>
+    <answer>auditoria/avaliação</answer>
+  </drag1>
+  <drag2>
+    <fulltext>O último deles busca testar a postura de segurança da empresa, e entender e resolver {blank_space} residuais.</fulltext>
+    <answer>riscos</answer>
+  </drag2>
+  <drag3>
+    <fulltext>Para {blank_space} proteções de segurança de rede, os engenheiros podem usar várias tecnologias.</fulltext>
+    <answer>impor</answer>
+  </drag3>
+  <drag4>
+    <fulltext>O {blank_space} bloqueia a conexão de dispositivos não autorizados à rede.</fulltext>
+    <answer>Controle de acesso à rede (NAC)</answer>
+  </drag4>
+  <drag5>
+    <fulltext>Firewalls {blank_space} e controlam o tráfego de rede de entrada e saída com base em regras de segurança predeterminadas.</fulltext>
+    <answer>monitoram</answer>
+  </drag5>
+  <drag6>
+    <fulltext>{Blank_space} monitoram o tráfego de rede para identificar possíveis incidentes e evitar invasões na rede.</fulltext>
+    <answer>Sistemas de detecção e prevenção de invasões (IDPS)</answer>
+  </drag6>
+  <drag7>
+    <fulltext>Finalmente, um sistema de monitoramento de incidentes e eventos de segurança (SIEM) pode ajudar a {blank_space} registros de informações de todos esses dispositivos em um só lugar, combinadas com informações de ameaças para facilitar a análise de alertas de segurança.</fulltext>
+    <answer>agregar</answer>
+  </drag7>
+  <submitbutton>Enviar</submitbutton>
+  <resetbutton>Redefinir</resetbutton>
+  <restartbutton>Reiniciar</restartbutton>
+  <incorrecttext>Reorganize todas as opções que estejam vermelhas e tente novamente.</incorrecttext>
+  <correcttext>Ótimo trabalho!</correcttext>
+</draganddrop>

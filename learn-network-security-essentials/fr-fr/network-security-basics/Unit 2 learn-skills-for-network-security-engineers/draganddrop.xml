@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Soumettre</submitbutton>
+  <resetbutton>Réinitialiser</resetbutton>
+  <restartbutton>Redémarrer</restartbutton>
+  <incorrecttext>Veuillez modifier le placement des éléments en rouge et réessayer.</incorrecttext>
+  <correcttext>Bon travail !</correcttext>
+  <dragoptions>
+    <drag1>Un pirate travaillant pour une société concurrente vole la formule secrète qu’une entreprise pharmaceutique a mis des mois à mettre au point.</drag1>
+    <drag2>À la suite d’une faille de sécurité au sein d’une grande enseigne de vente au détail, ses clients estiment qu’elle n’est pas en mesure de protéger leurs données et se tournent vers la concurrence.</drag2>
+    <drag3>Un fournisseur de services de messagerie électronique a négligé la protection des noms d’utilisateur et des mots de passe associés aux comptes clients. Il est condamné à fournir aux utilisateurs touchés par la faille des services de surveillance de l’utilisation éventuelle de leurs informations d’identité dans le but d’obtenir frauduleusement un crédit.</drag3>
+    <drag4>Après avoir pris connaissance d’une faille de sécurité dans ses systèmes informatiques, le PDG d’une entreprise vend des actions de la société, mais n’informe pas le public ou les autres investisseurs de la faille.</drag4>
+    <drag5>Une cyberguerrière attaque le site Web des impôts d’un gouvernement étranger en y publiant une image d’un bateau pirate battant le pavillon de son pays.</drag5>
+    <drag6>Un cybercriminel accède au compte d’un client d’une banque et le vide de tous ses fonds.</drag6>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Impact financier</drop1>
+    <drop2>Impact sur la réputation</drop2>
+    <drop3>Impact juridique</drop3>
+  </dropoptions>
+</draganddrop>
