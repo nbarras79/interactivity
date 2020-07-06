@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} von {1}</flashcardcounttext>
+<leftarrowaccessibility>Klicken Sie auf oder drücken Sie die Nach-Links-Pfeiltaste auf der Tastatur, um zur vorherigen Lernkarte zu gelangen.</leftarrowaccessibility>
+<rightarrowaccessibility>Klicken Sie auf oder drücken Sie die Nach-Rechts-Pfeiltaste auf der Tastatur, um zur nächsten Lernkarte zu gelangen.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Lernkarte 1: Die Steuerelemente für die Lernkarten sind wie folgt: Um zur vorherigen Lernkarte zu gelangen, drücken Sie die Nach-Links-Pfeiltaste. Um zur nächsten Lernkarte zu gelangen, drücken Sie die Nach-Rechts-Pfeiltaste. Um die Lernkarte von vorne nach hinten und umgekehrt umzudrehen, drücken Sie die Nach-Unten-Pfeiltaste. In dieser Gruppe gibt es 3 Lernkarten.</accessibility>
+  <front>Verbale Belästigung</front>
+  <back>
+    <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 10px;padding-left: 20px; margin-right: 10px;line-height: 1.2em;">
+      <li style="margin: 10px 0;">Unanständige oder anzügliche Witze erzählen</li>
+      <li style="margin: 10px 0;">Rassistische Witze oder Witze über das Alter, die Religion oder den ethnischen Hintergrund einer Person</li>
+      <li style="margin: 10px 0;">Gespräch über Sex oder sexuelle Anspielungen</li>
+      <li style="margin: 10px 0;">Einem Kollegen intime Fragen zu seinen sexuellen Aktivitäten stellen</li>
+      <li style="margin: 10px 0;">Verabredungen oder Gefallen für eine Einstellung oder bessere Arbeitsbedingungen fordern</li>
+    </ul>
+  </back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Lernkarte 2</accessibility>
+  <front>Physische Belästigung</front>
+  <back>
+    <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 10px;padding-left: 20px;font-size: 20px; margin-right: 10px;">
+      <li style="margin: 10px 0;">Einen Kollegen an empfindlichen Körperstellen streifen oder berühren</li>
+      <li style="margin: 10px 0;">Unerwünschter Körperkontakt, unerwünschte Annäherung</li>
+      <li style="margin: 10px 0;">Jemanden in die Enge treiben </li>
+    </ul>
+  </back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Lernkarte 3</accessibility>
+  <front>Nonverbale oder visuelle Belästigung</front>
+  <back>
+    <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 10px;padding-left: 20px; margin-right: 10px;">
+      <li style="margin: 10px 0;">Anstößige Bilder oder Publikationen (einschließlich E-Mails, Textnachrichten, Videoclips und Bildern, die per E-Mail oder Handy versendet oder im Internet veröffentlicht wurden) zeigen oder senden</li>
+      <li style="margin: 10px 0;">Anstößige Hand- oder Körperbewegungen</li>
+      <li style="margin: 10px 0;">Anstarren oder lüstern ansehen</li>
+      <li style="margin: 10px 0;">Sexuelle Bilder oder Pornografie zeigen</li>
+      <li style="margin: 10px 0;">Die Behinderung einer Person verspotten, nachmachen oder verharmlosen</li>
+      <li style="margin: 10px 0;">Rassistisch motivierte Websites zeigen, E-Mails oder Textnachrichten an Mitarbeiter weiterleiten, die Witze über ethnische Herkunft, Hautfarbe oder Religion enthalten</li>
+    </ul>
+  </back>
+</flashcard3>
