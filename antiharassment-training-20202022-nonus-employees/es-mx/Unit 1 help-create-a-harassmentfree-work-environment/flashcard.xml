@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Haga clic o pulse la Flecha izquierda del teclado para pasar a la tarjeta mnemotécnica anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Haga clic o pulse la Flecha derecha del teclado para pasar a la tarjeta mnemotécnica siguiente.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Tarjeta mnemotécnica 1. Los controles de las tarjetas mnemotécnicas son los siguientes: Para pasar a la tarjeta mnemotécnica anterior pulse la tecla de flecha izquierda. Para pasar a la tarjeta mnemotécnica siguiente pulse la tecla de flecha derecha. Para dar la vuelta de la tarjeta mnemotécnica del anverso al reverso y viceversa, pulse la fecha hacia abajo. Hay 3 tarjetas mnemotécnicas en este conjunto.</accessibility>
+  <front>Acoso verbal</front>
+  <back>
+    <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 10px;padding-left: 20px; margin-right: 10px;line-height: 1.2em;">
+      <li style="margin: 10px 0;">Burlas sobre la raza o el género</li>
+      <li style="margin: 10px 0;">Burlas racistas o burlas sobre la edad o credo u origen étnico de una persona</li>
+      <li style="margin: 10px 0;">Hablar sobre sexo o realizar insinuaciones sexuales</li>
+      <li style="margin: 10px 0;">Preguntar a un colega de trabajo cuestiones íntimas sobre sus actividades sexuales</li>
+      <li style="margin: 10px 0;">Solicitar citas o favores a cambio de un trabajo o mejores condiciones laborales</li>
+    </ul>
+  </back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Tarjeta mnemotécnica 2.</accessibility>
+  <front>Acoso físico</front>
+  <back>
+    <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 10px;padding-left: 20px;font-size: 20px; margin-right: 10px;">
+      <li style="margin: 10px 0;">Rozar o tocar partes íntimas del cuerpo de un colega de trabajo</li>
+      <li style="margin: 10px 0;">Contacto o propuestas físicas no deseadas</li>
+      <li style="margin: 10px 0;">Bloquear el movimiento de una persona </li>
+    </ul>
+  </back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Tarjeta mnemotécnica 3.</accessibility>
+  <front>Acoso no verbal o visual</front>
+  <back>
+    <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 10px;padding-left: 20px; margin-right: 10px;">
+      <li style="margin: 10px 0;">Exhibir o enviar imágenes o publicaciones ofensivas (incluyendo emails, mensajes de texto, clips de video e imágenes enviadas por email o dispositivos móviles o publicadas en Internet)</li>
+      <li style="margin: 10px 0;">Realizar gestos ofensivos con las manos o el cuerpo</li>
+      <li style="margin: 10px 0;">Miradas lujuriosas o lascivas</li>
+      <li style="margin: 10px 0;">Mostrar imágenes sexuales o pornográficas</li>
+      <li style="margin: 10px 0;">Burlarse, imitar o menospreciar la discapacidad de una persona</li>
+      <li style="margin: 10px 0;">Ver sitios web racistas, reenviar emails o enviar mensajes de texto a colegas de trabajo con bromas sobre la raza, el color o la religión</li>
+    </ul>
+  </back>
+</flashcard3>
