@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Enviar</submitbutton>
+  <resetbutton>Restablecer</resetbutton>
+  <restartbutton>Reiniciar</restartbutton>
+  <incorrecttext>Reordene cualquier opción que sea roja e inténtelo de nuevo.</incorrecttext>
+  <correcttext>¡Excelente trabajo!</correcttext>
+  <dragoptions>
+    <drag1>Un hacker trabajando en una compañía rival sustrae la fórmula secreta que una compañía farmacéutica empleó meses en desarrollar.</drag1>
+    <drag2>Como resultado de una brecha en un gigante minorista, los clientes ya no confían en la compañía para proteger sus datos y llevan sus negocios a otra parte.</drag2>
+    <drag3>Se descubrió que un proveedor de servicio de email fue negligente en la protección de nombres de usuario y contraseñas asociados con cuentas de clientes y se le ordenó proporcionar servicios de monitoreo de crédito a los usuarios afectados por una brecha.</drag3>
+    <drag4>Tras saber de una brecha en sus sistemas informáticos, el Director general de una compañía vende acciones de la compañía, pero no informa al público u otros inversores sobre la brecha.</drag4>
+    <drag5>Un ciberguerrero desfigura el sitio web de impuestos de otro gobierno publicando una imagen de un barco pirata con la bandera de su país.</drag5>
+    <drag6>Un cibercriminal accede a la cuenta del cliente de un banco y la despoja de todos sus fondos.</drag6>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Impacto financiero</drop1>
+    <drop2>Impacto sobre la reputación</drop2>
+    <drop3>Impacto legal</drop3>
+  </dropoptions>
+</draganddrop>

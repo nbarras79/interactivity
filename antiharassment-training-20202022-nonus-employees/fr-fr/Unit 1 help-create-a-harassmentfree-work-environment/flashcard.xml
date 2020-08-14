@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} sur {1}</flashcardcounttext>
+<leftarrowaccessibility>Cliquez ou appuyez sur la touche flèche gauche du clavier pour revenir à la fiche précédente.</leftarrowaccessibility>
+<rightarrowaccessibility>Cliquez ou appuyez sur la touche flèche droite du clavier pour passer à la fiche suivante.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Fiche 1 Les commandes des fiches sont les suivantes : pour revenir à la fiche précédente, appuyez sur la touche flèche gauche. Pour passer à la fiche suivante, appuyez sur la touche flèche droite. Pour passer du recto au verso de la fiche et inversement, appuyez sur la touche flèche vers le bas. Cet ensemble comporte 3 fiches.</accessibility>
+  <front>Harcèlement verbal</front>
+  <back>
+    <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 10px;padding-left: 20px; margin-right: 10px;line-height: 1.2em;">
+      <li style="margin: 10px 0;">Raconter des mauvaises plaisanteries ou des blagues à connotation sexuelle</li>
+      <li style="margin: 10px 0;">Blagues racistes ou blagues sur l’âge, la religion ou l’origine ethnique de quelqu&apos;un</li>
+      <li style="margin: 10px 0;">Parler de sexe ou d&apos;insinuations sexuelles</li>
+      <li style="margin: 10px 0;">Poser des questions intimes à un collègue sur sa vie sexuelle</li>
+      <li style="margin: 10px 0;">Demander à quelqu’un de sortir avec vous ou des faveurs en échange d&apos;un travail ou de meilleures conditions de travail</li>
+    </ul>
+  </back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Fiche 2</accessibility>
+  <front>Harcèlement physique</front>
+  <back>
+    <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 10px;padding-left: 20px;font-size: 20px; margin-right: 10px;">
+      <li style="margin: 10px 0;">Se frotter contre ou toucher les parties sensibles du corps d’un(e) collègue</li>
+      <li style="margin: 10px 0;">Contacts physiques non désirés et avances</li>
+      <li style="margin: 10px 0;">Bloquer le mouvement de quelqu’un </li>
+    </ul>
+  </back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Fiche 3</accessibility>
+  <front>Harcèlement visuel ou non verbal</front>
+  <back>
+    <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 10px;padding-left: 20px; margin-right: 10px;">
+      <li style="margin: 10px 0;">Afficher ou envoyer des images ou des publications offensantes (y compris des e-mails, des messages textes, des clips vidéo et des images envoyés par e-mail ou par téléphone mobile ou affichés sur Internet)</li>
+      <li style="margin: 10px 0;">Faire des gestes offensants de la main ou du corps</li>
+      <li style="margin: 10px 0;">Fixer du regard ou lorgner</li>
+      <li style="margin: 10px 0;">Montrer des images à caractère sexuel ou de la pornographie</li>
+      <li style="margin: 10px 0;">Se moquer, imiter ou déprécier le handicap d&apos;une personne</li>
+      <li style="margin: 10px 0;">Consulter des sites Web racistes, envoyer des e-mails ou des blagues à des collègues au sujet de la race, de la couleur ou de la religion</li>
+    </ul>
+  </back>
+</flashcard3>

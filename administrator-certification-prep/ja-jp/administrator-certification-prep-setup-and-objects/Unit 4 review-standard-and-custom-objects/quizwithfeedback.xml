@@ -13,16 +13,20 @@
   <threeanswerstoomanyselected>回答を 3 つだけ選択</threeanswerstoomanyselected>
   <numberofattempts>試行回数: </numberofattempts>
   <question1>
-    <accessibility>質問 1.この質問では選択肢から答えを選択します。質問の正解は 1 つです。知識チェックのコントロールは次のとおりです。1 番目の選択肢を選択するにはキーボードの「1」、2 番目は「2」、3 番目は「3」、4 番目は「4」、5 番目がある場合は「5」を押します。選択した回答を送信するには、キーボードの Enter キーを押します。回答が不正解だった場合は、Shift-Enter キーを押すと選択をリセットできます。</accessibility>
-    <question>Ursa Major Solar の営業担当副社長は、営業チームで現在進行中の商談すべてを表示し、チームが四半期末の目標をどの程度達成できているかを判断しようとしています。<br><br>商談に関する情報が保管されている
-標準オブジェクトはどれですか?</question>
+    <accessibility>質問 1.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。知識チェックのコントロールは次のとおりです。1 番目の選択肢を選択するにはキーボードの「1」、2 番目は「2」、3 番目は「3」、4 番目は「4」、5 番目がある場合は「5」を押します。選択した回答を送信するには、キーボードの Enter キーを押します。回答が不正解だった場合は、Shift-Enter キーを押すと選択をリセットできます。</accessibility>
+    <question>Ursa Major Solar の営業担当副社長は、営業チームで現在進行中の商談すべてを表示し、チームが四半期末の目標をどの程度達成できているかを判断しようとしています。商談に関する情報が保管されている標準オブジェクトはどれですか?</question>
     <option1text>取引先</option1text>
-    <option1textexplanation>不正解。取引先には、ビジネスの相手となる顧客または個人に関する情報が保管されます。2 種類の取引先があります。法人取引先には、企業に関する情報が保管されます。個人取引先には、個人に関する情報が
-保管されます。</option1textexplanation>
+    <option1textexplanation>不正解。取引先には、ビジネスの相手となる顧客または個人に関する情報が保管されます。2 種類の取引先があります。法人取引先には、企業に関する情報が保管されます。個人取引先には、個人に関する情報が保管されます。</option1textexplanation>
+    <option2text>納入商品</option2text>
+    <option2textexplanation>不正解。納入商品とは、お客様が購入した特定の商品のことです。納入商品にはシリアル番号、購入日、その他個々の販売に関連した情報が付随します。組織によっては、納入商品をお客様が所有している競合商品や、商品のバージョンを表すように使用している場合があります。<option2textexplanation>
+    <option3text>商品</option3text>
+    <option3textexplanation>不正解。商品とは、販売する品目やサービスすべてとその標準価格が含まれるベースカタログです。</option3textexplanation>
+    <option4text>商談</option4text>
+    <option4textexplanation>正解。商談とは、進行中の取引案件です。プロスペクティング、提案書送付、交渉、契約成立などの「フェーズ」と呼ばれる一連のビジネスマイルストンを進んでいく商談の進行状況を追跡します。目標は商談を「成立」させるか、販売実績となる最終フェーズまで移動させることです。</option4textexplanation>
   </question1>
   <question2>
     <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
-    <question>Ursa Major Solar のある営業チームメンバーは、取引先の 1 つに関連する情報を表示して、360 度の顧客情報を把握したいと考えています。<br><br>取引先レコードに関連する 2 つの標準オブジェクトはどれですか? (答えを 2 つ選択してください)</question>
+    <question>Ursa Major Solar のある営業チームメンバーは、取引先の 1 つに関連する情報を表示して、360 度の顧客情報を把握したいと考えています。取引先レコードに関連する 2 つの標準オブジェクトはどれですか? (答えを 2 つ選択してください)</question>
     <option1text>ケース</option1text>
     <option1textexplanation>正解。ケースは取引先に関連する標準オブジェクトです。</option1textexplanation>
     <option2text>キャンペーン</option2text>
@@ -34,37 +38,34 @@
   </question2>
   <question3>
     <accessibility>質問 3.この質問の回答には 5 つの選択肢があります。質問の正解は 3 つです。</accessibility>
-    <question>Ursa Major Solar のマーケティングマネージャは、次のイベント Ray-a-thon のマーケティングキャンペーンを実施したいと考えています。マネージャは、Salesforce でキャンペーンからできるだけ多くの情報を収集する必要があります。<br><br>キャンペーンとの
-リレーションがある 3 つのオブジェクトはどれですか? (答えを 3 つ選択してください)</question>
+    <question>Ursa Major Solar のマーケティングマネージャは、次のイベント Ray-a-thon のマーケティングキャンペーンを実施したいと考えています。マネージャは、Salesforce でキャンペーンからできるだけ多くの情報を収集する必要があります。キャンペーンとのリレーションがある 3 つのオブジェクトはどれですか? (答えを 3 つ選択してください)</question>
     <option1text>リード</option1text>
-    <option1textexplanation>正解。リードオブジェクトにはキャンペーン関連リストがあります。会社のキャンペーンは通常、見込み客 (リード) を対象にします。取引先責任者とリードをキャンペーンメンバーとしてキャンペーンに関連付けます。</option1textexplanation>
+    <option1textexplanation>正解。リードオブジェクトにはキャンペーン関連リストがあります。会社のキャンペーンは通常、見込み客 (リード) を対象にします。取引先責任者とリードをキャンペーンメンバーとしてキャンペーンに関連付けます。<option1textexplanation>
     <option2text>取引先責任者</option2text>
     <option2textexplanation>正解。会社のキャンペーンは通常、既存のキャンペーン (取引先責任者) を対象にします。取引先責任者とリードをキャンペーンメンバーとしてキャンペーンに関連付けます。</option2textexplanation>
     <option3text>取引先</option3text>
     <option3textexplanation>不正解。取引先はキャンペーンに関連付けられていません。</option3textexplanation>
     <option4text>商談</option4text>
     <option4textexplanation>正解。商談はキャンペーンに関連し、さまざまなキャンペーンの結果として作成された商談を追跡できます。</option4textexplanation>
+    <option5buttontext>E</option5buttontext>
     <option5text>取引先責任者の役割</option5text>
     <option5textexplanation>不正解。取引先責任者の役割はキャンペーンに関連しません。</option5textexplanation>
   </question3>
   <question4>
     <accessibility>質問 4.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
-    <question>Ursa Major Solar には、標準項目である従業員数に基づいて取引先の規模が反映される項目が必要です。<br><br>複数の結果がある特定の条件に基づいてさまざまな結果を評価するために、システム管理者が使用すべき
-数式関数はどれですか?</question>
+    <question>Ursa Major Solar には、標準項目である従業員数に基づいて取引先の規模が反映される項目が必要です。複数の結果がある特定の条件に基づいてさまざまな結果を評価するために、システム管理者が使用すべき数式関数はどれですか?</question>
     <option1text>ISPICKVAL</option1text>
     <option1textexplanation>不正解。ISPICKVAL は、選択リストの値が指定したテキストリテラルと等しいかどうかを判定します。この関数は選択リスト値が従業員数と等しいかどうかを評価します。</option1textexplanation>
     <option2text>TEXT</option2text>
     <option2textexplanation>不正解。TEXT は、数式が使用されている場所にあるパーセント型、数値型、日付/時刻型、または通貨型の項目をテキストに変換します。これは要件を満たしません。</option2textexplanation>
     <option3text>IF</option3text>
-    <option3textexplanation>正解。IF は式が true か false かを判定します。true の場合は所定の値を、false の場合は別の値を返します。複数の IF をつなげて複数の結果がある特定の条件を評価できるため、
-これは正しい答えです。</option3textexplanation>
+    <option3textexplanation>正解。IF は式が true か false かを判定します。true の場合は所定の値を、false の場合は別の値を返します。複数の IF をつなげて複数の結果がある特定の条件を評価できるため、これは正しい答えです。</option3textexplanation>
     <option4text>AND</option4text>
-    <option4textexplanation>不正解。AND は、すべての値が true の場合は TRUE、1 つ以上の値が false の場合は FALSE を返します。AND では複数の条件が結合されますが、ここでの要件は特定の条件に対するものであるため、
-この答えは正しくありません。</option4textexplanation>
+    <option4textexplanation>不正解。AND は、すべての値が true の場合は TRUE、1 つ以上の値が false の場合は FALSE を返します。AND では複数の条件が結合されますが、ここでの要件は特定の条件に対するものであるため、この答えは正しくありません。</option4textexplanation>
   </question4>
   <question5>
     <accessibility>質問 5.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
-    <question>Ursa Major Solar の営業マネージャは、過去 30 日間更新されていない商談に自動的にフラグを設定したいと考えています。<br><br>システム管理者はこの要件をどのように実装すべきですか?</question>
+    <question>Ursa Major Solar の営業マネージャは、過去 30 日間更新されていない商談に自動的にフラグを設定したいと考えています。システム管理者はこの要件をどのように実装すべきですか?</question>
     <option1text>最終更新時からの期間を計算し、定義された条件を満たす場合は赤い旗の画像を表示する数式項目を作成する。</option1text>
     <option1textexplanation>正解。最終更新時から 30 日以上経過している場合は赤い旗を表示する数式項目を追加することで、この要件を満たします。</option1textexplanation>
     <option2text>[最終更新日] 項目のデフォルト値に、レコードが条件を満たす場合はテキストを赤にする数式項目を追加する。</option2text>
@@ -76,7 +77,7 @@
   </question5>
   <question6>
     <accessibility>質問 6.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
-    <question>Ursa Major Solar の CEO は、取引先ページの表示時に取引先責任者のリストが表示されないようにしたいと考えていますが、取引先責任者レコードには引き続きアクセスする必要があります。<br><br>システム管理者がこれをどのように設定すべきですか?</question>
+    <question>Ursa Major Solar の CEO は、取引先ページの表示時に取引先責任者のリストが表示されないようにしたいと考えていますが、取引先責任者レコードには引き続きアクセスする必要があります。システム管理者がこれをどのように設定すべきですか?</question>
     <option1text>CEO のプロファイルから取引先責任者の参照アクセス権限を削除する。</option1text>
     <option1textexplanation>不正解。この場合、取引先責任者レコードへのアクセス権がすべて削除されますが、CEO は引き続き取引先ページ以外から取引先責任者レコードにアクセスする必要があります。</option1textexplanation>
     <option2text>取引先の [組織の共有設定] の共有設定を [非公開] に設定する。</option2text>
@@ -88,8 +89,7 @@
   </question6>
   <question7>
     <accessibility>質問 7.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
-    <question>Universal Containers の営業担当副社長は、一貫した配色のレポートで、商談のフェーズ項目から簡単に選択リスト値を追跡できるようにしたいと考えています。<br><br>選択リストの値がすべてのレポートに一貫した配色で表示されるようにするには、
-システム管理者はどうすべきですか? (答えを 2 つ選択してください)</question>
+    <question>Universal Containers の営業担当副社長は、一貫した配色のレポートで、商談のフェーズ項目から簡単に選択リスト値を追跡できるようにしたいと考えています。選択リストの値がすべてのレポートに一貫した配色で表示されるようにするには、システム管理者はどうすべきですか? (答えを 2 つ選択してください)</question>
     <option1text>各値の色を定義するバケット項目を使用する。</option1text>
     <option1textexplanation>不正解。バケット項目の色は動的に定義され、レポート共通のデフォルトにはなりません。</option1textexplanation>
     <option2text>レポートに各値の条件付き強調表示を設定する。</option2text>
@@ -101,8 +101,7 @@
   </question7>
   <question8>
     <accessibility>質問 8.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
-    <question>Ursa Major Solar は、商談関連リストで請求書支払を追跡したいと考えています。この関連リストは財務チームにのみ表示する必要があります。ただし、すべてのユーザが請求書支払レポートを表示できるようにする必要があります。<br><br>システム管理者はこの要件をどのように
-実装すべきですか?</question>
+    <question>Ursa Major Solar は、商談関連リストで請求書支払を追跡したいと考えています。この関連リストは財務チームにのみ表示する必要があります。ただし、すべてのユーザが請求書支払レポートを表示できるようにする必要があります。システム管理者はこの要件をどのように実装すべきですか?</question>
     <option1text>財務チーム用に新しいページレイアウトとプロファイルを作成する。</option1text>
     <option1textexplanation>正解。このソリューションにより、財務チームのみが関連リストを含むページレイアウトを表示でき、すべてのユーザが請求書支払レポートを表示できるようになります。</option1textexplanation>
     <option2text>請求書支払の組織の共有設定を [非公開] に設定する。</option2text>

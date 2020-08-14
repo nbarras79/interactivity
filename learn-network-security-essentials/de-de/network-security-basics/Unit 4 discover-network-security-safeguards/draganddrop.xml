@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <drag1>
+    <fulltext>Eine typische Netzwerksicherheitsstrategie besteht aus drei Teilen: Richtlinie, Durchsetzung und {blank_space}.</fulltext>
+    <answer>Überwachung/Bewertung</answer>
+  </drag1>
+  <drag2>
+    <fulltext>Der letzte Punkt zielt darauf ab, die Sicherheitslage des Unternehmens zu sondieren und restliche {blank_space} zu verstehen und zu beseitigen.</fulltext>
+    <answer>Risiken</answer>
+  </drag2>
+  <drag3>
+    <fulltext>Zum {blank_space} von Schutzmaßnahmen für die Netzwerksicherheit können Sicherheitsingenieure mehrere Technologien verwenden.</fulltext>
+    <answer>Durchsetzen</answer>
+  </drag3>
+  <drag4>
+    <fulltext>Die {blank_space} hindert nicht autorisierte Geräte daran, sich mit dem Netzwerk zu verbinden.</fulltext>
+    <answer>Netzwerkzugriffssteuerung</answer>
+  </drag4>
+  <drag5>
+    <fulltext>Firewalls {blank_space} und steuern ein- und ausgehenden Netzwerkdatenverkehr auf Grundlage vorgegebener Sicherheitsregeln.</fulltext>
+    <answer>überwachen</answer>
+  </drag5>
+  <drag6>
+    <fulltext>{blank_space} überwachen den Netzwerkdatenverkehr, um mögliche Vorfälle zu erkennen und Eindringversuche in das Netzwerk zu unterbinden.</fulltext>
+    <answer>Systeme zur Erkennung und Verhinderung von Eindringversuchen (Intrusion Detection and Prevention Systems, IDPS)</answer>
+  </drag6>
+  <drag7>
+    <fulltext>Schließlich kann ein SIEM-System (Security Incident and Event Monitoring, Überwachung von Sicherheitsvorfällen und -ereignissen) beim {blank_space} von Protokollinformationen von all diesen Geräten an zentraler Stelle helfen und mit Informationen zu Bedrohungen kombiniert werden, um die Analyse von Sicherheitswarnungen zu erleichtern.</fulltext>
+    <answer>Aggregieren</answer>
+  </drag7>
+  <submitbutton>Senden</submitbutton>
+  <resetbutton>Zurücksetzen</resetbutton>
+  <restartbutton>Neu starten</restartbutton>
+  <incorrecttext>Ordnen Sie alle rot markierten Optionen neu an und versuchen Sie es erneut.</incorrecttext>
+  <correcttext>Gut gemacht!</correcttext>
+</draganddrop>

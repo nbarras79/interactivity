@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<draganddrop>
+  <submitbutton>Senden</submitbutton>
+  <resetbutton>Zurücksetzen</resetbutton>
+  <restartbutton>Neu starten</restartbutton>
+  <incorrecttext>Ordnen Sie alle rot markierten Optionen neu an und versuchen Sie es erneut.</incorrecttext>
+  <correcttext>Gut gemacht!</correcttext>
+  <dragoptions>
+    <drag1>Ein für einen Konkurrenten tätiger Hacker stiehlt die geheime Formel, an deren Entwicklung ein Pharmaunternehmen monatelang gearbeitet hat.</drag1>
+    <drag2>Infolge einer Sicherheitsverletzung bei einem Handelsriesen trauen die Kunden dem Unternehmen nicht mehr zu, dass es ihre Daten schützt, und verlagern ihre Aktivitäten woanders hin.</drag2>
+    <drag3>Es wird festgestellt, dass ein E-Mail-Dienstanbieter beim Schutz von Benutzernamen und Kennwörtern in Verbindung mit Kunden-Accounts fahrlässig gehandelt hat. Er wird angewiesen, den von einer Sicherheitsverletzung betroffenen Benutzern Kreditüberwachungsdienste anzubieten.</drag3>
+    <drag4>Nachdem er von einer Sicherheitsverletzung in seinen Computersystemen erfahren hat, verkauft ein Firmenchef Aktien des Unternehmens, ohne jedoch die Öffentlichkeit oder andere Investoren darüber zu informieren.</drag4>
+    <drag5>Ein Cyberkrieger verunstaltet die Steuerwebsite einer anderen Regierung, indem er das Bild eines Piratenschiffs unter der Flagge seines Landes veröffentlicht.</drag5>
+    <drag6>Ein Cyberkrimineller greift auf das Konto eines Bankkunden zu und räumt es leer.</drag6>
+  </dragoptions>
+  <dropoptions>
+    <drop1>Finanzielle Auswirkungen</drop1>
+    <drop2>Auswirkungen auf die Reputation</drop2>
+    <drop3>Juristische Auswirkungen</drop3>
+  </dropoptions>
+</draganddrop>
