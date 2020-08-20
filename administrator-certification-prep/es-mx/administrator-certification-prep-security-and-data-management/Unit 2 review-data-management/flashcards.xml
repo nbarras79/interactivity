@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Haga clic o presione la tecla de flecha izquierda del teclado para ir a la tarjeta mnemot&eacute;cnica anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Haga clic o presione la tecla de flecha derecha del teclado para ir a la tarjeta mnemot&eacute;cnica siguiente.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Tarjeta mnemot&eacute;cnica 1 A continuaci&oacute;n se describen los controles de las tarjetas mnemot&eacute;cnicas: Para ir a la tarjeta mnemot&eacute;cnica anterior, presione la tecla de flecha izquierda. Para ir a la tarjeta mnemot&eacute;cnica siguiente, presione la tecla de flecha derecha. Presione la tecla de flecha abajo para girar la tarjeta mnemot&eacute;cnica del anverso al reverso. Este conjunto incluye 10 tarjetas mnemot&eacute;cnicas.</accessibility>
+  <front>¿Durante cu&aacute;nto tiempo se almacenan los datos en la Papelera de reciclaje?</front>
+  <back>Hasta 15 d&iacute;as.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Tarjeta mnemot&eacute;cnica 2</accessibility>
+  <front>Los datos de Ursa Major Solar de sus 20.000 cuentas existentes no son homog&eacute;neos. Por esta raz&oacute;n, han pedido al administrador que convierta todos los campos de pa&iacute;ses est&aacute;ndar a c&oacute;digos ISO. ¿Qu&eacute; m&eacute;todo debe utilizar el administrador del sistema?</front>
+  <back>Actualizar las direcciones de forma masiva.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Tarjeta mnemot&eacute;cnica 3</accessibility>
+  <front>¿Qu&eacute; conjunto de registros de Salesforce se exportan al seleccionar la opci&oacute;n Exportar todo en lugar de la opci&oacute;n Exportar del Cargador de datos?</front>
+  <back>Los registros de un objeto determinado, incluidos los registros de la papelera de reciclaje.</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Tarjeta mnemot&eacute;cnica 4</accessibility>
+  <front>Un administrador del sistema utiliza el asistente de importaci&oacute;n para actualizar los registros de cuentas existentes. ¿Qu&eacute; dos valores puede utilizar el asistente de importaci&oacute;n para buscar registros coincidentes?</front>
+  <back>Nombre de la cuenta<br><br>Campos de sitio</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Tarjeta mnemot&eacute;cnica 5</accessibility>
+  <front>¿Qu&eacute; opci&oacute;n de configuraci&oacute;n muestra a los representantes de ventas los campos que deben rellenar antes de guardar una oportunidad?</front>
+  <back>Campos obligatorios de formato de p&aacute;gina.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Tarjeta mnemot&eacute;cnica 6</accessibility>
+  <front>Filtro de b&uacute;squeda</front>
+  <back>Los filtros de b&uacute;squeda son configuraciones del administrador que restringen los valores v&aacute;lidos y los resultados de los campos del cuadro de di&aacute;logo de b&uacute;squeda, relaciones principal-detalle y relaciones jer&aacute;rquicas. Por ejemplo: Restringir el campo Nombre de la cuenta en oportunidades para permitir solo cuentas activas.</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Tarjeta mnemot&eacute;cnica 7</accessibility>
+  <front>Asistente de importaci&oacute;n de datos</front>
+  <back>El Asistente de importaci&oacute;n de datos es una herramienta que permite importar datos para varios objetos de Salesforce, incluyendo cuentas, contactos, prospectos, soluciones, miembros de campa&ntilde;as y cuentas personales. Tambi&eacute;n puede importar datos para objetos personalizados. Puede importar hasta 50.000 registros a la vez.</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Tarjeta mnemot&eacute;cnica 8</accessibility>
+  <front>Reglas de validaci&oacute;n</front>
+  <back>Las reglas de validaci&oacute;n verifican que los datos que un usuario ingresa en un registro cumplen con las normas que especifica antes de que el usuario guarde el registro.</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>Tarjeta mnemot&eacute;cnica 9</accessibility>
+  <front>Cargador de datos frente al Asistente de importaci&oacute;n de datos</front>
+  <back>Utilice el Cargador de datos cuando: <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 20px;padding-left: 20px;font-size:12px;"><li>Necesite cargar entre 50.000 y 5.000.000 de registros. El Cargador de datos admite cargas de hasta 5 millones de registros.</li><li>Desea programar cargas de datos regulares, como importaciones nocturnas.</li><li>Desee exportar sus datos para realizar copias de seguridad.</li></ul><br><br>Utilice el asistente de importaci&oacute;n de datos cuando: <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 20px;padding-left: 20px;font-size:12px;"><li>Vaya a cargar menos de 50.000 registros.</li><li>Desee evitar duplicados cargando registros en funci&oacute;n del nombre y sitio de cuenta, direcci&oacute;n de email del contacto o direcci&oacute;n de email de prospectos.</li></ul></back>
+</flashcard9>
+<flashcard10>
+  <accessibility>Tarjeta mnemot&eacute;cnica 10</accessibility>
+  <front>Archivo CSV</front>
+  <back>Los archivos de valores separados por comas (CSV) son archivos de texto sin formato que contienen una lista de datos. El formato de los archivos CSV se admite tanto en el Cargador de datos como en el Asistente de importaci&oacute;n de datos.</back>
+</flashcard10>

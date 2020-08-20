@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Pr&oacute;ximo</nextbuttontext>
+  <submitbuttontext>Enviar</submitbuttontext>
+  <reviewbuttontext>Revis&atilde;o</reviewbuttontext>
+  <retakequizbuttontext>Repetir</retakequizbuttontext>
+  <nextbuttontext>Tentar novamente</nextbuttontext>
+  <questioncounttext>Pergunta {0} de {1}</questioncounttext>
+  <answernothingselectedtext>Selecione uma resposta.</answernothingselectedtext>
+  <twoanswerstoofewselected>Selecione duas (2) respostas</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Selecione somente duas (2) respostas</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Selecione tr&ecirc;s (3) respostas</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Selecione somente tr&ecirc;s (3) respostas</threeanswerstoomanyselected>
+  <numberofattempts>N&uacute;mero de tentativas: </numberofattempts>
+  <question1>
+    <accessibility>Pergunta n.º 1 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta. Os controles da verifica&ccedil;&atilde;o de conhecimento s&atilde;o os seguintes: Para selecionar a primeira op&ccedil;&atilde;o, pressione 1 no teclado; para selecionar a segunda
+      op&ccedil;&atilde;o, pressione 2; para a terceira, 3; a quarta, 4; e se houver uma quinta, 5. Para enviar sua escolha de resposta, selecione Enter no teclado. Se voc&ecirc; respondeu incorretamente &agrave; pergunta, pressione Shift+Enter para redefinir suas sele&ccedil;&otilde;es.</accessibility>
+    <question>A equipe executiva da Ursa Major Solar est&aacute; explorando maneiras de aumentar a prote&ccedil;&atilde;o dos dados do Salesforce da organiza&ccedil;&atilde;o de acesso n&atilde;o autorizado. Foi proposto aproveitar o recurso de intervalos de IP confi&aacute;veis.<br><br>Qual &eacute; o benef&iacute;cio de
+      inserir intervalos de IP confi&aacute;veis na se&ccedil;&atilde;o de acesso &agrave; rede?</question>
+    <option1text>Os usu&aacute;rios que fazem login dentro da rede n&atilde;o precisam verificar a identidade.</option1text>
+    <option1textexplanation>Correto. Os usu&aacute;rios que fazem login por meio da rede da empresa, um intervalo de IP confi&aacute;vel, n&atilde;o s&atilde;o obrigados a verificar sua identidade.</option1textexplanation>
+    <option2text>Todas as tentativas de efetuar login de fora da rede s&atilde;o negadas.</option2text>
+    <option2textexplanation>Incorreto. Os usu&aacute;rios ainda podem fazer login de endere&ccedil;os fora dos intervalos de IP confi&aacute;veis pelo processo de ativa&ccedil;&atilde;o.</option2textexplanation>
+    <option3text>Os usu&aacute;rios n&atilde;o podem fazer login por meio da API em redes n&atilde;o marcadas como confi&aacute;veis.</option3text>
+    <option3textexplanation>Incorreto: Os usu&aacute;rios ainda podem fazer login de endere&ccedil;os fora dos intervalos de IP confi&aacute;veis pelo processo de ativa&ccedil;&atilde;o.</option3textexplanation>
+    <option4text>Os pacotes do AppExchange podem se comunicar com um site externo.</option4text>
+    <option4textexplanation>Incorreto: Os intervalos de IP confi&aacute;veis n&atilde;o afetam os pacotes do AppExchange.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Pergunta n.º 2 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>A pol&iacute;tica de senha na organiza&ccedil;&atilde;o da Ursa Major Solar mostra que o per&iacute;odo de tempo at&eacute; as senhas expirarem &eacute; de 60 dias. No entanto, representantes de vendas est&atilde;o reclamando que suas senhas expiram a cada 30 dias.<br><br>Onde o administrador do sistema
+      deve alterar o per&iacute;odo de expira&ccedil;&atilde;o da senha para os usu&aacute;rios do representante de vendas?</question>
+    <option1text>Registros de usu&aacute;rio individual</option1text>
+    <option1textexplanation>Incorreto. A expira&ccedil;&atilde;o da senha n&atilde;o est&aacute; acess&iacute;vel no registro individual de um usu&aacute;rio.</option1textexplanation>
+    <option2text>Conjuntos de permiss&otilde;es atribu&iacute;dos aos usu&aacute;rios</option2text>
+    <option2textexplanation>Incorreto. Um conjunto de permiss&otilde;es &eacute; um conjunto de configura&ccedil;&otilde;es e permiss&otilde;es que d&atilde;o aos usu&aacute;rios acesso a v&aacute;rias ferramentas e fun&ccedil;&otilde;es. A expira&ccedil;&atilde;o da senha n&atilde;o &eacute; uma dessas fun&ccedil;&otilde;es.</option2textexplanation>
+    <option3text>Perfis atribu&iacute;dos aos usu&aacute;rios</option3text>
+    <option3textexplanation>Correto: Como o problema est&aacute; afetando usu&aacute;rios com o mesmo perfil, a expira&ccedil;&atilde;o da senha deve ser ajustada para o perfil usado pelos representantes de vendas.</option3textexplanation>
+    <option4text>Pap&eacute;is atribu&iacute;dos aos usu&aacute;rios</option4text>
+    <option4textexplanation>Incorreto: Os pap&eacute;is afetam o acesso em componentes essenciais, como registros e relat&oacute;rios, n&atilde;o em uma defini&ccedil;&atilde;o, como expira&ccedil;&atilde;o de senha.</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>Pergunta n.º 3 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>O vice-presidente de vendas globais da Ursa Major Solar solicitou que o relat&oacute;rio da comiss&atilde;o de representantes de vendas seja vis&iacute;vel &agrave; equipe executiva.<br><br>Como o administrador do sistema deve fornecer visibilidade ao relat&oacute;rio da comiss&atilde;o de representantes de vendas somente para
+      a equipe executiva?</question>
+    <option1text>Definir as configura&ccedil;&otilde;es de compartilhamento padr&atilde;o para toda a organiza&ccedil;&atilde;o de oportunidade como privado.</option1text>
+    <option1textexplanation>Incorreto. Configurar um objeto de oportunidade como Privado torna esses registros vis&iacute;veis apenas aos propriet&aacute;rios de registros e &agrave;queles acima deles na hierarquia de pap&eacute;is. Isso teria um efeito maior na organiza&ccedil;&atilde;o do que o necess&aacute;rio.</option1textexplanation>
+    <option2text>Salve o relat&oacute;rio em uma pasta compartilhada com a equipe executiva.</option2text>
+    <option2textexplanation>Correto. O acesso ao conte&uacute;do da pasta pode ser controlado com base em pap&eacute;is, permiss&otilde;es, grupos p&uacute;blicos e tipos de licen&ccedil;a.</option2textexplanation>
+    <option3text>Nomeie o relat&oacute;rio como &ldquo;Somente para uso da equipe executiva &ndash; N&Atilde;O USE&rdquo;.</option3text>
+    <option3textexplanation>Incorreto. Embora a inclus&atilde;o da express&atilde;o &ldquo;n&atilde;o use&rdquo; no nome da pasta possa dissuadir alguns usu&aacute;rios, ela n&atilde;o &eacute; uma op&ccedil;&atilde;o segura.</option3textexplanation>
+    <option4text>Salve o relat&oacute;rio na pasta Meus relat&oacute;rios pessoais.</option4text>
+    <option4textexplanation>Incorreto. Como o nome da pasta meus relat&oacute;rios pessoais implica, esta pasta de relat&oacute;rio &eacute; inerentemente vis&iacute;vel apenas para voc&ecirc;. Ent&atilde;o, isso n&atilde;o atende aos crit&eacute;rios de fornecimento de visibilidade &agrave; equipe executiva.</option4textexplanation>
+  </question3>
+</quizwithfeedback>

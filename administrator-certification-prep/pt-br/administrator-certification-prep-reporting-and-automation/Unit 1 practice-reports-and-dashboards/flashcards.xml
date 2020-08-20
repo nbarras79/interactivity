@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Clique ou pressione a Seta para a esquerda no teclado para ir para o flashcard anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Clique ou pressione a Seta para a direita no teclado para ir para o pr&oacute;ximo flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. Os controles dos flashcards s&atilde;o os seguintes: Para ir para o flashcard anterior, pressione a tecla de seta para a esquerda. Para ir para o pr&oacute;ximo flashcard, pressione a tecla de seta para a direita. Para virar o flashcard de frente para tr&aacute;s e vice-versa, pressione a tecla de seta para baixo. H&aacute; 8 flashcards neste conjunto.</accessibility>
+  <front>Que relat&oacute;rio um administrador deve usar para exibir o n&uacute;mero de contatos relacionados a uma conta?</front>
+  <back>Relat&oacute;rio de resumo com uma f&oacute;rmula de relat&oacute;rio</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>Quais s&atilde;o os tr&ecirc;s relat&oacute;rios que podem ser usados para exibir uma lista das 10 principais contas em um painel?</front>
+  <back>Relat&oacute;rio tabular com a op&ccedil;&atilde;o Linhas a exibir definida como 10<br><br>Relat&oacute;rio de resumo com um gr&aacute;fico<br><br>Relat&oacute;rio de resumo sem um gr&aacute;fico</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>O que um administrador deve fazer para organizar os campos dispon&iacute;veis em um relat&oacute;rio?</front>
+  <back>Criar um tipo de relat&oacute;rio personalizado.</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Flashcard 4</accessibility>
+  <front>Resumo tabular</front>
+  <back>Esse relat&oacute;rio &eacute; a forma mais simples e r&aacute;pida de analisar seus dados. Semelhante &agrave;s planilhas, ele &eacute; simplesmente um conjunto ordenado de campos nas colunas, com cada registro equivalente listado em uma linha. Use este tipo de relat&oacute;rio para criar listas de registros ou uma lista com um &uacute;nico total geral. Eles n&atilde;o podem ser usados para criar grupos de dados ou gr&aacute;ficos e n&atilde;o podem ser usados em pain&eacute;is, a n&atilde;o ser que as linhas sejam limitadas. Os exemplos incluem listas de endere&ccedil;os de contatos e relat&oacute;rios de atividade.</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Flashcard 5</accessibility>
+  <front>Relat&oacute;rio de resumo</front>
+  <back>Esse relat&oacute;rio &eacute; semelhante ao relat&oacute;rio tabular, mas tamb&eacute;m permite que voc&ecirc; agrupe linhas de dados, exiba subtotais e crie gr&aacute;ficos. Ele pode ser usado como relat&oacute;rio de origem para componentes do painel. Use esse tipo de relat&oacute;rio para mostrar subtotais com base no valor de um campo espec&iacute;fico ou quando quiser criar uma lista hier&aacute;rquica, como todas as oportunidades para sua equipe, subtotal por Fase e Propriet&aacute;rio.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Flashcard 6</accessibility>
+  <front>Relat&oacute;rio de matriz</front>
+  <back>Os relat&oacute;rios de matriz permitem o agrupamento e resumo de dados por linhas e por colunas. Eles podem ser usados como relat&oacute;rio de origem para componentes do painel. Use este tipo de relat&oacute;rio para comparar os totais relacionados, especialmente se voc&ecirc; tiver grandes quantidades de dados para resumir e precisar comparar valores em v&aacute;rios campos diferentes ou se quiser ver dados por data e por produto, pessoa ou localiza&ccedil;&atilde;o geogr&aacute;fica. Os relat&oacute;rios de matriz sem pelo menos uma linha e um agrupamento de colunas s&atilde;o exibidos como relat&oacute;rios de resumo na p&aacute;gina de execu&ccedil;&atilde;o do relat&oacute;rio.</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Flashcard 7</accessibility>
+  <front>Tipo de relat&oacute;rio</front>
+  <back>Duas categorias de tipos de relat&oacute;rio:<br><br>Relat&oacute;rio padr&atilde;o<br><br>Relat&oacute;rio personalizado<br><br>O relat&oacute;rio padr&atilde;o d&aacute; acesso &agrave; maior parte dos seus dados do Salesforce. Por exemplo, o tipo de relat&oacute;rio Oportunidades d&aacute; acesso a registros de oportunidade e campos em seu relat&oacute;rio.<br><br>O tipo de relat&oacute;rio Personalizado oferece acesso a objetos personalizados no Salesforce ou visualiza&ccedil;&otilde;es personalizadas de objetos padr&atilde;o que um administrador configura.</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Flashcard 8</accessibility>
+  <front>L&oacute;gica de filtro</front>
+  <back>Use a l&oacute;gica de filtro para personalizar a forma como os filtros existentes se aplicam a um relat&oacute;rio. Um n&uacute;mero &eacute; atribu&iacute;do a cada filtro. Se voc&ecirc; quiser que seu relat&oacute;rio retorne registros que atendam aos crit&eacute;rios do Filtro 1 e Filtro 2 ou Filtro 3, use essa l&oacute;gica de filtro: Filtro 1 E (Filtro 2 OU Filtro 3). A l&oacute;gica de filtro exige pelo menos um filtro de campo.</back>
+</flashcard8>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Pr&oacute;ximo</nextbuttontext>
+  <submitbuttontext>Enviar</submitbuttontext>
+  <reviewbuttontext>Revis&atilde;o</reviewbuttontext>
+  <retakequizbuttontext>Repetir</retakequizbuttontext>
+  <nextbuttontext>Tentar novamente</nextbuttontext>
+  <questioncounttext>Pergunta {0} de {1}</questioncounttext>
+  <answernothingselectedtext>Selecione uma resposta.</answernothingselectedtext>
+  <twoanswerstoofewselected>Selecione duas (2) respostas</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Selecione somente duas (2) respostas</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Selecione tr&ecirc;s (3) respostas</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Selecione somente tr&ecirc;s (3) respostas</threeanswerstoomanyselected>
+  <numberofattempts>N&uacute;mero de tentativas: </numberofattempts>
+  <question1>
+    <accessibility>Pergunta n.º 1 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta. Os controles da verifica&ccedil;&atilde;o de conhecimento s&atilde;o os seguintes: Para selecionar a primeira op&ccedil;&atilde;o, pressione 1 no teclado; para selecionar a segunda op&ccedil;&atilde;o, pressione 2; para a terceira, 3; a quarta, 4; e se houver uma quinta, 5. Para enviar sua escolha de resposta, selecione Enter no teclado. Se voc&ecirc; respondeu incorretamente &agrave; pergunta, pressione Shift+Enter para redefinir suas sele&ccedil;&otilde;es.</accessibility>
+    <question>O VP de vendas da Ursa Major Solar quer dar uma olhada em todos os neg&oacute;cios de vendas que est&atilde;o atualmente em jogo para que a equipe de vendas determine como est&atilde;o indo em dire&ccedil;&atilde;o &agrave; meta para o final do trimestre. Qual objeto padr&atilde;o armazena informa&ccedil;&otilde;es sobre neg&oacute;cios de vendas?</question>
+    <option1text>Contas</option1text>
+    <option1textexplanation>Incorreto. As contas armazenam informa&ccedil;&otilde;es sobre clientes ou pessoas com quem voc&ecirc; faz neg&oacute;cios. Existem dois tipos de contas. As contas comerciais armazenam informa&ccedil;&otilde;es sobre empresas. As contas pessoais armazenam informa&ccedil;&otilde;es sobre pessoas individuais.</option1textexplanation>
+    <option2text>Ativos</option2text>
+    <option2textexplanation>Incorreto. Os ativos s&atilde;o os produtos espec&iacute;ficos que seus clientes compraram. Os ativos t&ecirc;m um n&uacute;mero de s&eacute;rie, data de compra e outras informa&ccedil;&otilde;es relacionadas a uma venda individual. Dependendo de como sua organiza&ccedil;&atilde;o usa ativos, eles podem representar produtos dos concorrentes que seus clientes t&ecirc;m ou vers&otilde;es de seus produtos.<option2textexplanation>
+    <option3text>Produtos</option3text>
+    <option3textexplanation>Incorreto. Os produtos s&atilde;o um cat&aacute;logo b&aacute;sico de todos os itens e servi&ccedil;os que voc&ecirc; vende e os pre&ccedil;os padr&atilde;o deles.</option3textexplanation>
+    <option4text>Oportunidades</option4text>
+    <option4textexplanation>Correto. As oportunidades s&atilde;o neg&oacute;cios de vendas em andamento. Acompanhe o andamento movendo cada oportunidade por meio de uma s&eacute;rie de marcos comerciais chamados fases, como Prospec&ccedil;&atilde;o, Proposta enviada, Negocia&ccedil;&atilde;o e Contrato assinado. O objetivo &eacute; &ldquo;ganhar&rdquo; a oportunidade ou mov&ecirc;-la para uma fase final que representa um resultado bem-sucedido para sua empresa.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Pergunta n.º 2 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (2) resposta correta.</accessibility>
+    <question>Um membro da equipe de vendas na Ursa Major Solar quer visualizar informa&ccedil;&otilde;es relacionadas a uma de suas contas para ter uma vis&atilde;o de 360 graus do cliente. Quais dois objetos padr&atilde;o est&atilde;o relacionados aos registros de conta? (Escolha duas respostas.)</question>
+    <option1text>Casos</option1text>
+    <option1textexplanation>Correto. Casos &eacute; um objeto padr&atilde;o relacionado a uma conta.</option1textexplanation>
+    <option2text>Campanhas</option2text>
+    <option2textexplanation>Incorreto. Campanhas n&atilde;o est&atilde;o relacionadas a contas.</option2textexplanation>
+    <option3text>Oportunidades</option3text>
+    <option3textexplanation>Correto. Oportunidades &eacute; um objeto padr&atilde;o relacionado a uma conta.</option3textexplanation>
+    <option4text>Leads</option4text>
+    <option4textexplanation>Incorreto. Leads n&atilde;o est&atilde;o relacionados a contas. Eles s&atilde;o convertidos em contas/contatos.</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>Pergunta n.º 3 Essa pergunta tem quatro (5) respostas poss&iacute;veis para escolher. A pergunta tem uma (3) resposta correta.</accessibility>
+    <question>O gerente de marketing na Ursa Major Solar quer executar uma campanha de marketing para seu pr&oacute;ximo evento chamado Ray-a-thon. O gerente quer capturar o m&aacute;ximo de informa&ccedil;&otilde;es poss&iacute;vel da campanha no Salesforce. Quais s&atilde;o os tr&ecirc;s objetos que t&ecirc;m um relacionamento com uma campanha? (Escolha tr&ecirc;s respostas.)</question>
+    <option1text>Lead</option1text>
+    <option1textexplanation>Correto. Voc&ecirc; pode encontrar a lista relacionada de campanhas no objeto Lead. As campanhas de uma empresa normalmente visam clientes potenciais (leads). Associe contatos e leads a campanhas como membros da campanha.<option1textexplanation>
+    <option2text>Contato</option2text>
+    <option2textexplanation>Correto. As campanhas de uma empresa normalmente visam clientes existentes (contatos). Associe contatos e leads a campanhas como membros da campanha.</option2textexplanation>
+    <option3text>Conta</option3text>
+    <option3textexplanation>Incorreto. Contas n&atilde;o est&atilde;o associadas a campanhas.</option3textexplanation>
+    <option4text>Oportunidade</option4text>
+    <option4textexplanation>Correto. As oportunidades est&atilde;o relacionadas a campanhas e podem rastrear quais oportunidades foram criadas como resultado de v&aacute;rias campanhas.</option4textexplanation>
+    <option5buttontext>E</option5buttontext>
+    <option5text>Papel do contato</option5text>
+    <option5textexplanation>Incorreto. Os pap&eacute;is do contato n&atilde;o est&atilde;o relacionados a campanhas.</option5textexplanation>
+  </question3>
+  <question4>
+    <accessibility>Pergunta n.º 4 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>A Ursa Major Solar precisa de um campo que reflita o tamanho da conta com base no campo padr&atilde;o, n&uacute;mero de funcion&aacute;rios. Qual fun&ccedil;&atilde;o de f&oacute;rmula o administrador deve usar para avaliar resultados diferentes com base em uma condi&ccedil;&atilde;o espec&iacute;fica com v&aacute;rios resultados?</question>
+    <option1text>ISPICKVAL</option1text>
+    <option1textexplanation>Incorreto. ISPICKVAL determina se o valor de um campo de lista de op&ccedil;&otilde;es &eacute; igual a um texto literal especificado. Ele avalia valores da lista de op&ccedil;&otilde;es e voc&ecirc; est&aacute; olhando para o n&uacute;mero de funcion&aacute;rios.</option1textexplanation>
+    <option2text>TEXT</option2text>
+    <option2textexplanation>Incorreto. TEXT converte um campo de tipo de porcentagem, n&uacute;mero, data/hora ou tipo de moeda no texto em que as f&oacute;rmulas s&atilde;o usadas. Isso n&atilde;o atende aos requisitos.</option2textexplanation>
+    <option3text>IF</option3text>
+    <option3textexplanation>Correto. IF determina se as express&otilde;es s&atilde;o verdadeiras (true) ou falsas (false). Ele retorna um valor determinado se verdadeiro e outro valor se for falso. Isso est&aacute; correto porque voc&ecirc; pode juntar v&aacute;rios IFs para avaliar uma condi&ccedil;&atilde;o espec&iacute;fica com v&aacute;rios resultados.</option3textexplanation>
+    <option4text>AND</option4text>
+    <option4textexplanation>Incorreto. AND retorna uma resposta TRUE se todos os valores forem verdadeiros, e retorna uma resposta FALSE se um ou mais valores forem falsos. Isso &eacute; incorreto porque ele se junta a v&aacute;rias condi&ccedil;&otilde;es e nossos requisitos s&atilde;o para uma condi&ccedil;&atilde;o espec&iacute;fica.</option4textexplanation>
+  </question4>
+  <question5>
+    <accessibility>Pergunta n.º 5 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>Os gerentes de vendas na Ursa Major Solar querem que as oportunidades n&atilde;o atualizadas nos &uacute;ltimos 30 dias sejam sinalizadas automaticamente. Como um administrador deve implementar esse requisito?</question>
+    <option1text>Criar um campo de f&oacute;rmula para calcular o tempo desde a &uacute;ltima atualiza&ccedil;&atilde;o e exibir uma imagem de um sinal de alerta se ele atender aos crit&eacute;rios definidos.</option1text>
+    <option1textexplanation>Correto. Adicionar um campo de f&oacute;rmula para exibir um sinal de alerta se j&aacute; tiverem passado pelo menos 30 dias desde a &uacute;ltima atualiza&ccedil;&atilde;o atenderia a esse requisito.</option1textexplanation>
+    <option2text>Adicionar uma f&oacute;rmula ao valor padr&atilde;o do campo Data da &uacute;ltima modifica&ccedil;&atilde;o para deixar o texto em vermelho se o registro atender aos crit&eacute;rios.</option2text>
+    <option2textexplanation>Incorreto. N&atilde;o &eacute; poss&iacute;vel alterar a cor do texto com f&oacute;rmulas declarativas.</option2textexplanation>
+    <option3text>Adicionar uma f&oacute;rmula ao valor padr&atilde;o do campo Nome da oportunidade para ativar o plano de fundo vermelho se o registro atender aos crit&eacute;rios.</option3text>
+    <option3textexplanation>Incorreto. N&atilde;o &eacute; poss&iacute;vel alterar a cor do texto com f&oacute;rmulas declarativas.</option3textexplanation>
+    <option4text>Criar um campo de f&oacute;rmula para mostrar a &uacute;ltima data de login do propriet&aacute;rio e exibir uma mensagem de alerta se ele atender aos crit&eacute;rios definidos.</option4text>
+    <option4textexplanation>Incorreto. S&oacute; porque o propriet&aacute;rio do registro se conectou recentemente, n&atilde;o significa que as oportunidades foram atualizadas.</option4textexplanation>
+  </question5>
+  <question6>
+    <accessibility>Pergunta n.º 6 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>O CEO da Ursa Major Solar n&atilde;o quer ver a lista de contatos ao visualizar uma p&aacute;gina de conta, mas ainda precisa acessar registros de contato. Como o administrador deve configurar isso?</question>
+    <option1text>Remover as permiss&otilde;es de acesso de leitura para contatos do perfil do CEO.</option1text>
+    <option1textexplanation>Incorreto. Isso removeria todo o acesso aos registros de contato, e o CEO ainda precisa acessar registros de contato, mas n&atilde;o na p&aacute;gina da conta.</option1textexplanation>
+    <option2text>Definir as configura&ccedil;&otilde;es de compartilhamento padr&atilde;o para toda a organiza&ccedil;&atilde;o de contato como privadas.</option2text>
+    <option2textexplanation>Incorreto. Isso removeria o acesso ao registro de contato para toda a organiza&ccedil;&atilde;o.</option2textexplanation>
+    <option3text>Criar um layout de p&aacute;gina de conta sem a lista relacionada Contatos</option3text>
+    <option3textexplanation>Correto. Remover a lista relacionada Contatos do layout de p&aacute;gina da conta impediria o usu&aacute;rio de ver contatos na p&aacute;gina da conta, mas ele ainda teria acesso a registros de contato.</option3textexplanation>
+    <option4text>Remover a lista relacionada Conta do layout de p&aacute;gina de contato.</option4text>
+    <option4textexplanation>Incorreto. Isso impediria que o usu&aacute;rio visse a lista relacionada Conta no registro de contato, e n&atilde;o a lista relacionada Contatos no registro de conta.</option4textexplanation>
+  </question6>
+  <question7>
+    <accessibility>Pergunta n.º 7 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (2) resposta correta.</accessibility>
+    <question>O VP de vendas da Universal Containers quer garantir que haja um relat&oacute;rio consistente e codificado em cores para rastrear valores da lista de op&ccedil;&otilde;es facilmente do campo Fase em uma oportunidade. Como um administrador deve garantir que os valores de um campo de lista de op&ccedil;&otilde;es sejam exibidos em cores consistentes em todos os relat&oacute;rios? (Escolha duas respostas.)</question>
+    <option1text>Usar um campo de caixa que define a cor de cada valor.</option1text>
+    <option1textexplanation>Incorreto. As cores dos campos de caixa s&atilde;o definidas dinamicamente e n&atilde;o est&atilde;o padronizadas entre os relat&oacute;rios.</option1textexplanation>
+    <option2text>Configurar o destaque condicional de relat&oacute;rio para cada valor.</option2text>
+    <option2textexplanation>Incorreto. O destaque condicional em relat&oacute;rios &eacute; para um intervalo de valores.</option2textexplanation>
+    <option3text>Atualizar o campo Lista de op&ccedil;&otilde;es e definir a cor para cada valor</option3text>
+    <option3textexplanation>Correto. Podem ser atribu&iacute;das cores fixas aos valores da lista de op&ccedil;&otilde;es, para todos os valores.</option3textexplanation>
+    <option4text>Criar um campo de f&oacute;rmula que defina a cor de cada valor.</option4text>
+    <option4textexplanation>Correto. Campos de f&oacute;rmula usando a fun&ccedil;&atilde;o IMAGE podem ser definidos para cada valor na lista de op&ccedil;&otilde;es.</option4textexplanation>
+  </question7>
+  <question8>
+    <accessibility>Pergunta n.º 8 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>A Ursa Major Solar quer rastrear pagamentos de faturas em uma lista relacionada de oportunidades. Somente a equipe financeira deve ver essa lista relacionada. Mas todos os usu&aacute;rios devem poder visualizar os relat&oacute;rios de pagamento da fatura. Como o administrador deve implementar esse requisito?</question>
+    <option1text>Criar um novo layout de p&aacute;gina e perfil para a equipe financeira.</option1text>
+    <option1textexplanation>Correto. Essa solu&ccedil;&atilde;o permitiria que apenas a equipe financeira visse o layout de p&aacute;gina com a lista relacionada, e que todos os usu&aacute;rios exibissem os relat&oacute;rios de pagamento de fatura.</option1textexplanation>
+    <option2text>Definir as configura&ccedil;&otilde;es de compartilhamento de pagamento da fatura em toda a organiza&ccedil;&atilde;o como privadas.</option2text>
+    <option2textexplanation>Incorreto. Isso evitaria que a equipe financeira visse as informa&ccedil;&otilde;es e todos os outros usu&aacute;rios.</option2textexplanation>
+    <option3text>Criar um relat&oacute;rio de pagamento de fatura com um usu&aacute;rio em execu&ccedil;&atilde;o de finan&ccedil;as.</option3text>
+    <option3textexplanation>Incorreto. Essa solu&ccedil;&atilde;o permitiria que somente os usu&aacute;rios exibissem os relat&oacute;rios. A equipe financeira deve ver a lista relacionada no layout de p&aacute;gina.</option3textexplanation>
+    <option4text>Conceder acesso financeiro somente ao objeto Pagamento da fatura.</option4text>
+    <option4textexplanation>Incorreto. Isso n&atilde;o atenderia aos requisitos. O cen&aacute;rio indica que todos os usu&aacute;rios poder&atilde;o visualizar os relat&oacute;rios de pagamentos de fatura.</option4textexplanation>
+  </question8>
+</quizwithfeedback>

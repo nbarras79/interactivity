@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Pr&oacute;ximo</nextbuttontext>
+  <submitbuttontext>Enviar</submitbuttontext>
+  <reviewbuttontext>Revis&atilde;o</reviewbuttontext>
+  <retakequizbuttontext>Repetir</retakequizbuttontext>
+  <nextbuttontext>Tentar novamente</nextbuttontext>
+  <questioncounttext>Pergunta {0} de {1}</questioncounttext>
+  <answernothingselectedtext>Selecione uma resposta.</answernothingselectedtext>
+  <twoanswerstoofewselected>Selecione duas (2) respostas</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Selecione somente duas (2) respostas</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Selecione tr&ecirc;s (3) respostas</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Selecione somente tr&ecirc;s (3) respostas</threeanswerstoomanyselected>
+  <numberofattempts>N&uacute;mero de tentativas: </numberofattempts>
+  <question1>
+    <accessibility>Pergunta n.º 1 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta. Os controles da verifica&ccedil;&atilde;o de conhecimento s&atilde;o os seguintes: Para selecionar a primeira op&ccedil;&atilde;o, pressione 1 no teclado; para selecionar a segunda
+      op&ccedil;&atilde;o, pressione 2; para a terceira, 3; a quarta, 4; e se houver uma quinta, 5. Para enviar sua escolha de resposta, selecione Enter no teclado. Se voc&ecirc; respondeu incorretamente &agrave; pergunta, pressione Shift+Enter para redefinir suas sele&ccedil;&otilde;es.</accessibility>
+    <question>Fornecedora de sistemas e componentes solares, a Ursa Major Solar quer garantir que as informa&ccedil;&otilde;es estejam atualizadas em sua p&aacute;gina de informa&ccedil;&otilde;es da empresa no Salesforce.<br><br>Qual conjunto de informa&ccedil;&otilde;es um administrador pode especificar na p&aacute;gina
+      Informa&ccedil;&otilde;es da empresa?</question>
+    <option1text>Hor&aacute;rio comercial, Configura&ccedil;&otilde;es de tradu&ccedil;&atilde;o, Moeda corporativa</option1text>
+    <option1textexplanation>Incorreto. Embora a moeda corporativa seja encontrada na p&aacute;gina Informa&ccedil;&otilde;es da empresa, o Hor&aacute;rio comercial &eacute; encontrado nas Configura&ccedil;&otilde;es da empresa, em sua pr&oacute;pria categoria, e as Configura&ccedil;&otilde;es de tradu&ccedil;&atilde;o s&atilde;o encontradas na se&ccedil;&atilde;o Interface do usu&aacute;rio &gt;
+      Translation Workbench.</option1textexplanation>
+    <option2text>Nome da organiza&ccedil;&atilde;o, Fuso hor&aacute;rio padr&atilde;o, Idioma padr&atilde;o</option2text>
+    <option2textexplanation>Correto. O Nome da organiza&ccedil;&atilde;o, o Fuso hor&aacute;rio padr&atilde;o e o Idioma padr&atilde;o s&atilde;o todos encontrados na p&aacute;gina Informa&ccedil;&otilde;es da empresa.</option2textexplanation>
+    <option3text>Contato principal, Configura&ccedil;&otilde;es do Chatter, Definir dom&iacute;nios</option3text>
+    <option3textexplanation>Incorreto. O Contato principal &eacute; encontrado na p&aacute;gina Informa&ccedil;&otilde;es de contato. No entanto, Configura&ccedil;&otilde;es do Chatter s&atilde;o encontradas na se&ccedil;&atilde;o Chatter, e voc&ecirc; criaria um dom&iacute;nio personalizado na se&ccedil;&atilde;o Configura&ccedil;&otilde;es da empresa &gt; Meu dom&iacute;nio.
+      Voc&ecirc; pode encontrar dom&iacute;nios que j&aacute; estejam ativos na se&ccedil;&atilde;o Interface de usu&aacute;rio &gt; Dom&iacute;nios.</option3textexplanation>
+    <option4text>Ano fiscal, Pol&iacute;ticas de senha, Fuso hor&aacute;rio padr&atilde;o</option4text>
+    <option4textexplanation>Incorreto. Embora o Fuso hor&aacute;rio padr&atilde;o seja encontrado na p&aacute;gina Informa&ccedil;&otilde;es da empresa, o Ano fiscal &eacute; encontrado na se&ccedil;&atilde;o Configura&ccedil;&otilde;es da empresa, em sua pr&oacute;pria categoria, e as Pol&iacute;ticas de senha s&atilde;o encontradas na se&ccedil;&atilde;o Seguran&ccedil;a.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Pergunta n.º 2 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (2) resposta correta.</accessibility>
+    <question>A Ursa Major Solar quer garantir que todas as suas configura&ccedil;&otilde;es de localidade estejam atualizadas e consistentes no sistema do Salesforce. O administrador est&aacute; passando pelo processo de fazer atualiza&ccedil;&otilde;es e configurar par&acirc;metros para essas informa&ccedil;&otilde;es.<br><br>Quais
+      os dois conjuntos de par&acirc;metros que s&atilde;o configurados usando Configura&ccedil;&otilde;es de local? (Escolha duas respostas.)</question>
+    <option1text>Hor&aacute;rios comerciais e feriados</option1text>
+    <option1textexplanation>Incorreto. Um local &eacute; determinado por idioma e pode ser composto por v&aacute;rios pa&iacute;ses e locais de neg&oacute;cios. O hor&aacute;rio comercial deve ser definido por locais individuais e variam de acordo com o pa&iacute;s, fuso hor&aacute;rio e assim por diante. Feriados
+      variam de acordo com a localiza&ccedil;&atilde;o tamb&eacute;m.</option1textexplanation>
+    <option2text>Formato de exibi&ccedil;&atilde;o de tempo e n&uacute;mero</option2text>
+    <option2textexplanation>Correto. O formato de exibi&ccedil;&atilde;o de tempo e n&uacute;mero &eacute; universal em cada local.</option2textexplanation>
+    <option3text>Formato de nome/sobrenome e data</option3text>
+    <option3textexplanation>Correto. O formato de nome/sobrenome e data s&atilde;o universais em cada local.</option3textexplanation>
+    <option4text>Formato de n&uacute;mero de telefone e moeda</option4text>
+    <option4textexplanation>Incorreto. O formato de n&uacute;mero de telefone e formato de moeda variam de acordo com o local. H&aacute; moedas variadas entre pa&iacute;ses diferentes que se enquadram no mesmo local e o mesmo se aplica a n&uacute;meros de telefone.</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>Pergunta n.º 3 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (2) resposta correta.</accessibility>
+    <question>O VP de vendas alterou a conven&ccedil;&atilde;o de nomenclatura para oportunidades para torn&aacute;-la mais uniforme em toda a empresa. O gerente de vendas quer atualizar v&aacute;rios nomes de oportunidades para sua equipe de vendas na Europa usando seu modo de exibi&ccedil;&atilde;o de lista &ldquo;Equipe Europa&rdquo;
+      no Salesforce.<br><br>Quais configura&ccedil;&otilde;es de interface de usu&aacute;rio devem ser usadas para permitir que os usu&aacute;rios, com todas as permiss&otilde;es de perfil necess&aacute;rias, editem registros nos modos de exibi&ccedil;&atilde;o de lista? (Escolha duas respostas.)</question>
+    <option1text>Ativar edi&ccedil;&atilde;o em linha</option1text>
+    <option1textexplanation>Correto. Ativar edi&ccedil;&atilde;o em linha permite a edi&ccedil;&atilde;o em massa dos campos de um registro diretamente em um modo de exibi&ccedil;&atilde;o de lista. Observe que isso pode ser feito em modos de exibi&ccedil;&atilde;o de lista de equipe predefinidos para conter apenas um tipo de registro.</option1textexplanation>
+    <option2text>Ativar listas aprimoradas</option2text>
+    <option2textexplanation>Correto. Ativar listas aprimoradas oferece a capacidade de visualizar, personalizar e editar dados de lista rapidamente para agilizar sua produtividade di&aacute;ria.</option2textexplanation>
+    <option3text>Ativar editor avan&ccedil;ado de layout de p&aacute;gina</option3text>
+    <option3textexplanation>Incorreto. Ativar o editor avan&ccedil;ado de layout de p&aacute;gina permite personalizar os layouts de p&aacute;gina, n&atilde;o os modos de exibi&ccedil;&atilde;o de lista.</option3textexplanation>
+    <option4text>Ativar modos de exibi&ccedil;&atilde;o de lista de perfis avan&ccedil;ados</option4text>
+    <option4textexplanation>Incorreto. Ativar modos de exibi&ccedil;&atilde;o de lista de perfis avan&ccedil;ados referentes a perfis de edi&ccedil;&atilde;o em massa e permiss&otilde;es dentro desses perfis. &Eacute; uma forma de uma ferramenta de filtragem acessar informa&ccedil;&otilde;es de perfil espec&iacute;ficas e aplicar uma edi&ccedil;&atilde;o ampla para
+      todas as informa&ccedil;&otilde;es de perfil que se aplicam a esse filtro.</option4textexplanation>
+  </question3>
+</quizwithfeedback>

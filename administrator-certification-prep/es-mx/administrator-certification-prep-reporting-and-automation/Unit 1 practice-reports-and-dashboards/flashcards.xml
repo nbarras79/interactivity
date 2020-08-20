@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Haga clic o presione la tecla de flecha izquierda del teclado para ir a la tarjeta mnemot&eacute;cnica anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Haga clic o presione la tecla de flecha derecha del teclado para ir a la tarjeta mnemot&eacute;cnica siguiente.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Tarjeta mnemot&eacute;cnica 1 A continuaci&oacute;n se describen los controles de las tarjetas mnemot&eacute;cnicas: Para ir a la tarjeta mnemot&eacute;cnica anterior, presione la tecla de flecha izquierda. Para ir a la tarjeta mnemot&eacute;cnica siguiente, presione la tecla de flecha derecha. Presione la tecla de flecha abajo para girar la tarjeta mnemot&eacute;cnica del anverso al reverso. Este conjunto incluye 8 tarjetas mnemot&eacute;cnicas.</accessibility>
+  <front>¿Qu&eacute; reporte debe utilizar un administrador para mostrar el n&uacute;mero de contactos relacionados con una cuenta?</front>
+  <back>Reporte de resumen con una f&oacute;rmula de reporte.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Tarjeta mnemot&eacute;cnica 2</accessibility>
+  <front>¿Cu&aacute;les son los tres reportes que se pueden utilizar para mostrar una lista de las 10 cuentas principales en un tablero?</front>
+  <back>Reporte tabular con filas para mostrar establecidas como 10<br><br>Reporte de resumen con un gr&aacute;fico<br><br>Reporte de resumen sin un gr&aacute;fico</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Tarjeta mnemot&eacute;cnica 3</accessibility>
+  <front>¿Qu&eacute; debe hacer un administrador para organizar los campos disponibles en un reporte?</front>
+  <back>Crear un tipo de reporte personalizado.</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Tarjeta mnemot&eacute;cnica 4</accessibility>
+  <front>Reporte tabular</front>
+  <back>Este reporte es la forma m&aacute;s sencilla y r&aacute;pida de consultar datos. Parecido a hojas de c&aacute;lculo, est&aacute; compuesto simplemente por un conjunto ordenado de campos en columnas, con cada registro coincidente indicado en una fila. Utilice este tipo de reporte para la creaci&oacute;n de listas de registros o una lista con un &uacute;nico total general. No se pueden utilizar para crear grupos de datos o gr&aacute;ficos y no se pueden utilizar en tableros a menos que las filas est&eacute;n limitadas. Los ejemplos incluyen listas de distribuci&oacute;n de contactos y reportes de actividad.</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Tarjeta mnemot&eacute;cnica 5</accessibility>
+  <front>Reporte de resumen</front>
+  <back>Este reporte es similar a un reporte tabular, pero tambi&eacute;n permite a los usuarios agrupar filas de datos, visualizar subtotales y crear gr&aacute;ficos. Se puede utilizar como el reporte de origen para componentes de tablero. Utilice este tipo de reporte para mostrar subtotales bas&aacute;ndose en el valor de un campo concreto, o cuando desea crear una lista jer&aacute;rquica, como todas las oportunidades para su equipo, el subtotal por Etapa y Propietario.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Tarjeta mnemot&eacute;cnica 6</accessibility>
+  <front>Reporte matricial</front>
+  <back>Los reportes matriciales le permiten agrupar y resumir datos tanto por filas como por columnas. Se pueden utilizar como el reporte de origen para componentes de tablero. Utilice este tipo de reporte para la comparaci&oacute;n de totales relacionados, especialmente si tiene grandes cantidades de datos para resumir y necesita comparar valores en varios campos diferentes, o desea buscar datos por fecha y por producto, persona o geograf&iacute;a. Los reportes matriciales sin al menos una agrupaci&oacute;n de filas y columnas se muestran como reportes de resumen en la p&aacute;gina de ejecuci&oacute;n de reportes.</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Tarjeta mnemot&eacute;cnica 7</accessibility>
+  <front>Tipo de reporte</front>
+  <back>Dos tipos de reporte:<br><br>Reporte est&aacute;ndar<br><br>Reporte personalizado<br><br>El tipo de reporte est&aacute;ndar le proporciona el acceso a la mayor&iacute;a de datos de Salesforce. Por ejemplo, el tipo de reporte de oportunidades le proporciona acceso a registros de oportunidad y campos en su reporte.<br><br>El tipo de reporte personalizado le proporciona acceso a objetos personalizados en Salesforce o vistas personalizadas de objetos est&aacute;ndar, que un administrador configura.</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Tarjeta mnemot&eacute;cnica 8</accessibility>
+  <front>L&oacute;gica de filtro</front>
+  <back>Utilice l&oacute;gica de filtro para personalizar c&oacute;mo se aplican filtros existentes a un reporte. Se asigna un n&uacute;mero a cada filtro. Si desea que su reporte devuelva registros que cumplen los criterios de Filtro 1 y Filtro 2 o Filtro 3, utilice esta l&oacute;gica de filtro: Filtro 1 Y (Filtro 2 O Filtro 3). La l&oacute;gica de filtro requiere al menos un filtro de campo.</back>
+</flashcard8>

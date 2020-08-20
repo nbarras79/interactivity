@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Siguiente</nextbuttontext>
+  <submitbuttontext>Enviar</submitbuttontext>
+  <reviewbuttontext>Revisar</reviewbuttontext>
+  <retakequizbuttontext>Repetir</retakequizbuttontext>
+  <nextbuttontext>Intentarlo de nuevo</nextbuttontext>
+  <questioncounttext>Pregunta {0} de {1}</questioncounttext>
+  <answernothingselectedtext>Seleccione una respuesta.</answernothingselectedtext>
+  <twoanswerstoofewselected>Seleccione dos (2) respuestas.</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Seleccione solo dos (2) respuestas.</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Seleccione tres (3) respuestas.</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Seleccione solo tres (3) respuestas.</threeanswerstoomanyselected>
+  <numberofattempts>N&uacute;mero de intentos: </numberofattempts>
+  <question1>
+    <accessibility>Pregunta 1. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s). A continuaci&oacute;n se describen los controles para la comprobaci&oacute;n de conocimientos: Para seleccionar la primera opci&oacute;n, presione la tecla 1 en el teclado; para seleccionar la segunda
+      opci&oacute;n, presione la tecla 2, la tecla 3 para la tercera, la tecla 4 para la cuarta y la tecla 5 si hay una quinta. Para enviar la respuesta seleccionada, presione la tecla Entrar del teclado. Si no respondi&oacute; correctamente a la pregunta, presione May&uacute;s + Entrar para restablecer la selecci&oacute;n.</accessibility>
+    <question>Ursa Major Solar importa con frecuencia cuentas de un sistema de pedidos externo que tiene su propio campo de identificaci&oacute;n para cada registro.<br><br>¿Qu&eacute; debe hacer el administrador del sistema para evitar la duplicaci&oacute;n de datos durante las importaciones de cuentas?</question>
+    <option1text>Debe importar los datos con el Cargador de datos.</option1text>
+    <option1textexplanation>No es correcto. Utilizar solo el Cargador de datos para importar datos no evita que se dupliquen datos.</option1textexplanation>
+    <option2text>Utilizar el identificador del sistema de pedidos en lugar del identificador de Salesforce.</option2text>
+    <option2textexplanation>No es correcto. Cada registro de la organizaci&oacute;n de Salesforce necesita un identificador de Salesforce &uacute;nico. No se puede utilizar un identificador externo en lugar del identificador de Salesforce.</option2textexplanation>
+    <option3text>Debe crear un campo de identificador externo &uacute;nico en las cuentas de Salesforce para establecer la correspondencia.</option3text>
+    <option3textexplanation>Correcto. La creaci&oacute;n de un campo de identificaci&oacute;n externo &uacute;nico en las cuentas garantiza que no se generen duplicados desde el sistema de pedidos externos.</option3textexplanation>
+    <option4text>Crear un campo de f&oacute;rmula que identifique las correspondencias.</option4text>
+    <option4textexplanation>No es correcto. Los campos de f&oacute;rmula solo funcionan con los datos que ya se importaron en la organizaci&oacute;n. Puesto que el objetivo es evitar la duplicaci&oacute;n de datos antes de la importaci&oacute;n, los campos de f&oacute;rmula no ofrecen una soluci&oacute;n exacta.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Pregunta 2. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 2 respuesta(s) correcta(s).</accessibility>
+    <question>El equipo de Operaciones de Ventas de Ursa Major Solar necesita importar y exportar cuentas, contactos, oportunidades y pedidos.<br><br>¿Qu&eacute; permisos de perfil necesita el equipo de Operaciones de Ventas para poder realizar estas tareas? (Seleccione dos
+       respuestas.)</question>
+    <option1text>API activada</option1text>
+    <option1textexplanation>Correcto. Para poder utilizar el Cargador de datos e importar cuentas, contactos, oportunidades y pedidos, se necesita el permiso de perfil API activada.</option1textexplanation>
+    <option2text>Modificar todos para los objetos en cuesti&oacute;n</option2text>
+    <option2textexplanation>Correcto. El permiso Modificar todos para los objetos de cuentas, contactos, oportunidades y pedidos permite a los usuarios visualizar, modificar y eliminar todos los registros, sea cual sea la colaboraci&oacute;n. Esto permite importar y
+      exportar datos solo en los objetos indicados.</option2textexplanation>
+    <option3text>Ver todos los datos</option3text>
+    <option3textexplanation>No es correcto. El permiso Ver todos los datos proporciona acceso a m&aacute;s objetos adem&aacute;s de las cuentas, los contactos, las oportunidades y los pedidos.</option3textexplanation>
+    <option4text>Exportar datos semanalmente</option4text>
+    <option4textexplanation>No es correcto. La opci&oacute;n Exportar datos semanalmente genera archivos de copia de seguridad de los datos todas las semanas dependiendo de su versi&oacute;n. Esto no cumple las necesidades del equipo de Operaciones de Ventas.</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>Pregunta 3. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>El director de Operaciones de Ursa Major Solar se percat&oacute; de que cuando los representantes de ventas mueven oportunidades a la etapa Cerrada, no siempre rellenan la fecha de instalaci&oacute;n del producto. Cuando no se registra la fecha, el equipo de operaciones tiene que
+      hacer contacto con el representante de ventas para que confirme la fecha de instalaci&oacute;n. El director de operaciones solicit&oacute; que los representantes de ventas no puedan cerrar una oportunidad sin registrar antes la fecha de instalaci&oacute;n.<br><br>¿Qu&eacute; funci&oacute;n permite a Ursa
+      Major Solar hacer que sea obligatorio especificar un valor en la fecha de instalaci&oacute;n del producto, que es un campo de fecha personalizado, cuando la etapa de la oportunidad cambia a Cerrado?</question>
+    <option1text>Regla de validaci&oacute;n</option1text>
+    <option1textexplanation>Correcto. Las reglas de validaci&oacute;n pueden utilizarse para convertir los campos en obligatorios de manera condicional en funci&oacute;n de la etapa de la oportunidad.</option1textexplanation>
+    <option2text>Lista de selecci&oacute;n dependiente</option2text>
+    <option2textexplanation>No es correcto. Una lista de selecci&oacute;n dependiente es una lista de selecci&oacute;n personalizada o de selecci&oacute;n m&uacute;ltiple en la que los valores v&aacute;lidos dependen del valor de otro campo, denominado el campo de control. La lista de selecci&oacute;n dependiente no es obligatoria en s&iacute; misma,
+      por lo que no cumple los requisitos de la situaci&oacute;n.</option2textexplanation>
+    <option3text>Formato de p&aacute;gina</option3text>
+    <option3textexplanation>No es correcto. Aunque los formatos de p&aacute;gina pueden determinar los campos que son obligatorios, no se pueden configurar de manera condicional en funci&oacute;n de la etapa.</option3textexplanation>
+    <option4text>Tipo de registro</option4text>
+    <option4textexplanation>No es correcto. Los tipos de registro permiten a los usuarios seleccionar diferentes valores de lista de selecci&oacute;n y formatos de p&aacute;gina para distintos escenarios de negocio en funci&oacute;n de sus perfiles. Los tipos de registro no pueden utilizarse para hacer que sea obligatorio especificar un valor en un campo
+      cuando la etapa se configura como cerrada.</option4textexplanation>
+  </question3>
+  <question4>
+    <accessibility>Pregunta 4. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 2 respuesta(s) correcta(s).</accessibility>
+    <question>El vicepresidente de Marketing de Ursa Major Solar carg&oacute; prospectos en la organizaci&oacute;n y se dio cuenta de que es necesario eliminarlos. El vicepresidente pidi&oacute; al administrador del sistema que los elimine.<br><br>¿Qu&eacute; mejor pr&aacute;ctica se recomienda antes de la eliminaci&oacute;n masiva
+      de registros? (Seleccione dos respuestas.)</question>
+    <option1text>Descargar una configuraci&oacute;n de seguimiento de auditor&iacute;a de los &uacute;ltimos seis meses antes de la eliminaci&oacute;n.</option1text>
+    <option1textexplanation>No es correcto. La configuraci&oacute;n de seguimiento de auditor&iacute;a guarda un historial de los 20 cambios de configuraci&oacute;n m&aacute;s recientes realizados en la organizaci&oacute;n. Por lo tanto, no es una copia de seguridad de los datos.</option1textexplanation>
+    <option2text>Programar una exportaci&oacute;n de datos semanal y descargar los archivos zip de copia de seguridad.</option2text>
+    <option2textexplanation>Correcto. Programar una exportaci&oacute;n de datos semanal y descargar los archivos zip de copia de seguridad es una mejor pr&aacute;ctica. Esta opci&oacute;n se recomienda solo en caso de que el administrador del sistema elimine por accidente m&aacute;s prospectos de los necesarios.</option2textexplanation>
+    <option3text>Crear una nueva vista de lista para todos los registros que deben eliminarse.</option3text>
+    <option3textexplanation>No es correcto. Las nuevas vistas de lista solo crean nuevas vistas de los registros, por lo que no es una mejor pr&aacute;ctica de gesti&oacute;n de datos.</option3textexplanation>
+    <option4text>Ejecutar y exportar un reporte para archivar los datos antes de la eliminaci&oacute;n.</option4text>
+    <option4textexplanation>Correcto. Ejecutar y exportar un reporte para archivar los datos antes de la eliminaci&oacute;n es una mejor pr&aacute;ctica. Esta opci&oacute;n se recomienda solo en caso de que el administrador del sistema elimine por accidente m&aacute;s prospectos de los necesarios.</option4textexplanation>
+  </question4>
+</quizwithfeedback>

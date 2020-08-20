@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Haga clic o presione la tecla de flecha izquierda del teclado para ir a la tarjeta mnemot&eacute;cnica anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Haga clic o presione la tecla de flecha derecha del teclado para ir a la tarjeta mnemot&eacute;cnica siguiente.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Tarjeta mnemot&eacute;cnica 1 A continuaci&oacute;n se describen los controles de las tarjetas mnemot&eacute;cnicas: Para ir a la tarjeta mnemot&eacute;cnica anterior, presione la tecla de flecha izquierda. Para ir a la tarjeta mnemot&eacute;cnica siguiente, presione la tecla de flecha derecha. Presione la tecla de flecha abajo para girar la tarjeta mnemot&eacute;cnica del anverso al reverso. Este conjunto incluye 9 tarjetas mnemot&eacute;cnicas.</accessibility>
+  <front>Ursa Major Solar desea asignar una tarea autom&aacute;ticamente a gerentes de cuenta cuando el acuerdo de un cliente est&eacute; a punto de caducar.<br><br>¿C&oacute;mo debe configurar un administrador esta funci&oacute;n?</front>
+  <back>Crear un flujo basado en tiempo en una cuenta con criterios de regla de Fecha de finalizaci&oacute;n de acuerdo &gt; TODAY().</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Tarjeta mnemot&eacute;cnica 2</accessibility>
+  <front>Un administrador cre&oacute; una regla de flujo de trabajo que env&iacute;a alertas por email cuando se crea un caso con alta prioridad. Un nuevo ingeniero de asistencia que teletrabaja en Ursa Major Solar se queja de que no recibe las alertas por email. El resto de los usuarios de Ursa Major Solar reciben estas alertas por email.<br><br>¿C&oacute;mo puede un administrador solucionar este problema?</front>
+  <back>Verificar la direcci&oacute;n de email del usuario.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Tarjeta mnemot&eacute;cnica 3</accessibility>
+  <front>Ursa Major Solar desea crear una regla de flujo de trabajo para enviar una alerta por email a los miembros de su consejo directivo, pero ninguno utiliza Salesforce.<br><br>¿Cu&aacute;ntos de los miembros directivos pueden agregarse a una &uacute;nica alerta por email?</front>
+  <back>Se pueden agregar un m&aacute;ximo de 5 direcciones de email adicionales a la alerta por email.</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Tarjeta mnemot&eacute;cnica 4</accessibility>
+  <front>Flujo</front>
+  <back>Flow es una aplicaci&oacute;n que puede ejecutar l&oacute;gica, interactuar con la base de datos de Salesforce, llamar clases de Apex y recopilar datos procedentes de usuarios.</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Tarjeta mnemot&eacute;cnica 5</accessibility>
+  <front>Acci&oacute;n r&aacute;pida</front>
+  <back>Las acciones r&aacute;pidas pueden ser espec&iacute;ficas de objetos o acciones globales. Solo se admiten acciones Crear, Actualizar y Registrar una llamada. Tambi&eacute;n puede utilizar acciones en un proceso, y solo puede establecer valores para campos que forman parte del formato de la acci&oacute;n.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Tarjeta mnemot&eacute;cnica 6</accessibility>
+  <front>Desencadenador del proceso</front>
+  <back>Cada proceso incluye un desencadenador, que indica al proceso cu&aacute;ndo empezar. El modo con el que configure el desencadenador depende del tipo de proceso que est&eacute; creando: cambio de registro, evento, invocable.</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Tarjeta mnemot&eacute;cnica 7</accessibility>
+  <front>Proceso de aprobaci&oacute;n</front>
+  <back>Un proceso de aprobaci&oacute;n automatiza el modo en que se aprueban registros en Salesforce. Un proceso de aprobaci&oacute;n especifica cada paso de la aprobaci&oacute;n, incluyendo a qui&eacute;n solicitar la aprobaci&oacute;n y qu&eacute; hacer en cada punto del proceso.</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Tarjeta mnemot&eacute;cnica 8</accessibility>
+  <front>Eliminar un proceso de aprobaci&oacute;n</front>
+  <back>Antes de eliminar un proceso de aprobaci&oacute;n, aseg&uacute;rese de que est&eacute; inactivo. Elimine solicitudes de aprobaci&oacute;n pendientes que est&eacute;n asociados con &eacute;l, y luego ret&iacute;relos de la papelera de reciclaje.</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>Tarjeta mnemot&eacute;cnica 9</accessibility>
+  <front>Activar un proceso de aprobaci&oacute;n</front>
+  <back>Un proceso de aprobaci&oacute;n debe tener al menos un paso antes de poder activarlo. Despu&eacute;s de activar un proceso de activaci&oacute;n, no podr&aacute; agregar, eliminar o cambiar el orden de los pasos, o cambiar su comportamiento de rechazo u omisi&oacute;n, incluso si el proceso est&aacute; inactivo.</back>
+</flashcard9>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Siguiente</nextbuttontext>
+  <submitbuttontext>Enviar</submitbuttontext>
+  <reviewbuttontext>Revisar</reviewbuttontext>
+  <retakequizbuttontext>Repetir</retakequizbuttontext>
+  <nextbuttontext>Intentarlo de nuevo</nextbuttontext>
+  <questioncounttext>Pregunta {0} de {1}</questioncounttext>
+  <answernothingselectedtext>Seleccione una respuesta.</answernothingselectedtext>
+  <twoanswerstoofewselected>Seleccione dos (2) respuestas.</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Seleccione solo dos (2) respuestas.</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Seleccione tres (3) respuestas.</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Seleccione solo tres (3) respuestas.</threeanswerstoomanyselected>
+  <numberofattempts>N&uacute;mero de intentos: </numberofattempts>
+  <question1>
+    <accessibility>Pregunta 1. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s). A continuaci&oacute;n se describen los controles para la comprobaci&oacute;n de conocimientos: Para seleccionar la primera opci&oacute;n, presione la tecla 1 en el teclado; para seleccionar la segunda
+      opci&oacute;n, presione la tecla 2, la tecla 3 para la tercera, la tecla 4 para la cuarta y la tecla 5 si hay una quinta. Para enviar la respuesta seleccionada, presione la tecla Entrar del teclado. Si no respondi&oacute; correctamente a la pregunta, presione May&uacute;s + Entrar para restablecer la selecci&oacute;n.</accessibility>
+    <question>Como proveedor de componentes y sistemas solares, Ursa Major Solar desea asegurarse de que la informaci&oacute;n que ofrece en la p&aacute;gina de Informaci&oacute;n de la compa&ntilde;&iacute;a de Salesforce est&aacute; actualizada.<br><br>¿Qu&eacute; conjunto de informaci&oacute;n puede especificar el administrador en la p&aacute;gina Informaci&oacute;n
+      de la compa&ntilde;&iacute;a?</question>
+    <option1text>Horario de oficina, Configuraci&oacute;n de traducci&oacute;n, Divisa de la compa&ntilde;&iacute;a</option1text>
+    <option1textexplanation>No es correcto. Aunque la informaci&oacute;n sobre la divisa de la compa&ntilde;&iacute;a puede encontrarse en la p&aacute;gina Informaci&oacute;n de la compa&ntilde;&iacute;a, Horario de oficina se encuentra en la Configuraci&oacute;n de la compa&ntilde;&iacute;a en su propia categor&iacute;a y Configuraci&oacute;n de traducci&oacute;n se encuentra en la secci&oacute;n Interfaz de usuario &gt;
+      Sistema de traducci&oacute;n.</option1textexplanation>
+    <option2text>Nombre de la organizaci&oacute;n, Zona horaria predeterminada, Idioma predeterminado</option2text>
+    <option2textexplanation>Correcto. El Nombre de la organizaci&oacute;n, la Zona horaria predeterminada y el Idioma predeterminado pueden encontrarse en la p&aacute;gina Informaci&oacute;n de la compa&ntilde;&iacute;a.</option2textexplanation>
+    <option3text>Contacto principal, Configuraci&oacute;n de Chatter, Dominios configurados</option3text>
+    <option3textexplanation>No es correcto. El Contacto principal se encuentra en la p&aacute;gina Informaci&oacute;n de contacto. Sin embargo, la Configuraci&oacute;n de Chatter se encuentra en la secci&oacute;n Chatter y el dominio personalizado debe crearse en la secci&oacute;n Configuraci&oacute;n de la compa&ntilde;&iacute;a &gt; Mi dominio.
+      Puede encontrar los dominios que ya est&aacute;n activos en la secci&oacute;n Interfaz de usuario &gt; Dominios.</option3textexplanation>
+    <option4text>A&ntilde;o fiscal, Pol&iacute;ticas de contrase&ntilde;as, Zona horaria predeterminada</option4text>
+    <option4textexplanation>No es correcto. Aunque la Zona horaria predeterminada se encuentra en la p&aacute;gina Informaci&oacute;n de la compa&ntilde;&iacute;a, el A&ntilde;o fiscal se encuentra en la secci&oacute;n Configuraci&oacute;n de la compa&ntilde;&iacute;a en su propia categor&iacute;a y las Pol&iacute;ticas de contrase&ntilde;as se encuentra en la secci&oacute;n Seguridad.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Pregunta 2. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 2 respuesta(s) correcta(s).</accessibility>
+    <question>Ursa Major Solar quiere asegurarse de que toda su configuraci&oacute;n regional est&eacute; actualizada y que sea homog&eacute;nea en el sistema de Salesforce. El administrador est&aacute; realizando actualizaciones y configurando los par&aacute;metros de esta informaci&oacute;n.<br><br>¿Qu&eacute;
+      dos conjuntos de par&aacute;metros se pueden configurar mediante Par&aacute;metros de la configuraci&oacute;n regional? (Seleccione dos respuestas.)</question>
+    <option1text>Horario de oficina y Vacaciones</option1text>
+    <option1textexplanation>No es correcto. La configuraci&oacute;n regional depende del idioma y puede englobar a numerosos pa&iacute;ses y ubicaciones de negocio. El Horario de oficina se debe definir seg&uacute;n cada ubicaci&oacute;n individual y var&iacute;a en funci&oacute;n del pa&iacute;s, la zona horaria, etc. Las Vacaciones
+      var&iacute;an tambi&eacute;n seg&uacute;n cada ubicaci&oacute;n.</option1textexplanation>
+    <option2text>Formato de presentaci&oacute;n de hora y numeraci&oacute;n</option2text>
+    <option2textexplanation>Correcto. El formato de presentaci&oacute;n de hora y numeraci&oacute;n es universal en cada configuraci&oacute;n regional.</option2textexplanation>
+    <option3text>Nombre/Apellidos y Formato de fecha</option3text>
+    <option3textexplanation>Correcto. Los valores de Nombre/Apellidos y Formato de fecha son universales en cada configuraci&oacute;n regional</option3textexplanation>
+    <option4text>Formato de n&uacute;mero de tel&eacute;fono y divisa</option4text>
+    <option4textexplanation>No es correcto. El formato del n&uacute;mero de tel&eacute;fono y la divisa var&iacute;an en funci&oacute;n de la configuraci&oacute;n regional. En la misma configuraci&oacute;n regional pueden existir varias divisas para distintos pa&iacute;ses. Lo mismo sucede con los n&uacute;meros de tel&eacute;fono.</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>Pregunta 3. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 2 respuesta(s) correcta(s).</accessibility>
+    <question>El vicepresidente de ventas cambi&oacute; la convenci&oacute;n de nomenclatura de las oportunidades para darle mayor homogeneidad en la compa&ntilde;&iacute;a. El responsable de ventas quiere actualizar varios nombres de oportunidades de su equipo de ventas de Europa utilizando la vista de lista &ldquo;Equipo de Europa&rdquo;
+      de Salesforce.<br><br>¿Qu&eacute; par&aacute;metro de la interfaz de usuario debe utilizarse para permitir a los usuarios que dispongan de todos los permisos necesarios modificar los registros de las vistas de lista? (Seleccione dos respuestas.)</question>
+    <option1text>Activar modificaci&oacute;n en l&iacute;nea</option1text>
+    <option1textexplanation>Correcto. Activar modificaci&oacute;n en l&iacute;nea permite modificar de manera masiva los campos de un registro directamente desde la vista de lista. Tenga en cuenta que esto puede hacerse en las vistas de lista de equipos predefinidas para incluir solamente un tipo de registro.</option1textexplanation>
+    <option2text>Activar listas mejoradas</option2text>
+    <option2textexplanation>Correcto. Activar listas mejoradas permite visualizar, personalizar y modificar r&aacute;pidamente los datos de las listas para aumentar su productividad diaria.</option2textexplanation>
+    <option3text>Activar editor de formato de p&aacute;ginas mejorado</option3text>
+    <option3textexplanation>No es correcto. Activar editor de formato de p&aacute;ginas mejorado permite personalizar formatos de p&aacute;gina, pero no vistas de lista.</option3textexplanation>
+    <option4text>Activar vistas de lista de perfiles mejorada</option4text>
+    <option4textexplanation>No es correcto. Activar vistas de lista de perfiles mejorada pertenece a los perfiles de modificaci&oacute;n masiva y a los permisos de dichos perfiles. Se trata de una especie de herramienta de filtrado que permite acceder a informaci&oacute;n de perfiles espec&iacute;fica y aplicar modificaciones generales a
+      toda la informaci&oacute;n de perfiles que se aplican a dicho filtro.</option4textexplanation>
+  </question3>
+</quizwithfeedback>

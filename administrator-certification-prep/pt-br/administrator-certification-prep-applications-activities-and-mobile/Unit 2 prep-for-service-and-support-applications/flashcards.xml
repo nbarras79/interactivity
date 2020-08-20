@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Clique ou pressione a Seta para a esquerda no teclado para ir para o flashcard anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Clique ou pressione a Seta para a direita no teclado para ir para o pr&oacute;ximo flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. Os controles dos flashcards s&atilde;o os seguintes: Para ir para o flashcard anterior, pressione a tecla de seta para a esquerda. Para ir para o pr&oacute;ximo flashcard, pressione a tecla de seta para a direita. Para virar o flashcard de frente para tr&aacute;s e vice-versa, pressione a tecla de seta para baixo. H&aacute; 12 flashcards neste conjunto.</accessibility>
+  <front>Qual a&ccedil;&atilde;o de configura&ccedil;&atilde;o deve ser executada para garantir que cada caso seja atribu&iacute;do a um propriet&aacute;rio v&aacute;lido?</front>
+  <back>Definir o propriet&aacute;rio do caso padr&atilde;o nas configura&ccedil;&otilde;es de suporte.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>Os representantes de suporte na Ursa Major Solar querem que o mesmo grupo de engenheiros t&eacute;cnicos seja associado a cada novo caso.<br><br>O que um administrador do sistema deve definir para implementar esse requisito?</front>
+  <back>Uma regra de atribui&ccedil;&atilde;o de caso para associar a equipe de caso</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>Qual dessas op&ccedil;&otilde;es &eacute; uma vantagem potencial de usar as solu&ccedil;&otilde;es sugeridas?</front>
+  <back>Custos de suporte reduzidos</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Flashcard 4</accessibility>
+  <front>Qual recurso do Salesforce uma empresa deve implementar para fornecer um m&eacute;todo para seus revendedores rastrearem seus leads e oportunidades?</front>
+  <back>Comunidade de parceiros do Lightning</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Flashcard 5</accessibility>
+  <front>Um administrador do sistema ativa a&ccedil;&otilde;es de feed de casos e itens de feed nas configura&ccedil;&otilde;es de suporte.<br><br>Com as permiss&otilde;es de perfil adequadas habilitadas, quais altera&ccedil;&otilde;es os usu&aacute;rios ver&atilde;o?</front>
+  <back>Os casos usar&atilde;o layouts de feed em vez de layouts de p&aacute;gina padr&atilde;o.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Flashcard 6</accessibility>
+  <front>A Ursa Major Solar quer que as solicita&ccedil;&otilde;es de suporte interno sejam direcionadas a qualquer um dos representantes de TI. Eles querem que as solicita&ccedil;&otilde;es de suporte externo sejam direcionadas a representantes de suporte ao cliente com base na localiza&ccedil;&atilde;o do contato.<br><br>O que o administrador do sistema deve usar para configurar isso?</front>
+  <back>Filas e regras de atribui&ccedil;&atilde;o</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Flashcard 7</accessibility>
+  <front>Web-to-Case</front>
+  <back>Reunir solicita&ccedil;&otilde;es de suporte ao cliente diretamente do site da sua empresa e gerar automaticamente novos casos com o Web-to-Case.</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Flashcard 8</accessibility>
+  <front>Comunidades do Salesforce</front>
+  <back>As Comunidades do Salesforce fornecem uma maneira para que funcion&aacute;rios, clientes e parceiros se conectem em um s&oacute; lugar. As empresas podem colaborar e se comunicar fora da empresa com pessoas que s&atilde;o essenciais para o neg&oacute;cio.</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>Flashcard 9</accessibility>
+  <front>Regras de atribui&ccedil;&atilde;o</front>
+  <back>Definir condi&ccedil;&otilde;es para determinar como os leads ou casos s&atilde;o processados.</back>
+</flashcard9>
+<flashcard10>
+  <accessibility>Flashcard 10</accessibility>
+  <front>Regras de resposta autom&aacute;tica</front>
+  <back>Enviar respostas de email autom&aacute;ticas a envios de lead ou envios de caso com base nos atributos do registro.</back>
+</flashcard10>
+<flashcard11>
+  <accessibility>Flashcard 11</accessibility>
+  <front>Salesforce Knowledge</front>
+  <back>O Salesforce Knowledge permite que voc&ecirc; crie e gerencie uma base de conhecimento com as informa&ccedil;&otilde;es da sua empresa e compartilhe-a com seguran&ccedil;a quando e onde for necess&aacute;rio.</back>
+</flashcard11>
+<flashcard12>
+  <accessibility>Flashcard 12</accessibility>
+  <front>Regras de escala&ccedil;&atilde;o de casos</front>
+  <back>As regras de escala&ccedil;&atilde;o escalam automaticamente casos quando o caso atende aos crit&eacute;rios definidos na entrada da regra.</back>
+</flashcard12>

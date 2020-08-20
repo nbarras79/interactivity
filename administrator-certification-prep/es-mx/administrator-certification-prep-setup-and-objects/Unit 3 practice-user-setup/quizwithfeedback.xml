@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Siguiente</nextbuttontext>
+  <submitbuttontext>Enviar</submitbuttontext>
+  <reviewbuttontext>Revisar</reviewbuttontext>
+  <retakequizbuttontext>Repetir</retakequizbuttontext>
+  <nextbuttontext>Intentarlo de nuevo</nextbuttontext>
+  <questioncounttext>Pregunta {0} de {1}</questioncounttext>
+  <answernothingselectedtext>Seleccione una respuesta.</answernothingselectedtext>
+  <twoanswerstoofewselected>Seleccione dos (2) respuestas.</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Seleccione solo dos (2) respuestas.</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Seleccione tres (3) respuestas.</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Seleccione solo tres (3) respuestas.</threeanswerstoomanyselected>
+  <numberofattempts>N&uacute;mero de intentos: </numberofattempts>
+  <question1>
+    <accessibility>Pregunta 1. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s). A continuaci&oacute;n se describen los controles para la comprobaci&oacute;n de conocimientos: Para seleccionar la primera opci&oacute;n, presione la tecla 1 en el teclado; para seleccionar la segunda
+      opci&oacute;n, presione la tecla 2, la tecla 3 para la tercera, la tecla 4 para la cuarta y la tecla 5 si hay una quinta. Para enviar la respuesta seleccionada, presione la tecla Entrar del teclado. Si no respondi&oacute; correctamente a la pregunta, presione May&uacute;s + Entrar para restablecer la selecci&oacute;n.</accessibility>
+    <question>Un reci&eacute;n contratado de Ursa Major Solar se incorpor&oacute; al equipo de Servicio de Atenci&oacute;n al Cliente para interactuar con los clientes y gestionar casos. Este usuario necesita tener acceso a la Consola de servicio para gestionar los casos y la informaci&oacute;n de los clientes.<br><br>¿Qu&eacute; debe hacer el
+      administrador para asignar una licencia de usuario de Service Cloud a un nuevo usuario?</question>
+    <option1text>Activar al usuario de Service Cloud en la p&aacute;gina de detalles de registro del usuario.</option1text>
+    <option1textexplanation>Correcto. Las licencias de funciones, como, por ejemplo, Usuario de Service Cloud o Usuario de Marketing Cloud, se encuentran en la p&aacute;gina de perfil del usuario. Estas licencias activan funciones adicionales a las de las licencias de usuario, como, por ejemplo, la licencia de usuario de Salesforce.</option1textexplanation>
+    <option2text>Duplicar la Consola de muestra y asignarla al usuario.</option2text>
+    <option2textexplanation>No es correcto. Asignar la Consola de muestra o duplicarla no asigna a los usuarios la licencia Usuario de Service Cloud. Necesitar&iacute;an la licencia de funci&oacute;n Usuario de Service Cloud para poder tener acceso a la consola.</option2textexplanation>
+    <option3text>Crear una nueva asignaci&oacute;n de licencia de conjunto de permisos.</option3text>
+    <option3textexplanation>No es correcto. Las licencias de funci&oacute;n no se crean mediante conjuntos de permisos. Las licencias de funciones se asignan a la compa&ntilde;&iacute;a con la compra de productos, como, por ejemplo, la licencia Usuario de Service Cloud para el producto Service Cloud.
+      Un conjunto de permisos es una recopilaci&oacute;n de configuraciones y permisos que ofrece a los usuarios acceso a varias herramientas y funciones.</option3textexplanation>
+    <option4text>Activar la Consola de servicio en la Configuraci&oacute;n del soporte.</option4text>
+    <option4textexplanation>No es correcto. La Consola de servicio ya debe estar activa. Solo debe asegurarse de que el usuario tenga asignada la licencia Usuario de Service Cloud para poder tener acceso a la consola.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Pregunta 2. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 2 respuesta(s) correcta(s).</accessibility>
+    <question>Ursa Major Solar es un proveedor de tama&ntilde;o medio de componentes y sistemas de energ&iacute;a solar con sede en la zona sudoeste del pa&iacute;s y que est&aacute; creciendo en &aacute;mbito internacional. Un administrador recibe detalles sobre una nueva contrataci&oacute;n de la oficina de Tokio que requiere acceso a la organizaci&oacute;n
+      de Salesforce.<br><br>¿Qu&eacute; dos requisitos debe tener en cuenta el administrador al crear un nuevo usuario en una organizaci&oacute;n de producci&oacute;n de Salesforce? (Seleccione dos respuestas.)</question>
+    <option1text>Los nombres de usuario deben ser &uacute;nicos en todas las organizaciones de producci&oacute;n de Salesforce.</option1text>
+    <option1textexplanation>Correcto. Todos los nombres de usuario deben ser &uacute;nicos en las organizaciones de producci&oacute;n. Si una compa&ntilde;&iacute;a tiene un dominio de email est&aacute;ndar (que se utiliza como nombre de usuario), el administrador deber&aacute; agregar un identificador adicional al email para que sea
+      &uacute;nico.</option1textexplanation>
+    <option2text>Los nombres de usuario deben tener el formato de una direcci&oacute;n de email.</option2text>
+    <option2textexplanation>Correcto. Todos los nombres de usuario deben tener el formato de una direcci&oacute;n de email, aunque no es necesario que sean email reales.</option2textexplanation>
+    <option3text>Los nombres de usuario deben coincidir con la direcci&oacute;n de email del usuario.</option3text>
+    <option3textexplanation>No es correcto. El nombre de usuario no debe coincidir con la direcci&oacute;n de email del usuario, aunque debe tener el formato de direcci&oacute;n de email.</option3textexplanation>
+    <option4text>Los nombres de usuario deben incluir el dominio de email de la compa&ntilde;&iacute;a.</option4text>
+    <option4textexplanation>No es correcto. Los nombres de usuario pueden incluir cualquier dominio de email siempre que tengan el formato de direcci&oacute;n de email.</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>Pregunta 3. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>Un nuevo empleado est&aacute; intentando iniciar sesi&oacute;n en Salesforce, pero est&aacute; teniendo problemas y se muestran mensajes de error de inicio de sesi&oacute;n. Este usuario hace contacto con el administrador de Salesforce para obtener ayuda.<br><br>¿Qu&eacute; debe hacer el administrador en primer lugar para solucionar
+el problema de los mensajes de error?</question>
+    <option1text>Comprobar la lista relacionada del historial de inicio de sesi&oacute;n del usuario en el registro del usuario.</option1text>
+    <option1textexplanation>Correcto. En primer lugar, el administrador debe comprobar la lista relacionada del historial de inicio de sesi&oacute;n para hacerse una idea de qu&eacute; puede estar provocando el problema de inicio de sesi&oacute;n.</option1textexplanation>
+    <option2text>Revisar las entradas de la configuraci&oacute;n del seguimiento de auditor&iacute;a.</option2text>
+    <option2textexplanation>No es correcto. Las entradas de la configuraci&oacute;n del seguimiento de auditor&iacute;a muestran un seguimiento de los cambios que realiza el administrador en Salesforce, no el usuario.</option2textexplanation>
+    <option3text>Iniciar sesi&oacute;n como el usuario para ver el mensaje de error.</option3text>
+    <option3textexplanation>No es correcto. Iniciar sesi&oacute;n como el usuario no har&aacute; que se muestre el mensaje de error de inicio de sesi&oacute;n.</option3textexplanation>
+    <option4text>Buscar el registro de depuraci&oacute;n del mensaje de error.</option4text>
+    <option4textexplanation>No es correcto. El registro de depuraci&oacute;n no captura el problema de inicio de sesi&oacute;n.</option4textexplanation>
+  </question3>
+  <question4>
+    <accessibility>Pregunta 4. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>Se notific&oacute; al administrador que uno de los empleados de Ursa Major Solar estar&aacute; de baja durante unas semanas. Ursa Major Solar no quiere que dicho empleado pueda iniciar sesi&oacute;n en Salesforce mientras est&eacute; de baja.<br><br>¿Qu&eacute; debe hacer el administrador para
+      evitar temporalmente que el usuario inicie sesi&oacute;n en Salesforce?</question>
+    <option1text>Restablecer la contrase&ntilde;a del usuario.</option1text>
+    <option1textexplanation>No es correcto. Los usuarios pueden iniciar sesi&oacute;n si restablecen sus contrase&ntilde;as ellos mismos.</option1textexplanation>
+    <option2text>Inmovilizar la cuenta del usuario.</option2text>
+    <option2textexplanation>Correcto. Debe inmovilizar la cuenta del usuario. La licencia seguir&aacute; en uso, pero el usuario no podr&aacute; iniciar sesi&oacute;n. Cuando el empleado regrese de su baja, bastar&aacute; con anular la inmovilizaci&oacute;n de su cuenta.</option2textexplanation>
+    <option3text>Cambiar las horas de inicio de sesi&oacute;n del usuario.</option3text>
+    <option3textexplanation>No es correcto. El usuario podr&aacute; iniciar sesi&oacute;n durante el nuevo periodo de horas de inicio de sesi&oacute;n que se cree.</option3textexplanation>
+    <option4text>Eliminar la cuenta del usuario.</option4text>
+    <option4textexplanation>No es correcto. Al eliminar la cuenta del usuario, se desactivar&aacute; su licencia. Esto implica que no es una soluci&oacute;n temporal. Las cuentas se pueden volver a activar tras la desactivaci&oacute;n; sin embargo, esta no ser&iacute;a una respuesta eficiente ante este escenario.</option4textexplanation>
+  </question4>
+  <question5>
+    <accessibility>Pregunta 5. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>El administrador solicit&oacute; desactivar la cuenta de usuario de Salesforce de un empleado que ya no trabaja en la compa&ntilde;&iacute;a.<br><br>Cuando se desactiva una cuenta de usuario, ¿qu&eacute; le sucede a la licencia asociada?</question>
+    <option1text>La licencia vuelve a estar disponible para su asignaci&oacute;n.</option1text>
+    <option1textexplanation>Correcto. Cuando se desactiva una licencia de usuario, esta vuelve a estar disponible y se puede volver a asignar a otro empleado de la compa&ntilde;&iacute;a.</option1textexplanation>
+    <option2text>La licencia se elimina.</option2text>
+    <option2textexplanation>No es correcto. La licencia de usuario vuelve a estar disponible para su asignaci&oacute;n. No se elimina.</option2textexplanation>
+    <option3text>La licencia se borra de las licencias facturables de la organizaci&oacute;n.</option3text>
+    <option3textexplanation>No es correcto. La compa&ntilde;&iacute;a ya pag&oacute; por esa licencia. Por lo tanto, no se elimina de las licencias facturables.</option3textexplanation>
+    <option4text>La licencia se asigna autom&aacute;ticamente a otro usuario.</option4text>
+    <option4textexplanation>No es correcto. La licencia no se asigna autom&aacute;ticamente a otro usuario. Es el administrador el que debe volver a asignar la licencia.</option4textexplanation>
+  </question5>
+</quizwithfeedback>

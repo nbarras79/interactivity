@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Clique ou pressione a Seta para a esquerda no teclado para ir para o flashcard anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Clique ou pressione a Seta para a direita no teclado para ir para o pr&oacute;ximo flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. Os controles dos flashcards s&atilde;o os seguintes: Para ir para o flashcard anterior, pressione a tecla de seta para a esquerda. Para ir para o pr&oacute;ximo flashcard, pressione a tecla de seta para a direita. Para virar o flashcard de frente para tr&aacute;s e vice-versa, pressione a tecla de seta para baixo. H&aacute; 4 flashcards neste conjunto.</accessibility>
+  <front>Quais s&atilde;o os dois motivos pelos quais um usu&aacute;rio n&atilde;o pode ser desativado?</front>
+  <back>O usu&aacute;rio &eacute; o destinat&aacute;rio dos alertas por email de fluxo de trabalho.<br><br>O usu&aacute;rio &eacute; um administrador da comunidade de clientes.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>Licen&ccedil;a do usu&aacute;rio</front>
+  <back>Uma licen&ccedil;a de usu&aacute;rio determina a refer&ecirc;ncia inicial dos recursos que o usu&aacute;rio pode acessar. Cada usu&aacute;rio deve ter exatamente uma licen&ccedil;a de usu&aacute;rio. Voc&ecirc; atribui permiss&otilde;es de usu&aacute;rio para acesso a dados por meio de um perfil e, opcionalmente, um ou mais conjuntos de permiss&otilde;es.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>Conjunto de permiss&otilde;es</front>
+  <back>Um conjunto de permiss&otilde;es &eacute; um conjunto de configura&ccedil;&otilde;es e permiss&otilde;es que d&atilde;o aos usu&aacute;rios acesso a v&aacute;rias ferramentas e fun&ccedil;&otilde;es. As configura&ccedil;&otilde;es e permiss&otilde;es em conjuntos de permiss&otilde;es tamb&eacute;m s&atilde;o encontradas em perfis, mas os conjuntos de permiss&otilde;es estendem o acesso funcional dos usu&aacute;rios sem alterar seus perfis.</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Flashcard 4</accessibility>
+  <front>Perfil</front>
+  <back>Os perfis definem como os usu&aacute;rios acessam objetos e dados e o que eles podem fazer dentro do aplicativo. Ao criar usu&aacute;rios, voc&ecirc; atribui um perfil a cada um.</back>
+</flashcard4>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Haga clic o presione la tecla de flecha izquierda del teclado para ir a la tarjeta mnemot&eacute;cnica anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Haga clic o presione la tecla de flecha derecha del teclado para ir a la tarjeta mnemot&eacute;cnica siguiente.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Tarjeta mnemot&eacute;cnica 1 A continuaci&oacute;n se describen los controles de las tarjetas mnemot&eacute;cnicas: Para ir a la tarjeta mnemot&eacute;cnica anterior, presione la tecla de flecha izquierda. Para ir a la tarjeta mnemot&eacute;cnica siguiente, presione la tecla de flecha derecha. Presione la tecla de flecha abajo para girar la tarjeta mnemot&eacute;cnica del anverso al reverso. Este conjunto incluye 12 tarjetas mnemot&eacute;cnicas.</accessibility>
+  <front>¿Qu&eacute; acci&oacute;n de configuraci&oacute;n debe realizarse para asegurarse de que todos los casos se asignen a un propietario v&aacute;lido?</front>
+  <back>Definir el Propietario de caso predeterminado en la Configuraci&oacute;n del soporte.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Tarjeta mnemot&eacute;cnica 2</accessibility>
+  <front>Los representantes de asistencia de Ursa Major Solar quieren que se asocie el mismo grupo de ingenieros t&eacute;cnicos a cada nuevo caso.<br><br>¿Qu&eacute; debe definir el administrador del sistema para implementar este requisito?</front>
+  <back>Una regla de asignaci&oacute;n de casos para asociar al equipo de casos.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Tarjeta mnemot&eacute;cnica 3</accessibility>
+  <front>¿Cu&aacute;l es un posible beneficio de utilizar soluciones sugeridas?</front>
+  <back>Reducci&oacute;n de los costos de asistencia.</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Tarjeta mnemot&eacute;cnica 4</accessibility>
+  <front>¿Qu&eacute; funci&oacute;n de Salesforce debe implementar una compa&ntilde;&iacute;a para ofrecer a sus distribuidores un m&eacute;todo que permita realizar un seguimiento de los prospectos y las oportunidades?</front>
+  <back>Comunidad de socios Lightning</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Tarjeta mnemot&eacute;cnica 5</accessibility>
+  <front>Un administrador del sistema activa las Acciones de noticias en tiempo real de casos y los Elementos de noticias en tiempo real en la Configuraci&oacute;n del soporte.<br><br>Con los permisos de perfiles adecuados activados, ¿qu&eacute; cambios podr&aacute;n ver los usuarios?</front>
+  <back>Los casos utilizar&aacute;n los formatos de noticias en tiempo real en lugar de los formatos de p&aacute;gina est&aacute;ndar.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Tarjeta mnemot&eacute;cnica 6</accessibility>
+  <front>Ursa Major Solar desea que las solicitudes de asistencia internas se dirijan a cualquiera de los representantes de TI. Quiere que las solicitudes de asistencia externas se dirijan a los representantes de atenci&oacute;n al cliente en funci&oacute;n de la ubicaci&oacute;n del contacto.<br><br>¿Qu&eacute; debe utilizar el administrador del sistema para configurar esta caracter&iacute;stica?</front>
+  <back>Colas y reglas de asignaci&oacute;n</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Tarjeta mnemot&eacute;cnica 7</accessibility>
+  <front>Casos web</front>
+  <back>Recopile las solicitudes de servicio de atenci&oacute;n al cliente directamente del sitio web de su compa&ntilde;&iacute;a y genere autom&aacute;ticamente casos nuevos con la funci&oacute;n de casos web.</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Tarjeta mnemot&eacute;cnica 8</accessibility>
+  <front>Comunidades de Salesforce</front>
+  <back>Las comunidades de Salesforce ofrecen a empleados, clientes y socios un medio para hacer contacto. Las compa&ntilde;&iacute;as pueden colaborar y comunicarse con personas externas a la compa&ntilde;&iacute;a y que sean importantes para el negocio.</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>Tarjeta mnemot&eacute;cnica 9</accessibility>
+  <front>Reglas de asignaci&oacute;n</front>
+  <back>Defina condiciones que determinan c&oacute;mo se procesan prospectos o casos.</back>
+</flashcard9>
+<flashcard10>
+  <accessibility>Tarjeta mnemot&eacute;cnica 10</accessibility>
+  <front>Reglas de respuesta autom&aacute;tica</front>
+  <back>Env&iacute;e respuestas de email autom&aacute;ticas a env&iacute;os de casos o prospectos en funci&oacute;n de los atributos del registro.</back>
+</flashcard10>
+<flashcard11>
+  <accessibility>Tarjeta mnemot&eacute;cnica 11</accessibility>
+  <front>Salesforce Knowledge</front>
+  <back>Salesforce Knowledge le permite crear y gestionar una base de datos de conocimientos con informaci&oacute;n de su compa&ntilde;&iacute;a y compartirla de forma segura cuando y donde lo necesite.</back>
+</flashcard11>
+<flashcard12>
+  <accessibility>Tarjeta mnemot&eacute;cnica 12</accessibility>
+  <front>Reglas de distribuci&oacute;n de casos</front>
+  <back>Las reglas de distribuci&oacute;n distribuyen casos autom&aacute;ticamente cuando el caso cumple los criterios definidos en la entrada de regla.</back>
+</flashcard12>

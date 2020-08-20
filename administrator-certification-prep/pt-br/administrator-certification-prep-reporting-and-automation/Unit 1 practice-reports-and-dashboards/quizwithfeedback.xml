@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Pr&oacute;ximo</nextbuttontext>
+  <submitbuttontext>Enviar</submitbuttontext>
+  <reviewbuttontext>Revis&atilde;o</reviewbuttontext>
+  <retakequizbuttontext>Repetir</retakequizbuttontext>
+  <nextbuttontext>Tentar novamente</nextbuttontext>
+  <questioncounttext>Pergunta {0} de {1}</questioncounttext>
+  <answernothingselectedtext>Selecione uma resposta.</answernothingselectedtext>
+  <twoanswerstoofewselected>Selecione duas (2) respostas</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Selecione somente duas (2) respostas</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Selecione tr&ecirc;s (3) respostas</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Selecione somente tr&ecirc;s (3) respostas</threeanswerstoomanyselected>
+  <numberofattempts>N&uacute;mero de tentativas: </numberofattempts>
+  <question1>
+    <accessibility>Pergunta n.º 1 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta. Os controles da verifica&ccedil;&atilde;o de conhecimento s&atilde;o os seguintes: Para selecionar a primeira op&ccedil;&atilde;o, pressione 1 no teclado; para selecionar a segunda
+      op&ccedil;&atilde;o, pressione 2; para a terceira, 3; a quarta, 4; e se houver uma quinta, 5. Para enviar sua escolha de resposta, selecione Enter no teclado. Se voc&ecirc; respondeu incorretamente &agrave; pergunta, pressione Shift+Enter para redefinir suas sele&ccedil;&otilde;es.</accessibility>
+    <question>Um gerente de vendas na Ursa Major Solar quer que uma equipe de representantes de vendas saiba quantas oportunidades em aberto eles t&ecirc;m em determinado momento.<br><br>Como um administrador deve configurar um relat&oacute;rio para que cada representante de vendas possa ver suas pr&oacute;prias oportunidades
+      em aberto?</question>
+    <option1text>Criar um instant&acirc;neo de relat&oacute;rio agrupado por representante de vendas.</option1text>
+    <option1textexplanation>Incorreto. Isso n&atilde;o mostra a um representante de vendas apenas suas pr&oacute;prias oportunidades em aberto.</option1textexplanation>
+    <option2text>Criar um relat&oacute;rio com um filtro cruzado em Minhas oportunidades.</option2text>
+    <option2textexplanation>Incorreto. Os filtros cruzados s&atilde;o usados em relat&oacute;rios para filtrar campos de objetos cruzados.</option2textexplanation>
+    <option3text>Criar um relat&oacute;rio filtrado por Minhas oportunidades.</option3text>
+    <option3textexplanation>Correto. Esse relat&oacute;rio mostra a um representante de vendas suas pr&oacute;prias oportunidades em aberto.</option3textexplanation>
+    <option4text>Criar um agendamento de relat&oacute;rio para cada representante de vendas.</option4text>
+    <option4textexplanation>Incorreto. Um agendamento n&atilde;o cria um relat&oacute;rio que permite a cada representante de vendas ver suas pr&oacute;prias oportunidades em aberto.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Pergunta n.º 2 Essa pergunta tem quatro (5) respostas poss&iacute;veis para escolher. A pergunta tem uma (3) resposta correta.</accessibility>
+    <question>Quais tr&ecirc;s gr&aacute;ficos de relat&oacute;rio mostram quantos leads est&atilde;o no pipeline de marketing com base no status do lead e qual porcentagem cada status de Lead representa? (Escolha tr&ecirc;s respostas.)</question>
+    <option1text>Gr&aacute;fico de barras agrupadas</option1text>
+    <option1textexplanation>Incorreto. Um gr&aacute;fico de barras agrupadas mostra informa&ccedil;&otilde;es individuais do lead em silos.</option1textexplanation>
+    <option2text>Gr&aacute;fico de pizza</option2text>
+    <option2textexplanation>Correto. Um gr&aacute;fico de pizza mostra o n&uacute;mero de leads e a porcentagem de leads como parte do todo.</option2textexplanation>
+    <option3text>Gr&aacute;fico de anel</option3text>
+    <option3textexplanation>Correto. Um gr&aacute;fico de anel mostra o n&uacute;mero de leads e a porcentagem de leads como parte do todo.</option3textexplanation>
+    <option4text>Gr&aacute;fico de linhas</option4text>
+    <option4textexplanation>Incorreto. Um gr&aacute;fico de linhas n&atilde;o mostra uma porcentagem de leads em rela&ccedil;&atilde;o ao todo.</option4textexplanation>
+    <option5text>Gr&aacute;fico de funil</option5text>
+    <option5textexplanation>Correto. Um gr&aacute;fico de funil mostra o n&uacute;mero de leads e a porcentagem de leads como parte do todo.</option5textexplanation>
+  </question2>
+  <question3>
+    <accessibility>Pergunta n.º 3 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (2) resposta correta.</accessibility>
+    <question>Um usu&aacute;rio financeiro com a permiss&atilde;o Exibir todos os dados ativada n&atilde;o v&ecirc; oportunidades ao abrir um relat&oacute;rio de pipeline de vendas. No entanto, um representante de vendas v&ecirc; as oportunidades como esperado. As oportunidades devem ser vis&iacute;veis apenas para aqueles com permiss&atilde;o.<br><br>Quais
+      s&atilde;o as duas a&ccedil;&otilde;es que o administrador deve realizar para garantir que o usu&aacute;rio financeiro ver&aacute; oportunidades no relat&oacute;rio de pipeline? (Escolha duas respostas.)</question>
+    <option1text>Selecionar Salvar n&iacute;vel hier&aacute;rquico no relat&oacute;rio de pipeline.</option1text>
+    <option1textexplanation>Correto. A caixa de sele&ccedil;&atilde;o Salvar n&iacute;vel hier&aacute;rquico que est&aacute; sendo selecionada garante que o n&iacute;vel hier&aacute;rquico que foi usado ao criar um relat&oacute;rio permane&ccedil;a intacto. Assim, se o usu&aacute;rio financeiro tiver permiss&atilde;o para ver os relat&oacute;rios originalmente, o mesmo
+      se aplicar&aacute; quando qualquer relat&oacute;rio subsequente for criado.</option1textexplanation>
+    <option2text>Criar uma nova f&oacute;rmula de relat&oacute;rio no relat&oacute;rio de pipeline.</option2text>
+    <option2textexplanation>Incorreto: A cria&ccedil;&atilde;o de uma f&oacute;rmula n&atilde;o altera as oportunidades que est&atilde;o vis&iacute;veis.</option2textexplanation>
+    <option3text>Atualizar o filtro de relat&oacute;rio para mostrar todas as oportunidades.</option3text>
+    <option3textexplanation>Correto. Usar um filtro para mostrar todas as oportunidades permite que os usu&aacute;rios com a permiss&atilde;o Exibir todos os dados ativada vejam todas as oportunidades no relat&oacute;rio.</option3textexplanation>
+    <option4text>Alterar o padr&atilde;o de compartilhamento da oportunidade para toda a organiza&ccedil;&atilde;o para Leitura p&uacute;blica.</option4text>
+    <option4textexplanation>Incorreto. Isso permitiria que todos na organiza&ccedil;&atilde;o vissem oportunidades.</option4textexplanation>
+  </question3>
+  <question4>
+    <accessibility>Pergunta n.º 4 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>O que um administrador deve configurar para fornecer a cada representante de vendas um painel que mostre seu pipeline de oportunidades atual?</question>
+    <option1text>Definir um filtro do painel para o usu&aacute;rio atual.</option1text>
+    <option1textexplanation>Incorreto. A configura&ccedil;&atilde;o do filtro de painel para o usu&aacute;rio atual mostraria apenas oportunidades para esse usu&aacute;rio, n&atilde;o para o usu&aacute;rio que executa o painel.</option1textexplanation>
+    <option2text>Criar uma&nbsp;pasta do painel para cada usu&aacute;rio.</option2text>
+    <option2textexplanation>Incorreto. A cria&ccedil;&atilde;o de uma pasta do painel para cada usu&aacute;rio n&atilde;o filtraria o painel para os usu&aacute;rios. Uma pasta do painel serve para armazenar pain&eacute;is limitando a visibilidade aos pain&eacute;is na pasta.</option2textexplanation>
+    <option3text>Filtrar o painel com um modo de exibi&ccedil;&atilde;o din&acirc;mico definido como VP de vendas.</option3text>
+    <option3textexplanation>Incorreto. Os pain&eacute;is din&acirc;micos s&atilde;o limitados. As op&ccedil;&otilde;es de Exibir painel como s&atilde;o: <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 20px;padding-left: 20px;font-size:20px;">
+        <li>Eu</li>
+        <li>Outra pessoa</li>
+        <li>Visualizador do painel</li>
+      </ul>
+    </option3textexplanation>
+    <option4text>Defina o usu&aacute;rio em execu&ccedil;&atilde;o no painel como &quot;o visualizador do painel&quot;.</option4text>
+    <option4textexplanation>Correto. Isso garante que o painel mostrar&aacute; dados relevantes apenas para o usu&aacute;rio que os visualiza.</option4textexplanation>
+  </question4>
+  <question5>
+    <accessibility>Pergunta n.º 5 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>Um usu&aacute;rio de vendas quer adicionar componentes ao painel.<br><br>Qual &eacute; o n&uacute;mero m&aacute;ximo de componentes que podem ser adicionados a um &uacute;nico painel?</question>
+    <option1text>3</option1text>
+    <option1textexplanation>Incorreto. Cada painel pode conter at&eacute; 20 componentes. Cada relat&oacute;rio pode ter at&eacute; tr&ecirc;s filtros cruzados.</option1textexplanation>
+    <option2text>15</option2text>
+    <option2textexplanation>Incorreto. Cada painel pode conter at&eacute; 20 componentes.</option2textexplanation>
+    <option3text>20</option3text>
+    <option3textexplanation>Correto. Cada painel pode conter at&eacute; 20 componentes.</option3textexplanation>
+    <option4text>50</option4text>
+    <option4textexplanation>Incorreto. Cada painel pode conter at&eacute; 20 componentes. Um filtro de painel pode ter at&eacute; 50 valores.</option4textexplanation>
+  </question5>
+  <question6>
+    <accessibility>Pergunta n.º 6 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>O que o administrador do sistema deve fazer quando os usu&aacute;rios n&atilde;o puderem encontrar um tipo de relat&oacute;rio personalizado?</question>
+    <option1text>Certificar-se de que o novo tipo de relat&oacute;rio seja implantado.</option1text>
+    <option1textexplanation>Correto. Os usu&aacute;rios n&atilde;o podem acessar um tipo de relat&oacute;rio personalizado se ele n&atilde;o tiver sido implantado.</option1textexplanation>
+    <option2text>Verificar se o perfil de usu&aacute;rio inclui o tipo de relat&oacute;rio.</option2text>
+    <option2textexplanation>Incorreto. O acesso aos objetos &eacute; controlado por perfis n&atilde;o baseados no tipo de relat&oacute;rio.</option2textexplanation>
+    <option3text>Adicionar o novo tipo de relat&oacute;rio aos objetos relacionados.</option3text>
+    <option3textexplanation>Incorreto. Os tipos de relat&oacute;rio s&atilde;o criados para o objeto relatado.</option3textexplanation>
+    <option4text>Adicionar um bot&atilde;o ao Report Builder para o novo tipo de relat&oacute;rio.</option4text>
+    <option4textexplanation>Incorreto. Quando implantados, os tipos de relat&oacute;rio fazem parte do Report Builder.</option4textexplanation>
+  </question6>
+  <question7>
+    <accessibility>Pergunta n.º 7 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>A Ursa Major Solar usa um modelo de acesso a dados privado. Gerentes de produto e representantes de vendas est&atilde;o em diferentes ramos da hierarquia de pap&eacute;is.<br><br>O que um administrador deve fazer para garantir que os gerentes de produto possam relatar
+      oportunidades em sua linha de produtos?</question>
+    <option1text>Criar uma regra de compartilhamento com base nos crit&eacute;rios.</option1text>
+    <option1textexplanation>Correto. As regras de compartilhamento baseadas em crit&eacute;rios determinam quais registros devem ser compartilhados tendo como base valores de campo que n&atilde;o sejam de propriedade.</option1textexplanation>
+    <option2text>Salvar todos os relat&oacute;rios de oportunidades em uma pasta p&uacute;blica.</option2text>
+    <option2textexplanation>Incorreto. Salvar relat&oacute;rios em uma pasta p&uacute;blica dar&aacute; acesso a todas as pessoas.</option2textexplanation>
+    <option3text>Mover todos os gerentes de produto para uma fun&ccedil;&atilde;o abaixo dos representantes de vendas.</option3text>
+    <option3textexplanation>Incorreto. Se os gerentes de produto estiverem em um papel abaixo dos representantes de vendas, eles n&atilde;o poder&atilde;o ver os relat&oacute;rios. Os gerentes de produto teriam que ter um papel acima dos representantes de vendas, de acordo com a hierarquia
+      de pap&eacute;is.</option3textexplanation>
+    <option4text>Criar um novo papel para os gerentes de produto e representantes de vendas.</option4text>
+    <option4textexplanation>Incorreto. Criar um novo papel separaria ainda mais a hierarquia de pap&eacute;is. Os gerentes de produto e representantes de vendas n&atilde;o precisariam ser combinados ou ramificados.</option4textexplanation>
+  </question7>
+</quizwithfeedback>

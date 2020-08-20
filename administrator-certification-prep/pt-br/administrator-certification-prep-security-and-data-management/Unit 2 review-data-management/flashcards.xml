@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Clique ou pressione a Seta para a esquerda no teclado para ir para o flashcard anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Clique ou pressione a Seta para a direita no teclado para ir para o pr&oacute;ximo flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. Os controles dos flashcards s&atilde;o os seguintes: Para ir para o flashcard anterior, pressione a tecla de seta para a esquerda. Para ir para o pr&oacute;ximo flashcard, pressione a tecla de seta para a direita. Para virar o flashcard de frente para tr&aacute;s e vice-versa, pressione a tecla de seta para baixo. H&aacute; 10 flashcards neste conjunto.</accessibility>
+  <front>H&aacute; quanto tempo os dados s&atilde;o armazenados na lixeira?</front>
+  <back>At&eacute; 15 dias</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>A Ursa Major Solar tem dados inconsistentes em suas  20.000 contas existentes e pediu ao administrador do sistema para converter todos os campos de pa&iacute;s padr&atilde;o em c&oacute;digos ISO. Qual m&eacute;todo o administrador do sistema deve usar?</front>
+  <back>Endere&ccedil;os de atualiza&ccedil;&atilde;o em massa</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>Qual conjunto de registros do Salesforce &eacute; exportado escolhendo a op&ccedil;&atilde;o Exportar todos em vez de exportar no Data Loader?</front>
+  <back>Registros de um objeto especificado, incluindo registros na lixeira</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Flashcard 4</accessibility>
+  <front>Um administrador do sistema usa o assistente de importa&ccedil;&atilde;o para atualizar registros de conta existentes. Quais s&atilde;o os dois valores que o assistente de importa&ccedil;&atilde;o pode usar para encontrar registros correspondentes?</front>
+  <back>Nome da conta<br><br>Campos do site</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Flashcard 5</accessibility>
+  <front>Qual op&ccedil;&atilde;o de configura&ccedil;&atilde;o mostra aos representantes de vendas os campos que devem ser preenchidos antes de salvar uma oportunidade?</front>
+  <back>Campos obrigat&oacute;rios de layout de p&aacute;gina</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Flashcard 6</accessibility>
+  <front>Filtro de pesquisa</front>
+  <back>Os filtros de pesquisa s&atilde;o configura&ccedil;&otilde;es de administrador que restringem os valores v&aacute;lidos e os resultados de pesquisa da caixa de di&aacute;logo para campos de relacionamento de pesquisa, entre mestre e detalhes e hier&aacute;rquico. Por exemplo: Restrinja a campo Nome da conta em oportunidades para permitir apenas contas ativas.</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Flashcard 7</accessibility>
+  <front>Assistente de importa&ccedil;&atilde;o de dados</front>
+  <back>O assistente de importa&ccedil;&atilde;o de dados &eacute; uma ferramenta para importar dados para muitos objetos padr&atilde;o do Salesforce incluindo contas, contatos, leads, solu&ccedil;&otilde;es, membros da campanha e contas pessoais. Voc&ecirc; tamb&eacute;m pode importar dados para objetos personalizados. &Eacute; poss&iacute;vel importar at&eacute; 50.000 registros por vez.</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Flashcard 8</accessibility>
+  <front>Regras de valida&ccedil;&atilde;o</front>
+  <back>As regras de valida&ccedil;&atilde;o verificam se os dados inseridos por um usu&aacute;rio em um registro atendem aos padr&otilde;es especificados antes que o usu&aacute;rio possa salvar o registro.</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>Flashcard 9</accessibility>
+  <front>Data Loader vs. assistente de importa&ccedil;&atilde;o</front>
+  <back>Use o Data Loader quando: <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 20px;padding-left: 20px;font-size:12px;"><li>Precisar carregar de 50.000 a 5.000.000 registros. O Data Loader &eacute; suportado para carregamentos de at&eacute; 5 milh&otilde;es de registros.</li><li>Desejar agendar carregamentos de dados regulares, como importa&ccedil;&otilde;es a serem realizadas &agrave; noite.</li><li>Voc&ecirc; deseja exportar seus dados para fins de backup.</li></ul><br><br>Use o assistente de importa&ccedil;&atilde;o quando: <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 20px;padding-left: 20px;font-size:12px;"><li>Estiver carregando menos de 50.000 registros.</li><li>Voc&ecirc; quiser evitar dados duplicados carregando registros de acordo com o nome da conta e o site, o endere&ccedil;o de email do contato ou o endere&ccedil;o de email do lead.</li></ul></back>
+</flashcard9>
+<flashcard10>
+  <accessibility>Flashcard 10</accessibility>
+  <front>Arquivo CSV</front>
+  <back>Um arquivo de valores separados por v&iacute;rgula (CSV) &eacute; um arquivo de texto simples que cont&eacute;m uma lista de dados. Os arquivos CSV s&atilde;o um formato de arquivo aceito para o Data Loader e o assistente de importa&ccedil;&atilde;o de dados.</back>
+</flashcard10>

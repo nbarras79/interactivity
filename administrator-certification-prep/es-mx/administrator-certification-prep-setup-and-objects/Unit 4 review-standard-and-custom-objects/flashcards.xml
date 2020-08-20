@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Haga clic o presione la tecla de flecha izquierda del teclado para ir a la tarjeta mnemot&eacute;cnica anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Haga clic o presione la tecla de flecha derecha del teclado para ir a la tarjeta mnemot&eacute;cnica siguiente.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Tarjeta mnemot&eacute;cnica 1 A continuaci&oacute;n se describen los controles de las tarjetas mnemot&eacute;cnicas: Para ir a la tarjeta mnemot&eacute;cnica anterior, presione la tecla de flecha izquierda. Para ir a la tarjeta mnemot&eacute;cnica siguiente, presione la tecla de flecha derecha. Presione la tecla de flecha abajo para girar la tarjeta mnemot&eacute;cnica del anverso al reverso. Este conjunto incluye 12 tarjetas mnemot&eacute;cnicas.</accessibility>
+  <front>Un administrador delegado de Ursa Major Solar no puede modificar el campo Fecha de creaci&oacute;n de un registro de cuenta.<br><br>Seg&uacute;n el administrador, ¿cu&aacute;l ser&iacute;a el motivo de este problema?</front>
+  <back>Este es un campo de auditor&iacute;a del sistema y es de solo lectura para los registros existentes.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Tarjeta mnemot&eacute;cnica 2</accessibility>
+  <front>Ursa Major Solar desea crear un campo para almacenar n&uacute;meros de tarjetas de cr&eacute;dito y necesita asegurarse de que la informaci&oacute;n est&eacute; protegida.<br><br>¿Qu&eacute; dos acciones permiten al administrador proporcionar una seguridad mejorada para este campo?</front>
+  <back>Crear un campo de texto cifrado.<br><br>Actualizar la configuraci&oacute;n de seguridad de nivel de campo.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Tarjeta mnemot&eacute;cnica 3</accessibility>
+  <front>Ursa Major Solar tiene un equipo de ventas de renovaciones que utiliza el objeto Oportunidad. El equipo desea utilizar muchos de los campos de lista de selecci&oacute;n ya definidos, aunque necesita valores de lista de selecci&oacute;n &uacute;nicos. ¿Qu&eacute; funci&oacute;n permite al administrador mantener el mismo campo para dos equipos distintos?</front>
+  <back>Tipos de registro</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Tarjeta mnemot&eacute;cnica 4</accessibility>
+  <front>Ursa Major Solar tiene un equipo de ventas centrado en las renovaciones. El equipo utiliza muchos de los campos de oportunidades que otros equipos, aunque necesita distintos valores de etapa.<br><br>¿Qu&eacute; debe actualizar el administrador para implementar este requisito?</front>
+  <back>Los valores seleccionados de etapa de los procesos de ventas.</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Tarjeta mnemot&eacute;cnica 5</accessibility>
+  <front>Ursa Major Solar tiene un proceso de ventas complejo con m&uacute;ltiples tipos de registro que se comparten con todos los perfiles. Algunos usuarios tienen quejas acerca de la pantalla Selecci&oacute;n del tipo de registro al crear nuevas oportunidades.<br><br>¿Qu&eacute; dos acciones debe realizar el administrador para permitir que estos usuarios omitan la selecci&oacute;n de un tipo de registro?</front>
+  <back>Indicar a los usuarios que deben actualizar el Tipo de registro predeterminado en Mi configuraci&oacute;n.<br><br>Eliminar los tipos de registro de los perfiles de los usuarios.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Tarjeta mnemot&eacute;cnica 6</accessibility>
+  <front>El equipo de Asistencia al Cliente desea utilizar un formato de p&aacute;gina distinto para los cierres de casos.<br><br>¿Qu&eacute; m&eacute;todo debe utilizar el administrador para atender a esta petici&oacute;n?</front>
+  <back>Formato de p&aacute;gina de cierre de casos.</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Tarjeta mnemot&eacute;cnica 7</accessibility>
+  <front>Campo de f&oacute;rmula</front>
+  <back>Un campo de solo lectura tiene un valor que se eval&uacute;a con una f&oacute;rmula o expresi&oacute;n que creamos. El campo de f&oacute;rmula se puede definir tanto para objetos est&aacute;ndar como personalizados. Cualquier cambio en la expresi&oacute;n o f&oacute;rmula actualizar&aacute; autom&aacute;ticamente el valor del campo de f&oacute;rmula. El campo de f&oacute;rmula se puede definir para 7 tipos:<br><br>(1) N&uacute;mero, (2) Divisa, (3) Porcentaje, (4) Fecha, (5) Fecha/Hora, (6) Casilla de verificaci&oacute;n, (7) Texto</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Tarjeta mnemot&eacute;cnica 8</accessibility>
+  <front>Objetos personalizados</front>
+  <back>Estos objetos son los que crean los usuarios seg&uacute;n sus necesidades. Cada objeto personalizado tiene cinco campos est&aacute;ndar. Objetos con cinco campos est&aacute;ndar que crearon los usuarios para satisfacer sus necesidades.</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>Tarjeta mnemot&eacute;cnica 9</accessibility>
+  <front>Campo de resumen</front>
+  <back>Los campos de resumen son campos de objetos personalizados que calculan valores a partir de los registros relacionados o los registros de una lista relacionada. Los campos de resumen se crean para mostrar un valor en un registro principal seg&uacute;n los valores de los campos de registros de detalles. Los campos de resumen solo se pueden definir en relaciones principal-detalle.</back>
+</flashcard9>
+<flashcard10>
+  <accessibility>Tarjeta mnemot&eacute;cnica 10</accessibility>
+  <front>Campo de b&uacute;squeda</front>
+  <back>La b&uacute;squeda es tambi&eacute;n una relaci&oacute;n de uno a muchos, aunque en esta relaci&oacute;n, hay dos objetos que no afectan ni a la eliminaci&oacute;n ni a la seguridad. Los objetos secundarios son independientes.<br><br>Los objetos secundarios tienen una configuraci&oacute;n aparte. Si se elimina el objeto principal, el objeto secundario permanece en el sistema. Un objeto secundario puede tener un principal o no.</back>
+</flashcard10>
+<flashcard11>
+  <accessibility>Tarjeta mnemot&eacute;cnica 11</accessibility>
+  <front>Principal-detalle</front>
+  <back>Vincula estrechamente objetos entre s&iacute; de modo que el registro principal controla ciertos comportamientos del registro de detalle y subdetalle. Por ejemplo, puede definir una relaci&oacute;n principal-detalle de dos objetos, como Cuentas-Reporte de gastos, para ampliar la relaci&oacute;n a registros de subdetalle, como Cuentas-Reporte de gastos-Partida de gastos. Puede realizar operaciones en la relaci&oacute;n principal-detalle-subdetalle.</back>
+</flashcard11>
+<flashcard12>
+  <accessibility>Tarjeta mnemot&eacute;cnica 12</accessibility>
+  <front>Relaci&oacute;n de uno a varios</front>
+  <back>Se trata de una relaci&oacute;n con muchos objetos secundarios pero solo un objeto principal. Por ejemplo, muchas ciudades asociadas a un solo pa&iacute;s. Este tipo de relaci&oacute;n se representa de cuatro maneras distintas:<br><br>(1) Principal-detalle, (2) B&uacute;squeda (relaci&oacute;n de vinculaci&oacute;n no estrecha), (3) Auto, (4) Jer&aacute;rquica.</back>
+</flashcard12>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Clique ou pressione a Seta para a esquerda no teclado para ir para o flashcard anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Clique ou pressione a Seta para a direita no teclado para ir para o pr&oacute;ximo flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. Os controles dos flashcards s&atilde;o os seguintes: Para ir para o flashcard anterior, pressione a tecla de seta para a esquerda. Para ir para o pr&oacute;ximo flashcard, pressione a tecla de seta para a direita. Para virar o flashcard de frente para tr&aacute;s e vice-versa, pressione a tecla de seta para baixo. H&aacute; 12 flashcards neste conjunto.</accessibility>
+  <front>Um administrador delegado na Ursa Major Solar n&atilde;o consegue editar o campo Data de cria&ccedil;&atilde;o para o registro de conta.<br><br>Como o administrador deve justificar este evento?</front>
+  <back>Este &eacute; um campo de auditoria do sistema e &eacute; de somente leitura para registros existentes.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>A Ursa Major Solar quer criar um campo para armazenar n&uacute;meros de cart&atilde;o de cr&eacute;dito e precisa ter certeza de que as informa&ccedil;&otilde;es est&atilde;o protegidas.<br><br>Quais s&atilde;o as duas a&ccedil;&otilde;es que permitem que o administrador forne&ccedil;a seguran&ccedil;a aprimorada para esse campo?</front>
+  <back>Criar um campo de texto criptografado.<br><br>Atualizar as configura&ccedil;&otilde;es de seguran&ccedil;a em n&iacute;vel de campo.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>A Ursa Major Solar tem uma equipe de vendas de renova&ccedil;&otilde;es que usa o objeto Oportunidade. A equipe quer usar muitos dos mesmos campos de lista de op&ccedil;&otilde;es que j&aacute; est&atilde;o definidos, mas precisa de valores da lista exclusivos. Que recurso permite que um administrador mantenha o mesmo campo para duas equipes diferentes?</front>
+  <back>Tipos de registro</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Flashcard 4</accessibility>
+  <front>A Ursa Major Solar tem uma equipe de vendas focada em renova&ccedil;&otilde;es. A equipe usa muitos dos mesmos campos de oportunidade que outras equipes, mas precisa de valores de fase diferentes.<br><br>O que o administrador deve atualizar para dar suporte a esse requisito?</front>
+  <back>Valores de fase selecionados nos processos de vendas</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Flashcard 5</accessibility>
+  <front>A Ursa Major Solar tem um processo de vendas complexo com v&aacute;rios tipos de registro, cada um compartilhado com todos os perfis. Alguns usu&aacute;rios se queixam da tela de sele&ccedil;&atilde;o Tipo de registro ao criar novas oportunidades.<br><br>Quais s&atilde;o as duas a&ccedil;&otilde;es que o administrador deve tomar para permitir que esses usu&aacute;rios ignorem a escolha de um tipo de registro?</front>
+  <back>Instruir os usu&aacute;rios a atualizar o Tipo de registro padr&atilde;o em Minhas configura&ccedil;&otilde;es.<br><br>Remover tipos de registro dos perfis dos usu&aacute;rios.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Flashcard 6</accessibility>
+  <front>A equipe de suporte ao cliente quer usar um layout de p&aacute;gina diferente ao fechar um caso.<br><br>Que m&eacute;todo o administrador deve usar para atender a essa solicita&ccedil;&atilde;o?</front>
+  <back>Layout de p&aacute;gina de fechamento de caso</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Flashcard 7</accessibility>
+  <front>Campo de f&oacute;rmula</front>
+  <back>Um campo somente leitura cujo valor &eacute; avaliado a partir da f&oacute;rmula ou express&atilde;o definida por n&oacute;s. &Eacute; poss&iacute;vel definir um campo de f&oacute;rmula em objetos padr&atilde;o e personalizados. Qualquer altera&ccedil;&atilde;o na express&atilde;o ou f&oacute;rmula atualiza automaticamente o valor de campo de f&oacute;rmula. Voc&ecirc; pode definir campos de f&oacute;rmula para 7 tipos:<br><br>(1) N&uacute;mero, (2) Moeda, (3) Porcentagem, (4) Data, (5) Data/hora, (6) Caixa de sele&ccedil;&atilde;o, (7) Texto</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Flashcard 8</accessibility>
+  <front>Objetos personalizados</front>
+  <back>Esses s&atilde;o os objetos criados pelo usu&aacute;rio de acordo com suas necessidades. Cada objeto personalizado tem cinco campos padr&atilde;o. Objetos, com cinco campos padr&atilde;o, criados por usu&aacute;rios para atender as suas necessidades.</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>Flashcard 9</accessibility>
+  <front>Campo de resumo de totaliza&ccedil;&atilde;o</front>
+  <back>Um campo de resumo de totaliza&ccedil;&atilde;o &eacute; um campo de objeto personalizado que calcula valores de registros relacionados ou registros em uma lista relacionada. O campo de resumo de totaliza&ccedil;&atilde;o &eacute; criado para exibir automaticamente um valor em um registro mestre baseado nos valores de campos em um registro de detalhes. O resumo de totaliza&ccedil;&atilde;o pode ser definido somente em relacionamento entre mestre e detalhes.</back>
+</flashcard9>
+<flashcard10>
+  <accessibility>Flashcard 10</accessibility>
+  <front>Campo de pesquisa</front>
+  <back>A pesquisa tamb&eacute;m &eacute; um relacionamento &ldquo;um para muitos&rdquo;, mas neste relacionamento, dois objetos n&atilde;o t&ecirc;m efeito sobre exclus&atilde;o ou seguran&ccedil;a. Os objetos filho s&atilde;o independentes.<br><br>Os objetos filho t&ecirc;m uma configura&ccedil;&atilde;o separada. Se voc&ecirc; excluir o objeto pai, o objeto filho permanecer&aacute; no sistema. Um objeto filho pode ou n&atilde;o ter um pai.</back>
+</flashcard10>
+<flashcard11>
+  <accessibility>Flashcard 11</accessibility>
+  <front>Mestre e detalhes</front>
+  <back>Cria um v&iacute;nculo forte entre os objetos, para que o registro mestre controle certos comportamentos do registro de detalhes e subdetalhes. Por exemplo, voc&ecirc; pode definir um relacionamento entre mestre e detalhes de dois objetos, como Conta &ndash; Relat&oacute;rio de despesas, que estende o relacionamento aos registros de subdetalhes, como Conta &ndash; Relat&oacute;rio de despesas &ndash; Item de linha de despesa. Voc&ecirc; pode ent&atilde;o realizar opera&ccedil;&otilde;es em todo o relacionamento entre mestre, detalhes e subdetalhes.</back>
+</flashcard11>
+<flashcard12>
+  <accessibility>Flashcard 12</accessibility>
+  <front>Um para muitos</front>
+  <back>Relacionamento com muitos objetos filho, mas um objeto pai. Por exemplo, muitas cidades metropolitanas est&atilde;o associadas a um pa&iacute;s. Esse tipo de relacionamento &eacute; representado em quatro formas diferentes:<br><br>(1) Mestre e detalhes, (2) Pesquisa (relacionamento vagamente acoplado), (3) Pr&oacute;prio, (4) Hier&aacute;rquico</back>
+</flashcard12>

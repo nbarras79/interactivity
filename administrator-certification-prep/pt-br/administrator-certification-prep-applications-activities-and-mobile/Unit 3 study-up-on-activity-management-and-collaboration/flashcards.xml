@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Clique ou pressione a Seta para a esquerda no teclado para ir para o flashcard anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Clique ou pressione a Seta para a direita no teclado para ir para o pr&oacute;ximo flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. Os controles dos flashcards s&atilde;o os seguintes: Para ir para o flashcard anterior, pressione a tecla de seta para a esquerda. Para ir para o pr&oacute;ximo flashcard, pressione a tecla de seta para a direita. Para virar o flashcard de frente para tr&aacute;s e vice-versa, pressione a tecla de seta para baixo. H&aacute; 3 flashcards neste conjunto.</accessibility>
+  <front>Como um usu&aacute;rio do Chatter pode enviar uma mensagem para outro usu&aacute;rio do Chatter que n&atilde;o pode ser visualizada por mais ningu&eacute;m?</front>
+  <back>Publicar uma mensagem privada para o destinat&aacute;rio.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>Atividades</front>
+  <back>As atividades s&atilde;o registros das intera&ccedil;&otilde;es que sua organiza&ccedil;&atilde;o tem com registros como suas contas, contatos e oportunidades. Elas podem ser tarefas ou eventos.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>Recursos de grupos do Chatter</front>
+  <back>Os usu&aacute;rios em um grupo do Chatter podem:<br><br>
+    <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 20px;padding-left: 20px;font-size:20px;">
+      <li>Colaborar em um grupo privado, p&uacute;blico ou n&atilde;o listado.</li>
+      <li>Usar an&uacute;ncios para mensagens importantes.</li>
+      <li>Publicar atualiza&ccedil;&otilde;es, arquivos e links.</li>
+      <li>Incluir clientes em grupos privados.</li>
+    </ul>
+  </back>
+</flashcard3>

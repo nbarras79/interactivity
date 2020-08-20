@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Haga clic o presione la tecla de flecha izquierda del teclado para ir a la tarjeta mnemot&eacute;cnica anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Haga clic o presione la tecla de flecha derecha del teclado para ir a la tarjeta mnemot&eacute;cnica siguiente.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Tarjeta mnemot&eacute;cnica 1 A continuaci&oacute;n se describen los controles de las tarjetas mnemot&eacute;cnicas: Para ir a la tarjeta mnemot&eacute;cnica anterior, presione la tecla de flecha izquierda. Para ir a la tarjeta mnemot&eacute;cnica siguiente, presione la tecla de flecha derecha. Presione la tecla de flecha abajo para girar la tarjeta mnemot&eacute;cnica del anverso al reverso. Este conjunto incluye 10 tarjetas mnemot&eacute;cnicas.</accessibility>
+  <front>¿A qu&eacute; dos tipos de campos se pueden asignar los campos personalizados del objeto Prospecto?</front>
+  <back>Oportunidad personalizada<br><br>Cuenta personalizada</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Tarjeta mnemot&eacute;cnica 2</accessibility>
+  <front>Ursa Major Solar cuenta con un equipo de ventas interno que solo vende renovaciones de garant&iacute;a y con un equipo de ventas externo que solo se dedica a la venta de productos. Cada tipo de venta captura diferente informaci&oacute;n y tiene un ciclo de ventas distinto.<br><br>¿C&oacute;mo puede el administrador del sistema configurar Salesforce para satisfacer estos requisitos?</front>
+  <back>Debe crear un formato de p&aacute;gina, unos procesos de ventas y un tipo de registro para cada tipo de venta.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Tarjeta mnemot&eacute;cnica 3</accessibility>
+  <front>Ursa Major Solar ofrece una amplia variedad de productos comparables a los productos de otras compa&ntilde;&iacute;as. Los representantes de ventas solicitaron un m&eacute;todo que permita realizar un seguimiento de los puntos fuertes y d&eacute;biles de los productos y compararlos con los de los productos que ofrecen otros proveedores.<br><br>¿Qu&eacute; debe implementar el administrador del sistema?</front>
+  <back>Debe incluir la funci&oacute;n Competidores en el formato de p&aacute;gina de la oportunidad.</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Tarjeta mnemot&eacute;cnica 4</accessibility>
+  <front>Ursa Major Solar quiere que el equipo de ventas pueda acceder a la informaci&oacute;n acerca de las oportunidades con el estado Cerrada ganada que tengan un competidor com&uacute;n para todas las negociaciones importantes pendientes.<br><br>¿Qu&eacute; conjunto de funciones debe implementar el administrador del sistema?</front>
+  <back>Competidores y Oportunidades similares.</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Tarjeta mnemot&eacute;cnica 5</accessibility>
+  <front>¿C&oacute;mo debe el administrador del sistema implementar notificaciones quincenales para los representantes de ventas que incluyan las oportunidades a las que se debe prestar atenci&oacute;n en funci&oacute;n del &uacute;ltimo inicio de sesi&oacute;n del propietario de la oportunidad, las oportunidades que vencieron y todas las oportunidades que no se actualizaron en los &uacute;ltimos 30 d&iacute;as?</front>
+  <back>Debe crear recordatorios de actualizaci&oacute;n de oportunidades.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Tarjeta mnemot&eacute;cnica 6</accessibility>
+  <front>Ursa Major Solar vende a trav&eacute;s de muchas redes distintas de distribuidores. El seguimiento de las negociaciones de cada distribuidor se realiza en oportunidades separadas. El responsable de ventas est&aacute; preocupado por que el reporte de oportunidades en curso no sea exacto debido a las numerosas oportunidades existentes para el mismo cliente final.<br><br>¿C&oacute;mo debe modificarse el proceso de ventas para asegurarse de que las oportunidades no se cuenten por duplicado en las oportunidades en curso?</front>
+  <back>Debe cambiar la categor&iacute;a del pron&oacute;stico a Omitido en las oportunidades duplicadas.</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Tarjeta mnemot&eacute;cnica 7</accessibility>
+  <front>¿Qu&eacute; dos objetos pueden relacionarse a los miembros de una campa&ntilde;a?</front>
+  <back>Prospectos<br><br>Contactos</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Tarjeta mnemot&eacute;cnica 8</accessibility>
+  <front>¿C&oacute;mo se pueden asociar varios registros de campa&ntilde;a a una &uacute;nica oportunidad?</front>
+  <back>Mediante la influencia de campa&ntilde;a.</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>Tarjeta mnemot&eacute;cnica 9</accessibility>
+  <front>¿Qu&eacute; funci&oacute;n realiza un seguimiento de la frecuencia con la que se visualiza un archivo?</front>
+  <back>Entregas de contenido.</back>
+</flashcard9>
+<flashcard10>
+  <accessibility>Tarjeta mnemot&eacute;cnica 10</accessibility>
+  <front>¿Qu&eacute; dos listas relacionadas deben agregarse al formato de p&aacute;gina de oportunidad para realizar un seguimiento de la contribuci&oacute;n de las campa&ntilde;as a las oportunidades en curso?</front>
+  <back>Influencia de campa&ntilde;a<br><br>Funciones de contacto</back>
+</flashcard10>

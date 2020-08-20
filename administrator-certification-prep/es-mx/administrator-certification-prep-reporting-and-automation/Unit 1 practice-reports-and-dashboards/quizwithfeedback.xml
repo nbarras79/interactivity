@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Siguiente</nextbuttontext>
+  <submitbuttontext>Enviar</submitbuttontext>
+  <reviewbuttontext>Revisar</reviewbuttontext>
+  <retakequizbuttontext>Repetir</retakequizbuttontext>
+  <nextbuttontext>Intentarlo de nuevo</nextbuttontext>
+  <questioncounttext>Pregunta {0} de {1}</questioncounttext>
+  <answernothingselectedtext>Seleccione una respuesta.</answernothingselectedtext>
+  <twoanswerstoofewselected>Seleccione dos (2) respuestas.</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Seleccione solo dos (2) respuestas.</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Seleccione tres (3) respuestas.</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Seleccione solo tres (3) respuestas.</threeanswerstoomanyselected>
+  <numberofattempts>N&uacute;mero de intentos: </numberofattempts>
+  <question1>
+    <accessibility>Pregunta 1. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s). A continuaci&oacute;n se describen los controles para la comprobaci&oacute;n de conocimientos: Para seleccionar la primera opci&oacute;n, presione la tecla 1 en el teclado; para seleccionar la segunda
+      opci&oacute;n, presione la tecla 2, la tecla 3 para la tercera, la tecla 4 para la cuarta y la tecla 5 si hay una quinta. Para enviar la respuesta seleccionada, presione la tecla Entrar del teclado. Si no respondi&oacute; correctamente a la pregunta, presione May&uacute;s + Entrar para restablecer la selecci&oacute;n.</accessibility>
+    <question>Un gerente de ventas en Ursa Major Solar desea que un equipo de ventas sepa cu&aacute;ntas oportunidades abiertas tienen en un momento espec&iacute;fico.<br><br>¿C&oacute;mo debe configurar un administrador un reporte para que cada representante de ventas vea sus propias oportunidades abiertas?</question>
+    <option1text>Crear una instant&aacute;nea de creaci&oacute;n de reportes agrupada por representante de ventas.</option1text>
+    <option1textexplanation>No es correcto. Esto no muestra a un representante de ventas solo sus propias oportunidades abiertas.</option1textexplanation>
+    <option2text>Crear un reporte con un filtro cruzado por Mis oportunidades.</option2text>
+    <option2textexplanation>No es correcto. Los filtros cruzados se utilizan en reportes para filtrar campos de objetos cruzados.</option2textexplanation>
+    <option3text>Crear un reporte filtrado por Mis oportunidades.</option3text>
+    <option3textexplanation>Correcto. Este reporte muestra a un representante de ventas sus propias oportunidades abiertas.</option3textexplanation>
+    <option4text>Crear una programaci&oacute;n de reporte para cada representante de ventas.</option4text>
+    <option4textexplanation>No es correcto. Una programaci&oacute;n no crea un reporte que permite a cada representante de ventas ver sus propias oportunidades abiertas.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Pregunta 2. Para esta pregunta, deber&aacute; elegir entre 5 respuestas posibles. La pregunta tiene 3 respuesta(s) correcta(s).</accessibility>
+    <question>¿Qu&eacute; tres gr&aacute;ficos de reporte muestran cu&aacute;ntos prospectos hay en las oportunidades en curso de marketing en base al estado del prospecto y qu&eacute; porcentaje representa cada estado de prospecto? (Seleccione tres respuestas.)</question>
+    <option1text>Gr&aacute;fico de barras agrupadas</option1text>
+    <option1textexplanation>No es correcto. Un gr&aacute;fico de barras agrupadas muestra informaci&oacute;n de prospectos aislada e individualizada.</option1textexplanation>
+    <option2text>Gr&aacute;fico circular</option2text>
+    <option2textexplanation>Correcto. Un gr&aacute;fico circular muestra el n&uacute;mero de prospectos y el porcentaje de prospectos como parte del todo.</option2textexplanation>
+    <option3text>Gr&aacute;fico de anillos</option3text>
+    <option3textexplanation>Correcto. Un gr&aacute;fico de anillos muestra el n&uacute;mero de prospectos y el porcentaje de prospectos como parte del todo.</option3textexplanation>
+    <option4text>Gr&aacute;fico de l&iacute;neas</option4text>
+    <option4textexplanation>No es correcto. Un gr&aacute;fico de l&iacute;neas no muestra un porcentaje de los prospectos relativo al todo.</option4textexplanation>
+    <option5text>Gr&aacute;fico de embudo</option5text>
+    <option5textexplanation>Correcto. Un gr&aacute;fico de embudo muestra el n&uacute;mero de prospectos y el porcentaje de prospectos como parte del todo.</option5textexplanation>
+  </question2>
+  <question3>
+    <accessibility>Pregunta 3. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 2 respuesta(s) correcta(s).</accessibility>
+    <question>Un usuario de finanzas con el permiso Ver todos los datos activado no ve ninguna oportunidad cuando abre un reporte de oportunidades de ventas en curso. No obstante, un representante de ventas ve las oportunidades como se espera. Las oportunidades solo deben ser visibles a aquellos con permiso.<br><br>¿Qu&eacute; dos acciones debe realizar el administrador para garantizar que el usuario de finanzas ve las oportunidades en el reporte de oportunidades de ventas en curso? (Seleccione dos respuestas.)</question>
+    <option1text>Seleccionar Guardar nivel de jerarqu&iacute;a en el reporte de oportunidades de ventas en curso.</option1text>
+    <option1textexplanation>Correcto. Seleccionar la casilla de verificaci&oacute;n Guardar nivel de jerarqu&iacute;a garantiza que el nivel de jerarqu&iacute;a que se utiliz&oacute; al crear el reporte se mantiene intacto. De este modo, si el usuario de finanzas ten&iacute;a permiso para ver reportes originalmente, lo mismo se aplicar&aacute; cuando se cree cualquier reporte posteriormente.</option1textexplanation>
+    <option2text>Crear una nueva f&oacute;rmula de reporte en el reporte de oportunidades de ventas en curso.</option2text>
+    <option2textexplanation>No es correcto. La creaci&oacute;n de una f&oacute;rmula no cambia qu&eacute; oportunidades est&aacute;n visibles.</option2textexplanation>
+    <option3text>Actualizar el filtro del reporte para mostrar todas las oportunidades.</option3text>
+    <option3textexplanation>Correcto. El uso de un filtro para mostrar todas las oportunidades permite a los usuarios con el permiso Ver todos los datos activado ver todas las oportunidades del reporte.</option3textexplanation>
+    <option4text>Cambiar el valor predeterminado de colaboraci&oacute;n de oportunidades de toda la organizaci&oacute;n a Lectura p&uacute;blica.</option4text>
+    <option4textexplanation>No es correcto. Esto permitir&iacute;a a todos los integrantes de la organizaci&oacute;n ver oportunidades.</option4textexplanation>
+  </question3>
+  <question4>
+    <accessibility>Pregunta 4. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>¿Qu&eacute; debe configurar un administrador para proporcionar a cada representante de ventas un tablero que muestre sus oportunidades en curso?</question>
+    <option1text>Establecer un filtro de tablero para el usuario actual.</option1text>
+    <option1textexplanation>No es correcto. Establecer un filtro de tablero para el usuario actual solo mostrar&iacute;a oportunidades para ese usuario, no para el usuario que ejecuta el tablero.</option1textexplanation>
+    <option2text>Crear una carpeta de tableros para cada usuario.</option2text>
+    <option2textexplanation>No es correcto. La creaci&oacute;n de una carpeta de tableros para cada usuario no filtrar&iacute;a el tablero para los usuarios. Una carpeta de tableros es para almacenar tableros, limitando la visibilidad de los tableros en la carpeta.</option2textexplanation>
+    <option3text>Filtrar el tablero con una vista din&aacute;mica establecida para el Vicepresidente de ventas.</option3text>
+    <option3textexplanation>No es correcto. Los tableros din&aacute;micos est&aacute;n limitados. Las opciones de Ver tablero como son: <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 20px;padding-left: 20px;font-size:20px;">
+        <li>Yo</li>
+        <li>Otra persona</li>
+        <li>Visor de tablero</li>
+      </ul>
+    </option3textexplanation>
+    <option4text>Establecer el usuario que ejecuta el tablero en &ldquo;el visor de tablero&rdquo;.</option4text>
+    <option4textexplanation>Correcto. Esto garantiza que el tablero muestra los datos pertinentes solo para el usuario que lo visualiza.</option4textexplanation>
+  </question4>
+  <question5>
+    <accessibility>Pregunta 5. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>Un usuario de ventas desea agregar componentes a su tablero.<br><br>¿Cu&aacute;l es el n&uacute;mero m&aacute;ximo de componentes que pueden agregarse a un &uacute;nico tablero?</question>
+    <option1text>3</option1text>
+    <option1textexplanation>No es correcto. Cada tablero puede tener hasta 20 componentes. Cada reporte puede tener un m&aacute;ximo de 3 filtros cruzados.</option1textexplanation>
+    <option2text>15</option2text>
+    <option2textexplanation>No es correcto. Cada tablero puede tener hasta 20 componentes.</option2textexplanation>
+    <option3text>20</option3text>
+    <option3textexplanation>Correcto. Cada tablero puede tener hasta 20 componentes.</option3textexplanation>
+    <option4text>50</option4text>
+    <option4textexplanation>No es correcto. Cada tablero puede tener hasta 20 componentes. Un filtro de tablero puede tener hasta 50 valores.</option4textexplanation>
+  </question5>
+  <question6>
+    <accessibility>Pregunta 6. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>¿Qu&eacute; debe hacer el administrador del sistema cuando los usuarios no pueden encontrar un tipo de reporte personalizado?</question>
+    <option1text>Asegurarse de que se implementa el nuevo tipo de reporte.</option1text>
+    <option1textexplanation>Correcto. Los usuarios no podr&aacute;n acceder a un tipo de reporte personalizado si no se implement&oacute; a&uacute;n.</option1textexplanation>
+    <option2text>Asegurarse de que el perfil de usuario incluye el tipo de reporte.</option2text>
+    <option2textexplanation>No es correcto. El acceso a los objetos est&aacute; controlado por perfiles no basados en el tipo de reporte.</option2textexplanation>
+    <option3text>Agregar el nuevo tipo de reporte a los objetos relacionados.</option3text>
+    <option3textexplanation>No es correcto. Los tipos de reportes se crean para el objeto sobre el que se crea el reporte.</option3textexplanation>
+    <option4text>Agregar un bot&oacute;n para el nuevo tipo de reporte al Generador de reportes.</option4text>
+    <option4textexplanation>No es correcto. Los tipos de reportes forman parte del Generador de reportes cuando se implementan.</option4textexplanation>
+  </question6>
+  <question7>
+    <accessibility>Pregunta 7. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>Ursa Major Solar utiliza un modelo de acceso a datos privado. Los gestores de productos y los representantes de ventas est&aacute;n en diferentes ramas de la jerarqu&iacute;a de funciones.<br><br>¿Qu&eacute; debe hacer un administrador para garantizar que los gestores de productos pueden crear reportes sobre las oportunidades en su l&iacute;nea de productos?</question>
+    <option1text>Cree una regla de colaboraci&oacute;n bas&aacute;ndose en criterios.</option1text>
+    <option1textexplanation>Correcto. Las reglas de colaboraci&oacute;n basadas en criterios determinan qu&eacute; registros compartir bas&aacute;ndose en valores de campo que no sean propiedad.</option1textexplanation>
+    <option2text>Guardar todos los reportes de oportunidades en una carpeta p&uacute;blica.</option2text>
+    <option2textexplanation>No es correcto. Guardar los reportes en una carpeta p&uacute;blica dar&aacute; acceso a todos.</option2textexplanation>
+    <option3text>Trasladar todos los gestores de productos a una nueva funci&oacute;n por debajo de los representantes de ventas.</option3text>
+    <option3textexplanation>No es correcto. Si los gestores de productos est&aacute;n en una funci&oacute;n por debajo de los representantes de ventas, no podr&aacute;n ver los reportes. Los gestores de productos tendr&iacute;an que estar en una funci&oacute;n por encima de los representantes de ventas seg&uacute;n la jerarqu&iacute;a de funciones.</option3textexplanation>
+    <option4text>Crear una nueva funci&oacute;n para gestores de productos y representantes de ventas.</option4text>
+    <option4textexplanation>No es correcto. La creaci&oacute;n de una nueva funci&oacute;n separar&iacute;a m&aacute;s la jerarqu&iacute;a de funciones. Los gestores de productos y los representantes de ventas no tendr&iacute;an que combinarse o sacarse de las ramas.</option4textexplanation>
+  </question7>
+</quizwithfeedback>

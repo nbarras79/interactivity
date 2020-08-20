@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Siguiente</nextbuttontext>
+  <submitbuttontext>Enviar</submitbuttontext>
+  <reviewbuttontext>Revisar</reviewbuttontext>
+  <retakequizbuttontext>Repetir</retakequizbuttontext>
+  <nextbuttontext>Intentarlo de nuevo</nextbuttontext>
+  <questioncounttext>Pregunta (0) de (1)</questioncounttext>
+  <answernothingselectedtext>Seleccione una respuesta.</answernothingselectedtext>
+  <twoanswerstoofewselected>Seleccione dos (2) respuestas.</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Seleccione solo dos (2) respuestas.</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Seleccione tres (3) respuestas.</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Seleccione solo tres (3) respuestas.</threeanswerstoomanyselected>
+  <numberofattempts>N&uacute;mero de intentos: </numberofattempts>
+  <question1>
+    <accessibility>Pregunta 1. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s). A continuaci&oacute;n se describen los controles para la comprobaci&oacute;n de conocimientos: Para seleccionar la primera opci&oacute;n, presione la tecla 1 en el teclado; para seleccionar la segunda
+      opci&oacute;n, presione la tecla 2, la tecla 3 para la tercera, la tecla 4 para la cuarta y la tecla 5 si hay una quinta. Para enviar la respuesta seleccionada, presione la tecla Entrar del teclado. Si no respondi&oacute; correctamente a la pregunta, presione May&uacute;s + Entrar para restablecer la selecci&oacute;n.</accessibility>
+    <question>El administrador de Ursa Major Solar cre&oacute; un proceso en Process Builder que env&iacute;a alertas por email cuando se crea un caso de alta prioridad. Un nuevo ingeniero de asistencia que teletrabaja se queja de que no recibe las alertas por email. El resto de los usuarios reciben estas alertas por email.<br><br>¿C&oacute;mo puede un administrador de Salesforce solucionar este problema?</question>
+    <option1text>Verificar la direcci&oacute;n de email del usuario.</option1text>
+    <option1textexplanation>Correcto. Aseg&uacute;rese de que la direcci&oacute;n de email del usuario est&aacute; en el registro de usuario de ese ingeniero de asistencia, por lo que recibir&aacute; las notificaciones.</option1textexplanation>
+    <option2text>Comprobar que el proceso est&aacute; activo.</option2text>
+    <option2textexplanation>No es correcto. Hay otros que reciben alertas por email, de modo que sabe que el proceso est&aacute; activo.</option2textexplanation>
+    <option3text>Comprobar que se est&aacute; utilizando la plantilla de email correcta.</option3text>
+    <option3textexplanation>No es correcto. Otros est&aacute;n recibiendo el email correcto procedente de alertas de email, de modo que sabe que se est&aacute; utilizando la plantilla de email correcta.</option3textexplanation>
+    <option4text>Comprobar que los criterios de evaluaci&oacute;n del proceso son correctos.</option4text>
+    <option4textexplanation>No es correcto. Otros est&aacute;n recibiendo el email, de modo que sabe que los criterios de evaluaci&oacute;n del proceso son correctos cuando se desencadena el proceso.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Pregunta 2. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>Ursa Major Solar cre&oacute; una acci&oacute;n que env&iacute;a un email de seguimiento al cliente dos d&iacute;as despu&eacute;s de cerrar un caso. El administrador desea verificar que el proceso funciona correctamente.<br><br>¿Qu&eacute; cola debe ver el administrador para monitorear las acciones pendientes?</question>
+    <option1text>Cola de entrega de mensajer&iacute;a saliente</option1text>
+    <option1textexplanation>No es correcto. La Cola de entrega de mensajer&iacute;a saliente muestra los mensajes que ya se enviaron y entregaron.</option1textexplanation>
+    <option2text>Cola de email masivo</option2text>
+    <option2textexplanation>No es correcto. La Cola de email masivo muestra &uacute;nicamente los emails masivos que se enviaron.</option2textexplanation>
+    <option3text>Entrevistas de flujo en pausa</option3text>
+    <option3textexplanation>Correcto. El administrador podr&aacute; monitorear acciones de proceso pendientes en esta cola.</option3textexplanation>
+    <option4text>Cola de trabajos en segundo plano</option4text>
+    <option4textexplanation>No es correcto. Las acciones basadas en tiempo no se muestran en la Cola de trabajos en segundo plano. Los trabajos en segundo plano, como cuando se ejecuta un rec&aacute;lculo de colaboraci&oacute;n en paralelo, se monitorean aqu&iacute;.</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>Pregunta 3. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>Ursa Major Solar tiene una regla de respuesta autom&aacute;tica para enviar emails cuando un cliente env&iacute;a un nuevo caso, y una regla de asignaci&oacute;n para determinar la propiedad del caso para nuevos casos. Adem&aacute;s, el objeto de casos tiene reglas de validaci&oacute;n para garantizar que cada caso incluye valores para todos los campos necesarios por su propietario para resolver el caso.<br><br>¿En qu&eacute; orden procesa Salesforce las acciones inmediatas asociadas con reglas de flujo de trabajo y automatizaciones de negocio relacionadas para un registro de nueva creaci&oacute;n?</question>
+    <option1text>Reglas de distribuci&oacute;n, reglas de validaci&oacute;n, reglas de flujo de trabajo, reglas de respuesta autom&aacute;tica, reglas de asignaci&oacute;n</option1text>
+    <option1textexplanation>No es correcto. Las reglas de validaci&oacute;n se eval&uacute;an antes de las reglas de distribuci&oacute;n y las reglas de respuesta autom&aacute;tica se eval&uacute;an antes de las reglas de flujo de trabajo.</option1textexplanation>
+    <option2text>Reglas de validaci&oacute;n, reglas de asignaci&oacute;n, reglas de respuesta autom&aacute;tica, reglas de flujo de trabajo, reglas de distribuci&oacute;n</option2text>
+    <option2textexplanation>Correcto. Este es el orden correcto de evaluaci&oacute;n.</option2textexplanation>
+    <option3text>Reglas de flujo de trabajo, reglas de validaci&oacute;n, reglas de asignaci&oacute;n, reglas de respuesta autom&aacute;tica</option3text>
+    <option3textexplanation>No es correcto. Las reglas de flujo de trabajo se eval&uacute;an despu&eacute;s de las reglas de validaci&oacute;n</option3textexplanation>
+    <option4text>Reglas de validaci&oacute;n, reglas de distribuci&oacute;n, reglas de asignaci&oacute;n, reglas de respuesta autom&aacute;tica, reglas de flujo de trabajo</option4text>
+    <option4textexplanation>No es correcto. Las reglas de flujo de trabajo se eval&uacute;an despu&eacute;s de las reglas de validaci&oacute;n</option4textexplanation>
+  </question3>
+  <question4>
+    <accessibility>Pregunta 4. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>Ursa Major Solar tiene un equipo de gerentes de cuenta que solicitaron recibir alertas por email cada ver que se creara una oportunidad o un caso sobre las cuentas que son de su propiedad.<br><br>¿Cu&aacute;l es el n&uacute;mero m&iacute;nimo de flujos de trabajo necesarios para realizar esta tarea?</question>
+    <option1text>Una regla de flujo de trabajo con dos alertas por email</option1text>
+    <option1textexplanation>No es correcto. Cada regla de flujo de trabajo se aplica a un &uacute;nico objeto. En esta soluci&oacute;n las alertas por email ser&iacute;a para el mismo objeto.</option1textexplanation>
+    <option2text>Dos reglas de flujo de trabajo con una alertas por email cada una</option2text>
+    <option2textexplanation>Correcto. Cada regla de flujo de trabajo se aplica a un &uacute;nico objeto. La oportunidad y/o el caso necesitan un flujo de trabajo separado para cada objeto.</option2textexplanation>
+    <option3text>Sin reglas de flujo de trabajo, pero dos alertas por email</option3text>
+    <option3textexplanation>No es correcto. Las alertas por email necesitan un flujo de trabajo para definir criterios para que se env&iacute;e el email</option3textexplanation>
+    <option4text>Cuatro reglas de flujo de trabajo para crear y actualizar en oportunidades y cuentas</option4text>
+    <option4textexplanation>No es correcto. Las oportunidades y los casos se crean en cuentas por parte de los usuarios. Las alertas por email est&aacute;n para comunicar a los gerentes de cuentas que hay un registro en sus cuentas.</option4textexplanation>
+  </question4>
+  <question5>
+    <accessibility>Pregunta 5. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 2 respuesta(s) correcta(s).</accessibility>
+    <question>Ursa Major Solar cre&oacute; un proceso de aprobaci&oacute;n automatizado para comunicarse r&aacute;pidamente y mejorar su servicio al cliente.<br><br>¿Cu&aacute;les son dos acciones de aprobaci&oacute;n finales en un proceso de aprobaci&oacute;n?</question>
+    <option1text>Crear una publicaci&oacute;n de Chatter.</option1text>
+    <option1textexplanation>No es correcto. Publicar en Chatter no es una acci&oacute;n de aprobaci&oacute;n final.</option1textexplanation>
+    <option2text>Agregar una alerta de email.</option2text>
+    <option2textexplanation>Correcto. Esta es la acci&oacute;n de aprobaci&oacute;n final.</option2textexplanation>
+    <option3text>Enviar un mensaje saliente.</option3text>
+    <option3textexplanation>Correcto. Enviar un mensaje saliente es una acci&oacute;n de aprobaci&oacute;n final en un proceso de aprobaci&oacute;n.</option3textexplanation>
+    <option4text>Llamar a Apex.</option4text>
+    <option4textexplanation>No es correcto. Esto no es una acci&oacute;n de aprobaci&oacute;n final en un proceso de aprobaci&oacute;n.</option4textexplanation>
+  </question5>
+</quizwithfeedback>

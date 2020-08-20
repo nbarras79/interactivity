@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Haga clic o presione la tecla de flecha izquierda del teclado para ir a la tarjeta mnemot&eacute;cnica anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Haga clic o presione la tecla de flecha derecha del teclado para ir a la tarjeta mnemot&eacute;cnica siguiente.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Tarjeta mnemot&eacute;cnica 1 A continuaci&oacute;n se describen los controles de las tarjetas mnemot&eacute;cnicas: Para ir a la tarjeta mnemot&eacute;cnica anterior, presione la tecla de flecha izquierda. Para ir a la tarjeta mnemot&eacute;cnica siguiente, presione la tecla de flecha derecha. Presione la tecla de flecha abajo para girar la tarjeta mnemot&eacute;cnica del anverso al reverso. Este conjunto incluye 9 tarjetas mnemot&eacute;cnicas.</accessibility>
+  <front>¿C&oacute;mo puede el administrador del sistema averiguar qui&eacute;n agreg&oacute; un campo al formato de p&aacute;gina de cuenta?</front>
+  <back>Debe utilizar el seguimiento de auditor&iacute;a de configuraci&oacute;n.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Tarjeta mnemot&eacute;cnica 2</accessibility>
+  <front>Ursa Major Solar utiliza un modelo de colaboraci&oacute;n privado para los casos. Cada l&iacute;nea de productos tiene varios especialistas de productos que necesitan tener visibilidad de todos los casos que afectan a sus l&iacute;neas de productos.<br><br>¿C&oacute;mo puede el administrador implementar este requisito?</front>
+  <back>Debe crear un equipo de casos predefinidos para cada grupo de especialistas de productos y asignar al equipo mediante las Reglas de asignaci&oacute;n de casos.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Tarjeta mnemot&eacute;cnica 3</accessibility>
+  <front>Ursa Major Solar utiliza un objeto personalizado en el equipo de desarrollo de productos. Los usuarios de desarrollo de productos, los ejecutivos y los administradores son los &uacute;nicos usuarios con acceso a los registros de este objeto. Los usuarios de desarrollo de productos necesitan acceso de lectura/escritura a todos los registros del objeto, mientras que los ejecutivos solo deben poder ver los registros.<br><br>¿C&oacute;mo puede el administrador configurar el modelo de seguridad para implementar este requisito?</front>
+  <back>Debe definir la configuraci&oacute;n predeterminada de toda la organizaci&oacute;n para el objeto personalizado como privada. Debe otorgar al perfil de desarrollo de productos los permisos de lectura, creaci&oacute;n y modificaci&oacute;n. Debe otorgar al perfil ejecutivo el permiso de solo lectura para el objeto.</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Tarjeta mnemot&eacute;cnica 4</accessibility>
+  <front>Ursa Major Solar cre&oacute; un nuevo objeto personalizado para realizar un seguimiento de los elementos del inventario. El equipo de asistencia no puede ver la ficha del objeto del inventario.<br><br>¿Qu&eacute; dos par&aacute;metros debe comprobar el administrador del sistema para buscar la causa del problema? (Seleccione dos respuestas.)</front>
+  <back>Perfiles del equipo de asistencia<br><br>Conjuntos de permisos del equipo de asistencia</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Tarjeta mnemot&eacute;cnica 5</accessibility>
+  <front>Ursa Major Solar tiene tres tipos de registros de cuenta: Prospecto, Cliente y Proveedor. El tipo de registro Cliente se utiliza solo para las cuentas que tienen oportunidades con el estado Cerrada ganada.<br><br>¿C&oacute;mo puede el administrador del sistema evitar que los usuarios seleccionen el tipo de registro de cliente al crear nuevos registros de cuenta?</front>
+  <back>Debe eliminar el tipo de registro de cliente como tipo de registro asignado en los conjuntos de permisos y perfiles de los usuarios.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Tarjeta mnemot&eacute;cnica 6</accessibility>
+  <front>El administrador del sistema no puede compartir una carpeta de reportes.<br><br>¿Cu&aacute;l puede ser un posible motivo?</front>
+  <back>La carpeta es privada.</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Tarjeta mnemot&eacute;cnica 7</accessibility>
+  <front>Reglas de colaboraci&oacute;n</front>
+  <back>Las reglas de colaboraci&oacute;n proporcionan a usuarios determinados mejor acceso al realizar excepciones autom&aacute;ticas en la configuraci&oacute;n de colaboraci&oacute;n de toda su organizaci&oacute;n. Utilice reglas de colaboraci&oacute;n para ampliar el acceso de colaboraci&oacute;n de los usuarios en grupos, funciones o territorios p&uacute;blicos.</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Tarjeta mnemot&eacute;cnica 8</accessibility>
+  <front>Jerarqu&iacute;a de funciones</front>
+  <back>Salesforce ofrece una jerarqu&iacute;a de funciones de usuario que puede utilizar junto con la configuraci&oacute;n de colaboraci&oacute;n para determinar los niveles de acceso de los usuarios a los datos de su organizaci&oacute;n de Salesforce. Las funciones en la jerarqu&iacute;a afectan al acceso en componentes clave como registros y reportes.</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>Tarjeta mnemot&eacute;cnica 9</accessibility>
+  <front>Valores predeterminados de colaboraci&oacute;n para toda la organizaci&oacute;n (OWD)</front>
+  <back>Definen el nivel de acceso predeterminado para los registros de un objeto mediante la configuraci&oacute;n de colaboraci&oacute;n de toda la organizaci&oacute;n. La configuraci&oacute;n de colaboraci&oacute;n de toda la organizaci&oacute;n se puede definir por separado para objetos personalizados y para numerosos objetos est&aacute;ndar, incluidos los activos, las campa&ntilde;as, los casos y las cuentas con sus contactos.</back>
+</flashcard9>
