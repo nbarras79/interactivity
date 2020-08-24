@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Siguiente</nextbuttontext>
+  <submitbuttontext>Enviar</submitbuttontext>
+  <reviewbuttontext>Revisar</reviewbuttontext>
+  <retakequizbuttontext>Repetir</retakequizbuttontext>
+  <nextbuttontext>Intentarlo de nuevo</nextbuttontext>
+  <questioncounttext>Pregunta {0} de {1}</questioncounttext>
+  <answernothingselectedtext>Seleccione una respuesta.</answernothingselectedtext>
+  <twoanswerstoofewselected>Seleccione dos (2) respuestas.</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Seleccione solo dos (2) respuestas.</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Seleccione tres (3) respuestas.</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Seleccione solo tres (3) respuestas.</threeanswerstoomanyselected>
+  <numberofattempts>N&uacute;mero de intentos: </numberofattempts>
+  <question1>
+    <accessibility>Pregunta 1. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 2 respuesta(s) correcta(s). A continuaci&oacute;n se describen los controles para la comprobaci&oacute;n de conocimientos: Para seleccionar la primera opci&oacute;n, presione la tecla 1 en el teclado; para seleccionar la segunda
+      opci&oacute;n, presione la tecla 2, la tecla 3 para la tercera, la tecla 4 para la cuarta y la tecla 5 si hay una quinta. Para enviar la respuesta seleccionada, presione la tecla Entrar del teclado. Si no respondi&oacute; correctamente a la pregunta, presione May&uacute;s + Entrar para restablecer la selecci&oacute;n.</accessibility>
+    <question>Con la creciente adopci&oacute;n de Salesforce en Ursa Major Solar, los representantes de ventas necesitan poder acceder a la aplicaci&oacute;n m&oacute;vil Salesforce durante sus desplazamientos. Sin embargo, a aplicaci&oacute;n m&oacute;vil Salesforce necesita personalizarse a sus necesidades.<br><br>¿Qu&eacute;
+      funciones se pueden personalizar en la aplicaci&oacute;n m&oacute;vil Salesforce? (Seleccione dos respuestas.)</question>
+    <option1text>Permisos de campo</option1text>
+    <option1textexplanation>No es correcto. La seguridad de campo no se puede personalizar en exclusiva para la aplicaci&oacute;n m&oacute;vil Salesforce. La aplicaci&oacute;n m&oacute;vil refleja los mismos permisos de campo que la versi&oacute;n de escritorio.</option1textexplanation>
+    <option2text>Contenido del men&uacute; de navegaci&oacute;n</option2text>
+    <option2textexplanation>Correcto. El men&uacute; de navegaci&oacute;n se puede personalizar para la aplicaci&oacute;n m&oacute;vil Salesforce.</option2textexplanation>
+    <option3text>Objetos personalizados</option3text>
+    <option3textexplanation>No es correcto. Los objetos personalizados no se pueden personalizar en exclusiva para la aplicaci&oacute;n m&oacute;vil Salesforce. Los objetos personalizados tienen el mismo acceso de lectura/escritura en la versi&oacute;n de escritorio que en la aplicaci&oacute;n m&oacute;vil.</option3textexplanation>
+    <option4text>Formato compacto de objeto</option4text>
+    <option4textexplanation>Correcto. El formato compacto de objeto se puede personalizar para la aplicaci&oacute;n m&oacute;vil Salesforce.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Pregunta 2. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>Ursa Major Solar utiliza Outlook para el env&iacute;o de sus emails. Como Ursa Major Solar inici&oacute; la implementaci&oacute;n de Salesforce, a los representantes de ventas les preocupa que Salesforce no se integre con Outlook y que se vean obligados a cambiar de proveedores de email (cosa que no
+      quieren hacer).<br><br>¿Qu&eacute; puede sincronizar el administrador del sistema entre Salesforce y Outlook con Lightning for Outlook?</question>
+    <option1text>Cuentas</option1text>
+    <option1textexplanation>No es correcto. Es posible acceder a la informaci&oacute;n de cuentas mediante Lightning for Outlook; sin embargo, la informaci&oacute;n de cuentas no se sincroniza (descarga) de Salesforce a Outlook.</option1textexplanation>
+    <option2text>Eventos</option2text>
+    <option2textexplanation>Correcto. Los eventos de Salesforce se pueden sincronizar entre Salesforce y Outlook.</option2textexplanation>
+    <option3text>Tareas</option3text>
+    <option3textexplanation>No es correcto. Las tareas no se sincronizan entre Salesforce y Outlook.</option3textexplanation>
+    <option4text>Notas</option4text>
+    <option4textexplanation>No es correcto. Las notas no se sincronizan entre Salesforce y Outlook.</option4textexplanation>
+  </question2>
+</quizwithfeedback>

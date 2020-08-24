@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Pr&oacute;ximo</nextbuttontext>
+  <submitbuttontext>Enviar</submitbuttontext>
+  <reviewbuttontext>Revis&atilde;o</reviewbuttontext>
+  <retakequizbuttontext>Repetir</retakequizbuttontext>
+  <nextbuttontext>Tentar novamente</nextbuttontext>
+  <questioncounttext>Pergunta {0} de {1}</questioncounttext>
+  <answernothingselectedtext>Selecione uma resposta.</answernothingselectedtext>
+  <twoanswerstoofewselected>Selecione duas (2) respostas</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Selecione somente duas (2) respostas</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Selecione tr&ecirc;s (3) respostas</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Selecione somente tr&ecirc;s (3) respostas</threeanswerstoomanyselected>
+  <numberofattempts>N&uacute;mero de tentativas: </numberofattempts>
+  <question1>
+    <accessibility>Pergunta n.º 1 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta. Os controles da verifica&ccedil;&atilde;o de conhecimento s&atilde;o os seguintes: Para selecionar a primeira op&ccedil;&atilde;o, pressione 1 no teclado; para selecionar a segunda
+      op&ccedil;&atilde;o, pressione 2; para a terceira, 3; a quarta, 4; e se houver uma quinta, 5. Para enviar sua escolha de resposta, selecione Enter no teclado. Se voc&ecirc; respondeu incorretamente &agrave; pergunta, pressione Shift+Enter para redefinir suas sele&ccedil;&otilde;es.</accessibility>
+    <question>O gerente de suporte ao cliente na Ursa Major Solar recebeu feedback dos clientes dizendo que eles n&atilde;o est&atilde;o sendo notificados quando os representantes de suporte da Ursa Major Solar adicionam coment&aacute;rios aos seus casos de suporte. O gerente de suporte ao cliente precisa
+      enviar emails automaticamente ao cliente quando sua equipe adicionar um coment&aacute;rio a um caso.<br><br>Como o administrador do sistema pode configurar a organiza&ccedil;&atilde;o Salesforce para que um email seja enviado automaticamente a um cliente quando o representante de suporte adicionar um coment&aacute;rio ao
+      caso?</question>
+    <option1text>Ativar notifica&ccedil;&otilde;es de coment&aacute;rio de caso para contatos.</option1text>
+    <option1textexplanation>Correto. Ativar o recurso de notifica&ccedil;&atilde;o de coment&aacute;rio de caso para contatos permite que um cliente seja notificado quando um coment&aacute;rio &eacute; adicionado ao caso de suporte.</option1textexplanation>
+    <option2text>Adicionar o coment&aacute;rio ao feed do Chatter do caso.</option2text>
+    <option2textexplanation>Incorreto. O cliente pode n&atilde;o ter acesso necessariamente ao feed do Chatter do caso.</option2textexplanation>
+    <option3text>Incluir o cliente na regra de atribui&ccedil;&atilde;o.</option3text>
+    <option3textexplanation>Incorreto. As regras de atribui&ccedil;&atilde;o definem condi&ccedil;&otilde;es para determinar como os leads ou casos s&atilde;o processados, n&atilde;o a configura&ccedil;&atilde;o de notifica&ccedil;&otilde;es.</option3textexplanation>
+    <option4text>Definir o cliente como o usu&aacute;rio de caso automatizado.</option4text>
+    <option4textexplanation>Incorreto. Um cliente n&atilde;o deve ser definido como o usu&aacute;rio de caso automatizado. O usu&aacute;rio do caso automatizado &eacute; o usu&aacute;rio que est&aacute; listado no hist&oacute;rico de casos para todas as a&ccedil;&otilde;es do caso automatizadas no Salesforce.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Pergunta n.º 2 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>A Ursa Major Solar oferece v&aacute;rios n&iacute;veis de suporte ao cliente. O VP de suporte quer uma forma automatizada de notificar a equipe de suporte quando um caso n&atilde;o resolvido est&aacute; aberto h&aacute; mais de 4 horas.<br><br>Qual recurso deve ser usado para alertar
+      gerentes de suporte quando um caso est&aacute; aberto h&aacute; mais de 4 horas?</question>
+    <option1text>Filas de casos</option1text>
+    <option1textexplanation>Incorreto: As filas de casos priorizam, distribuem e atribuem registros a equipes que compartilham cargas de trabalho. No entanto, apenas colocar um caso em uma fila n&atilde;o alerta um gerente de suporte que um caso est&aacute; em risco.</option1textexplanation>
+    <option2text>Regras de resposta autom&aacute;tica</option2text>
+    <option2textexplanation>Incorreto: As regras de resposta autom&aacute;tica enviam respostas de email autom&aacute;ticas a envios de lead ou envios de caso com base nos atributos do registro. Por exemplo, configure uma regra de resposta autom&aacute;tica para enviar respostas r&aacute;pidas aos clientes para que eles saibam
+      que algu&eacute;m da sua empresa recebeu a pergunta ou detalhes sobre seu problema.</option2textexplanation>
+    <option3text>Regras de escala&ccedil;&atilde;o</option3text>
+    <option3textexplanation>Correto: As regras de escala&ccedil;&atilde;o escalam automaticamente casos quando o caso atende aos crit&eacute;rios definidos na entrada da regra.</option3textexplanation>
+    <option4text>Regras de atribui&ccedil;&atilde;o de casos</option4text>
+    <option4textexplanation>Incorreto: As regras de atribui&ccedil;&atilde;o de casos definem condi&ccedil;&otilde;es que determinam como os leads ou casos s&atilde;o processados. No entanto, assim que uma correspond&ecirc;ncia &eacute; encontrada, o Salesforce processa o item e para de avaliar as entradas de regra para esse item.</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>Pergunta n.º 3 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (2) resposta correta.</accessibility>
+    <question>A Ursa Major Solar notou um aumento nos casos de suporte que poderiam ser resolvidos facilmente se os clientes tivessem acesso &agrave; documenta&ccedil;&atilde;o adequada. Ent&atilde;o, A Ursa Major Solar quer criar uma base de conhecimento em que os artigos podem ser classificados
+      em categorias.<br><br>Quais s&atilde;o as duas vantagens de usar as categorias de dados com o Salesforce Knowledge? (Escolha duas respostas.)</question>
+    <option1text>Os propriet&aacute;rios de artigos podem rastrear visualiza&ccedil;&otilde;es.</option1text>
+    <option1textexplanation>Incorreto. O uso de categorias de dados n&atilde;o afeta se os propriet&aacute;rios de artigos podem rastrear visualiza&ccedil;&otilde;es de artigos.</option1textexplanation>
+    <option2text>Os artigos podem ser classificados em grupos.</option2text>
+    <option2textexplanation>Correto. As categorias de dados com o Salesforce Knowledge permitem que os artigos sejam classificados em grupos, o que facilita a localiza&ccedil;&atilde;o dos artigos.</option2textexplanation>
+    <option3text>O acesso ao artigo pode ser controlado.</option3text>
+    <option3textexplanation>Correto. As categorias de dados com o Salesforce Knowledge permitem acesso controlado ao artigo. Por exemplo, os usu&aacute;rios dos EUA podem ser limitados a artigos de conhecimento espec&iacute;ficos dos produtos dos EUA, enquanto os usu&aacute;rios europeus t&ecirc;m acesso apenas aos
+      artigos de conhecimento relativos a produtos exclusivos para a Europa.</option3textexplanation>
+    <option4text>Os artigos podem ser consultados nas publica&ccedil;&otilde;es do Chatter.</option4text>
+    <option4textexplanation>Incorreto. As categorias de dados n&atilde;o afetam se os artigos podem ser publicados no Chatter.</option4textexplanation>
+  </question3>
+  <question4>
+    <accessibility>Pergunta n.º 4 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>A Ursa Major Solar est&aacute; procurando reduzir os custos de suporte permitindo que os clientes trabalhem em conjunto e possam responder a d&uacute;vidas e resolver problemas uns dos outros.<br><br>Qual recurso deve ser usado por um administrador do Salesforce para permitir que seus clientes
+      interajam uns com os outros e compartilhem as melhores pr&aacute;ticas?</question>
+    <option1text>Comunidades</option1text>
+    <option1textexplanation>Correto. As comunidades s&atilde;o uma &oacute;tima maneira de compartilhar informa&ccedil;&otilde;es e colaborar com pessoas que s&atilde;o essenciais para seus processos comerciais, como clientes, parceiros ou funcion&aacute;rios. Isso tamb&eacute;m inclui a colabora&ccedil;&atilde;o entre clientes.</option1textexplanation>
+    <option2text>Campanhas</option2text>
+    <option2textexplanation>Incorreto. Uma campanha &eacute; um projeto de marketing de sa&iacute;da que voc&ecirc; planeja, gerencia e rastreia no Salesforce.</option2textexplanation>
+    <option3text>Omni-Channel</option3text>
+    <option3textexplanation>Incorreto. As rotas do Omni-Channel s&atilde;o qualquer tipo de item de trabalho que chega para os agentes de suporte dispon&iacute;veis mais qualificados do seu centro de atendimento. N&atilde;o &eacute; uma ferramenta de colabora&ccedil;&atilde;o entre clientes.</option3textexplanation>
+    <option4text>Enviar emails em massa</option4text>
+    <option4textexplanation>Incorreto: Os emails em massa n&atilde;o permitem que os clientes interajam entre si para compartilhar as melhores pr&aacute;ticas.</option4textexplanation>
+  </question4>
+</quizwithfeedback>

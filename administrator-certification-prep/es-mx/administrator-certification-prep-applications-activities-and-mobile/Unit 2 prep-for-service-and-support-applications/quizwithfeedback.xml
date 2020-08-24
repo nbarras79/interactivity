@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Siguiente</nextbuttontext>
+  <submitbuttontext>Enviar</submitbuttontext>
+  <reviewbuttontext>Revisar</reviewbuttontext>
+  <retakequizbuttontext>Repetir</retakequizbuttontext>
+  <nextbuttontext>Intentarlo de nuevo</nextbuttontext>
+  <questioncounttext>Pregunta {0} de {1}</questioncounttext>
+  <answernothingselectedtext>Seleccione una respuesta.</answernothingselectedtext>
+  <twoanswerstoofewselected>Seleccione dos (2) respuestas.</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Seleccione solo dos (2) respuestas.</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Seleccione tres (3) respuestas.</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Seleccione solo tres (3) respuestas.</threeanswerstoomanyselected>
+  <numberofattempts>N&uacute;mero de intentos: </numberofattempts>
+  <question1>
+    <accessibility>Pregunta 1. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s). A continuaci&oacute;n se describen los controles para la comprobaci&oacute;n de conocimientos: Para seleccionar la primera opci&oacute;n, presione la tecla 1 en el teclado; para seleccionar la segunda
+      opci&oacute;n, presione la tecla 2, la tecla 3 para la tercera, la tecla 4 para la cuarta y la tecla 5 si hay una quinta. Para enviar la respuesta seleccionada, presione la tecla Entrar del teclado. Si no respondi&oacute; correctamente a la pregunta, presione May&uacute;s + Entrar para restablecer la selecci&oacute;n.</accessibility>
+    <question>El responsable de Atenci&oacute;n al Cliente de Ursa Major Solar recibi&oacute; comentarios de clientes que no est&aacute;n recibiendo notificaciones cuando los representantes de asistencia de Ursa Major Solar agregan comentarios a sus casos de asistencia. El responsable de Atenci&oacute;n al Cliente necesita que se
+      env&iacute;e autom&aacute;ticamente un email al cliente cuando el equipo agregue comentarios a los casos.<br><br>¿C&oacute;mo puede el administrador del sistema configurar la organizaci&oacute;n de Salesforce para que se env&iacute;e autom&aacute;ticamente un email al cliente cuando el representante de asistencia agregue comentarios al
+      caso?</question>
+    <option1text>Debe activar las notificaciones de comentarios de casos a los contactos.</option1text>
+    <option1textexplanation>Correcto. Al activar la funci&oacute;n de notificaciones de comentarios de casos, el cliente recibir&aacute; una notificaci&oacute;n cuando se agreguen comentarios a sus casos de asistencia.</option1textexplanation>
+    <option2text>Debe agregar el comentario a la noticia en tiempo real de Chatter.</option2text>
+    <option2textexplanation>No es correcto. El cliente puede no tener acceso a la noticia en tiempo real de Chatter.</option2textexplanation>
+    <option3text>Debe incluir al cliente en la regla de asignaci&oacute;n.</option3text>
+    <option3textexplanation>No es correcto. Las reglas de asignaci&oacute;n definen condiciones que determinan c&oacute;mo se procesan los prospectos o los casos, no la configuraci&oacute;n de las notificaciones.</option3textexplanation>
+    <option4text>Debe definir al cliente como usuario de caso automatizado.</option4text>
+    <option4textexplanation>No es correcto. Los clientes no se deben definir como usuarios de casos automatizados. Los usuarios de casos automatizados son los usuarios que aparecen en el historial de casos de todas las acciones de casos automatizados en Salesforce.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Pregunta 2. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>Ursa Major Solar proporciona varios niveles de asistencia al cliente. El vicepresidente de Asistencia desea un m&eacute;todo autom&aacute;tico para notificar al equipo de asistencia cuando un caso no resuelto haya permanecido abierto durante m&aacute;s de 4 horas.<br><br>¿Qu&eacute; funci&oacute;n debe utilizarse para alertar
+      a los responsables de asistencia cuando un caso haya permanecido abierto durante m&aacute;s de 4 horas?</question>
+    <option1text>Colas de casos</option1text>
+    <option1textexplanation>No es correcto. Las colas de casos establecen prioridades, distribuyen y asignan registros a los equipos que comparten cargas de trabajo. Sin embargo, poner un caso en cola no alerta a los responsables de asistencia de los casos en peligro.</option1textexplanation>
+    <option2text>Reglas de respuesta autom&aacute;tica</option2text>
+    <option2textexplanation>No es correcto. Las reglas de respuesta autom&aacute;tica env&iacute;an respuestas de email autom&aacute;ticas a los prospectos o hacen env&iacute;os de casos en funci&oacute;n de los atributos del registro. Por ejemplo, debe definir una regla de respuesta autom&aacute;tica para enviar respuestas r&aacute;pidas a clientes para informarles
+      de que alguien de su compa&ntilde;&iacute;a recibi&oacute; su consulta o de detalles acerca de su problema.</option2textexplanation>
+    <option3text>Reglas de distribuci&oacute;n</option3text>
+    <option3textexplanation>Correcto. Las reglas de distribuci&oacute;n distribuyen casos autom&aacute;ticamente cuando el caso cumple los criterios definidos en la entrada de regla.</option3textexplanation>
+    <option4text>Reglas de asignaci&oacute;n de casos</option4text>
+    <option4textexplanation>No es correcto. Las reglas de asignaci&oacute;n de casos definen condiciones que determinan c&oacute;mo se procesan los prospectos o los casos. Sin embargo, cuando se encuentra una coincidencia, Salesforce procesa el elemento y deja de evaluar las entradas de regla de dicho elemento.</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>Pregunta 3. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 2 respuesta(s) correcta(s).</accessibility>
+    <question>Ursa Major Solar se percat&oacute; de un aumento en los casos de asistencia que podr&iacute;an resolverse de manera sencilla si los clientes tuviesen acceso a la documentaci&oacute;n adecuada. Por lo tanto, Ursa Major Solar desea crear una base de conocimientos donde poder clasificar art&iacute;culos en
+      categor&iacute;as.<br><br>¿Cu&aacute;les son los dos beneficios que reporta utilizar categor&iacute;as de datos con Salesforce Knowledge? (Seleccione dos respuestas.)</question>
+    <option1text>Los propietarios de los art&iacute;culos pueden realizar un seguimiento de las visualizaciones.</option1text>
+    <option1textexplanation>No es correcto. La utilizaci&oacute;n de categor&iacute;as de datos no afecta a si los propietarios de los art&iacute;culos pueden realizar un seguimiento de las visualizaciones de los art&iacute;culos.</option1textexplanation>
+    <option2text>Los art&iacute;culos se pueden clasificar en grupos.</option2text>
+    <option2textexplanation>Correcto. Las categor&iacute;as de datos de Salesforce Knowledge permiten clasificar los art&iacute;culos en grupos, lo que facilita la b&uacute;squeda de art&iacute;culos.</option2textexplanation>
+    <option3text>Es posible controlar el acceso a los art&iacute;culos.</option3text>
+    <option3textexplanation>Correcto. Las categor&iacute;as de datos de Salesforce Knowledge permiten controlar el acceso a los art&iacute;culos. Por ejemplo, los usuarios de EE.&nbsp;UU. Pueden tener acceso limitado a art&iacute;culos de Knowledge espec&iacute;ficos de productos de EE.&nbsp;UU., mientras que los usuarios europeos pueden tener acceso solo a los art&iacute;culos
+      de Knowledge sobre productos exclusivos de Europa.</option3textexplanation>
+    <option4text>Es posible hacer referencia a los art&iacute;culos en publicaciones de Chatter.</option4text>
+    <option4textexplanation>No es correcto. Las categor&iacute;as de datos no afectan a la posibilidad de publicar los art&iacute;culos en Chatter.</option4textexplanation>
+  </question3>
+  <question4>
+    <accessibility>Pregunta 4. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>Ursa Major Solar busca reducir costos de asistencia. Para ello, quiere permitir a los clientes trabajar de manera conjunta para que se respondan preguntas unos a otros y, de este modo, resolver problemas.<br><br>¿Qu&eacute; funci&oacute;n debe utilizar el administrador de Salesforce para permitir a los clientes
+      interactuar entre s&iacute; mismos y compartir mejores pr&aacute;cticas?</question>
+    <option1text>Comunidades</option1text>
+    <option1textexplanation>Correcto. Las comunidades son una forma perfecta de compartir informaci&oacute;n y colaborar con personas clave para los procesos de negocio, como, por ejemplo, los clientes, los socios o los empleados. Esto tambi&eacute;n incluye la colaboraci&oacute;n entre clientes.</option1textexplanation>
+    <option2text>Campa&ntilde;as</option2text>
+    <option2textexplanation>No es correcto. Una campa&ntilde;a es un proyecto de marketing saliente que se planea, gestiona y se sigue en Salesforce.</option2textexplanation>
+    <option3text>OmniCanal</option3text>
+    <option3textexplanation>No es correcto. La funci&oacute;n OmniCanal env&iacute;a todos los tipos de elementos de trabajo a los agentes de asistencia disponibles mejor cualificados de su centro de llamadas. Por lo tanto, no se trata de una herramienta de colaboraci&oacute;n entre clientes.</option3textexplanation>
+    <option4text>Emails masivos</option4text>
+    <option4textexplanation>No es correcto. La funci&oacute;n de Emails masivos no permite a los clientes interactuar entre s&iacute; mismos para compartir mejores pr&aacute;cticas.</option4textexplanation>
+  </question4>
+</quizwithfeedback>

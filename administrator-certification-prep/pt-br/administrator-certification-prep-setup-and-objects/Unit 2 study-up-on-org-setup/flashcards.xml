@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Clique ou pressione a Seta para a esquerda no teclado para ir para o flashcard anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Clique ou pressione a Seta para a direita no teclado para ir para o pr&oacute;ximo flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. Os controles dos flashcards s&atilde;o os seguintes: Para ir para o flashcard anterior, pressione a tecla de seta para a esquerda. Para ir para o pr&oacute;ximo flashcard, pressione a tecla de seta para a direita. Para virar o flashcard de frente para tr&aacute;s e vice-versa, pressione a tecla de seta para baixo. H&aacute; 2 flashcards neste conjunto.</accessibility>
+  <front>Usu&aacute;rios do Salesforce na Ursa Major Solar se queixam de que a pesquisa global retorna muitos registros. Quais s&atilde;o as duas configura&ccedil;&otilde;es que um administrador deve realizar para ajudar os usu&aacute;rios a gerenciar resultados da pesquisa?</front>
+  <back>Especificar os campos de filtro de pesquisa para o layout de pesquisa do objeto.<br><br>Reduzir o n&uacute;mero de registros exibido para cada objeto na p&aacute;gina de resultados da pesquisa.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>Modo de exibi&ccedil;&atilde;o de lista</front>
+  <back>Uma lista de registros que atendem aos crit&eacute;rios especificados pelo filtro.</back>
+</flashcard2>

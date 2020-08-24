@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Pr&oacute;ximo</nextbuttontext>
+  <submitbuttontext>Enviar</submitbuttontext>
+  <reviewbuttontext>Revis&atilde;o</reviewbuttontext>
+  <retakequizbuttontext>Repetir</retakequizbuttontext>
+  <nextbuttontext>Tentar novamente</nextbuttontext>
+  <questioncounttext>Pergunta {0} de {1}</questioncounttext>
+  <answernothingselectedtext>Selecione uma resposta.</answernothingselectedtext>
+  <twoanswerstoofewselected>Selecione duas (2) respostas</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Selecione somente duas (2) respostas</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Selecione tr&ecirc;s (3) respostas</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Selecione somente tr&ecirc;s (3) respostas</threeanswerstoomanyselected>
+  <numberofattempts>N&uacute;mero de tentativas: </numberofattempts>
+  <question1>
+    <accessibility>Pergunta n.º 1 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta. Os controles da verifica&ccedil;&atilde;o de conhecimento s&atilde;o os seguintes: Para selecionar a primeira op&ccedil;&atilde;o, pressione 1 no teclado; para selecionar a segunda
+      op&ccedil;&atilde;o, pressione 2; para a terceira, 3; a quarta, 4; e se houver uma quinta, 5. Para enviar sua escolha de resposta, selecione Enter no teclado. Se voc&ecirc; respondeu incorretamente &agrave; pergunta, pressione Shift+Enter para redefinir suas sele&ccedil;&otilde;es.</accessibility>
+    <question>Um novo contratado na Ursa Major Solar juntou-se &agrave; equipe de atendimento ao cliente para interagir com os clientes e lidar com casos. Esse usu&aacute;rio precisa acessar o console de servi&ccedil;o para gerenciar os casos e as informa&ccedil;&otilde;es do cliente.<br><br>O que um
+      administrador deve fazer para atribuir uma licen&ccedil;a de usu&aacute;rio do Service Cloud a um novo usu&aacute;rio?</question>
+    <option1text>Ative Usu&aacute;rio do Service Cloud na p&aacute;gina de detalhes registro de usu&aacute;rio.</option1text>
+    <option1textexplanation>Correto. As licen&ccedil;as de recursos, como Usu&aacute;rio do Service Cloud ou Usu&aacute;rio do Marketing Cloud, podem ser encontradas na p&aacute;gina perfil de usu&aacute;rio. Essas licen&ccedil;as habilitam recursos al&eacute;m das licen&ccedil;as de usu&aacute;rio, como a licen&ccedil;a de usu&aacute;rio do Salesforce.</option1textexplanation>
+    <option2text>Clonar o console de exemplo e atribu&iacute;-lo ao usu&aacute;rio.</option2text>
+    <option2textexplanation>Incorreto. Com a atribui&ccedil;&atilde;o do console de exemplo ou do seu clone, um usu&aacute;rio n&atilde;o recebe a licen&ccedil;a de Usu&aacute;rio do Service Cloud. &Eacute; necess&aacute;rio ter a licen&ccedil;a do recurso Usu&aacute;rio do Service Cloud para acessar o console.</option2textexplanation>
+    <option3text>Criar uma nova atribui&ccedil;&atilde;o de licen&ccedil;a de conjunto de permiss&otilde;es.</option3text>
+    <option3textexplanation>Incorreto. Voc&ecirc; n&atilde;o conseguiria criar uma licen&ccedil;a de recurso por meio de um conjunto de permiss&otilde;es. Uma licen&ccedil;a de recurso &eacute; atribu&iacute;da &agrave; empresa com a compra de um produto, como a licen&ccedil;a de Usu&aacute;rio do Service Cloud para o produto Service Cloud.
+      Um conjunto de permiss&otilde;es &eacute; um conjunto de configura&ccedil;&otilde;es e permiss&otilde;es que d&atilde;o aos usu&aacute;rios acesso a v&aacute;rias ferramentas e fun&ccedil;&otilde;es.</option3textexplanation>
+    <option4text>Ativar o console de servi&ccedil;o nas configura&ccedil;&otilde;es de suporte.</option4text>
+    <option4textexplanation>Incorreto. O console de servi&ccedil;o j&aacute; deve estar ativado. Voc&ecirc; s&oacute; precisa garantir que o usu&aacute;rio tenha a licen&ccedil;a Usu&aacute;rio do Service Cloud para acess&aacute;-lo.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Pergunta n.º 2 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (2) resposta correta.</accessibility>
+    <question>A Ursa Major Solar &eacute; uma empresa de m&eacute;dio porte, fabricante de sistemas e componentes solares com sede no sudeste americano, que est&aacute; crescendo internacionalmente. Um administrador recebe detalhes de um novo contratado no escrit&oacute;rio de T&oacute;quio, que exige acesso &agrave;
+      organiza&ccedil;&atilde;o do Salesforce.<br><br>Quais s&atilde;o os dois requisitos que o administrador deve considerar ao criar um novo usu&aacute;rio em uma organiza&ccedil;&atilde;o do Salesforce da produ&ccedil;&atilde;o? (Escolha duas respostas.)</question>
+    <option1text>Os nomes de usu&aacute;rio devem ser exclusivos em todas as organiza&ccedil;&otilde;es do Salesforce da produ&ccedil;&atilde;o.</option1text>
+    <option1textexplanation>Correto. Todos os nomes de usu&aacute;rio devem ser exclusivos em todas as organiza&ccedil;&otilde;es da produ&ccedil;&atilde;o. Se uma empresa tem um dom&iacute;nio de email padr&atilde;o (que &eacute; usado como nome de usu&aacute;rio), um administrador precisa adicionar mais um identificador ao email para torn&aacute;-lo
+      exclusivo.</option1textexplanation>
+    <option2text>Os nomes de usu&aacute;rio devem ter o formato de um endere&ccedil;o de email.</option2text>
+    <option2textexplanation>Correto. Todos os nomes de usu&aacute;rio devem ter o formato de um endere&ccedil;o de email, mas n&atilde;o precisa ser um email de verdade.</option2textexplanation>
+    <option3text>Os nomes de usu&aacute;rio devem ser os mesmos do endere&ccedil;o de email do usu&aacute;rio.</option3text>
+    <option3textexplanation>Incorreto. Um nome de usu&aacute;rio pode ser diferente do endere&ccedil;o de email do usu&aacute;rio, mas o nome de usu&aacute;rio deve ter o formato de um email.</option3textexplanation>
+    <option4text>Os nomes de usu&aacute;rio devem incluir a dom&iacute;nio do email da empresa.</option4text>
+    <option4textexplanation>Incorreto. Os nomes de usu&aacute;rio podem incluir qualquer dom&iacute;nio de email, desde que seja no formato de um email.</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>Pergunta n.º 3 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>Um novo funcion&aacute;rio est&aacute; tentando fazer login no Salesforce mas est&aacute; tendo problemas e recebendo mensagens de erro de login. Ele pede ajuda ao administrador do Salesforce.<br><br>O que o administrador deve fazer primeiro para solucionar mensagens de
+      erro de login?</question>
+    <option1text>Verificar a lista relacionada de hist&oacute;rico de login do usu&aacute;rio no registro de usu&aacute;rio.</option1text>
+    <option1textexplanation>Correto. O administrador deve come&ccedil;ar verificando a lista relacionada de hist&oacute;rico de login para entender o que est&aacute; causando o problema de login.</option1textexplanation>
+    <option2text>Revisar as entradas na Trilha de auditoria de configura&ccedil;&atilde;o.</option2text>
+    <option2textexplanation>Incorreto. As entradas na Trilha de auditoria de configura&ccedil;&atilde;o rastreiam altera&ccedil;&otilde;es que um administrador fez no Salesforce, n&atilde;o em um usu&aacute;rio.</option2textexplanation>
+    <option3text>Fazer login como o usu&aacute;rio para visualizar a mensagem de erro.</option3text>
+    <option3textexplanation>Incorreto. Fazer login como o usu&aacute;rio n&atilde;o mostraria a mensagem de erro de login.</option3textexplanation>
+    <option4text>Pesquisar o registro de depura&ccedil;&atilde;o da mensagem de erro.</option4text>
+    <option4textexplanation>Incorreto. Um login de depura&ccedil;&atilde;o n&atilde;o capturaria o problema de login.</option4textexplanation>
+  </question3>
+  <question4>
+    <accessibility>Pergunta n.º 4 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>O administrador &eacute; notificado de que um dos funcion&aacute;rios da Ursa Major Solar vai se ausentar da empresa por algumas semanas. A Ursa Major Solar n&atilde;o quer que o funcion&aacute;rio fa&ccedil;a login no Salesforce durante a aus&ecirc;ncia.<br><br>O que o administrador deve fazer para
+      impedir temporariamente que um usu&aacute;rio fa&ccedil;a login no Salesforce?</question>
+    <option1text>Redefinir a senha do usu&aacute;rio.</option1text>
+    <option1textexplanation>Incorreto. Os usu&aacute;rios ainda podem fazer login ap&oacute;s eles mesmos redefinirem a senha.</option1textexplanation>
+    <option2text>Congelar a conta do usu&aacute;rio.</option2text>
+    <option2textexplanation>Correto. Voc&ecirc; deve congelar a conta do usu&aacute;rio. A licen&ccedil;a ainda est&aacute; em uso, mas o usu&aacute;rio n&atilde;o pode fazer login. Quando o funcion&aacute;rio retorna da licen&ccedil;a, voc&ecirc; pode simplesmente descongelar a conta.</option2textexplanation>
+    <option3text>Alterar as horas de login do usu&aacute;rio.</option3text>
+    <option3textexplanation>Incorreto. O usu&aacute;rio ainda pode fazer login durante as horas de login rec&eacute;m-criadas.</option3textexplanation>
+    <option4text>Excluir a conta do usu&aacute;rio.</option4text>
+    <option4textexplanation>Incorreto. Excluir a conta do usu&aacute;rio desativa a licen&ccedil;a. Isso significa que n&atilde;o &eacute; tempor&aacute;rio. Voc&ecirc; pode reativar uma conta que est&aacute; desativada, mas essa n&atilde;o &eacute; a resposta mais eficiente ao cen&aacute;rio.</option4textexplanation>
+  </question4>
+  <question5>
+    <accessibility>Pergunta n.º 5 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>O administrador &eacute; solicitado a desativar a conta de usu&aacute;rio do Salesforce do funcion&aacute;rio que deixou a empresa recentemente.<br><br>Quando uma conta de usu&aacute;rio &eacute; desativada, o que acontece com a licen&ccedil;a associada?</question>
+    <option1text>A licen&ccedil;a fica dispon&iacute;vel para reatribui&ccedil;&atilde;o.</option1text>
+    <option1textexplanation>Correto. Quando uma licen&ccedil;a de usu&aacute;rio &eacute; desativada, ela fica dispon&iacute;vel para ser reatribu&iacute;da a outro funcion&aacute;rio da empresa.</option1textexplanation>
+    <option2text>A licen&ccedil;a foi exclu&iacute;da.</option2text>
+    <option2textexplanation>Incorreto. A licen&ccedil;a de usu&aacute;rio fica dispon&iacute;vel para reatribui&ccedil;&atilde;o. N&atilde;o &eacute; exclu&iacute;da.</option2textexplanation>
+    <option3text>A licen&ccedil;a &eacute; removida das licen&ccedil;as cobr&aacute;veis para a organiza&ccedil;&atilde;o.</option3text>
+    <option3textexplanation>Incorreto. A empresa j&aacute; pagou essa licen&ccedil;a. Ela n&atilde;o &eacute; removida das licen&ccedil;as cobr&aacute;veis.</option3textexplanation>
+    <option4text>A licen&ccedil;a &eacute; atribu&iacute;da automaticamente a outro usu&aacute;rio.</option4text>
+    <option4textexplanation>Incorreto. A licen&ccedil;a n&atilde;o &eacute; atribu&iacute;da automaticamente a outro usu&aacute;rio. O administrador precisa reatribuir a licen&ccedil;a.</option4textexplanation>
+  </question5>
+</quizwithfeedback>

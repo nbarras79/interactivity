@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Clique ou pressione a Seta para a esquerda no teclado para ir para o flashcard anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Clique ou pressione a Seta para a direita no teclado para ir para o pr&oacute;ximo flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. Os controles dos flashcards s&atilde;o os seguintes: Para ir para o flashcard anterior, pressione a tecla de seta para a esquerda. Para ir para o pr&oacute;ximo flashcard, pressione a tecla de seta para a direita. Para virar o flashcard de frente para tr&aacute;s e vice-versa, pressione a tecla de seta para baixo. H&aacute; 9 flashcards neste conjunto.</accessibility>
+  <front>Como um administrador do sistema pode descobrir quem adicionou um campo ao layout de p&aacute;gina da conta?</front>
+  <back>Use a trilha de auditoria de configura&ccedil;&atilde;o.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>A Ursa Major Solar usa um modelo de compartilhamento privado para casos. Cada linha de produtos tem v&aacute;rios especialistas em produtos que desejam ter visibilidade para todos os casos envolvendo sua linha de produtos.<br><br>Como um administrador deve atender a esse requisito?</front>
+  <back>Criar uma equipe de caso predefinida para cada grupo de especialistas em produtos e atribuir a equipe usando regras de atribui&ccedil;&atilde;o de caso.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>A Ursa Major Solar usa um objeto personalizado na equipe de desenvolvimento de produtos. O desenvolvimento de produtos, executivos e administradores devem ser os &uacute;nicos usu&aacute;rios com acesso a registros deste objeto. O desenvolvimento de produtos precisa de acesso de leitura/grava&ccedil;&atilde;o para todos os registros dentro do objeto, enquanto os executivos devem poder visualizar apenas os registros.<br><br>Como o administrador pode configurar o modelo de seguran&ccedil;a para atender a esses requisitos?</front>
+  <back>Definir os padr&otilde;es de toda a organiza&ccedil;&atilde;o para o objeto personalizado como Particular. Fornecer as permiss&otilde;es de leitura, cria&ccedil;&atilde;o e edi&ccedil;&atilde;o do perfil de desenvolvimento de produto. Fornecer as permiss&otilde;es de somente leitura do perfil executivo para esse objeto.</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Flashcard 4</accessibility>
+  <front>A Ursa Major Solar criou um novo objeto personalizado para rastrear itens de invent&aacute;rio. A equipe de suporte n&atilde;o consegue ver a guia do objeto Invent&aacute;rio.<br><br>Quais s&atilde;o as duas configura&ccedil;&otilde;es que o administrador do sistema deve verificar para encontrar a causa do problema? (Escolha duas respostas.)</front>
+  <back>Perfis da equipe de suporte<br><br>Conjuntos de permiss&otilde;es da equipe de suporte</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Flashcard 5</accessibility>
+  <front>A Ursa Major Solar tem tr&ecirc;s tipos de registro de conta: Cliente potencial, Cliente e Fornecedor. O tipo de registro Cliente &eacute; apenas para contas que t&ecirc;m uma oportunidade Fechada ganha.<br><br>Como um administrador do sistema pode impedir que os usu&aacute;rios selecionem o tipo de registro Cliente quando criam novos registros de conta?</front>
+  <back>Remover o tipo de registro do cliente como um tipo de registro atribu&iacute;do nos perfis e conjuntos de permiss&otilde;es dos usu&aacute;rios.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Flashcard 6</accessibility>
+  <front>Um administrador do sistema n&atilde;o pode compartilhar uma pasta de relat&oacute;rio.<br><br>Qual seria o motivo poss&iacute;vel?</front>
+  <back>A pasta &eacute; privada.</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Flashcard 7</accessibility>
+  <front>Sharing Rules</front>
+  <back>As regras de compartilhamento d&atilde;o aos usu&aacute;rios escolhidos um acesso maior, fazendo exce&ccedil;&otilde;es autom&aacute;ticas &agrave;s configura&ccedil;&otilde;es de compartilhamento para toda a organiza&ccedil;&atilde;o. Use regras de compartilhamento para estender o acesso a usu&aacute;rios, em grupos p&uacute;blicos, pap&eacute;is ou territ&oacute;rios.</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Flashcard 8</accessibility>
+  <front>Hierarquia de pap&eacute;is</front>
+  <back>O Salesforce oferece uma hierarquia de pap&eacute;is de usu&aacute;rio que pode ser usada com as configura&ccedil;&otilde;es de compartilhamento para determinar os n&iacute;veis de acesso aos dados da sua organiza&ccedil;&atilde;o do Salesforce que os usu&aacute;rios t&ecirc;m. Os pap&eacute;is dentro da hierarquia afetam o acesso a componentes essenciais, como registros e relat&oacute;rios.</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>Flashcard 9</accessibility>
+  <front>Padr&atilde;o de compartilhamento para toda a organiza&ccedil;&atilde;o (OWD)</front>
+  <back>Define o n&iacute;vel de acesso padr&atilde;o para os registros de um objeto com configura&ccedil;&otilde;es de compartilhamento de toda a organiza&ccedil;&atilde;o. As configura&ccedil;&otilde;es de compartilhamento de toda a organiza&ccedil;&atilde;o podem ser definidas separadamente para objetos personalizados e muitos objetos padr&atilde;o, incluindo ativos, campanhas, casos e contas e seus contratos.</back>
+</flashcard9>

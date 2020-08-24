@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Siguiente</nextbuttontext>
+  <submitbuttontext>Enviar</submitbuttontext>
+  <reviewbuttontext>Revisar</reviewbuttontext>
+  <retakequizbuttontext>Repetir</retakequizbuttontext>
+  <nextbuttontext>Intentarlo de nuevo</nextbuttontext>
+  <questioncounttext>Pregunta {0} de {1}</questioncounttext>
+  <answernothingselectedtext>Seleccione una respuesta.</answernothingselectedtext>
+  <twoanswerstoofewselected>Seleccione dos (2) respuestas.</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Seleccione solo dos (2) respuestas.</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Seleccione tres (3) respuestas.</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Seleccione solo tres (3) respuestas.</threeanswerstoomanyselected>
+  <numberofattempts>N&uacute;mero de intentos: </numberofattempts>
+  <question1>
+    <accessibility>Pregunta 1. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s). A continuaci&oacute;n se describen los controles para la comprobaci&oacute;n de conocimientos: Para seleccionar la primera opci&oacute;n, presione la tecla 1 en el teclado; para seleccionar la segunda
+      opci&oacute;n, presione la tecla 2, la tecla 3 para la tercera, la tecla 4 para la cuarta y la tecla 5 si hay una quinta. Para enviar la respuesta seleccionada, presione la tecla Entrar del teclado. Si no respondi&oacute; correctamente a la pregunta, presione May&uacute;s + Entrar para restablecer la selecci&oacute;n.</accessibility>
+    <question>El equipo ejecutivo de Ursa Major Solar est&aacute; buscando maneras de incrementar la protecci&oacute;n de los datos de Salesforce de la organizaci&oacute;n frente a los accesos no autorizados. Se ha propuesto aprovechar los beneficios que ofrece la funci&oacute;n Intervalos de IP de confianza.<br><br>¿Cu&aacute;l de las siguientes afirmaciones es un beneficio
+      de especificar intervalos de IP de confianza en la secci&oacute;n de acceso a la red?</question>
+    <option1text>Los usuarios que inician sesi&oacute;n en la red no tienen que verificar la identidad.</option1text>
+    <option1textexplanation>Correcto. Los usuarios que inician sesi&oacute;n a trav&eacute;s de la red de la compa&ntilde;&iacute;a, que est&aacute; dentro del intervalo de IP de confianza, no tienen que verificar la identidad.</option1textexplanation>
+    <option2text>Todos los intentos de inicio de sesi&oacute;n que se realicen desde fuera de la red se denegar&aacute;n.</option2text>
+    <option2textexplanation>No es correcto. Los usuarios podr&aacute;n iniciar sesi&oacute;n desde direcciones que no pertenezcan al intervalo de IP de confianza a trav&eacute;s del proceso de activaci&oacute;n.</option2textexplanation>
+    <option3text>Los usuarios no pueden iniciar sesi&oacute;n a trav&eacute;s de la API en redes que no se marcaron como de confianza.</option3text>
+    <option3textexplanation>No es correcto. Los usuarios podr&aacute;n iniciar sesi&oacute;n desde direcciones que no pertenezcan al intervalo de IP de confianza a trav&eacute;s del proceso de activaci&oacute;n.</option3textexplanation>
+    <option4text>Los paquetes de AppExchange pueden comunicarse con sitios externos.</option4text>
+    <option4textexplanation>No es correcto. La funci&oacute;n de Intervalos de IP de confianza no afecta a los paquetes de AppExchange.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Pregunta 2. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>La pol&iacute;tica de contrase&ntilde;as de la organizaci&oacute;n de Ursa Major Solar muestra que las contrase&ntilde;as caducar&aacute;n dentro de 60 d&iacute;as. Sin embargo, los representantes de ventas se quejan de que sus contrase&ntilde;as caducan cada 30 d&iacute;as.<br><br>¿D&oacute;nde debe el administrador del sistema
+      cambiar el periodo de caducidad de las contrase&ntilde;as para los usuarios representantes de ventas?</question>
+    <option1text>Registros de usuario de individuales</option1text>
+    <option1textexplanation>No es correcto. No se puede acceder al vencimiento de las contrase&ntilde;as desde el registro de usuarios individuales.</option1textexplanation>
+    <option2text>Conjuntos de permisos asignados a los usuarios</option2text>
+    <option2textexplanation>No es correcto. Un conjunto de permisos es una recopilaci&oacute;n de configuraciones y permisos que ofrece a los usuarios acceso a varias herramientas y funciones. El vencimiento de las contrase&ntilde;as no es una de estas funciones.</option2textexplanation>
+    <option3text>Perfiles asignados a los usuarios</option3text>
+    <option3textexplanation>Correcto. Puesto que el problema afecta a usuarios con el mismo perfil, el vencimiento de contrase&ntilde;as debe ajustarse en el perfil que utilizan los representantes de ventas.</option3textexplanation>
+    <option4text>Funciones asignadas a los usuarios</option4text>
+    <option4textexplanation>No es correcto. Las funciones afectan al acceso a componentes claves, como, por ejemplo, registros y reportes, no a par&aacute;metros como el vencimiento de las contrase&ntilde;as.</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>Pregunta 3. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>El vicepresidente de Ventas Globales de Ursa Major Solar solicit&oacute; que el reporte sobre las comisiones de los representantes de ventas est&eacute; visible para el equipo ejecutivo.<br><br>¿C&oacute;mo puede el administrador del sistema hacer que el reporte de comisiones de los representantes de ventas
+      solo sea visible para el equipo ejecutivo?</question>
+    <option1text>Debe definir la configuraci&oacute;n de colaboraci&oacute;n predeterminada para toda la organizaci&oacute;n de las oportunidades como Privada.</option1text>
+    <option1textexplanation>No es correcto. Establecer el objeto de oportunidades como privado har&aacute; que todos los registros de oportunidades solo sean visibles para los propietarios de los registros y los usuarios que se encuentren por encima de ellos en la jerarqu&iacute;a de funciones. Esto tendr&iacute;a un efecto en la organizaci&oacute;n mayor que el necesario.</option1textexplanation>
+    <option2text>Debe guardar el reporte en una carpeta compartida con el equipo ejecutivo.</option2text>
+    <option2textexplanation>Correcto. El acceso al contenido de las carpetas se puede controlar seg&uacute;n las funciones, los permisos, los grupos p&uacute;blicos y los tipos de licencia.</option2textexplanation>
+    <option3text>Asignar al reporte el nombre &ldquo;Solo para el equipo ejecutivo: NO UTILIZAR&rdquo;.</option3text>
+    <option3textexplanation>No es correcto. Pese a que incluir la frase &ldquo;No utilizar&rdquo; en el nombre de la carpeta puede disuadir a algunos usuarios, esta no es una opci&oacute;n segura.</option3textexplanation>
+    <option4text>Guardar el reporte en la carpeta Mis reportes personales.</option4text>
+    <option4textexplanation>No es correcto. Como indica el nombre Mis reportes personales, esta carpeta de reportes solo es visible para usted. Por lo tanto, no cumple los criterios de visibilidad para el equipo ejecutivo.</option4textexplanation>
+  </question3>
+</quizwithfeedback>

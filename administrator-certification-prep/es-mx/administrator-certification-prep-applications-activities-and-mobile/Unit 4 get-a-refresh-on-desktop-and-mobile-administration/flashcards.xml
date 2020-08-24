@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Haga clic o presione la tecla de flecha izquierda del teclado para ir a la tarjeta mnemot&eacute;cnica anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Haga clic o presione la tecla de flecha derecha del teclado para ir a la tarjeta mnemot&eacute;cnica siguiente.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Tarjeta mnemot&eacute;cnica 1 A continuaci&oacute;n se describen los controles de las tarjetas mnemot&eacute;cnicas: Para ir a la tarjeta mnemot&eacute;cnica anterior, presione la tecla de flecha izquierda. Para ir a la tarjeta mnemot&eacute;cnica siguiente, presione la tecla de flecha derecha. Presione la tecla de flecha abajo para girar la tarjeta mnemot&eacute;cnica del anverso al reverso. Este conjunto incluye 3 tarjetas mnemot&eacute;cnicas.</accessibility>
+  <front>¿Qu&eacute; opci&oacute;n se puede agregar a los formatos de Publicador de Outlook?</front>
+  <back>Acciones r&aacute;pidas</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Tarjeta mnemot&eacute;cnica 2</accessibility>
+  <front>Lightning for Outlook</front>
+  <back>Lightning for Outlook puede vincular emails de Microsoft Outlook a contactos, prospectos, cuentas, oportunidades y casos de Salesforce. Tambi&eacute;n puede relacionar eventos a registros en Salesforce.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Tarjeta mnemot&eacute;cnica 3</accessibility>
+  <front>Aplicaci&oacute;n m&oacute;vil Salesforce</front>
+  <back>La aplicaci&oacute;n Salesforce proporciona acceso a la misma informaci&oacute;n que podr&aacute; ver en su equipo, aunque organizada de un modo que le permitir&aacute; realizar su trabajo cuando no est&eacute; en la oficina.</back>
+</flashcard3>

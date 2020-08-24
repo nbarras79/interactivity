@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Haga clic o presione la tecla de flecha izquierda del teclado para ir a la tarjeta mnemot&eacute;cnica anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Haga clic o presione la tecla de flecha derecha del teclado para ir a la tarjeta mnemot&eacute;cnica siguiente.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Tarjeta mnemot&eacute;cnica 1 A continuaci&oacute;n se describen los controles de las tarjetas mnemot&eacute;cnicas: Para ir a la tarjeta mnemot&eacute;cnica anterior, presione la tecla de flecha izquierda. Para ir a la tarjeta mnemot&eacute;cnica siguiente, presione la tecla de flecha derecha. Presione la tecla de flecha abajo para girar la tarjeta mnemot&eacute;cnica del anverso al reverso. Este conjunto incluye 3 tarjetas mnemot&eacute;cnicas.</accessibility>
+  <front>¿Como debe un usuario de Chatter enviar un mensaje a otro usuario de Chatter y que nadie m&aacute;s pueda ver dicho mensaje?</front>
+  <back>Debe publicar un mensaje privado para el destinatario.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Tarjeta mnemot&eacute;cnica 2</accessibility>
+  <front>Actividades</front>
+  <back>Las actividades son registros de las interacciones de su organizaci&oacute;n con registros, como, por ejemplo, las cuentas, los contactos y las oportunidades. Estas pueden ser tareas o eventos.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Tarjeta mnemot&eacute;cnica 3</accessibility>
+  <front>Funciones de los grupos de Chatter</front>
+  <back>Los usuarios de grupos de Chatter pueden:<br><br>
+    <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 20px;padding-left: 20px;font-size:20px;">
+      <li>Colaborar en grupos privados, p&uacute;blicos o sin registrar.</li>
+      <li>Utilizar anuncios para mensajes importantes.</li>
+      <li>Publicar actualizaciones, archivos y v&iacute;nculos.</li>
+      <li>Incluir a clientes en grupos privados.</li>
+    </ul>
+  </back>
+</flashcard3>

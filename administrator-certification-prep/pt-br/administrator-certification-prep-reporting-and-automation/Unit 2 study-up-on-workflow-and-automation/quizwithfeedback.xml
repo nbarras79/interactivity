@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Pr&oacute;ximo</nextbuttontext>
+  <submitbuttontext>Enviar</submitbuttontext>
+  <reviewbuttontext>Revis&atilde;o</reviewbuttontext>
+  <retakequizbuttontext>Repetir</retakequizbuttontext>
+  <nextbuttontext>Tentar novamente</nextbuttontext>
+  <questioncounttext>Pergunta (0) de (1)</questioncounttext>
+  <answernothingselectedtext>Selecione uma resposta.</answernothingselectedtext>
+  <twoanswerstoofewselected>Selecione duas (2) respostas</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Selecione somente duas (2) respostas</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Selecione tr&ecirc;s (3) respostas</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Selecione somente tr&ecirc;s (3) respostas</threeanswerstoomanyselected>
+  <numberofattempts>N&uacute;mero de tentativas: </numberofattempts>
+  <question1>
+    <accessibility>Pergunta n.º 1 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta. Os controles da verifica&ccedil;&atilde;o de conhecimento s&atilde;o os seguintes: Para selecionar a primeira op&ccedil;&atilde;o, pressione 1 no teclado; para selecionar a segunda
+      op&ccedil;&atilde;o, pressione 2; para a terceira, 3; a quarta, 4; e se houver uma quinta, 5. Para enviar sua escolha de resposta, selecione Enter no teclado. Se voc&ecirc; respondeu incorretamente &agrave; pergunta, pressione Shift+Enter para redefinir suas sele&ccedil;&otilde;es.</accessibility>
+    <question>O administrador da Ursa Major Solar criou um processo no Process Builder que envia alertas por email quando um caso de alta prioridade &eacute; criado. Um novo engenheiro de suporte que trabalha remotamente reclama de n&atilde;o receber os alertas por email. Todos
+      os outros usu&aacute;rios recebem esses alertas por email.<br><br>Como um administrador do Salesforce pode solucionar esse problema?</question>
+    <option1text>Verificar o endere&ccedil;o de email do usu&aacute;rio.</option1text>
+    <option1textexplanation>Correto. Verifique se o endere&ccedil;o de email do usu&aacute;rio est&aacute; no registro de usu&aacute;rio do engenheiro de suporte e, portanto, recebendo as notifica&ccedil;&otilde;es.</option1textexplanation>
+    <option2text>Verificar se o processo est&aacute; ativo.</option2text>
+    <option2textexplanation>Incorreto. Outras pessoas est&atilde;o recebendo os alertas por email, portanto, voc&ecirc; sabe que o processo est&aacute; ativo.</option2textexplanation>
+    <option3text>Verificar se o modelo de email correto est&aacute; sendo usado.</option3text>
+    <option3textexplanation>Incorreto. Outras pessoas est&atilde;o recebendo o email correto dos alertas por email, portanto, voc&ecirc; sabe que o modelo de email correto est&aacute; sendo usado.</option3textexplanation>
+    <option4text>Verificar se os crit&eacute;rios de avalia&ccedil;&atilde;o do processo est&atilde;o corretos.</option4text>
+    <option4textexplanation>Incorreto. Outras pessoas est&atilde;o recebendo o email e, portanto, voc&ecirc; sabe que os crit&eacute;rios de avalia&ccedil;&atilde;o do processo est&atilde;o corretos quando o processo est&aacute; sendo acionado.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Pergunta n.º 2 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>A Ursa Major Solar criou uma a&ccedil;&atilde;o que envia um email de acompanhamento para o cliente dois dias ap&oacute;s a fechamento de um caso. O administrador quer verificar se o processo funciona corretamente.<br><br>Qual fila deve ser vista pelo administrador para monitorar a&ccedil;&otilde;es pendentes?</question>
+    <option1text>Fila de entrega de mensagens de sa&iacute;da</option1text>
+    <option1textexplanation>Incorreto. A Fila de entrega de mensagens de sa&iacute;da mostra as mensagens que j&aacute; foram enviadas e entregues.</option1textexplanation>
+    <option2text>Fila de emails em massa</option2text>
+    <option2textexplanation>Incorreto. A Fila de emails em massa mostra apenas os emails em massa que s&atilde;o enviados.</option2textexplanation>
+    <option3text>Entrevistas de fluxo pausadas</option3text>
+    <option3textexplanation>Correto. O administrador poder&aacute; monitorar a&ccedil;&otilde;es de processo pendentes nessa fila.</option3textexplanation>
+    <option4text>Fila de trabalhos em segundo plano</option4text>
+    <option4textexplanation>Incorreto. As a&ccedil;&otilde;es baseadas em tempo n&atilde;o s&atilde;o exibidas na Fila de trabalhos em segundo plano. Os Trabalhos em segundo plano, como quando um rec&aacute;lculo de compartilhamento paralelo est&aacute; sendo executado, s&atilde;o monitorados aqui.</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>Pergunta n.º 3 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>A Ursa Major Solar tem uma regra de resposta autom&aacute;tica para enviar emails quando um cliente envia um novo caso e uma regra de atribui&ccedil;&atilde;o para determinar a propriedade do caso para novos casos. Al&eacute;m disso, o objeto Caso tem regras de valida&ccedil;&atilde;o para garantir que cada caso inclui
+      valores para todos os campos necess&aacute;rios para que o propriet&aacute;rio possa resolver o caso.<br><br>Em que ordem o Salesforce processa as a&ccedil;&otilde;es imediatas associadas &agrave;s regras de fluxo de trabalho e automa&ccedil;&otilde;es de neg&oacute;cios relacionadas para um registro rec&eacute;m-criado?</question>
+    <option1text>Regras de escala&ccedil;&atilde;o, regras de valida&ccedil;&atilde;o, regras de fluxo de trabalho, regras de resposta autom&aacute;tica, regras de atribui&ccedil;&atilde;o</option1text>
+    <option1textexplanation>Incorreto. As regras de valida&ccedil;&atilde;o s&atilde;o avaliadas antes das regras de escala&ccedil;&atilde;o e as regras de resposta autom&aacute;tica s&atilde;o avaliadas antes das regras de fluxo de trabalho.</option1textexplanation>
+    <option2text>Regras de valida&ccedil;&atilde;o, regras de atribui&ccedil;&atilde;o, regras de resposta autom&aacute;tica, regras de fluxo de trabalho, regras de escala&ccedil;&atilde;o</option2text>
+    <option2textexplanation>Correto. Essa &eacute; a ordem correta de avalia&ccedil;&atilde;o.</option2textexplanation>
+    <option3text>Regras de fluxo de trabalho, regras de valida&ccedil;&atilde;o, regras de atribui&ccedil;&atilde;o, regras de escala&ccedil;&atilde;o, regras de resposta autom&aacute;tica</option3text>
+    <option3textexplanation>Incorreto. As regras de fluxo de trabalho s&atilde;o avaliadas ap&oacute;s regras de valida&ccedil;&atilde;o.</option3textexplanation>
+    <option4text>Regras de valida&ccedil;&atilde;o, regras de escala&ccedil;&atilde;o, regras de atribui&ccedil;&atilde;o, regras de resposta autom&aacute;tica, regras de fluxo de trabalho</option4text>
+    <option4textexplanation>Incorreto. As regras de fluxo de trabalho s&atilde;o avaliadas ap&oacute;s regras de valida&ccedil;&atilde;o.</option4textexplanation>
+  </question3>
+  <question4>
+    <accessibility>Pergunta n.º 4 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>A Ursa Major Solar tem uma equipe de gerentes de conta que solicitou alertas por email sempre que uma oportunidade ou caso &eacute; criado nas contas que eles possuem.<br><br>Qual &eacute; o n&uacute;mero m&iacute;nimo de fluxos de trabalho necess&aacute;rios para realizar essa tarefa?</question>
+    <option1text>Uma regra de fluxo de trabalho com dois alertas por email</option1text>
+    <option1textexplanation>Incorreto. Cada regra de fluxo de trabalho se aplica a um &uacute;nico objeto. Nesta solu&ccedil;&atilde;o, os alertas por email seriam para o mesmo objeto.</option1textexplanation>
+    <option2text>Duas regras de fluxo de trabalho com um alerta por email cada</option2text>
+    <option2textexplanation>Correto. Cada regra de fluxo de trabalho se aplica a um &uacute;nico objeto. A oportunidade e/ou o caso precisariam de um fluxo de trabalho separado para cada objeto.</option2textexplanation>
+    <option3text>Sem regras de fluxo de trabalho, mas dois alertas por email</option3text>
+    <option3textexplanation>Incorreto. Os alertas por email precisam de um fluxo de trabalho para definir crit&eacute;rios para o envio do email.</option3textexplanation>
+    <option4text>Quatro regras de fluxo de trabalho para criar e atualizar em oportunidades e contas</option4text>
+    <option4textexplanation>Incorreto. As oportunidades e os casos s&atilde;o criados pelos usu&aacute;rios nas contas. Os alertas por email servem para comunicar aos gerentes de conta que h&aacute; um registro na conta deles.</option4textexplanation>
+  </question4>
+  <question5>
+    <accessibility>Pergunta n.º 5 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (2) resposta correta.</accessibility>
+    <question>A Ursa Major Solar criou um processo de aprova&ccedil;&atilde;o automatizado para se comunicar rapidamente e melhorar o atendimento ao cliente.<br><br>Quais s&atilde;o as duas a&ccedil;&otilde;es finais de aprova&ccedil;&atilde;o em um processo de aprova&ccedil;&atilde;o?</question>
+    <option1text>Criar uma publica&ccedil;&atilde;o do Chatter.</option1text>
+    <option1textexplanation>Incorreto. A publica&ccedil;&atilde;o no Chatter n&atilde;o &eacute; uma a&ccedil;&atilde;o final de aprova&ccedil;&atilde;o.</option1textexplanation>
+    <option2text>Adicionar um alerta por email.</option2text>
+    <option2textexplanation>Correto. Esta &eacute; uma a&ccedil;&atilde;o final de aprova&ccedil;&atilde;o.</option2textexplanation>
+    <option3text>Enviar uma mensagem de sa&iacute;da.</option3text>
+    <option3textexplanation>Correto. Enviar uma mensagem de sa&iacute;da &eacute; uma a&ccedil;&atilde;o final de aprova&ccedil;&atilde;o em um processo de aprova&ccedil;&atilde;o.</option3textexplanation>
+    <option4text>Chamar o Apex.</option4text>
+    <option4textexplanation>Incorreto. Essa n&atilde;o &eacute; uma a&ccedil;&atilde;o final de aprova&ccedil;&atilde;o em um processo de aprova&ccedil;&atilde;o.</option4textexplanation>
+  </question5>
+</quizwithfeedback>

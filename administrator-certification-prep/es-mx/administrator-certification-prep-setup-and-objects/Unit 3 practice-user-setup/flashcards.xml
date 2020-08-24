@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Haga clic o presione la tecla de flecha izquierda del teclado para ir a la tarjeta mnemot&eacute;cnica anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Haga clic o presione la tecla de flecha derecha del teclado para ir a la tarjeta mnemot&eacute;cnica siguiente.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Tarjeta mnemot&eacute;cnica 1 A continuaci&oacute;n se describen los controles de las tarjetas mnemot&eacute;cnicas: Para ir a la tarjeta mnemot&eacute;cnica anterior, presione la tecla de flecha izquierda. Para ir a la tarjeta mnemot&eacute;cnica siguiente, presione la tecla de flecha derecha. Presione la tecla de flecha abajo para girar la tarjeta mnemot&eacute;cnica del anverso al reverso. Este conjunto incluye 4 tarjetas mnemot&eacute;cnicas.</accessibility>
+  <front>¿Por qu&eacute; dos motivos no es posible desactivar a un usuario?</front>
+  <back>El usuario es el destinatario de las alertas de email de flujo de trabajo.<br><br>El usuario es un administrador de la comunidad de usuarios.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Tarjeta mnemot&eacute;cnica 2</accessibility>
+  <front>Licencia de usuario</front>
+  <back>Una licencia de usuario determina el conjunto de funciones a las que puede acceder el usuario. Cada usuario debe tener exactamente una licencia de usuario. Los permisos de usuario para el acceso a datos se asignan a trav&eacute;s de un perfil y opcionalmente por medio de uno o m&aacute;s conjuntos de permisos.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Tarjeta mnemot&eacute;cnica 3</accessibility>
+  <front>Conjunto de permisos</front>
+  <back>Un conjunto de permisos es una recopilaci&oacute;n de configuraciones y permisos que ofrece a los usuarios acceso a varias herramientas y funciones. Las configuraciones y permisos de los conjuntos de permisos se encuentran tambi&eacute;n en los perfiles, pero los conjuntos de permisos ampl&iacute;an el acceso funcional de los usuarios sin cambiar sus perfiles.</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Tarjeta mnemot&eacute;cnica 4</accessibility>
+  <front>Perfil</front>
+  <back>Los perfiles definen c&oacute;mo acceden los usuarios a objetos y datos y qu&eacute; pueden hacer en la aplicaci&oacute;n. Cuando cree usuarios, asigne un perfil a cada uno.</back>
+</flashcard4>

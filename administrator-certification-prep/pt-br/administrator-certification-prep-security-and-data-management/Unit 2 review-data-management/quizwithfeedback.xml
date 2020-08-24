@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Pr&oacute;ximo</nextbuttontext>
+  <submitbuttontext>Enviar</submitbuttontext>
+  <reviewbuttontext>Revis&atilde;o</reviewbuttontext>
+  <retakequizbuttontext>Repetir</retakequizbuttontext>
+  <nextbuttontext>Tentar novamente</nextbuttontext>
+  <questioncounttext>Pergunta {0} de {1}</questioncounttext>
+  <answernothingselectedtext>Selecione uma resposta.</answernothingselectedtext>
+  <twoanswerstoofewselected>Selecione duas (2) respostas</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Selecione somente duas (2) respostas</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Selecione tr&ecirc;s (3) respostas</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Selecione somente tr&ecirc;s (3) respostas</threeanswerstoomanyselected>
+  <numberofattempts>N&uacute;mero de tentativas: </numberofattempts>
+  <question1>
+    <accessibility>Pergunta n.º 1 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta. Os controles da verifica&ccedil;&atilde;o de conhecimento s&atilde;o os seguintes: Para selecionar a primeira op&ccedil;&atilde;o, pressione 1 no teclado; para selecionar a segunda
+      op&ccedil;&atilde;o, pressione 2; para a terceira, 3; a quarta, 4; e se houver uma quinta, 5. Para enviar sua escolha de resposta, selecione Enter no teclado. Se voc&ecirc; respondeu incorretamente &agrave; pergunta, pressione Shift+Enter para redefinir suas sele&ccedil;&otilde;es.</accessibility>
+    <question>A Ursa Major Solar importa regularmente contas de um sistema de pedidos externos que tem seu pr&oacute;prio campo de ID para cada registro.<br><br>O que o administrador do sistema deve fazer para evitar dados duplicados durante essas importa&ccedil;&otilde;es?</question>
+    <option1text>Importar os dados usando o Data Loader.</option1text>
+    <option1textexplanation>Incorreto. Apenas usar o Data Loader para importar dados n&atilde;o impede dados duplicados.</option1textexplanation>
+    <option2text>Usar o ID do sistema de pedidos em vez de o ID do Salesforce.</option2text>
+    <option2textexplanation>Incorreto. Cada registro em uma organiza&ccedil;&atilde;o do Salesforce requer um ID do Salesforce exclusivo. N&atilde;o &eacute; poss&iacute;vel usar um ID externo no lugar do ID do Salesforce.</option2textexplanation>
+    <option3text>Criar um campo de ID externo exclusivo em contas no Salesforce para correspond&ecirc;ncia.</option3text>
+    <option3textexplanation>Correto: A cria&ccedil;&atilde;o de um campo de ID externo exclusivo nas contas n&atilde;o garantiria a n&atilde;o duplica&ccedil;&atilde;o dos dados de um sistema de pedidos externos.</option3textexplanation>
+    <option4text>Criar um campo de f&oacute;rmula que identifique correspond&ecirc;ncias.</option4text>
+    <option4textexplanation>Incorreto. Um campo de f&oacute;rmula s&oacute; funciona em dados j&aacute; importados para a organiza&ccedil;&atilde;o. Como o objetivo &eacute; evitar a duplica&ccedil;&atilde;o de dados antes da importa&ccedil;&atilde;o, o campo de f&oacute;rmula n&atilde;o &eacute; uma solu&ccedil;&atilde;o precisa.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Pergunta n.º 2 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (2) resposta correta.</accessibility>
+    <question>A equipe de opera&ccedil;&otilde;es de vendas na Ursa Major Solar precisa importar e exportar contas, contatos, oportunidades e pedidos.<br><br>Quais permiss&otilde;es de perfil a equipe de opera&ccedil;&atilde;o de vendas precisa para poder realizar essa tarefa? (Escolha duas
+      respostas.)</question>
+    <option1text>API ativada</option1text>
+    <option1textexplanation>Correto. Para usar o Data Loader para importar e exportar contas, contatos, oportunidades e pedidos, as permiss&otilde;es de perfil precisam da API habilitada.</option1textexplanation>
+    <option2text>Modificar tudo para esses objetos</option2text>
+    <option2textexplanation>Correto. A configura&ccedil;&atilde;o Modificar tudo em contas, contatos, oportunidades e objetos de pedidos significa que os usu&aacute;rios com essa permiss&atilde;o podem visualizar, editar e excluir todos os registros, independentemente do compartilhamento. Isso atende &agrave; necessidade de importa&ccedil;&atilde;o e
+      exporta&ccedil;&atilde;o apenas dos objetos declarados.</option2textexplanation>
+    <option3text>Exibir todos os dados</option3text>
+    <option3textexplanation>Incorreto: Exibir todos os dados daria acesso a mais objetos do que apenas contas, contatos, oportunidades e pedidos.</option3textexplanation>
+    <option4text>Exporta&ccedil;&atilde;o de dados semanal</option4text>
+    <option4textexplanation>Incorreto: O exporta&ccedil;&atilde;o de dados semanal gera arquivos de backup dos dados em uma base semanal, dependendo da edi&ccedil;&atilde;o. Isso n&atilde;o atende &agrave; necessidade declarada da equipe de opera&ccedil;&otilde;es de vendas.</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>Pergunta n.º 3 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (1) resposta correta.</accessibility>
+    <question>A diretora de opera&ccedil;&otilde;es da Ursa Major Solar notou que, quando representantes de vendas movem oportunidades para a fase fechada, eles nem sempre preenchem a data de instala&ccedil;&atilde;o do produto. Quando a data n&atilde;o &eacute; registrada, a equipe de opera&ccedil;&otilde;es precisa
+      entrar em contato com o representante de vendas para confirmar a data de instala&ccedil;&atilde;o. A diretora de opera&ccedil;&otilde;es solicitou que representantes de vendas n&atilde;o pudessem fechar uma oportunidade sem primeiro registrar a data de instala&ccedil;&atilde;o do produto.<br><br>Qual recurso permite que a Ursa
+      Major Solar exija um valor na data de instala&ccedil;&atilde;o do produto, um campo de data personalizado, quando a fase de oportunidade muda para fechada?</question>
+    <option1text>Regra de valida&ccedil;&atilde;o</option1text>
+    <option1textexplanation>Correto: As regras de valida&ccedil;&atilde;o podem ser usadas para tornar campos obrigat&oacute;rios de forma condicional com base na fase de oportunidade.</option1textexplanation>
+    <option2text>Lista de op&ccedil;&otilde;es dependente</option2text>
+    <option2textexplanation>Incorreto: Uma lista de op&ccedil;&otilde;es dependente &eacute; uma lista de op&ccedil;&otilde;es de sele&ccedil;&atilde;o m&uacute;ltipla ou personalizada nas quais os valores v&aacute;lidos dependem do valor de outro campo, chamado de campo de controle. Uma lista de op&ccedil;&otilde;es dependente n&atilde;o &eacute; inerentemente obrigat&oacute;ria,
+      portanto n&atilde;o atenderia aos requisitos da situa&ccedil;&atilde;o.</option2textexplanation>
+    <option3text>Layout de p&aacute;gina</option3text>
+    <option3textexplanation>Incorreto: Embora os layouts de p&aacute;gina possam determinar quais campos s&atilde;o obrigat&oacute;rios, eles n&atilde;o podem ser configurados para serem condicionais com base na fase.</option3textexplanation>
+    <option4text>Tipo de registro</option4text>
+    <option4textexplanation>Incorreto: Um tipo de registro permite que os usu&aacute;rios selecionem diferentes layouts de p&aacute;gina e valores da lista para diferentes cen&aacute;rios de neg&oacute;cios, com base em seus perfis. O tipo de registro n&atilde;o pode ser usado para exigir que um campo de data seja inserido quando
+      a fase est&aacute; definida como fechada.</option4textexplanation>
+  </question3>
+  <question4>
+    <accessibility>Pergunta n.º 4 Essa pergunta tem quatro (4) respostas poss&iacute;veis para escolher. A pergunta tem uma (2) resposta correta.</accessibility>
+    <question>O VP de marketing da Ursa Major Solar carregou leads para a organiza&ccedil;&atilde;o e agora percebe que eles precisam ser exclu&iacute;dos. O VP pediu ao administrador do sistema para exclu&iacute;-los.<br><br>Quais melhores pr&aacute;ticas s&atilde;o recomendadas antes da exclus&atilde;o em massa dos
+      registros? (Escolha duas respostas.)</question>
+    <option1text>Baixar uma Trilha de auditoria de configura&ccedil;&atilde;o dos &uacute;ltimos seis meses antes da exclus&atilde;o</option1text>
+    <option1textexplanation>Incorreto: A Trilha de auditoria de configura&ccedil;&atilde;o &eacute; um hist&oacute;rico das 20 altera&ccedil;&otilde;es de configura&ccedil;&atilde;o mais recentes feitas para a organiza&ccedil;&atilde;o. N&atilde;o &eacute; um backup de dados.</option1textexplanation>
+    <option2text>Agendar uma exporta&ccedil;&atilde;o de dados semanal e baixar os arquivos zip de backup.</option2text>
+    <option2textexplanation>Correto. Agendar uma exporta&ccedil;&atilde;o de dados semanal e baixar o arquivo zip de backup &eacute; uma pr&aacute;tica recomendada. Isso &eacute; recomendado apenas no caso de o administrador do sistema excluir acidentalmente leads al&eacute;m do esperado.</option2textexplanation>
+    <option3text>Criar um novo modo de exibi&ccedil;&atilde;o de lista para todos os registros que precisam ser exclu&iacute;dos.</option3text>
+    <option3textexplanation>Incorreto. Um novo modo de exibi&ccedil;&atilde;o de lista cria apenas um novo modo de exibi&ccedil;&atilde;o dos registros, n&atilde;o uma pr&aacute;tica recomendada de gerenciamento de dados.</option3textexplanation>
+    <option4text>Executar e exportar um relat&oacute;rio para arquivar dados antes da exclus&atilde;o.</option4text>
+    <option4textexplanation>Correto: Executar e exportar um relat&oacute;rio para arquivar dados antes da exclus&atilde;o &eacute; uma pr&aacute;tica recomendada. Isso &eacute; recomendado apenas no caso de o administrador do sistema excluir acidentalmente leads al&eacute;m do esperado.</option4textexplanation>
+  </question4>
+</quizwithfeedback>

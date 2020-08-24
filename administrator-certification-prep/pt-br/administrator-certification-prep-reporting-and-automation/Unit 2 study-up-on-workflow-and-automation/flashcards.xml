@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Clique ou pressione a Seta para a esquerda no teclado para ir para o flashcard anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Clique ou pressione a Seta para a direita no teclado para ir para o pr&oacute;ximo flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. Os controles dos flashcards s&atilde;o os seguintes: Para ir para o flashcard anterior, pressione a tecla de seta para a esquerda. Para ir para o pr&oacute;ximo flashcard, pressione a tecla de seta para a direita. Para virar o flashcard de frente para tr&aacute;s e vice-versa, pressione a tecla de seta para baixo. H&aacute; 9 flashcards neste conjunto.</accessibility>
+  <front>A Ursa Major Solar quer atribuir uma tarefa automaticamente aos gerentes de conta quando o acordo de um cliente est&aacute; prestes a expirar.<br><br>Como o administrador deve configurar essa funcionalidade?</front>
+  <back>Criar um fluxo de trabalho baseado em tempo na conta com crit&eacute;rios de uma regra de Data de t&eacute;rmino do contrato &gt; TODAY().</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>Um administrador criou uma regra de fluxo de trabalho que envia alertas por email quando um caso com alta prioridade &eacute; criado. Um novo engenheiro de suporte que trabalha remotamente na Ursa Major Solar reclama de n&atilde;o receber os alertas por email. Todos os outros usu&aacute;rios na Ursa Major Solar recebem esses alertas por email.<br><br>Como o administrador pode superar esse problema?</front>
+  <back>Verificar o endere&ccedil;o de email do usu&aacute;rio.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>A Ursa Major Solar deseja criar uma regra de fluxo de trabalho para enviar um alerta por email aos membros de seu conselho de administra&ccedil;&atilde;o. Nenhum deles usa o Salesforce.<br><br>Quantos membros da diretoria podem ser adicionados a um alerta por email &uacute;nico?</front>
+  <back>At&eacute; cinco endere&ccedil;os de email adicionais podem ser adicionados ao alerta por email.</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Flashcard 4</accessibility>
+  <front>Fluxo</front>
+  <back>O Flow &eacute; um aplicativo que pode executar a l&oacute;gica, interagir com o banco de dados do Salesforce, ligar para as classes do Apex e coletar dados dos usu&aacute;rios.</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Flashcard 5</accessibility>
+  <front>A&ccedil;&atilde;o r&aacute;pida</front>
+  <back>As a&ccedil;&otilde;es r&aacute;pidas podem ser a&ccedil;&otilde;es globais ou espec&iacute;ficas do objeto. Somente as a&ccedil;&otilde;es Criar, Atualizar e Registrar uma chamada t&ecirc;m suporte. Voc&ecirc; tamb&eacute;m pode usar a&ccedil;&otilde;es em um processo e s&oacute; pode definir valores para campos que fazem parte do layout da a&ccedil;&atilde;o.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Flashcard 6</accessibility>
+  <front>Acionador do processo</front>
+  <back>Cada processo inclui um acionador que informa o processo quando come&ccedil;ar. A forma como voc&ecirc; configura esse acionador depende do tipo de processo que voc&ecirc; est&aacute; criando: altera&ccedil;&atilde;o do registro, evento, invoc&aacute;vel.</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Flashcard 7</accessibility>
+  <front>Processo de aprova&ccedil;&atilde;o</front>
+  <back>Um processo de aprova&ccedil;&atilde;o automatiza a forma como os registros s&atilde;o aprovados no Salesforce. Um processo de aprova&ccedil;&atilde;o especifica cada etapa da aprova&ccedil;&atilde;o, inclusive de quem solicita aprova&ccedil;&atilde;o e o que fazer em cada ponto do processo.</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Flashcard 8</accessibility>
+  <front>Excluir um processo de aprova&ccedil;&atilde;o</front>
+  <back>Antes de excluir um processo de aprova&ccedil;&atilde;o, verifique se ele est&aacute; inativo. Exclua as solicita&ccedil;&otilde;es de aprova&ccedil;&atilde;o pendentes associadas a ele e remova-as da lixeira.</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>Flashcard 9</accessibility>
+  <front>Ativar um processo de aprova&ccedil;&atilde;o</front>
+  <back>Uma processo de aprova&ccedil;&atilde;o deve ter pelo menos uma etapa antes da ativa&ccedil;&atilde;o. Depois que um processo de aprova&ccedil;&atilde;o &eacute; ativado, voc&ecirc; n&atilde;o pode adicionar, excluir ou mudar a ordem das etapas ou alterar seu comportamento de rejeitar ou ignorar, mesmo se o processo estiver inativo.</back>
+</flashcard9>

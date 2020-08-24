@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quizwithfeedback>
+  <nextbuttontext>Siguiente</nextbuttontext>
+  <submitbuttontext>Enviar</submitbuttontext>
+  <reviewbuttontext>Revisar</reviewbuttontext>
+  <retakequizbuttontext>Repetir</retakequizbuttontext>
+  <nextbuttontext>Intentarlo de nuevo</nextbuttontext>
+  <questioncounttext>Pregunta {0} de {1}</questioncounttext>
+  <answernothingselectedtext>Seleccione una respuesta.</answernothingselectedtext>
+  <twoanswerstoofewselected>Seleccione dos (2) respuestas.</twoanswerstoofewselected>
+  <twoanswerstoomanyselected>Seleccione solo dos (2) respuestas.</twoanswerstoomanyselected>
+  <threeanswerstoofewselected>Seleccione tres (3) respuestas.</threeanswerstoofewselected>
+  <threeanswerstoomanyselected>Seleccione solo tres (3) respuestas.</threeanswerstoomanyselected>
+  <numberofattempts>N&uacute;mero de intentos: </numberofattempts>
+  <question1>
+    <accessibility>Pregunta 1. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s). A continuaci&oacute;n se describen los controles para la comprobaci&oacute;n de conocimientos: Para seleccionar la primera opci&oacute;n, presione la tecla 1 en el teclado; para seleccionar la segunda
+      opci&oacute;n, presione la tecla 2, la tecla 3 para la tercera, la tecla 4 para la cuarta y la tecla 5 si hay una quinta. Para enviar la respuesta seleccionada, presione la tecla Entrar del teclado. Si no respondi&oacute; correctamente a la pregunta, presione May&uacute;s + Entrar para restablecer la selecci&oacute;n.</accessibility>
+    <question>Ursa Major Solar cre&oacute; una nueva l&iacute;nea de paneles solares con un equipo de ventas especial responsable de la venta de estos productos. El proceso de ventas de esta nueva l&iacute;nea de productos es m&aacute;s complejo que el proceso de ventas actual y requiere etapas adicionales en la
+      ruta de ventas.<br><br>¿C&oacute;mo debe el administrador del sistema configurar Salesforce para asegurarse de que solo est&eacute;n visibles las etapas adecuadas seg&uacute;n cada l&iacute;nea de productos?</question>
+    <option1text>Debe crear un proceso de ventas y un tipo de registro de oportunidad para cada l&iacute;nea de productos.</option1text>
+    <option1textexplanation>Correcto. Se deben configurar dos cosas: 1) Hay que crear un nuevo proceso de ventas para determinar qu&eacute; etapa es la que se muestra para esta nueva l&iacute;nea de productos. 2) Es necesario crear un nuevo tipo de registro de oportunidad para mostrar una &uacute;nica p&aacute;gina para esta nueva
+      l&iacute;nea de productos.</option1textexplanation>
+    <option2text>Debe crear una regla de validaci&oacute;n que muestre las etapas adecuadas seg&uacute;n la l&iacute;nea de productos.</option2text>
+    <option2textexplanation>No es correcto. Las reglas de validaci&oacute;n verifican que los datos que un usuario ingresa en un registro cumplen con las normas que especifica antes de que el usuario guarde el registro. Por lo tanto, las reglas de validaci&oacute;n no satisfacen la necesidad de mostrar las
+      etapas adecuadas al nuevo equipo de ventas.</option2textexplanation>
+    <option3text>Debe crear nuevas categor&iacute;as de pron&oacute;stico y asignar los nuevos valores de lista de selecci&oacute;n a dichas categor&iacute;as.</option3text>
+    <option3textexplanation>No es correcto. Una categor&iacute;a de pron&oacute;stico es la categor&iacute;a dentro del ciclo de ventas a la que se asigna una oportunidad seg&uacute;n la etapa en la que esta se encuentre. La creaci&oacute;n de nuevas categor&iacute;as de pron&oacute;stico no permitir&iacute;a que estuviesen visibles las categor&iacute;as de pron&oacute;stico correctas
+      para el nuevo equipo de ventas.</option3textexplanation>
+    <option4text>Debe crear una regla de validaci&oacute;n que muestre las etapas adecuadas seg&uacute;n la funci&oacute;n de los usuarios.</option4text>
+    <option4textexplanation>No es correcto. Las reglas de validaci&oacute;n verifican que los datos que un usuario ingresa en un registro cumplen con las normas que especifica antes de que el usuario guarde el registro. Por lo tanto, las reglas de validaci&oacute;n no satisfacen la necesidad de mostrar las
+      etapas adecuadas al nuevo equipo de ventas.</option4textexplanation>
+  </question1>
+  <question2>
+    <accessibility>Pregunta 2. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>El director de Operaciones de Ventas de Ursa Major Solar se percat&oacute; de que los representantes de ventas registran m&aacute;s oportunidades sin productos. Esto hace que el equipo de operaciones tenga que agregar productos a cada oportunidad a posteriori. ¿Qu&eacute;
+      cambio de configuraci&oacute;n debe realizar el administrador del sistema para recordar a los representantes de ventas que deben agregar productos a cada oportunidad?</question>
+    <option1text>Debe crear una lista relacionada para permitir al usuario ver productos relacionados.</option1text>
+    <option1textexplanation>No es correcto. Agregar una lista relacionada no recordar&aacute; necesariamente a los representantes de ventas que deben agregar productos al registrar oportunidades.</option1textexplanation>
+    <option2text>Debe activar un par&aacute;metro en las oportunidades para solicitar a los usuarios que agreguen productos a las oportunidades.</option2text>
+    <option2textexplanation>Correcto. Hay un par&aacute;metro que se puede activar/desactivar para pedir a los usuarios que agreguen un producto a la oportunidad.</option2textexplanation>
+    <option3text>Debe crear una regla de flujo de trabajo en el objeto Oportunidad para agregar un producto predeterminado a las oportunidades que no tengan productos.</option3text>
+    <option3textexplanation>No es correcto. Agregar un producto predeterminado a cada oportunidad sin producto no corregir&iacute;a el problema de que los representantes de ventas no agregan productos al registrar oportunidades.</option3textexplanation>
+    <option4text>Debe definir la configuraci&oacute;n predeterminada de toda la organizaci&oacute;n de Listas de precios para utilizar y Productos como Solo lectura.</option4text>
+    <option4textexplanation>No es correcto. El acceso y la visibilidad de las Listas de precios y los Productos no recordar&aacute; a los representantes de ventas que deben agregar productos cuando registren oportunidades.</option4textexplanation>
+  </question2>
+  <question3>
+    <accessibility>Pregunta 3. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 2 respuesta(s) correcta(s).</accessibility>
+    <question>Ursa Major Solar acaba de anunciar su nueva l&iacute;nea de productos. El formulario web del sitio web de Ursa Major Solar est&aacute; generando una gran cantidad de prospectos que manifestaron su inter&eacute;s en estos productos. Estos prospectos se importan directamente
+      a Salesforce de manera autom&aacute;tica.<br><br>¿Qu&eacute; funciones debe utilizar el administrador del sistema para asignar la propiedad de un prospecto al equipo de producto adecuado mediante el campo de inter&eacute;s en el producto de Prospecto? (Seleccione dos respuestas.)</question>
+    <option1text>Reglas de asignaci&oacute;n</option1text>
+    <option1textexplanation>Correcto. Las reglas de asignaci&oacute;n definen condiciones que determinan c&oacute;mo se procesan los prospectos o los casos. En este escenario, cuando un cliente potencial manifiesta su inter&eacute;s en un producto determinado (campo personalizado de Prospecto Inter&eacute;s del producto) en el
+      formulario web, el prospecto se genera y se asigna al equipo de productos adecuado.</option1textexplanation>
+    <option2text>Reglas de distribuci&oacute;n</option2text>
+    <option2textexplanation>No es correcto. Las reglas de distribuci&oacute;n se utilizan para especificar las condiciones bajo las cuales se distribuye un caso. Los prospectos no son casos, por lo tanto, las reglas de distribuci&oacute;n no se aplican a esta situaci&oacute;n.</option2textexplanation>
+    <option3text>Equipos de prospectos</option3text>
+    <option3textexplanation>No es correcto. Los equipos de prospectos son un grupo de usuarios que pueden ver/acceder a un prospecto. Estos equipos no asignan la propiedad como se ha solicitado.</option3textexplanation>
+    <option4text>Colas</option4text>
+    <option4textexplanation>Correcto. Las colas establecen prioridades, distribuyen y asignan registros a los equipos que comparten cargas de trabajo. En este escenario, se indica que el prospecto debe asignarse a los equipos de productos adecuados. Por lo tanto, las colas son necesarias.</option4textexplanation>
+  </question3>
+  <question4>
+    <accessibility>Pregunta 4. Para esta pregunta, deber&aacute; elegir entre 4 respuestas posibles. La pregunta tiene 1 respuesta(s) correcta(s).</accessibility>
+    <question>Un representante de ventas de Ursa Major Solar est&aacute; trabajando con un cliente potencial que no puede abrir archivos adjuntos de emails debido a las restricciones de TI de la compa&ntilde;&iacute;a.<br><br>¿C&oacute;mo puede este representante de ventas enviar la hoja de datos de productos a un prospecto sin adjuntar el
+      documento a un email?</question>
+    <option1text>Debe copiar y pegar el contenido de la hoja de datos y crear una p&aacute;gina personalizada en la comunidad de clientes.</option1text>
+    <option1textexplanation>No es correcto. Esta soluci&oacute;n no es eficiente y no es una manera segura de compartir informaci&oacute;n con un prospecto individual.</option1textexplanation>
+    <option2text>Debe cargar la hoja de datos en una biblioteca y crear/enviar un paquete de contenido al prospecto.</option2text>
+    <option2textexplanation>Correcto. El destinatario de una entrega de contenido, como, por ejemplo un paquete de contenido, puede hacer clic en una URL para abrir un reproductor de vista previa con el que puede ver una presentaci&oacute;n preliminar y descargar el contenido. Adem&aacute;s, puede ver la informaci&oacute;n de seguimiento
+       para ver la frecuencia con la que se visualiz&oacute; el paquete de contenido y los documentos que se descargaron.</option2textexplanation>
+    <option3text>Debe adjuntar la hoja de datos a una lista relacionada Notas y archivos adjuntos y enviar por email un v&iacute;nculo al prospecto.</option3text>
+    <option3textexplanation>No es correcto. Los prospectos no tienen acceso a la lista relacionada Notas y archivos adjuntos en la organizaci&oacute;n de Salesforce de Ursa Major Solar.</option3textexplanation>
+    <option4text>Debe asignar el prospecto como miembro de la campa&ntilde;a al registro de la campa&ntilde;a de la hoja de datos del producto.</option4text>
+    <option4textexplanation>No es correcto. Una campa&ntilde;a es un proyecto de marketing saliente cuya planificaci&oacute;n, gesti&oacute;n y seguimiento se realizan en Salesforce. No es la herramienta adecuada para la entrega puntual de una hoja de datos de producto.</option4textexplanation>
+  </question4>
+</quizwithfeedback>

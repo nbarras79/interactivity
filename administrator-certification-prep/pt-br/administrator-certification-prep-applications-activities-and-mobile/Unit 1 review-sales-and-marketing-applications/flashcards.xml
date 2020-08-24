@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Clique ou pressione a Seta para a esquerda no teclado para ir para o flashcard anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Clique ou pressione a Seta para a direita no teclado para ir para o pr&oacute;ximo flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. Os controles dos flashcards s&atilde;o os seguintes: Para ir para o flashcard anterior, pressione a tecla de seta para a esquerda. Para ir para o pr&oacute;ximo flashcard, pressione a tecla de seta para a direita. Para virar o flashcard de frente para tr&aacute;s e vice-versa, pressione a tecla de seta para baixo. H&aacute; 10 flashcards neste conjunto.</accessibility>
+  <front>Quais os dois tipos de campos para os quais os campos personalizados no objeto Lead podem ser mapeados?</front>
+  <back>Oportunidade personalizada<br><br>Conta personalizada</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>A Ursa Major Solar tem uma equipe de vendas interna que vende apenas renova&ccedil;&otilde;es de garantia e uma equipe de vendas externa que vende apenas produtos. Cada tipo de venda captura informa&ccedil;&otilde;es diferentes e tem um ciclo de vendas diferente.<br><br>Como o administrador do sistema pode configurar o Salesforce para atender a esses requisitos?</front>
+  <back>Criar um layout de p&aacute;gina, processo de vendas e tipo de registro para cada tipo de venda.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>A Ursa Major Solar oferece uma variedade de produtos que s&atilde;o compar&aacute;veis a produtos de outras empresas. Os representantes de vendas pedem um m&eacute;todo para rastrear pontos fortes e fracos do produto em compara&ccedil;&atilde;o com os oferecidos por outros fornecedores.<br><br>O que o administrador do sistema deve implementar?</front>
+  <back>Concorrentes no layout de p&aacute;gina de oportunidade</back>
+</flashcard3>
+<flashcard4>
+  <accessibility>Flashcard 4</accessibility>
+  <front>A Ursa Major Solar quer que a equipe de vendas acesse informa&ccedil;&otilde;es sobre oportunidades fechadas e ganhas com um concorrente comum para todos os grandes neg&oacute;cios pendentes.<br><br>Qual conjunto de recursos o administrador do sistema deve implementar?</front>
+  <back>Concorrentes e oportunidades semelhantes</back>
+</flashcard4>
+<flashcard5>
+  <accessibility>Flashcard 5</accessibility>
+  <front>Como o administrador do sistema deve implementar notifica&ccedil;&otilde;es quinzenais para representantes de vendas que incluem oportunidades que precisam de aten&ccedil;&atilde;o, com base no &uacute;ltimo login do propriet&aacute;rio da oportunidade, nas oportunidades com prazo vencido e todas as oportunidades que n&atilde;o foram atualizadas nos &uacute;ltimos 30 dias?</front>
+  <back>Criar lembretes de atualiza&ccedil;&atilde;o de oportunidade.</back>
+</flashcard5>
+<flashcard6>
+  <accessibility>Flashcard 6</accessibility>
+  <front>A Ursa Major Solar vende por meio de diversas redes de revendedores diferentes. Os neg&oacute;cios de cada revendedor s&atilde;o rastreados em oportunidades separadas. O gerente de vendas est&aacute; preocupado porque o relat&oacute;rio de pipeline n&atilde;o est&aacute; correto devido a v&aacute;rias oportunidades para o mesmo cliente final.<br><br>Como o processo de venda deve ser modificado para garantir que as oportunidades n&atilde;o sejam contadas duplamente no pipeline?</front>
+  <back>Altere a categoria de previs&atilde;o para Omitido nas oportunidades duplicadas.</back>
+</flashcard6>
+<flashcard7>
+  <accessibility>Flashcard 7</accessibility>
+  <front>Quais dois objetos podem ser relacionados aos membros da campanha?</front>
+  <back>Leads<br><br>Contatos</back>
+</flashcard7>
+<flashcard8>
+  <accessibility>Flashcard 8</accessibility>
+  <front>Como v&aacute;rios registros de campanhas podem ser associados a uma &uacute;nica oportunidade?</front>
+  <back>Influ&ecirc;ncia da campanha</back>
+</flashcard8>
+<flashcard9>
+  <accessibility>Flashcard 9</accessibility>
+  <front>Qual recurso rastreia com que frequ&ecirc;ncia um arquivo &eacute; visualizado?</front>
+  <back>Entregas de conte&uacute;do</back>
+</flashcard9>
+<flashcard10>
+  <accessibility>Flashcard 10</accessibility>
+  <front>Quais s&atilde;o as duas listas relacionadas que devem ser adicionadas ao layout de p&aacute;gina de oportunidade para rastrear como as campanhas contribuem para o pipeline geral?</front>
+  <back>Influ&ecirc;ncia da campanha<br><br>Pap&eacute;is do contato</back>
+</flashcard10>

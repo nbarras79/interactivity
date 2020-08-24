@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Haga clic o presione la tecla de flecha izquierda del teclado para ir a la tarjeta mnemot&eacute;cnica anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Haga clic o presione la tecla de flecha derecha del teclado para ir a la tarjeta mnemot&eacute;cnica siguiente.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Tarjeta mnemot&eacute;cnica 1 A continuaci&oacute;n se describen los controles de las tarjetas mnemot&eacute;cnicas: Para ir a la tarjeta mnemot&eacute;cnica anterior, presione la tecla de flecha izquierda. Para ir a la tarjeta mnemot&eacute;cnica siguiente, presione la tecla de flecha derecha. Presione la tecla de flecha abajo para girar la tarjeta mnemot&eacute;cnica del anverso al reverso. Este conjunto incluye 2 tarjetas mnemot&eacute;cnicas.</accessibility>
+  <front>Los usuarios de Salesforce de Ursa Major Solar se quejan de que la funci&oacute;n de b&uacute;squeda global devuelve demasiados registros. ¿Qu&eacute; dos configuraciones debe realizar el administrador para ayudar a los usuarios a gestionar los resultados de b&uacute;squeda?</front>
+  <back>Especificar los campos de filtro de b&uacute;squeda para el formato de b&uacute;squeda del objeto.<br><br>Reducir el n&uacute;mero de registros que se muestran para cada objeto de la p&aacute;gina Resultados de b&uacute;squeda.</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Tarjeta mnemot&eacute;cnica 2</accessibility>
+  <front>Vista de lista</front>
+  <back>Lista con los registros que cumplen criterios de filtro espec&iacute;ficos.</back>
+</flashcard2>

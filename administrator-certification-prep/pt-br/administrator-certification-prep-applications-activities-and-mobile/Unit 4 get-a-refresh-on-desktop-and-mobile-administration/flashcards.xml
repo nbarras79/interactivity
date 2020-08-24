@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flashcardcounttext>{0} de {1}</flashcardcounttext>
+<leftarrowaccessibility>Clique ou pressione a Seta para a esquerda no teclado para ir para o flashcard anterior.</leftarrowaccessibility>
+<rightarrowaccessibility>Clique ou pressione a Seta para a direita no teclado para ir para o pr&oacute;ximo flashcard.</rightarrowaccessibility>
+<flashcard1>
+  <accessibility>Flashcard 1. Os controles dos flashcards s&atilde;o os seguintes: Para ir para o flashcard anterior, pressione a tecla de seta para a esquerda. Para ir para o pr&oacute;ximo flashcard, pressione a tecla de seta para a direita. Para virar o flashcard de frente para tr&aacute;s e vice-versa, pressione a tecla de seta para baixo. H&aacute; 3 flashcards neste conjunto.</accessibility>
+  <front>Qual op&ccedil;&atilde;o pode ser adicionada aos layouts do editor do Outlook?</front>
+  <back>A&ccedil;&otilde;es r&aacute;pidas</back>
+</flashcard1>
+<flashcard2>
+  <accessibility>Flashcard 2</accessibility>
+  <front>Lightning para Outlook</front>
+  <back>O Lightning para Outlook pode vincular emails no Microsoft Outlook a contatos, leads, contas, oportunidades e casos no Salesforce Ele tamb&eacute;m pode relacionar eventos a registros no Salesforce.</back>
+</flashcard2>
+<flashcard3>
+  <accessibility>Flashcard 3</accessibility>
+  <front>Aplicativo m&oacute;vel Salesforce</front>
+  <back>O aplicativo Salesforce d&aacute; acesso &agrave;s mesmas informa&ccedil;&otilde;es que voc&ecirc; v&ecirc; em seu computador, mas organizadas para fazer o trabalho fora do escrit&oacute;rio.</back>
+</flashcard3>
