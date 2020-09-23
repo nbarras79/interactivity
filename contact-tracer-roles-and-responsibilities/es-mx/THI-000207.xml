@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2020-09-03T07:28:40.0Z" original="THI-000207.cptx" source-language="esMX">
+		<file datatype="cptx" date="2020-09-03T07:28:40.0Z" original="THI-000207.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5" />
 				<count-group name="countGroup1">
@@ -26,27 +26,23 @@
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="591" restype="x-cp-project-password-message">
 						<trans-unit id="1-591">
-							<source>Please type the correct password directly into the text box below and click the button below.</source>
-							<target state="translated">Escriba la contraseña correcta directamente en el cuadro de texto a continuación y haga clic en el botón que también aparece.</target>
+							<source>Escriba la contraseña correcta directamente en el cuadro de texto a continuación y haga clic en el botón que también aparece.</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="592" restype="x-cp-project-password-retry-message">
 						<trans-unit id="1-592">
-							<source>The Password you entered is incorrect. Please try again.</source>
-							<target state="translated">La contraseña que ingresó es incorrecta. Inténtelo de nuevo.</target>
+							<source>La contraseña que ingresó es incorrecta. Inténtelo de nuevo.</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="593" restype="x-cp-project-password-button-text">
 						<trans-unit id="1-593">
-							<source>Continue</source>
-							<target state="translated">Continuar</target>
+							<source>Continuar</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-object" extype="417" id="305" restype="x-cp-project-information">
 						<group cp:datatype="x-property" datatype="plaintext" extype="428" restype="x-cp-project-info-name">
 							<trans-unit id="305-428">
-								<source>Flashcards</source>
-								<target state="translated">Tarjetas mnemotécnicas</target>
+								<source>Tarjetas mnemotécnicas</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="429" restype="x-cp-project-info-author">
@@ -58,7 +54,6 @@
 						<group cp:datatype="x-property" datatype="plaintext" extype="430" restype="x-cp-project-info-company">
 							<trans-unit id="305-430">
 								<source>Salesforce</source>
-								<target state="translated">Salesforce</target>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="431" restype="x-cp-project-info-email">
@@ -90,8 +85,7 @@
 						<slide cp:datatype="x-object" extype="30" id="5568" resname="Slide 0" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="5568-337">
-									<source>Flashcard 1</source>
-								<target state="translated">Tarjeta mnemotécnica 1</target>
+									<source>Tarjeta mnemotécnica 1</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -105,11 +99,8 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="5724-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="5724-612-1-1">1 of 5</g>
-											</source>
-											<target state="translated">
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="5724-612-1-1">1 de 5</g>
-											</target>
+											</source>
 										</trans-unit>
 									</group>
 								</group>
@@ -117,11 +108,8 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="5844-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="5844-612-1-1">A person who has tested positive for COVID-19 (SARS CoV-2)</g>
-											</source>
-											<target state="translated">
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="5844-612-1-1">Una persona que dio positivo en COVID-19 (SARS CoV-2)</g>
-											</target>
+											</source>
 										</trans-unit>
 									</group>
 								</group>
@@ -129,11 +117,8 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="5879-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="5879-612-1-1">Case</g>
-											</source>
-											<target state="translated">
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="5879-612-1-1">Caso</g>
-											</target>
+											</source>
 										</trans-unit>
 									</group>
 								</group>
@@ -142,8 +127,7 @@
 						<slide cp:datatype="x-object" extype="30" id="11010" resname="Slide 1" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="11010-337">
-									<source>Flashcard 2</source>
-									<target state="translated">Tarjeta mnemotécnica 2</target>
+									<source>Tarjeta mnemotécnica 2</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -157,11 +141,8 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="10772-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10772-612-1-1">2 of 5</g>
-											</source>
-									<target state="translated">
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10772-612-1-1">2 de 5</g>
-											</target>
+											</source>
 										</trans-unit>
 									</group>
 								</group>
@@ -169,11 +150,8 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="10925-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="10925-612-1-1">Someone who was within 6 feet of an infected person for at least 15 minutes, with or without masks. Close contacts can include members of the infected person’s household or an intimate partner of the infected person.</g>
-											</source>
-											<target state="translated">
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="10925-612-1-1">Alguien que estuvo a menos de 2 metros de una persona infectada durante al menos 15 minutos, con o sin mascarilla. Los contactos cercanos pueden incluir miembros del entorno doméstico de la persona infectada o un allegado de la persona infectada.</g>
-											</target>
+											</source>
 										</trans-unit>
 									</group>
 								</group>
@@ -181,11 +159,8 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="10994-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="10994-612-1-1">Close contact</g>
-											</source>
-											<target state="translated">
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="10994-612-1-1">Contacto cercano</g>
-											</target>
+											</source>
 										</trans-unit>
 									</group>
 								</group>
@@ -194,8 +169,7 @@
 						<slide cp:datatype="x-object" extype="30" id="11801" resname="Slide 2" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="11801-337">
-									<source>Flashcard 3</source>
-									<target state="translated">Tarjeta mnemotécnica 3</target>
+									<source>Tarjeta mnemotécnica 3</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -209,11 +183,8 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="11563-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11563-612-1-1">3 of 5</g>
-											</source>
-											<target state="translated">
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11563-612-1-1">3 de 5</g>
-											</target>
+											</source>
 										</trans-unit>
 									</group>
 								</group>
@@ -221,11 +192,8 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="11716-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="11716-612-1-1">The person who interviews the case to find out the names and information of close contacts</g>
-											</source>
-											<target state="translated">
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="11716-612-1-1">La persona que entrevista el caso para determinar los nombres y la información de contactos cercanos</g>
-											</target>
+											</source>
 										</trans-unit>
 									</group>
 								</group>
@@ -233,11 +201,8 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="11785-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="11785-612-1-1">Case investigator</g>
-											</source>
-											<target state="translated">
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="11785-612-1-1">Investigador de caso</g>
-											</target>
+											</source>
 										</trans-unit>
 									</group>
 								</group>
@@ -246,8 +211,7 @@
 						<slide cp:datatype="x-object" extype="30" id="12132" resname="Slide 3" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="12132-337">
-									<source>Flashcard 4</source>
-									<target state="translated">Tarjeta mnemotécnica 4</target>
+									<source>Tarjeta mnemotécnica 4</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -261,11 +225,8 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="11894-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11894-612-1-1">4 of 5</g>
-											</source>
-											<target state="translated">
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11894-612-1-1">4 de 5</g>
-											</target>
+											</source>
 										</trans-unit>
 									</group>
 								</group>
@@ -273,11 +234,8 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="12047-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="12047-612-1-1">The person who informs close contacts that they were exposed to the case </g>
-											</source>
-											<target state="translated">
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="12047-612-1-1">La persona que informa a los contactos cercanos que estuvieron expuestos al caso </g>
-											</target>
+											</source>
 										</trans-unit>
 									</group>
 								</group>
@@ -285,11 +243,8 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="12116-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="12116-612-1-1">Contact tracer</g>
-											</source>
-											<target state="translated">
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="12116-612-1-1">Rastreador de contactos</g>
-											</target>
+											</source>
 										</trans-unit>
 									</group>
 								</group>
@@ -298,8 +253,7 @@
 						<slide cp:datatype="x-object" extype="30" id="12463" resname="Slide 4" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="12463-337">
-									<source>Flashcard 5</source>
-									<target state="translated">Tarjeta mnemotécnica 5</target>
+									<source>Tarjeta mnemotécnica 5</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -313,11 +267,8 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="12225-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12225-612-1-1">5 of 5</g>
-											</source>
-									<target state="translated">
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12225-612-1-1">5 de 5</g>
-											</target>
+											</source>
 										</trans-unit>
 									</group>
 								</group>
@@ -325,11 +276,8 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="12378-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="12378-612-1-1">The person who coordinates the team of contact tracers and case investigators, coordinates the team workflow, and provides support for complicated situations</g>
-											</source>
-											<target state="translated">
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="12378-612-1-1">La persona que coordina el equipo de rastreadores de contactos e investigadores de casos, coordina el flujo de trabajo del equipo y proporciona asistencia para situaciones complicadas</g>
-											</target>
+											</source>
 										</trans-unit>
 									</group>
 								</group>
@@ -337,11 +285,8 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="12447-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="12447-612-1-1">Team lead</g>
-											</source>
-											<target state="translated">
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="12447-612-1-1">Líder de equipo</g>
-											</target>
+											</source>
 										</trans-unit>
 									</group>
 								</group>
@@ -365,8 +310,7 @@
 						<slide cp:datatype="x-object" extype="584" id="1649" resname="Slide 1" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="1649-337">
-									<source>Blank</source>
-									<target state="translated">En blanco</target>
+									<source>En blanco</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -380,8 +324,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="4086" resname="Slide 2" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4086-337">
-									<source>MCQ,T/F,FIB,Sequence</source>
-									<target state="translated">MCQ,T/F,FIB,Secuencia</target>
+									<source>MCQ,T/F,FIB,Secuencia</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -393,104 +336,87 @@
 							<group cp:datatype="x-object" extype="69" id="4051" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4050" restype="Progress Indicator Placeholder">
 									<trans-unit id="4050-190">
-										<source>Question X of Y</source>
-										<target state="translated">Pregunta X de Y</target>
+										<source>Pregunta X de Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3767" restype="Review Area Placeholder">
 									<trans-unit id="3767-190">
-										<source>Review area</source>
-										<target state="translated">Área de revisión</target>
+										<source>Área de revisión</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3785" restype="Success Shape Placeholder">
 									<trans-unit id="3785-190">
-										<source>Success Caption Placeholder</source>
-										<target state="translated">Marcador de posición de subtítulo de respuesta correcta</target>
+										<source>Marcador de posición de subtítulo de respuesta correcta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3803" restype="TimeOut Shape Placeholder">
 									<trans-unit id="3803-190">
-										<source>TimeOut Feedback Placeholder</source>
-										<target state="translated">Marcador de posición de agotamiento de tiempo de espera de comentarios</target>
+										<source>Marcador de posición de agotamiento de tiempo de espera de comentarios</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3821" restype="Partial Correct Shape Placeholder">
 									<trans-unit id="3821-190">
-										<source>Partial Correct Caption Placeholder</source>
-										<target state="translated">Marcador de posición de subtítulo de respuesta correcta parcialmente</target>
+										<source>Marcador de posición de subtítulo de respuesta correcta parcialmente</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3839" restype="Retry Shape Placeholder">
 									<trans-unit id="3839-190">
-										<source>Retry Caption Placeholder</source>
-										<target state="translated">Marcador de posición de subtítulo de reintento</target>
+										<source>Marcador de posición de subtítulo de reintento</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3857" restype="Incomplete Shape Placeholder">
 									<trans-unit id="3857-190">
-										<source>Incomplete Caption Placeholder</source>
-										<target state="translated">Marcador de posición de subtítulo de respuesta incompleta</target>
+										<source>Marcador de posición de subtítulo de respuesta incompleta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3875" restype="Failure Shape Placeholder">
 									<trans-unit id="3875-190">
-										<source>Failure Caption Placeholder</source>
-										<target state="translated">Marcador de posición de subtítulo de fallo</target>
+										<source>Marcador de posición de subtítulo de fallo</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3688" restype="Title Placeholder">
 									<trans-unit id="3688-190">
-										<source>Question Title Placeholder</source>
-										<target state="translated">Marcador de posición de título de pregunta</target>
+										<source>Marcador de posición de título de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3713" restype="Question Placeholder">
 									<trans-unit id="3713-190">
-										<source>Question Text Placeholder</source>
-										<target state="translated">Marcador de posición de texto de pregunta</target>
+										<source>Marcador de posición de texto de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3745" restype="Answer Area Placeholder">
 									<trans-unit id="3745-190">
-										<source>Answer Area Placeholder</source>
-										<target state="translated">Marcador de posición de área de respuesta</target>
+										<source>Marcador de posición de área de respuesta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3907" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="3907-190">
-										<source>Back Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de retroceso</target>
+										<source>Marcador de posición de botón de retroceso</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3926" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="3926-190">
-										<source>Skip Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de omisión</target>
+										<source>Marcador de posición de botón de omisión</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3945" restype="Clear Button Placeholder">
 									<trans-unit id="3945-190">
-										<source>Clear Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de borrado</target>
+										<source>Marcador de posición de botón de borrado</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3964" restype="Back Button Placeholder">
 									<trans-unit id="3964-190">
-										<source>Back Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de retroceso</target>
+										<source>Marcador de posición de botón de retroceso</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3983" restype="Skip Button Placeholder">
 									<trans-unit id="3983-190">
-										<source>Skip Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de omisión</target>
+										<source>Marcador de posición de botón de omisión</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4002" restype="Submit Button Placeholder">
 									<trans-unit id="4002-190">
-										<source>Submit Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de envío</target>
+										<source>Marcador de posición de botón de envío</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -498,8 +424,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="4492" resname="Slide 3" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4492-337">
-									<source>Matching</source>
-									<target state="translated">Coincidentes</target>
+									<source>Coincidentes</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -511,104 +436,87 @@
 							<group cp:datatype="x-object" extype="69" id="4457" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4456" restype="Progress Indicator Placeholder">
 									<trans-unit id="4456-190">
-										<source>Question X of Y</source>
-										<target state="translated">Pregunta X de Y</target>
+										<source>Pregunta X de Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4098" restype="Title Placeholder">
 									<trans-unit id="4098-190">
-										<source>Question Title Placeholder</source>
-										<target state="translated">Marcador de posición de título de pregunta</target>
+										<source>Marcador de posición de título de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4123" restype="Question Placeholder">
 									<trans-unit id="4123-190">
-										<source>Question Text Placeholder</source>
-										<target state="translated">Marcador de posición de texto de pregunta</target>
+										<source>Marcador de posición de texto de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4145" restype="Column 1 Placeholder">
 									<trans-unit id="4145-190">
-										<source>Question Area Placeholder</source>
-										<target state="translated">Marcador de posición de área de pregunta</target>
+										<source>Marcador de posición de área de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4154" restype="Column 2 Placeholder">
 									<trans-unit id="4154-190">
-										<source>Question Area Placeholder</source>
-										<target state="translated">Marcador de posición de área de pregunta</target>
+										<source>Marcador de posición de área de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4186" restype="Question Area Placeholder">
 									<trans-unit id="4186-190">
-										<source>Question Area Placeholder</source>
-										<target state="translated">Marcador de posición de área de pregunta</target>
+										<source>Marcador de posición de área de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4205" restype="Answer Area Placeholder">
 									<trans-unit id="4205-190">
-										<source>Answer Area Placeholder</source>
-										<target state="translated">Marcador de posición de área de respuesta</target>
+										<source>Marcador de posición de área de respuesta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4227" restype="Review Area Placeholder">
 									<trans-unit id="4227-190">
-										<source>Review area</source>
-										<target state="translated">Área de revisión</target>
+										<source>Área de revisión</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4245" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4245-190">
-										<source>Incomplete Caption Placeholder</source>
-										<target state="translated">Marcador de posición de subtítulo de respuesta incompleta</target>
+										<source>Marcador de posición de subtítulo de respuesta incompleta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4263" restype="Failure Shape Placeholder">
 									<trans-unit id="4263-190">
-										<source>Failure Caption Placeholder</source>
-										<target state="translated">Marcador de posición de subtítulo de fallo</target>
+										<source>Marcador de posición de subtítulo de fallo</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4281" restype="Success Shape Placeholder">
 									<trans-unit id="4281-190">
-										<source>Success Caption Placeholder</source>
-										<target state="translated">Marcador de posición de subtítulo de respuesta correcta</target>
+										<source>Marcador de posición de subtítulo de respuesta correcta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4313" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4313-190">
-										<source>Back Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de retroceso</target>
+										<source>Marcador de posición de botón de retroceso</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4332" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4332-190">
-										<source>Skip Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de omisión</target>
+										<source>Marcador de posición de botón de omisión</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4351" restype="Clear Button Placeholder">
 									<trans-unit id="4351-190">
-										<source>Clear Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de borrado</target>
+										<source>Marcador de posición de botón de borrado</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4370" restype="Back Button Placeholder">
 									<trans-unit id="4370-190">
-										<source>Back Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de retroceso</target>
+										<source>Marcador de posición de botón de retroceso</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4389" restype="Skip Button Placeholder">
 									<trans-unit id="4389-190">
-										<source>Skip Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de omisión</target>
+										<source>Marcador de posición de botón de omisión</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4408" restype="Submit Button Placeholder">
 									<trans-unit id="4408-190">
-										<source>Submit Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de envío</target>
+										<source>Marcador de posición de botón de envío</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -616,8 +524,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="4816" resname="Slide 4" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4816-337">
-									<source>Hot Spot</source>
-									<target state="translated">Punto interactivo</target>
+									<source>Punto interactivo</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -629,80 +536,67 @@
 							<group cp:datatype="x-object" extype="69" id="4781" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4780" restype="Progress Indicator Placeholder">
 									<trans-unit id="4780-190">
-										<source>Question X of Y</source>
-										<target state="translated">Pregunta X de Y</target>
+										<source>Pregunta X de Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4504" restype="Title Placeholder">
 									<trans-unit id="4504-190">
-										<source>Question Title Placeholder</source>
-										<target state="translated">Marcador de posición de título de pregunta</target>
+										<source>Marcador de posición de título de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4529" restype="Question Placeholder">
 									<trans-unit id="4529-190">
-										<source>Question Text Placeholder</source>
-										<target state="translated">Marcador de posición de texto de pregunta</target>
+										<source>Marcador de posición de texto de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4551" restype="Review Area Placeholder">
 									<trans-unit id="4551-190">
-										<source>Review area</source>
-										<target state="translated">Área de revisión</target>
+										<source>Área de revisión</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4569" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4569-190">
-										<source>Incomplete Caption Placeholder</source>
-										<target state="translated">Marcador de posición de subtítulo de respuesta incompleta</target>
+										<source>Marcador de posición de subtítulo de respuesta incompleta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4587" restype="Failure Shape Placeholder">
 									<trans-unit id="4587-190">
-										<source>Failure Caption Placeholder</source>
-										<target state="translated">Marcador de posición de subtítulo de fallo</target>
+										<source>Marcador de posición de subtítulo de fallo</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4605" restype="Success Shape Placeholder">
 									<trans-unit id="4605-190">
-										<source>Success Caption Placeholder</source>
-										<target state="translated">Marcador de posición de subtítulo de respuesta correcta</target>
+										<source>Marcador de posición de subtítulo de respuesta correcta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4637" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4637-190">
-										<source>Back Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de retroceso</target>
+										<source>Marcador de posición de botón de retroceso</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4656" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4656-190">
-										<source>Skip Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de omisión</target>
+										<source>Marcador de posición de botón de omisión</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4675" restype="Clear Button Placeholder">
 									<trans-unit id="4675-190">
-										<source>Clear Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de borrado</target>
+										<source>Marcador de posición de botón de borrado</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4694" restype="Back Button Placeholder">
 									<trans-unit id="4694-190">
-										<source>Back Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de retroceso</target>
+										<source>Marcador de posición de botón de retroceso</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4713" restype="Skip Button Placeholder">
 									<trans-unit id="4713-190">
-										<source>Skip Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de omisión</target>
+										<source>Marcador de posición de botón de omisión</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4732" restype="Submit Button Placeholder">
 									<trans-unit id="4732-190">
-										<source>Submit Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de envío</target>
+										<source>Marcador de posición de botón de envío</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -711,7 +605,6 @@
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="5102-337">
 									<source>Likert</source>
-									<target state="translated">Likert</target>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -723,74 +616,62 @@
 							<group cp:datatype="x-object" extype="69" id="5067" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4828" restype="Title Placeholder">
 									<trans-unit id="4828-190">
-										<source>Question Title Placeholder</source>
-										<target state="translated">Marcador de posición de título de pregunta</target>
+										<source>Marcador de posición de título de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4840" restype="Question Placeholder">
 									<trans-unit id="4840-190">
-										<source>Question Text Placeholder</source>
-										<target state="translated">Marcador de posición de texto de pregunta</target>
+										<source>Marcador de posición de texto de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4916" restype="Likert Question Area Placeholder">
 									<trans-unit id="4916-190">
-										<source>PlaceHolder for Adobe Captivate 5</source>
-										<target state="translated">Marcador de posición para Adobe Captivate 5</target>
+										<source>Marcador de posición para Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4934" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4934-190">
-										<source>Incomplete Caption Placeholder</source>
-										<target state="translated">Marcador de posición de subtítulo de respuesta incompleta</target>
+										<source>Marcador de posición de subtítulo de respuesta incompleta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4943" restype="Review Area Placeholder">
 									<trans-unit id="4943-190">
-										<source>Review area</source>
-										<target state="translated">Área de revisión</target>
+										<source>Área de revisión</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4952" restype="Progress Indicator Placeholder">
 									<trans-unit id="4952-190">
-										<source>Question X of Y</source>
-										<target state="translated">Pregunta X de Y</target>
+										<source>Pregunta X de Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4971" restype="Submit Button Placeholder">
 									<trans-unit id="4971-190">
-										<source>Submit Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de envío</target>
+										<source>Marcador de posición de botón de envío</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4990" restype="Skip Button Placeholder">
 									<trans-unit id="4990-190">
-										<source>Skip Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de omisión</target>
+										<source>Marcador de posición de botón de omisión</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5009" restype="Back Button Placeholder">
 									<trans-unit id="5009-190">
-										<source>Back Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de retroceso</target>
+										<source>Marcador de posición de botón de retroceso</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5028" restype="Clear Button Placeholder">
 									<trans-unit id="5028-190">
-										<source>Clear Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de borrado</target>
+										<source>Marcador de posición de botón de borrado</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5047" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="5047-190">
-										<source>Skip Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de omisión</target>
+										<source>Marcador de posición de botón de omisión</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5066" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="5066-190">
-										<source>Back Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de retroceso</target>
+										<source>Marcador de posición de botón de retroceso</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -798,8 +679,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="5473" resname="Slide 6" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="5473-337">
-									<source>Result</source>
-									<target state="translated">Resultado</target>
+									<source>Resultado</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -811,110 +691,92 @@
 							<group cp:datatype="x-object" extype="69" id="5438" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="5114" restype="Result Title Placeholder">
 									<trans-unit id="5114-190">
-										<source>Question Title Placeholder</source>
-										<target state="translated">Marcador de posición de título de pregunta</target>
+										<source>Marcador de posición de título de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5136" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5136-190">
-										<source>Scoring Result Label Placeholder</source>
-										<target state="translated">Marcador de posición de etiqueta de resultado de puntuaje</target>
+										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5145" restype="Scoring Result Placeholder">
 									<trans-unit id="5145-190">
-										<source>score</source>
-										<target state="translated">puntuaje</target>
+										<source>puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5167" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5167-190">
-										<source>Scoring Result Label Placeholder</source>
-										<target state="translated">Marcador de posición de etiqueta de resultado de puntuaje</target>
+										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5176" restype="Scoring Result Placeholder">
 									<trans-unit id="5176-190">
-										<source>max-score</source>
-										<target state="translated">puntuaje máximo</target>
+										<source>puntuaje máximo</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5198" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5198-190">
-										<source>Scoring Result Label Placeholder</source>
-										<target state="translated">Marcador de posición de etiqueta de resultado de puntuaje</target>
+										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5207" restype="Scoring Result Placeholder">
 									<trans-unit id="5207-190">
-										<source>correct-questions</source>
-										<target state="translated">preguntas correctas</target>
+										<source>preguntas correctas</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5229" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5229-190">
-										<source>Scoring Result Label Placeholder</source>
-										<target state="translated">Marcador de posición de etiqueta de resultado de puntuaje</target>
+										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5238" restype="Scoring Result Placeholder">
 									<trans-unit id="5238-190">
-										<source>total-questions</source>
-										<target state="translated">preguntas en total</target>
+										<source>preguntas en total</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5260" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5260-190">
-										<source>Scoring Result Label Placeholder</source>
-										<target state="translated">Marcador de posición de etiqueta de resultado de puntuaje</target>
+										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5269" restype="Scoring Result Placeholder">
 									<trans-unit id="5269-190">
-										<source>percent</source>
-										<target state="translated">porcentaje</target>
+										<source>porcentaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5291" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5291-190">
-										<source>Scoring Result Label Placeholder</source>
-										<target state="translated">Marcador de posición de etiqueta de resultado de puntuaje</target>
+										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5300" restype="Scoring Result Placeholder">
 									<trans-unit id="5300-190">
-										<source>total-attempts</source>
-										<target state="translated">intentos en total</target>
+										<source>intentos en total</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5332" restype="Review Button Placeholder">
 									<trans-unit id="5332-190">
-										<source>PlaceHolder for Adobe Captivate 5</source>
-										<target state="translated">Marcador de posición para Adobe Captivate 5</target>
+										<source>Marcador de posición para Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5351" restype="Continue Button Placeholder">
 									<trans-unit id="5351-190">
-										<source>Clear Button Placeholder</source>
-										<target state="translated">Marcador de posición de botón de borrado</target>
+										<source>Marcador de posición de botón de borrado</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5370" restype="Post Result Button Placeholder">
 									<trans-unit id="5370-190">
-										<source>PlaceHolder for Adobe Captivate 5</source>
-										<target state="translated">Marcador de posición para Adobe Captivate 5</target>
+										<source>Marcador de posición para Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5389" restype="Retake Button Placeholder">
 									<trans-unit id="5389-190">
-										<source>PlaceHolder for Adobe Captivate 5</source>
-										<target state="translated">Marcador de posición para Adobe Captivate 5</target>
+										<source>Marcador de posición para Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5411" restype="Review Area Placeholder">
 									<trans-unit id="5411-190">
-										<source>Review area</source>
-										<target state="translated">Área de revisión</target>
+										<source>Área de revisión</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -923,44 +785,37 @@
 					<group cp:datatype="x-object" extype="197" id="382" restype="x-cp-quiz-manager">
 						<group cp:datatype="x-property" datatype="plaintext" extype="10009" restype="x-cp-quiz-submit-button-name">
 							<trans-unit id="382-10009">
-								<source>Submit</source>
-								<target state="translated">Enviar</target>
+								<source>Enviar</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10335" restype="x-cp-quiz-submit-all-button-name">
 							<trans-unit id="382-10335">
-								<source>Submit All</source>
-								<target state="translated">Enviar todo</target>
+								<source>Enviar todo</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10113" restype="x-cp-quiz-clear-button-name">
 							<trans-unit id="382-10113">
-								<source>Clear</source>
-								<target state="translated">Borrar</target>
+								<source>Borrar</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10007" restype="x-cp-quiz-skip-button-name">
 							<trans-unit id="382-10007">
-								<source>Skip</source>
-								<target state="translated">Omitir</target>
+								<source>Omitir</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10008" restype="x-cp-quiz-back-button-name">
 							<trans-unit id="382-10008">
-								<source>Back</source>
-								<target state="translated">Atrás</target>
+								<source>Atrás</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10237" restype="x-cp-quiz-review-button-name">
 							<trans-unit id="382-10237">
-								<source>Review Quiz</source>
-								<target state="translated">Revisar prueba</target>
+								<source>Revisar prueba</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10269" restype="x-cp-quiz-continue-button-name">
 							<trans-unit id="382-10269">
-								<source>Continue</source>
-								<target state="translated">Continuar</target>
+								<source>Continuar</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10011" restype="x-cp-quiz-email-address">
@@ -971,76 +826,64 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="2207" restype="x-cp-quiz-continue-key">
 							<trans-unit id="382-2207">
-								<source>Y</source>
-								<target state="translated">S</target>
+								<source>S</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10105" restype="x-cp-quiz-correct-feedback-text">
 							<trans-unit id="382-10105">
-								<source>Correct - Click anywhere or press 'y' to continue.</source>
-								<target state="translated">Correcta - Haga clic en cualquier punto o pulse “S” para continuar.</target>
+								<source>Correcta - Haga clic en cualquier punto o pulse “S” para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10291" restype="x-cp-quiz-partial-correct-feedback-text">
 							<trans-unit id="382-10291">
-								<source>Partially Correct - Click anywhere or press 'y' to continue.</source>
-								<target state="translated">Parcialmente correcta - Haga clic en cualquier punto o pulse “S” para continuar.</target>
+								<source>Parcialmente correcta - Haga clic en cualquier punto o pulse “S” para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10106" restype="x-cp-quiz-incorrect-feedback-text">
 							<trans-unit id="382-10106">
-								<source>Incorrect - Click anywhere or press 'y' to continue.</source>
-								<target state="translated">Incorrecta - Haga clic en cualquier punto o pulse “S” para continuar.</target>
+								<source>Incorrecta - Haga clic en cualquier punto o pulse “S” para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10107" restype="x-cp-quiz-retry-feedback-text">
 							<trans-unit id="382-10107">
-								<source>Try again</source>
-								<target state="translated">Intentarlo de nuevo</target>
+								<source>Intentarlo de nuevo</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10184" restype="x-cp-quiz-incomplete-feedback-text">
 							<trans-unit id="382-10184">
-								<source>You must answer the question before continuing.</source>
-								<target state="translated">Debe responder a la pregunta antes de continuar.</target>
+								<source>Debe responder a la pregunta antes de continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10188" restype="x-cp-quiz-timeout-feedback-text">
 							<trans-unit id="382-10188">
-								<source>The time to answer this question has expired. Click anywhere or press 'y' to continue.</source>
-								<target state="translated">El tiempo para responder a esta pregunta transcurrió. Haga clic en cualquier punto o pulse “S” para continuar.</target>
+								<source>El tiempo para responder a esta pregunta transcurrió. Haga clic en cualquier punto o pulse “S” para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">
 							<trans-unit id="382-10358">
-								<source>You have answered all questions. What do you want to do next?</source>
-								<target state="translated">Respondió a todas las preguntas. ¿Qué desea hacer a continuación?</target>
+								<source>Respondió a todas las preguntas. ¿Qué desea hacer a continuación?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10359" restype="x-cp-quiz-submit-all-incomplete-text">
 							<trans-unit id="382-10359">
-								<source>One or more questions is incomplete. Answer all questions to continue.</source>
-								<target state="translated">Una o más preguntas están incompletas. Responda a todas las preguntas para continuar.</target>
+								<source>Una o más preguntas están incompletas. Responda a todas las preguntas para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10360" restype="x-cp-quiz-submit-all-submit-incomplete-text">
 							<trans-unit id="382-10360">
-								<source>You have not answered a few questions yet. Are you sure you want to proceed without answering those questions?</source>
-								<target state="translated">Aún no respondió a algunas preguntas. ¿Está seguro de que desea continuar sin responder a esas preguntas?</target>
+								<source>Aún no respondió a algunas preguntas. ¿Está seguro de que desea continuar sin responder a esas preguntas?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-object" extype="10042" id="383" restype="x-cp-quizzes">
 							<group cp:datatype="x-object" extype="10003" id="384" restype="x-cp-quiz">
 								<group cp:datatype="x-property" datatype="plaintext" extype="10002" restype="x-cp-quiz-name">
 									<trans-unit id="384-10002">
-										<source>Quiz</source>
-										<target state="translated">Prueba</target>
+										<source>Prueba</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10231" restype="x-cp-quiz-lms-objective-id">
 									<trans-unit id="384-10231">
 										<source>Quiz_2020731133934</source>
-										<target state="translated">Quiz_2020731133934</target>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10072" restype="x-cp-quiz-interaction-id-prefix">
@@ -1051,62 +894,52 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10171" restype="x-cp-quiz-review-correct-message">
 									<trans-unit id="384-10171">
-										<source>You answered this correctly!</source>
-										<target state="translated">¡Respondió correctamente!</target>
+										<source>¡Respondió correctamente!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10330" restype="x-cp-quiz-review-partial-correct-message">
 									<trans-unit id="384-10330">
-										<source>You answered this partially correct!</source>
-										<target state="translated">¡Respondió correctamente en parte!</target>
+										<source>¡Respondió correctamente en parte!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
 									<trans-unit id="384-10172">
-										<source>You did not answer this question completely.</source>
-										<target state="translated">No respondió a esta pregunta completamente.</target>
+										<source>No respondió a esta pregunta completamente.</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
 									<trans-unit id="384-10173">
-										<source>Your answer:</source>
-										<target state="translated">Su respuesta:</target>
+										<source>Su respuesta:</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10174" restype="x-cp-quiz-review-incorrect-message-line-2">
 									<trans-unit id="384-10174">
-										<source>The correct answer is:</source>
-										<target state="translated">La respuesta correcta es:</target>
+										<source>La respuesta correcta es:</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10165" restype="x-cp-quiz-result-pass-message">
 									<trans-unit id="384-10165">
-										<source>Congratulations, you passed the quiz!</source>
-										<target state="translated">¡Felicitaciones, superó la prueba!</target>
+										<source>¡Felicitaciones, superó la prueba!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10166" restype="x-cp-quiz-result-fail-message">
 									<trans-unit id="384-10166">
-										<source>Sorry, you failed!</source>
-										<target state="translated">¡Lo sentimos, no superó la prueba!</target>
+										<source>¡Lo sentimos, no superó la prueba!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10170" restype="x-cp-quiz-result-email-button-text">
 									<trans-unit id="384-10170">
-										<source>Send E-mail</source>
-										<target state="translated">Enviar email</target>
+										<source>Enviar email</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10265" restype="x-cp-quiz-result-retake-button-text">
 									<trans-unit id="384-10265">
-										<source>Retake Quiz</source>
-										<target state="translated">Volver a realizar prueba</target>
+										<source>Volver a realizar prueba</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10271" restype="x-cp-quiz-result-post-result-text">
 									<trans-unit id="384-10271">
-										<source>Post Result</source>
-										<target state="translated">Publicar resultado</target>
+										<source>Publicar resultado</source>
 									</trans-unit>
 								</group>
 							</group>
