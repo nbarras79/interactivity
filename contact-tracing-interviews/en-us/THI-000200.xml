@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2020-09-03T07:15:46.0Z" original="THI-000200.cptx" source-language="enUS">
+		<file datatype="cptx" date="2020-09-30T13:24:28.0Z" original="THI-000200.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
 					<count count-type="total" unit="trans-unit">154</count>
-					<count count-type="total" unit="word">508</count>
+					<count count-type="total" unit="word">515</count>
 					<count count-type="total" unit="x-cp-slides">4</count>
 				</count-group>
 			</header>
@@ -108,7 +108,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="5844-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="5844-612-1-1">A person who has tested positive for COVID-19 (SARS CoV-2)</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="5844-612-1-1">A person who has tested positive for a disease such as COVID-19 (SARS CoV-2)</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -150,7 +150,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="10925-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="10925-612-1-1">Someone who was within 6 feet of an infected person for at least 15 minutes, with or without masks. Close contacts can include members of the infected person’s household or an intimate partner of the infected person.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="10925-612-1-1">Someone who the case (person positive for a disease such as COVID-19) may have been in contact with intimately, such as household members or intimate partners or those within 6 feet of an infected person for at least 15 minutes</g>
 											</source>
 										</trans-unit>
 									</group>

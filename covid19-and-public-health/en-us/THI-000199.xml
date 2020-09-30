@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2020-09-03T07:13:47.0Z" original="THI-000199_nobuttons.cptx" source-language="enUS">
+		<file datatype="cptx" date="2020-09-30T13:24:07.0Z" original="THI-000199.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
 					<count count-type="total" unit="trans-unit">173</count>
-					<count count-type="total" unit="word">627</count>
+					<count count-type="total" unit="word">644</count>
 					<count count-type="total" unit="x-cp-slides">1</count>
 				</count-group>
 			</header>
@@ -99,7 +99,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.30;line-indent:0.00">
 										<trans-unit id="12760-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-1-1">What’s the epidemiological situation where you live? Choose one or more answers based on your geographical area to learn how public health measures reflect response to COVID-19.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-1-1">What’s the epidemiological situation now? Use the resources above to see statistics for where you live or work, or pick another city, country, or geographical area around the globe. Choose one or more answers to learn how public health measures reflect response to COVID-19.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -162,7 +162,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="13084-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt;font:style:italics" ctype="x-cp-font" id="13084-19-1-1">If cases are increasing but there are fewer than 100 cases per 100,000 people, the response to the virus may be appropriate. If there are more than 100 cases, it’s probably not enough. Note that this metric can be influenced by testing—if testing increases, typically so do cases. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt;font:style:italics" ctype="x-cp-font" id="13084-19-1-1">If cases are increasing but there are fewer than 100 cases per 100,000 people, the response to the virus may be appropriate. If there are more than 100 cases, it’s probably not enough. Note that this metric can be influenced by testing—if testing increases, typically so do cases.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -225,7 +225,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="13251-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt;font:style:italics" ctype="x-cp-font" id="13251-19-1-1">An increase in the seven-day rolling average of positivity can be an indicator of more community spread, and an early indicator of a surge in cases. Note that this metric can be influenced by testing policies, for example if only symptomatic people are tested. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt;font:style:italics" ctype="x-cp-font" id="13251-19-1-1">An increase in the 7-day rolling average of positivity can be an indicator of more community spread and an early indicator of a surge in cases. Note that this metric can be influenced by testing policies, for example, if only symptomatic people are tested.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -351,7 +351,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="13585-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt;font:style:italics" ctype="x-cp-font" id="13585-19-1-1">A decrease in the seven-day rolling average of positivity likely means that community spread is decreasing, as long as there have been no major shifts in testing availability or guidelines.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt;font:style:italics" ctype="x-cp-font" id="13585-19-1-1">A decrease in the 7-day rolling average of positivity likely means that community spread is decreasing, as long as there have been no major shifts in testing availability or guidelines.</g>
 											</source>
 										</trans-unit>
 									</group>
