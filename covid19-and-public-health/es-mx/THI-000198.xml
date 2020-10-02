@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2020-09-03T07:09:30.0Z" original="THI-000198.cptx" source-language="enUS">
+		<file datatype="cptx" date="2020-09-30T13:22:42.0Z" original="THI-000198.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5" />
 				<count-group name="countGroup1">
-					<count count-type="total" unit="trans-unit">159</count>
-					<count count-type="total" unit="word">523</count>
-					<count count-type="total" unit="x-cp-slides">5</count>
+					<count count-type="total" unit="trans-unit">154</count>
+					<count count-type="total" unit="word">495</count>
+					<count count-type="total" unit="x-cp-slides">4</count>
 				</count-group>
 			</header>
 			<body>
@@ -99,7 +99,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="5724-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="5724-612-1-1">1 de 5</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="5724-612-1-1">1 de 4</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -108,7 +108,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="5844-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="5844-612-1-1">El virus que surgió en diciembre de 2019. SARS CoV-2 es el segundo coronavirus conocido que provoca un síndrome respiratorio agudo grave.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="5844-612-1-1">El virus que surgió en Wuhan, China, en diciembre de 2019, también conocido como SARS CoV-2.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -117,7 +117,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="5879-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="5879-612-1-1">SARS CoV-2</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="5879-612-1-1">Coronavirus nuevo</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -141,7 +141,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="10772-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10772-612-1-1">2 de 5</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10772-612-1-1">2 de 4</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -150,7 +150,12 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="10925-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="10925-612-1-1">El virus que surgió en Wuhan, China, en diciembre de 2019, también conocido como SARS CoV-2.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt;font:style:italics" ctype="x-cp-font" id="10925-612-1-1">COVID-19</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="10925-612-1-2"> significa </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt;font:style:italics" ctype="x-cp-font" id="10925-612-1-3">enfermedad por coronavirus</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="10925-612-1-4"> </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt;font:style:italics" ctype="x-cp-font" id="10925-612-1-5">2019</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="10925-612-1-6">, y viene provocada por el nuevo coronavirus que surgió en diciembre de 2019.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -159,7 +164,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="10994-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="10994-612-1-1">Coronavirus nuevo</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="10994-612-1-1">COVID-19</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -183,7 +188,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="11563-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11563-612-1-1">3 de 5</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11563-612-1-1">3 de 4</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -192,12 +197,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="11716-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt;font:style:italics" ctype="x-cp-font" id="11716-612-1-1">COVID-19</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="11716-612-1-2"> significa</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt;font:style:italics" ctype="x-cp-font" id="11716-612-1-3">enfermedad por coronavirus</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="11716-612-1-4"> </g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt;font:style:italics" ctype="x-cp-font" id="11716-612-1-5">2019</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="11716-612-1-6">, y viene provocada por el nuevo coronavirus que surgió en diciembre de 2019.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="11716-612-1-1">El primer coronavirus conocido que provoca un enfermedad respiratoria aguda grave, que se identificó por primera vez en 2003.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -206,7 +206,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="11785-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="11785-612-1-1">COVID-19</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="11785-612-1-1">SARS CoV-1</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -230,7 +230,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="11894-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11894-612-1-1">4 de 5</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11894-612-1-1">4 de 4</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -239,7 +239,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="12047-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="12047-612-1-1">El primer coronavirus conocido que provoca un síndrome respiratorio agudo grave, que se identificó por primera vez en 2003.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="12047-612-1-1">Cuando alguien no muestra signos o síntomas de infección.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -248,49 +248,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="12116-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="12116-612-1-1">SARS CoV-1</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-							</group>
-						</slide>
-						<slide cp:datatype="x-object" extype="30" id="12463" resname="Slide 4" restype="x-cp-standard-slide">
-							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
-								<trans-unit id="12463-337">
-									<source>Tarjeta mnemotécnica 5</source>
-								</trans-unit>
-							</group>
-							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
-								<trans-unit id="12463-1285">
-									<source>
-									</source>
-								</trans-unit>
-							</group>
-							<group cp:datatype="x-object" extype="69" id="12448" restype="x-cp-items">
-								<group cp:datatype="x-object" extype="612" id="12225" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="12225-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12225-612-1-1">5 de 5</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="12378" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="12378-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:28.0pt" ctype="x-cp-font" id="12378-612-1-1">Cuando alguien no muestra signos o síntomas de infección.</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="12447" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="12447-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="12447-612-1-1">Asintomático</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:28.0pt" ctype="x-cp-font" id="12116-612-1-1">Asintomático</g>
 											</source>
 										</trans-unit>
 									</group>
