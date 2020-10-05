@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2020-09-03T07:13:47.0Z" original="THI-000199_nobuttons.cptx" source-language="enUS">
+		<file datatype="cptx" date="2020-09-30T13:24:07.0Z" original="THI-000199.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5" />
 				<count-group name="countGroup1">
 					<count count-type="total" unit="trans-unit">173</count>
-					<count count-type="total" unit="word">627</count>
+					<count count-type="total" unit="word">644</count>
 					<count count-type="total" unit="x-cp-slides">1</count>
 				</count-group>
 			</header>
@@ -85,7 +85,7 @@
 						<slide cp:datatype="x-object" extype="30" id="12428" resname="Slide 0" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="12428-337">
-									<source>pregunta 1</source>
+									<source>Pregunta 1</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -99,7 +99,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.30;line-indent:0.00">
 										<trans-unit id="12760-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-1-1">¿Cuál es la situación epidemiológica en la que vive? Seleccione una o más respuestas en base a su área geográfica para conocer cómo reflejan las medidas de salud pública la respuesta ante la COVID-19.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-1-1">¿Cuál es la situación epidemiológica ahora mismo? Utilice los recursos anteriores para ver datos estadísticos de su lugar de residencia o trabajo, o bien seleccione otra ciudad, país o área geográfica alrededor del globo. Seleccione una o más respuestas para conocer cómo reflejan las medidas de salud pública la respuesta ante la COVID-19.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -162,7 +162,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="13084-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt;font:style:italics" ctype="x-cp-font" id="13084-19-1-1">Si los casos están subiendo pero hay menos de 100 casos por 100.000 habitantes, la respuesta ante el virus podría ser apropiada. Si hay más de 100 casos, probablemente no es suficiente. Tenga en cuenta que esta medición puede estar influenciada por las pruebas: si aumentan los pruebas, normalmente los casos también. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt;font:style:italics" ctype="x-cp-font" id="13084-19-1-1">Si los casos están subiendo pero hay menos de 100 casos por 100.000 habitantes, la respuesta ante el virus podría ser apropiada. Si hay más de 100 casos, probablemente no es suficiente. Tenga en cuenta que esta medición puede estar influenciada por las pruebas: si aumentan los pruebas, normalmente los casos también.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -225,7 +225,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="13251-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt;font:style:italics" ctype="x-cp-font" id="13251-19-1-1">Un aumento en la media continuada de siete días de casos positivos puede ser un indicador de más propagación comunitaria, un indicador temprano de un aumento en los casos. Tenga en cuenta que esta medición puede estar influenciada por las políticas de las pruebas, por ejemplo si solo se realizan pruebas en personas sintomáticas. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt;font:style:italics" ctype="x-cp-font" id="13251-19-1-1">Un aumento en la media continuada de 7 días de casos positivos puede ser un indicador de más propagación comunitaria un indicador temprano de un aumento en los casos. Tenga en cuenta que esta medición puede estar influenciada por las políticas de las pruebas, por ejemplo si solo se realizan pruebas en personas sintomáticas.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -288,7 +288,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="13418-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt;font:style:italics" ctype="x-cp-font" id="13418-19-1-1">Si los casos están cayendo significa que la respuesta ante el virus es probablemente apropiada. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt;font:style:italics" ctype="x-cp-font" id="13418-19-1-1">Si los casos están cayendo significa que la respuesta ante el virus es probablemente apropiada.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -342,7 +342,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:16.00">
 										<trans-unit id="13575-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13575-19-1-1">El porcentaje de positivos está cayendo. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13575-19-1-1">El porcentaje de positivos está cayendo.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -351,7 +351,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="13585-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt;font:style:italics" ctype="x-cp-font" id="13585-19-1-1">Un descenso en la media continuada de siete días de casos positivos probablemente indica que la propagación comunitaria está disminuyendo, siempre que no hubiera cambios importantes en la disponibilidad o las directrices de las pruebas.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt;font:style:italics" ctype="x-cp-font" id="13585-19-1-1">Un descenso en la media continuada de 7 días de casos positivos probablemente indica que la propagación comunitaria está disminuyendo, siempre que no hubiera cambios importantes en la disponibilidad o las directrices de las pruebas.</g>
 											</source>
 										</trans-unit>
 									</group>

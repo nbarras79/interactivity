@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2020-09-03T07:30:01.0Z" original="THI-000209.cptx" source-language="enUS">
+		<file datatype="cptx" date="2020-09-30T13:31:01.0Z" original="THI-000209.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5" />
 				<count-group name="countGroup1">
@@ -99,7 +99,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="12760-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-1-1">Como en la pregunta anterior, el padre de Ramón desarrolló fiebre y tos el 3 de abril. El 5 de abril, al padre de Ramón le hacen pruebas de COVID-19 y el 7 de abril recibe resultados positivos de la prueba. Como resultado, el padre de Ramón se confina desde el 8 de abril. Después de dos días, Ramón lleva a su padre al hospital del 10 de abril. Bueno, ¿cuándo es el último día de la cuarentena de Ramón? </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-1-1">Como en la pregunta anterior, el padre de Ramón desarrolló fiebre y tos el 3 de abril. El 5 de abril, al padre de Ramón le hacen pruebas de COVID-19 y el 7 de abril recibe resultados positivos de la prueba. Como resultado, el padre de Ramón se confina desde el 8 de abril. Después de 2 días, Ramón lleva a su padre al hospital del 10 de abril. Bueno, ¿cuándo es el último día de la cuarentena de Ramón?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -162,7 +162,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="13084-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13084-19-1-1">No es correcto. Ramón tiene que ponerse en cuarentena durante 14 días a partir de la fecha en la tuvo contacto cercano con su padre. El 17 de abril es solo 7 días después del 10 de abril. Tiene que estar en cuarentena 7 días más. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13084-19-1-1">No es correcto. Ramón tiene que ponerse en cuarentena durante 14 días a partir de la fecha en la tuvo contacto cercano con su padre. El 17 de abril es solo 7 días después del 10 de abril. Tiene que estar en cuarentena 7 días más.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -225,7 +225,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="13251-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13251-19-1-1">No es correcto. Ramón tiene que ponerse en cuarentena durante 14 días a partir de la fecha en la tuvo contacto cercano con su padre. El 22 de abril es solo 12 días después del 10 de abril. Tiene que estar en cuarentena 7 días más.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13251-19-1-1">No es correcto. Ramón tiene que ponerse en cuarentena durante 14 días a partir de la fecha en la tuvo contacto cercano con su padre. El 22 de abril es solo 12 días después del 10 de abril. Tiene que estar en cuarentena 2 días más.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -343,6 +343,15 @@
 										<trans-unit id="13575-19-1">
 											<source>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13575-19-1-1">26 de abril</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="13585" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
+										<trans-unit id="13585-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13585-19-1-1">No es correcto. Ramón tiene que ponerse en cuarentena solo durante 14 días a partir de la fecha en la tuvo contacto cercano con su padre. El 26 de abril es 16 días después del 10 de abril.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -523,15 +532,6 @@
 										<trans-unit id="15545-612-1">
 											<source>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="15545-612-1-1">Repetir</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="19" id="13585" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="13585-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13585-19-1-1">No es correcto. Ramón tiene que ponerse en cuarentena solo durante 14 días a partir de la fecha en la tuvo contacto cercano con su padre. El 26 de abril es 16 días después del 10 de abril. </g>
 											</source>
 										</trans-unit>
 									</group>
