@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2020-09-30T13:24:53.0Z" original="THI-000201.cptx" source-language="enUS">
+		<file datatype="cptx" date="2020-10-05T15:12:50.0Z" original="THI-000201.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
 					<count count-type="total" unit="trans-unit">252</count>
-					<count count-type="total" unit="word">631</count>
+					<count count-type="total" unit="word">666</count>
 					<count count-type="total" unit="x-cp-slides">2</count>
 				</count-group>
 			</header>
@@ -108,7 +108,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="7928-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:22.0pt" ctype="x-cp-font" id="7928-19-1-1">Which contextual challenges are hardest for you to respond to? Drag your responses to the column on the right. We won’t save or record your answers, but you can print them for your own reference if you want to.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:18.0pt" ctype="x-cp-font" id="7928-19-1-1">In different interactions in your own life, you may have encountered some of the following contextual challenges. Which ones have been hardest for you to respond to? Drag your responses to the column on the right. We won’t save or record your answers, but you can print them for your own reference if you want to.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -308,7 +308,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="8397-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:22.0pt" ctype="x-cp-font" id="8397-19-1-1">Which contextual challenges are hardest for you to respond to? Select your responses by clicking each relevant challenge. We won’t save or record your answers, but you can print them for your own reference if you want to.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:18.0pt" ctype="x-cp-font" id="8397-19-1-1">In different interactions in your own life, you may have encountered some of the following contextual challenges. Which ones have been hardest for you to respond to? Drag your responses to the column on the right. We won’t save or record your answers, but you can print them for your own reference if you want to.</g>
 											</source>
 										</trans-unit>
 									</group>
