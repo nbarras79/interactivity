@@ -2,7 +2,7 @@
 <quizwithfeedback>
   <nextbuttontext>次へ</nextbuttontext>
   <submitbuttontext>送信</submitbuttontext>
-  <reviewbuttontext>確認</reviewbuttontext>
+  <reviewbuttontext>Review (審査)</reviewbuttontext>
   <retakequizbuttontext>やり直し</retakequizbuttontext>
   <nextbuttontext>再試行</nextbuttontext>
   <questioncounttext>質問 {0} / (1)</questioncounttext>
@@ -25,7 +25,7 @@
     <option4textexplanation>不正解。データ同期を有効にしても、2 つの組織間の同期は許可されません。 </option4textexplanation>
   </question1>
   <question2>
-    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <accessibility>質問 2この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
     <question>Einstein Analytics のデータセットに関して正しい文はどれですか? 2 つ選択してください。</question>
     <option1text>Analytics でデータセットに日付が読み込まれるときに、各日付はカレンダー年に基づいて、日、週、月、四半期、年などの複数の項目に分割される。 </option1text>
     <option1textexplanation>正解。データセットが作成されたら、[項目属性を編集] 画面で各項目の属性を表示または編集できます。</option1textexplanation>
@@ -37,7 +37,7 @@
     <option4textexplanation>正解。データセットは .csv ファイルから作成することができます。</option4textexplanation>
   </question2>
   <question3>
-    <accessibility>質問 3.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <accessibility>質問 3この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
     <question>Einstein Analytics コンサルタントがデータレシピを使用する使用事例はどれですか? 2 つ選択してください。</question>
     <option1text>複数のデータセットまたは接続済みオブジェクトのデータ結合などの変換を実行する。 </option1text>
     <option1textexplanation>正解。複数のデータセットのデータを結合するには、レシピを作成し、レシピで参照される各データセットの共有キー値を判断します。 </option1textexplanation>
@@ -49,7 +49,7 @@
     <option4textexplanation> 不正解。レシピは、特定のソースデータセットまたは接続されたデータに対して実行する、保存された変換 (ステップ) セットです。データセットレシピを使用して項目を一括更新することはできません。</option4textexplanation>
   </question3>
   <question4>
-    <accessibility>質問 4.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 4この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>ある Einstein Analytics コンサルタントが、Einstein Analytics でデータ同期を有効にすることにしました。<br><br>データ同期ではデータフローをどう最適化できますか?</question>
     <option1text>データフローにはこの機能が組み込まれているので、データ同期でデータフローは最適化されない。</option1text>
     <option1textexplanation>不正解。この機能は組み込まれていません。データ同期によって、ユーザのデータフローからの Salesforce データの抽出が最適化されます。</option1textexplanation>

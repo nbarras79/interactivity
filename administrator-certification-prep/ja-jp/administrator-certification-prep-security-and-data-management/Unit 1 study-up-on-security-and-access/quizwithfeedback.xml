@@ -2,7 +2,7 @@
 <quizwithfeedback>
   <nextbuttontext>次へ</nextbuttontext>
   <submitbuttontext>送信</submitbuttontext>
-  <reviewbuttontext>確認</reviewbuttontext>
+  <reviewbuttontext>Review (審査)</reviewbuttontext>
   <retakequizbuttontext>やり直し</retakequizbuttontext>
   <nextbuttontext>再試行</nextbuttontext>
   <questioncounttext>質問 {0} / (1)</questioncounttext>
@@ -25,19 +25,19 @@
     <option4textexplanation>不正解: 信頼済み IP 範囲が AppExchange パッケージに影響を及ぼすことはありません。</option4textexplanation>
   </question1>
   <question2>
-    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 2この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>Ursa Major Solar では組織のパスワードポリシーで、パスワードの有効期限を 60 日と定めています。けれども、営業担当から 30 日ごとにパスワードの有効期限が切れるという苦情が届いています。<br><br>システム管理者は、営業担当ユーザのパスワードの有効期限をどこで変更すべきですか?</question>
     <option1text>個々のユーザレコード</option1text>
     <option1textexplanation>不正解。ユーザの個々のレコードでは、パスワードの有効期限にアクセスできません。</option1textexplanation>
     <option2text>ユーザに割り当てられた権限セット</option2text>
-    <option2textexplanation>不正解。権限セットは、ユーザがさまざまなツールや機能にアクセスできるようにする設定と権限のコレクションです。パスワードの有効期限は、こうした機能に該当しません。</option2textexplanation>
+    <option2textexplanation>不正解。権限セットは、さまざまなツールと機能へのアクセス権をユーザに付与する設定と権限のコレクションです。パスワードの有効期限は、こうした機能に該当しません。</option2textexplanation>
     <option3text>ユーザに割り当てられたプロファイル</option3text>
     <option3textexplanation>正解: この問題は同じプロファイルのユーザに影響を及ぼしているため、営業担当が使用するプロファイルのパスワードの有効期限を調整する必要があります。</option3textexplanation>
     <option4text>ユーザに割り当てられたロール</option4text>
     <option4textexplanation>不正解: ロールは、レコードやレポートなどの主要なコンポーネントへのアクセスに影響するもので、パスワードの有効期限などの設定には影響しません。</option4textexplanation>
   </question2>
   <question3>
-    <accessibility>質問 3.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 3この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>Ursa Major Solar のグローバル営業担当副社長から、経営陣が営業担当の手数料レポートを表示できるようにして欲しいと依頼されました。<br><br>営業担当の手数料レポートを経営陣のみが表示可能にするために、システム管理者がすべきことはどれですか?</question>
     <option1text>商談の組織の共有設定を非公開にする。</option1text>
     <option1textexplanation>不正解。商談オブジェクトを非公開に設定すると、商談のすべてのレコードが、レコード所有者とロール階層のその上位ユーザにしか表示されなくなります。そのため、組織に必要以上の影響が及ぶ可能性があります。</option1textexplanation>

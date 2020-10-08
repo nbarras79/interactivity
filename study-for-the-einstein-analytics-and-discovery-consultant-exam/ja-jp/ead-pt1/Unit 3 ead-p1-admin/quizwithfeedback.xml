@@ -2,7 +2,7 @@
 <quizwithfeedback>
   <nextbuttontext>次へ</nextbuttontext>
   <submitbuttontext>送信</submitbuttontext>
-  <reviewbuttontext>確認</reviewbuttontext>
+  <reviewbuttontext>Review (審査)</reviewbuttontext>
   <retakequizbuttontext>やり直し</retakequizbuttontext>
   <nextbuttontext>再試行</nextbuttontext>
   <questioncounttext>質問 {0} / (1)</questioncounttext>
@@ -25,7 +25,7 @@
     <option4textexplanation>不正解。REST API では、ユーザがこれらの属性を変更することはできません。</option4textexplanation>
   </question1>
   <question2>
-    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 2この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>ある Einstein Analytics コンサルタントが、ダッシュボードでの Salesforce データの読み込みに時間がかかり過ぎることに気が付きました。<br><br>ダッシュボードのパフォーマンスを改善するために Einstein Analytics ユーザができることは何ですか?</question>
     <option1text>Excel シートからインポートされたデータからダッシュボードを実行する。 </option1text>
     <option1textexplanation>不正解。ダッシュボードのパフォーマンスは、データセットを作成するために使用されたデータの形式に左右されません。</option1textexplanation>

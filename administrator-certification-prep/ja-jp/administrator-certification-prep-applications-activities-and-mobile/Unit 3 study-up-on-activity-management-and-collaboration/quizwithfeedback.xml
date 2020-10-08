@@ -2,7 +2,7 @@
 <quizwithfeedback>
   <nextbuttontext>次へ</nextbuttontext>
   <submitbuttontext>送信</submitbuttontext>
-  <reviewbuttontext>確認</reviewbuttontext>
+  <reviewbuttontext>Review (審査)</reviewbuttontext>
   <retakequizbuttontext>やり直し</retakequizbuttontext>
   <nextbuttontext>再試行</nextbuttontext>
   <questioncounttext>質問 {0} / (1)</questioncounttext>
@@ -25,7 +25,7 @@
     <option4textexplanation>不正解。システム管理者が各営業担当の行動を修正すべきではなく、このオプションは非効率的です。</option4textexplanation>
   </question1>
   <question2>
-    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <accessibility>質問 2この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
     <question>Ursa Major Solar がその組織内に Salesforce を実装しています。Ursa Major Solar のユーザ全員がシステムに読み込まれましたが、全社で導入する前に少人数のユーザグループがテストユーザとして選定されました。
       これらのテストユーザは、会社全体のリリースに向けて、あらゆる機能とツールがきちんと動作するよう調整されているかどうかに関するフィードバックを Chatter に投稿します。<br><br>ロールアウト中の Chatter へのアクセスを Salesforce ユーザのサブセットに制限するために、システム管理者はどのような操作を実行すればよいですか? (答えを 2 つ選択してください)</question>
     <option1text>ユーザのサブセットに「Chatter の有効化」権限を付与する権限セットを作成する。</option1text>

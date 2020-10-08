@@ -2,7 +2,7 @@
 <quizwithfeedback>
   <nextbuttontext>次へ</nextbuttontext>
   <submitbuttontext>送信</submitbuttontext>
-  <reviewbuttontext>確認</reviewbuttontext>
+  <reviewbuttontext>Review (審査)</reviewbuttontext>
   <retakequizbuttontext>やり直し</retakequizbuttontext>
   <nextbuttontext>再試行</nextbuttontext>
   <questioncounttext>質問 {0} / (1)</questioncounttext>
@@ -25,7 +25,7 @@
     <option4textexplanation>不正解。権限セットでは Einstein Analytics のデータセットの行レベル共有を有効にできません。 </option4textexplanation>
   </question1>
   <question2>
-    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 2この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>ある Einstein Analytics コンサルタントが、データベース内の行レベルアクセスをその特定のレコードを所有するユーザのみに制限したいと考えています。<br><br>セキュリティ述語を使用してこれを実現するには、どうすればよいですか? </question>
     <option1text>&apos;Record.Id&apos; == &quot;$User.Id&quot;</option1text>
     <option1textexplanation>不正解。Record.Id は使用すべき正しい項目ではありません。 </option1textexplanation>
