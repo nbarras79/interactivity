@@ -2,7 +2,7 @@
 <quizwithfeedback>
   <nextbuttontext>次へ</nextbuttontext>
   <submitbuttontext>送信</submitbuttontext>
-  <reviewbuttontext>確認</reviewbuttontext>
+  <reviewbuttontext>Review (審査)</reviewbuttontext>
   <retakequizbuttontext>やり直し</retakequizbuttontext>
   <nextbuttontext>再試行</nextbuttontext>
   <questioncounttext>質問 (0)/(1)</questioncounttext>
@@ -25,7 +25,7 @@
     <option4textexplanation>不正解。他のユーザはメールアラートを受信しているため、プロセスがトリガされるときのプロセス評価条件が正しいことはわかっています。</option4textexplanation>
   </question1>
   <question2>
-    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 2この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>Ursa Major Solar は、ケースがクローズされた 2 日後に顧客にフォローアップメールを送信するアクションを作成しました。システム管理者は、プロセスが正しく機能することを確認したいと考えています。<br><br>待機中のアクションを監視するためにシステム管理者が参照すべきキューはどれですか?</question>
     <option1text>アウトバウンドメッセージ配信キュー</option1text>
     <option1textexplanation>不正解。アウトバウンドメッセージ配信キューには、すでに送信され配信されたメッセージが表示されます。</option1textexplanation>
@@ -37,7 +37,7 @@
     <option4textexplanation>不正解。バックグラウンドジョブキューには時間ベースのアクションが表示されません。ここでは、並列処理による共有ルールの再適用が実行中の場合などのバックグラウンドジョブが監視されます。</option4textexplanation>
   </question2>
   <question3>
-    <accessibility>質問 3.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 3この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>Ursa Major Solar には、顧客が新しいケースを登録したときにメールを送信する自動レスポンスルールと、新しいケースのケース所有権を決定する割り当てルールがあります。さらに、ケースオブジェクトには、各ケースで所有者がケースを解決するために必要なすべての項目に値が含まれていることを確認する入力規則があります。<br><br>新しく作成されたレコードのワークフロールールと関連ビジネスの自動化に関するルール適用時のアクションはどの順序で処理されますか?</question>
     <option1text>エスカレーションルール、入力規則、ワークフロールール、自動レスポンスルール、割り当てルール</option1text>
     <option1textexplanation>不正解。入力規則はエスカレーションルールの前に評価され、自動レスポンスルールはワークフロールールの前に評価されます。</option1textexplanation>
@@ -49,7 +49,7 @@
     <option4textexplanation>不正解。ワークフロールールは入力規則の後に評価されます。</option4textexplanation>
   </question3>
   <question4>
-    <accessibility>質問 4.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 4この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>Ursa Major Solar では、取引先マネージャチームから、自分が所有している取引先で商談やケースが作成されたときにメールアラートを受信したいという依頼がありました。<br><br>この目的を達成するために最低限必要なワークフロー数はどれですか?</question>
     <option1text>2 つのメールアラートを含む 1 つのワークフロールール</option1text>
     <option1textexplanation>不正解。各ワークフロールールは 1 つのオブジェクトに適用されます。このソリューションでは、メールアラートは同じオブジェクトに対して設定されます。</option1textexplanation>
@@ -61,7 +61,7 @@
     <option4textexplanation>不正解。商談とケースは、ユーザによって取引先に作成されます。メールアラートは、取引先にレコードがあることを取引先マネージャに伝えるためのものです。</option4textexplanation>
   </question4>
   <question5>
-    <accessibility>質問 5.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <accessibility>質問 5この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
     <question>Ursa Major Solar は、迅速なコミュニケーションを行い、カスタマーサービスを向上させるために、自動承認プロセスを作成しました。<br><br>承認プロセスの最終承認時のアクションはどれですか? 2 つ選択してください。</question>
     <option1text>Chatter 投稿を作成する。</option1text>
     <option1textexplanation>不正解。Chatter への投稿は最終承認時のアクションではありません。</option1textexplanation>

@@ -2,7 +2,7 @@
 <quizwithfeedback>
   <nextbuttontext>次へ</nextbuttontext>
   <submitbuttontext>送信</submitbuttontext>
-  <reviewbuttontext>確認</reviewbuttontext>
+  <reviewbuttontext>Review (審査)</reviewbuttontext>
   <retakequizbuttontext>やり直し</retakequizbuttontext>
   <nextbuttontext>再試行</nextbuttontext>
   <questioncounttext>質問 {0} / (1)</questioncounttext>
@@ -25,7 +25,7 @@
     <option4textexplanation>不正解。じょうごグラフは、順序付けられたセット内の複数のグループを表示するのに適しています。 </option4textexplanation>
   </question1>
   <question2>
-    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 2この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>Einstein Analytics コンサルタントはどのように timeseries を実装できますか?</question>
     <option1text>ダッシュボードで SAQL エディタを開く。foreach を使用して調べるデータを抽出し、timeseries を使用して選択した基準の予測を行う。</option1text>
     <option1textexplanation>正解。timeseries はデータを分析して、最適な予測モデルを選択します。timeseries はデータ内の季節性を検出します。将来データがどのようになるかを予測するときに周期が考慮されます。</option1textexplanation>
@@ -37,7 +37,7 @@
     <option4textexplanation>不正解。timeseries で最適な予測を行うには、レンズの編集は必要ありません。 </option4textexplanation>
   </question2>
   <question3>
-    <accessibility>質問 3.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 3この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>ある Einstein Analytics コンサルタントが、年度累計値を昨年の同じ値と比較できるようにしたいと考えています。 <br><br>コンサルタントは、Einstein Analytics のどの機能を使用すべきですか? </question>
     <option1text>データフロー実行のスケジュール設定</option1text>
     <option1textexplanation>不正解。データフロー実行のスケジュールを設定しても、データを比較することはできません。 </option1textexplanation>

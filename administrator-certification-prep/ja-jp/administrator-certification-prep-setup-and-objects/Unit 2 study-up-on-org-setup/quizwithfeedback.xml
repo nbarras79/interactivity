@@ -2,7 +2,7 @@
 <quizwithfeedback>
   <nextbuttontext>次へ</nextbuttontext>
   <submitbuttontext>送信</submitbuttontext>
-  <reviewbuttontext>確認</reviewbuttontext>
+  <reviewbuttontext>Review (審査)</reviewbuttontext>
   <retakequizbuttontext>やり直し</retakequizbuttontext>
   <nextbuttontext>再試行</nextbuttontext>
   <questioncounttext>質問 {0} / (1)</questioncounttext>
@@ -28,7 +28,7 @@
     <option4textexplanation>不正解。タイムゾーンのデフォルト値は [組織情報] ページにありますが、会計年度は [会社の設定] セクションの独自のカテゴリにあり、パスワードポリシーは [セキュリティ] セクションにあります。</option4textexplanation>
   </question1>
   <question2>
-    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <accessibility>質問 2この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
     <question>Ursa Major Solar では、Salesforce システム内のすべてのロケール設定を最新で一貫した状態に保ちたいと考えています。システム管理者は、この情報の更新とパラメータの設定を行うプロセスを確認中です。<br><br>ロケール設定を使用して
 設定される 2 つのパラメータセットはどれですか? (答えを 2 つ選択してください)</question>
     <option1text>営業時間と休日</option1text>
@@ -42,7 +42,7 @@
     <option4textexplanation>不正解。電話番号と通貨の形式はロケールに応じて変わります。ロケールが同じでも、国によって通貨や電話番号の形式が異なる場合があります。</option4textexplanation>
   </question2>
   <question3>
-    <accessibility>質問 3.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <accessibility>質問 3この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
     <question>営業担当副社長は、商談の命名規則を変更して会社全体で統一されるようにしました。営業マネージャは、Salesforce の [Team Europe (ヨーロッパチーム)] リストビューで自分の営業チームが担当する
 複数の商談名を更新したいと考えています。<br><br>必要なプロファイル権限をすべて持つユーザがリストビューのレコードを編集できるようにするには、どのユーザインターフェース設定を使用すべきですか? (答えを 2 つ選択してください)</question>
     <option1text>インライン編集を有効化</option1text>

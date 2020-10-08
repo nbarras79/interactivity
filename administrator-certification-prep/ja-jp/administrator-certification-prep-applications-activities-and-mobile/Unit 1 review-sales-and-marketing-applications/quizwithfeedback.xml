@@ -2,7 +2,7 @@
 <quizwithfeedback>
   <nextbuttontext>次へ</nextbuttontext>
   <submitbuttontext>送信</submitbuttontext>
-  <reviewbuttontext>確認</reviewbuttontext>
+  <reviewbuttontext>Review (審査)</reviewbuttontext>
   <retakequizbuttontext>やり直し</retakequizbuttontext>
   <nextbuttontext>再試行</nextbuttontext>
   <questioncounttext>質問 {0} / (1)</questioncounttext>
@@ -25,7 +25,7 @@
     <option4textexplanation>不正解。入力規則は、ユーザがレコードを保存する前に、入力したデータが指定した基準を満たしているかどうかを検証するものです。したがって、入力規則は、新設の営業チームに適切なフェーズを表示するというニーズを満たしません。</option4textexplanation>
   </question1>
   <question2>
-    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 2この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>Ursa Major Solar の営業業務部長は、商品を指定せずに商談を記録する営業担当が増えていることに気が付きました。商品のない商談が記録されると、後々業務チームが各商談を見直して商品を追加しなければなりません。営業担当が各商談に必ず商品を追加するよう促すために、システム管理者が設定に行うべき変更はどれですか?</question>
     <option1text>ユーザが関連商品を表示できるようにする関連リストを作成する。</option1text>
     <option1textexplanation>不正解。関連リストを追加しても、商談を記録する営業担当に必ず商品を追加するよう促すことになるとは限りません。</option1textexplanation>
@@ -37,7 +37,7 @@
     <option4textexplanation>不正解。価格表や商品のアクセスおよび表示は、商談を記録するときに商品を追加するよう営業担当に促すものではありません。</option4textexplanation>
   </question2>
   <question3>
-    <accessibility>質問 3.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <accessibility>質問 3この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
     <question>Ursa Major Solar が先ごろ、最新の商品ラインを発表しました。Ursa Major Solar のサイト上の Web フォームで多数のリードが生み出され、こうした見込み客が特定の商品への関心を示しています。これらのリードは直接 Salesforce に自動的にインポートされます。<br><br>リードの [Product Interest (商品への関心)] というカスタム項目を使用して、リードの所有権を適切な商品チームに割り当てるために、システム管理者が使用すべき機能はどれですか? (答えを 2 つ選択してください)</question>
     <option1text>割り当てルール</option1text>
     <option1textexplanation>正解。割り当てルールは、リードまたはケースの処理方法を決定する条件を定義します。このシナリオでは、見込み客が Web フォームで特定の商品に関心を示すと (リードの [Product Interest (商品への関心)] カスタム項目)、リードが生成され、適切な商品チームに割り当てられます。</option1textexplanation>
@@ -49,7 +49,7 @@
     <option4textexplanation>正解。キューは、レコードの優先度の設定、レコードの分配、ワークロードを分担するチームへのレコードの割り当てを行います。このシナリオでは、リードを適切な商品チームに割り当てる必要があるため、キューの必要性が示唆されます。</option4textexplanation>
   </question3>
   <question4>
-    <accessibility>質問 4.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 4この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>Ursa Major Solar のある営業担当が見込み客に対応していますが、この見込み客は会社の IT 規定により添付ファイルを開くことができません。<br><br>この営業担当が、商品データシートをメール添付以外の方法で見込み客に送信するにはどうすればよいですか?</question>
     <option1text>データシートの内容のコピー/貼り付け操作で、カスタマーコミュニティ内にカスタムページを作成する。</option1text>
     <option1textexplanation>不正解。この解決策は非効率的で、個々の見込み客と情報を共有する安全な手段ではありません。</option1textexplanation>

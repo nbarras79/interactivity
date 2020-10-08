@@ -2,7 +2,7 @@
 <quizwithfeedback>
   <nextbuttontext>次へ</nextbuttontext>
   <submitbuttontext>送信</submitbuttontext>
-  <reviewbuttontext>確認</reviewbuttontext>
+  <reviewbuttontext>Review (審査)</reviewbuttontext>
   <retakequizbuttontext>やり直し</retakequizbuttontext>
   <nextbuttontext>再試行</nextbuttontext>
   <questioncounttext>質問 {0} / (1)</questioncounttext>
@@ -25,11 +25,11 @@
     <option4textexplanation>正解: オブジェクトのコンパクトレイアウトは、Salesforce モバイルアプリケーション用にカスタマイズできます。</option4textexplanation>
   </question1>
   <question2>
-    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 2この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>Ursa Major Solar は、メールの処理に Outlook を使用しています。Ursa Major Solar が Salesforce の実装を進める中、営業担当は Salesforce が Outlook に統合されないため、メールプロバイダを変更しなければならないのではないかと懸念しています (変更を望んでいません)。<br><br>システム管理者が Lightning for Outlook を使用して Salesforce と Outlook 間で同期できるものは何ですか?</question>
     <option1text>取引先</option1text>
     <option1textexplanation>不正解。Lightning for Outlook 経由で取引先情報にアクセスすることはできますが、取引先情報は Salesforce から Outlook に同期 (ダウンロード) されません。</option1textexplanation>
-    <option2text>行動</option2text>
+    <option2text>イベント</option2text>
     <option2textexplanation>正解。Salesforce の行動は Salesforce と Outlook 間で同期されます。</option2textexplanation>
     <option3text>ToDo</option3text>
     <option3textexplanation>不正解。ToDo は Salesforce と Outlook 間で同期されません。</option3textexplanation>

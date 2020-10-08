@@ -2,7 +2,7 @@
 <quizwithfeedback>
   <nextbuttontext>次へ</nextbuttontext>
   <submitbuttontext>送信</submitbuttontext>
-  <reviewbuttontext>確認</reviewbuttontext>
+  <reviewbuttontext>Review (審査)</reviewbuttontext>
   <retakequizbuttontext>やり直し</retakequizbuttontext>
   <nextbuttontext>再試行</nextbuttontext>
   <questioncounttext>質問 {0} / (1)</questioncounttext>
@@ -25,19 +25,19 @@
     <option4textexplanation>不正解。数式項目が役立つのは、組織にすでにインポートされているデータのみです。この場合の目的は、インポートする前にデータの重複を防ぐことであるため、数式項目は適切な解決策ではありません。</option4textexplanation>
   </question1>
   <question2>
-    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <accessibility>質問 2この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
     <question>Ursa Major Solar の営業業務チームは、取引先、取引先責任者、商談、注文をインポート/エクスポートする必要があります。<br><br>営業業務チームがこの処理を実行するために必要なプロファイル権限はどれですか? (答えを 2 つ選択してください)</question>
     <option1text>「API の有効化」</option1text>
     <option1textexplanation>正解。取引先、取引先責任者、商談、注文のインポートやエクスポートにデータローダを使用する場合、プロファイル権限に「API の有効化」が必要です。</option1textexplanation>
     <option2text>これらのオブジェクトに対する「すべて変更」</option2text>
     <option2textexplanation>正解。取引先、取引先責任者、商談、注文オブジェクトの [すべて変更] 設定は、この権限のあるユーザが、共有に関係なく、すべてのレコードを表示、編集、削除できることを意味します。つまり、これらのオブジェクトのみのインポートとエクスポートというニーズに適しています。</option2textexplanation>
-    <option3text>「すべてのデータの参照」</option3text>
+    <option3text>すべてのデータの参照</option3text>
     <option3textexplanation>不正解: 「すべてのデータの参照」によって取引先、取引先責任者、商談、注文以外のオブジェクトにもアクセスできるようになります。</option3textexplanation>
     <option4text>「ウィークリーデータのエクスポート」</option4text>
     <option4textexplanation>不正解: 「ウィークリーデータのエクスポート」により、エディションに応じて週に 1 回データのバックアップファイルが生成されます。これは、営業業務チームの処理上のニーズを満たすものではありません。</option4textexplanation>
   </question2>
   <question3>
-    <accessibility>質問 3.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 3この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>Ursa Major Solar の業務部長は、営業担当が商談をクローズ済みフェーズに移動する際、必ずしも商品の設置日を記入していないことに気が付きました。日付が記録されていなければ、業務チームが営業担当に連絡して設置日を確認しなければなりません。業務部長は、営業担当が商品の設置日を記録しない限り、商談をクローズできないようにすることを求めています。<br><br>Ursa Major Solar で、商談のフェーズをクローズ済みに変更するときに、商品設置日というカスタム日付項目の値を必須にすることができるのはどの機能ですか?</question>
     <option1text>入力規則</option1text>
     <option1textexplanation>正解: 入力規則を使用して、商談フェーズに基づいて項目を条件付きで必須にすることができます。</option1textexplanation>
@@ -49,7 +49,7 @@
     <option4textexplanation>不正解: レコードタイプを使用すると、ユーザが各自のプロファイルに基づいて、さまざまなビジネスシナリオに対応する各種のページレイアウトや選択リストの値を選択できます。ただし、レコードタイプを使用して、フェーズがクローズ済みに設定されたときに、日付項目への入力を必須にすることはできません。</option4textexplanation>
   </question3>
   <question4>
-    <accessibility>質問 4.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <accessibility>質問 4この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
     <question>Ursa Major Solar のマーケティング担当副社長がリードを組織に読み込んだ後で、削除する必要のあることに気が付きました。副社長はシステム管理者に削除を依頼しました。<br><br>レコードを一括削除する前に推奨されるベストプラクティスはどれですか? (答えを 2 つ選択してください)</question>
     <option1text>削除する前に、過去 6 か月間の設定変更履歴をダウンロードする。</option1text>
     <option1textexplanation>不正解: 設定変更履歴は、組織に対して実行された設定変更の直近 20 件分の履歴です。データのバックアップではありません。</option1textexplanation>

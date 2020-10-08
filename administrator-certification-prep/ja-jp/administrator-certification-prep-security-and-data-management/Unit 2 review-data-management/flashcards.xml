@@ -45,7 +45,7 @@
 <flashcard9>
   <accessibility>フラッシュカード 9</accessibility>
   <front>データローダとインポートウィザードの違い</front>
-  <back>データローダを使用する状況: <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 20px;padding-left: 20px;font-size:12px;"><li>5 万～ 500 万件のレコードを読み込む必要がある。データローダは最大 500 万件のレコードの読み込みに対応します。</li><li>夜間インポートなど、定期的なデータの読み込みスケジュールを設定する。</li><li>バックアップの目的でデータをエクスポートする。</li></ul><br><br>インポートウィザードを使用する状況: <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 20px;padding-left: 20px;font-size:12px;"><li>5 万件未満のレコードを読み込む。</li><li>レコードをアップロードするときに取引先名と取引先部門、取引先責任者のメールアドレス、またはリードのメールアドレスを照合して重複を防ぐ。</li></ul></back>
+  <back>データローダを使用する状況: <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 20px;padding-left: 20px;font-size:12px;"><li>5 万～ 500 万件のレコードを読み込む必要がある。データローダは最大 500 万件のレコードの読み込みに対応します。</li><li>夜間インポートなど、定期的なデータ読み込みスケジュールを設定する。</li><li>バックアップの目的でデータをエクスポートする。</li></ul><br><br>インポートウィザードを使用する状況: <ul style="list-style-position: outside;list-style-type: disc;text-align: left;margin-left: 20px;padding-left: 20px;font-size:12px;"><li>5 万件未満のレコードを読み込む。</li><li>レコードをアップロードするときに取引先名と取引先部門、取引先責任者のメールアドレス、またはリードのメールアドレスを照合して重複を防ぐ。</li></ul></back>
 </flashcard9>
 <flashcard10>
   <accessibility>フラッシュカード 10</accessibility>

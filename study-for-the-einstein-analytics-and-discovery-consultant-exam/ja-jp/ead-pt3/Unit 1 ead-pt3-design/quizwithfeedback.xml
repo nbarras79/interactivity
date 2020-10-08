@@ -2,7 +2,7 @@
 <quizwithfeedback>
   <nextbuttontext>次へ</nextbuttontext>
   <submitbuttontext>送信</submitbuttontext>
-  <reviewbuttontext>確認</reviewbuttontext>
+  <reviewbuttontext>Review (審査)</reviewbuttontext>
   <retakequizbuttontext>やり直し</retakequizbuttontext>
   <nextbuttontext>再試行</nextbuttontext>
   <questioncounttext>質問 {0} / (1)</questioncounttext>
@@ -25,7 +25,7 @@
     <option4textexplanation>正解。棒または縦棒グラフは、関連する値をすばやく視覚的に比較する場合に使用します。</option4textexplanation>
   </question1>
   <question2>
-    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 2この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>Analytics テンプレートアプリケーションを使用する利点は何ですか?</question>
     <option1text>テンプレートからアプリケーションを作成すると、データセットとダッシュボードが自動的に作成され、組織が価値を実現するまでの時間が短縮される。</option1text>
     <option1textexplanation>正解。Analytics テンプレートアプリケーションと Salesforce が提供する事前構築済み Analytics アプリケーションにより、組織が Analytics で価値を実現するまでの時間が短縮されます。 </option1textexplanation>
@@ -37,7 +37,7 @@
     <option4textexplanation>不正解。Einstein Analytics では、組織にフローは自動的に作成されません。 </option4textexplanation>
   </question2>
   <question3>
-    <accessibility>質問 3.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 3この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>Approval Analytics テンプレートを使用する場合の要件は何ですか?</question>
     <option1text>このテンプレートを使用するには、ユーザは「すべてのデータの参照」アクセス権と適切なライセンスを持っている必要がある。</option1text>
     <option1textexplanation>不正解。この場合は必要以上の情報がユーザに表示されてしまいます。 </option1textexplanation>

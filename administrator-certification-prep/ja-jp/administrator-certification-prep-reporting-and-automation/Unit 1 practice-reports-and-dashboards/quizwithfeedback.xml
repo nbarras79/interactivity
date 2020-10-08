@@ -2,7 +2,7 @@
 <quizwithfeedback>
   <nextbuttontext>次へ</nextbuttontext>
   <submitbuttontext>送信</submitbuttontext>
-  <reviewbuttontext>確認</reviewbuttontext>
+  <reviewbuttontext>Review (審査)</reviewbuttontext>
   <retakequizbuttontext>やり直し</retakequizbuttontext>
   <nextbuttontext>再試行</nextbuttontext>
   <questioncounttext>質問 {0} / (1)</questioncounttext>
@@ -25,7 +25,7 @@
     <option4textexplanation>不正解。スケジュールでは、各営業担当が自分の進行中の商談を確認できるレポートは作成されません。</option4textexplanation>
   </question1>
   <question2>
-    <accessibility>質問 2.この質問の回答には 5 つの選択肢があります。質問の正解は 3 つです。</accessibility>
+    <accessibility>質問 2この質問の回答には 5 つの選択肢があります。質問の正解は 3 つです。</accessibility>
     <question>リード状況に基づくマーケティングパイプライン内のリード件数と各リード状況が表す割合が表示されるレポートグラフはどれですか? 3 つ選択してください。(答えを 3 つ選択してください)</question>
     <option1text>集合棒グラフ</option1text>
     <option1textexplanation>不正解。集合棒グラフには、サイロ化された個々のリード情報が表示されます。</option1textexplanation>
@@ -39,7 +39,7 @@
     <option5textexplanation>正解。じょうごグラフには、リード数と全体に対するリードの割合が表示されます。</option5textexplanation>
   </question2>
   <question3>
-    <accessibility>質問 3.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <accessibility>質問 3この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
     <question>ある財務ユーザは、「すべてのデータの参照」権限が有効になっていますが、セールスパイプラインレポートを開いたときに商談が表示されません。一方、営業担当には期待どおりに商談が表示されます。商談は、権限があるユーザにのみ表示される必要があります。<br><br>財務ユーザにパイプラインレポートで商談が表示されるようにするために、システム管理者が実行すべきアクションはどれですか? 2 つ選択してください。(答えを 2 つ選択してください)</question>
     <option1text>パイプラインレポートで [階層レベルの保存] を選択する。</option1text>
     <option1textexplanation>正解。[階層レベルの保存] チェックボックスをオンにすると、レポートの作成時に使用された階層レベルが保持されます。そのため、元々財務ユーザにレポートを表示する権限があれば、以降のレポートが作成されたときにも同じ権限が適用されます。</option1textexplanation>
@@ -51,7 +51,7 @@
     <option4textexplanation>不正解。こうすると、組織のすべてのユーザに商談が表示されます。</option4textexplanation>
   </question3>
   <question4>
-    <accessibility>質問 4.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 4この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>各営業担当に各自の現在の商談パイプラインが表示されるダッシュボードを提供するには、システム管理者は何を設定すべきですか?</question>
     <option1text>ダッシュボード検索条件を現在のユーザに設定する。</option1text>
     <option1textexplanation>不正解。ダッシュボード検索条件を現在のユーザに設定すると、ダッシュボードを実行しているユーザではなく、設定されたユーザの商談のみが表示されます。</option1textexplanation>
@@ -68,7 +68,7 @@
     <option4textexplanation>正解。これにより、ダッシュボードには閲覧ユーザに関連するデータのみが表示されます。</option4textexplanation>
   </question4>
   <question5>
-    <accessibility>質問 5.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 5この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>ある営業ユーザが、ダッシュボードにコンポーネントを追加したいと考えています。<br><br>1 つのダッシュボードに追加できるコンポーネントの最大数はどれですか?</question>
     <option1text>3</option1text>
     <option1textexplanation>不正解。各ダッシュボードには、最大 20 個のコンポーネントを含めることができます。各レポートには、最大 3 個のクロス条件を含めることができます。</option1textexplanation>
@@ -80,7 +80,7 @@
     <option4textexplanation>不正解。各ダッシュボードには、最大 20 個のコンポーネントを含めることができます。ダッシュボード検索条件には、最大 50 個の値を設定できます。</option4textexplanation>
   </question5>
   <question6>
-    <accessibility>質問 6.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 6この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>ユーザにカスタムレポートタイプが表示されない場合、システム管理者が実行すべきことは何ですか?</question>
     <option1text>新しいレポートタイプがリリースされていることを確認する。</option1text>
     <option1textexplanation>正解。カスタムレポートタイプがリリースされていない場合、ユーザはそのレポートタイプにアクセスできません。</option1textexplanation>
@@ -92,7 +92,7 @@
     <option4textexplanation>不正解。レポートタイプは、リリースされたときにレポートビルダーに含まれます。</option4textexplanation>
   </question6>
   <question7>
-    <accessibility>質問 7.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 7この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>Ursa Major Solar は、非公開データアクセスモデルを使用しています。商品マネージャと営業担当は、ロール階層の異なるブランチにいます。<br><br>商品マネージャが商品パイプライン内の商談についてのレポートを作成できるようにするために、システム管理者がすべきことは何ですか?</question>
     <option1text>条件に基づく共有ルールを作成する。</option1text>
     <option1textexplanation>正解。条件に基づく共有ルールは、所有権、あるいは項目値に基づいて共有するレコードを決定します。</option1textexplanation>
