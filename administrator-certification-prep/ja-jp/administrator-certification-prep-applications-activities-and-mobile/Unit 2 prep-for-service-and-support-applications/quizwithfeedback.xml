@@ -2,7 +2,7 @@
 <quizwithfeedback>
   <nextbuttontext>次へ</nextbuttontext>
   <submitbuttontext>送信</submitbuttontext>
-  <reviewbuttontext>確認</reviewbuttontext>
+  <reviewbuttontext>Review (審査)</reviewbuttontext>
   <retakequizbuttontext>やり直し</retakequizbuttontext>
   <nextbuttontext>再試行</nextbuttontext>
   <questioncounttext>質問 {0} / (1)</questioncounttext>
@@ -25,7 +25,7 @@
     <option4textexplanation>不正解。顧客を自動ケース更新ユーザとして設定すべきではありません。自動ケース更新ユーザとは、Salesforce のすべての自動ケースアクションのケース履歴にリストされているユーザです。</option4textexplanation>
   </question1>
   <question2>
-    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 2この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>Ursa Major Solar では、さまざまなレベルのカスタマーサポートを実施しています。サポート担当副社長は、未解決のケースが 4 時間以上オープンになっている場合にサポートチームに自動的に通知する手段を求めています。<br><br>ケースが 4 時間以上オープンになっている場合にサポートマネージャに警告するために使用すべき機能はどれですか?</question>
     <option1text>ケースキュー</option1text>
     <option1textexplanation>不正解: ケースキューは、レコードの優先度の設定、レコードの分配、ワークロードを分担するチームへのレコードの割り当てを行うものです。ケースをキューに配置しても、ケースが放置されていることがサポートマネージャに警告されません。</option1textexplanation>
@@ -37,7 +37,7 @@
     <option4textexplanation>不正解: ケースの割り当てルールは、リードまたはケースの処理方法を決定する条件を定義します。一致が見つかった時点で、Salesforce がその項目を処理し、その項目に対するルールエントリの評価が終了します。</option4textexplanation>
   </question2>
   <question3>
-    <accessibility>質問 3.この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
+    <accessibility>質問 3この質問の回答には 4 つの選択肢があります。質問の正解は 2 つです。</accessibility>
     <question>Ursa Major Solar は、顧客が適切なドキュメントにアクセスできれば自力で簡単に解決できると思われるサポートケースが増加していることに気が付きました。そこで、記事がカテゴリ別に分類される知識ベースを作成したいと考えています。<br><br>Salesforce ナレッジにデータカテゴリを使用する 2 つの利点は何ですか? (答えを 2 つ選択してください)</question>
     <option1text>記事の所有者がビューを追跡できる。</option1text>
     <option1textexplanation>不正解。データカテゴリを使用しても、記事の所有者が記事ビューを追跡できるかどうかには影響しません。</option1textexplanation>
@@ -49,7 +49,7 @@
     <option4textexplanation>不正解。データカテゴリは、記事を Chatter に投稿できるかどうかには影響ありません。</option4textexplanation>
   </question3>
   <question4>
-    <accessibility>質問 4.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 4この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>Ursa Major Solar では、顧客がそれぞれの質問に回答し合い、協力して問題を解決できるようにして、サポートコストを削減したいと考えています。<br><br>顧客が互いにやり取りし、ベストプラクティスを共有できるようにするために、Salesforce システム管理者が使用すべき機能は何ですか?</question>
     <option1text>コミュニティ</option1text>
     <option1textexplanation>正解。コミュニティは、顧客、パートナー、従業員など、ビジネスプロセスにとって重要な人々と情報を共有したり、コラボレーションしたりする優れた手段です。この用途には、顧客間のコラボレーションも含まれます。</option1textexplanation>

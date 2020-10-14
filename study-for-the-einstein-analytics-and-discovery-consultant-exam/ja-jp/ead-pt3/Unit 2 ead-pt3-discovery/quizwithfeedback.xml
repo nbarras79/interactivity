@@ -2,7 +2,7 @@
 <quizwithfeedback>
   <nextbuttontext>次へ</nextbuttontext>
   <submitbuttontext>送信</submitbuttontext>
-  <reviewbuttontext>確認</reviewbuttontext>
+  <reviewbuttontext>Review (審査)</reviewbuttontext>
   <retakequizbuttontext>やり直し</retakequizbuttontext>
   <nextbuttontext>再試行</nextbuttontext>
   <questioncounttext>質問 {0} / (1)</questioncounttext>
@@ -25,7 +25,7 @@
     <option4textexplanation>不正解。[何が起きる可能性があるか] インサイトでは、ダッシュボードのパフォーマンスは判断されません。 </option4textexplanation>
   </question1>
   <question2>
-    <accessibility>質問 2.この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
+    <accessibility>質問 2この質問の回答には 4 つの選択肢があります。質問の正解は 1 つです。</accessibility>
     <question>予測分析のためのデータを準備するとき、Einstein Analytics コンサルタントは欠損値というデータ品質の問題にどう対処することができますか?</question>
     <option1text>欠損値に「empty」という語を入力すると、不要な追加値が作成されてデータ品質の対処にはなりません。 </option1text>
     <option1textexplanation>不正解。欠損値に「empty」という語を入力する。</option1textexplanation>
