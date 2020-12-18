@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2020-09-30T13:30:31.0Z" original="THI-000208.cptx" source-language="enUS">
+		<file datatype="cptx" date="2020-12-18T13:51:49.0Z" original="THI-000208.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
 					<count count-type="total" unit="trans-unit">193</count>
-					<count count-type="total" unit="word">657</count>
+					<count count-type="total" unit="word">648</count>
 					<count count-type="total" unit="x-cp-slides">1</count>
 				</count-group>
 			</header>
@@ -153,7 +153,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:16.00">
 										<trans-unit id="13074-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13074-19-1-1">April 17</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13074-19-1-1">April 18</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -162,7 +162,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="13084-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13084-19-1-1">Incorrect. Ramon has to quarantine for 14 days from the date when he last had close contact with his father. April 17 is only 9 days after April 8. He has to stay in quarantine 5 days longer. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13084-19-1-1">Correct. Ramon’s father started self-isolating on April 8, so Ramon’s quarantine ends 10 days later, on April 18.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -225,7 +225,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="13251-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13251-19-1-1">Correct. Ramon’s father started self-isolating on April 8, so Ramon’s quarantine ends 14 days later, on April 22.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13251-19-1-1">Incorrect. Ramon has to quarantine for only 10 days from the date when he last had close contact with his father. April 22 is 14 days after April 8.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -288,7 +288,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="13418-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13418-19-1-1">Incorrect. Ramon has to quarantine for only 14 days from the date when he last had close contact with his father. April 24 is 16 days after April 8.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13418-19-1-1">Incorrect. Ramon has to quarantine for only 10 days from the date when he last had close contact with his father. April 24 is 16 days after April 8.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -531,7 +531,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="13585-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13585-19-1-1">Incorrect. Ramon has to quarantine for only 14 days from the date when he last had close contact with his father. April 26 is 18 days after April 8.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13585-19-1-1">Incorrect. Ramon has to quarantine for only 10 days from the date when he last had close contact with his father. April 26 is 18 days after April 8.</g>
 											</source>
 										</trans-unit>
 									</group>
