@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <fib>
-  <fulltext>Marcia and Orson work together to create a streamlined customer experience for Tele, Inc. When Marcia needs a final signature on a contract from someone in Germany, she lets Orson know and works with him to get it. Orson, being the savvy rule follower he is, knows that this only qualifies him for a {blank_space} if he completes {blank_space} of the {blank_space}. Marcia also knows how to follow the rules. When she runs a sale locally with the New York Tele, Inc. team, which is buying 100 user licenses, she knows she can quote the deal when the {blank_space} is in Germany. This is not considered selling outside of her {blank_space} because Tele, Inc. is buying locally and sending invoices to Germany, which is where their {blank_space} is located.</fulltext>
-  <choice1>sales activity</choice1>
-  <choice2>split</choice2>
-  <choice3>20 percent</choice3>
-  <choice4>centralized procurement department</choice4>
-  <choice5>territory</choice5>
-  <choice6>contract billing address</choice6>
-  <fulltextsolution>Marcia and Orson work together to create a streamlined customer experience for Tele, Inc. When Marcia needs a final signature on a contract from someone in Germany, she lets Orson know and works with him to get it. Orson, being the savvy rule follower he is, knows that this only qualifies him for a split if he completes 20 percent of the sales actvitity. Marcia also knows how to follow the rules. When she runs a sale locally with the New York Tele, Inc. team, which is buying 100 user licenses, she knows she can quote the deal when the contract billing address is in Germany. This is not considered selling outside of her territory because Tele, Inc. is buying locally and sending invoices to Germany, which is where their centralized procurement department is located.</fulltextsolution>
+  <fulltext>Marcia and Orson work together to create a streamlined customer experience for Tele, Inc. When Marcia needs a final signature on a contract from someone in Germany, she lets Orson know and works with him to get it. Orson, being the savvy rule follower he is, knows that this only qualifies him for a {blank_space1} if he completes {blank_space2} of the {blank_space3}. Marcia also knows how to follow the rules. When she runs a sale locally with the New York Tele, Inc. team, which is buying 100 user licenses, she knows she can quote the deal when the {blank_space4} is in Germany. This is not considered selling outside of her {blank_space5} because Tele, Inc. is buying locally and sending invoices to Germany, which is where their {blank_space6} is located.</fulltext>
+  <answer1>split</answer1>
+  <answer2>20 percent</answer2>
+  <answer3>sales activity</answer3>
+  <answer4>contract billing address</answer4>
+  <answer5>territory</answer5>
+  <answer6>centralized procurement department</answer6>
+  <fulltextsolution>Marcia and Orson work together to create a streamlined customer experience for Tele, Inc. When Marcia needs a final signature on a contract from someone in Germany, she lets Orson know and works with him to get it. Orson, being the savvy rule follower he is, knows that this only qualifies him for a split if he completes 20 percent of the sales activity. Marcia also knows how to follow the rules. When she runs a sale locally with the New York Tele, Inc. team, which is buying 100 user licenses, she knows she can quote the deal when the contract billing address is in Germany. This is not considered selling outside of her territory because Tele, Inc. is buying locally and sending invoices to Germany, which is where their centralized procurement department is located.</fulltextsolution>
 </fib>
