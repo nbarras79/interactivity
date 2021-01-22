@@ -606,7 +606,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="14033-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="14033-612-1-1">オブジェクト同士が密接にリンクされ、主レコードによって従レコードおよび副従レコードの特定の動作が制御されます。たとえば、2 オブジェクトの主従関係を定義し (取引先&mdash;経費レポートなど)、そのリレーションを副従レコードに拡張することができます (取引先&mdash;経費レポート&mdash;経費品目など)。その後で、主&mdash;従&mdash;副従リレーション全体に対して操作を実行できます。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="14033-612-1-1">オブジェクト同士が密接にリンクされ、主レコードによって従レコードおよび副従レコードの特定の動作が制御されます。たとえば、2 オブジェクトの主従関係を定義し (取引先—経費レポートなど)、そのリレーションを副従レコードに拡張することができます (取引先—経費レポート—経費品目など)。その後で、主—従—副従リレーション全体に対して操作を実行できます。</g>
 											</source>
 										</trans-unit>
 									</group>
