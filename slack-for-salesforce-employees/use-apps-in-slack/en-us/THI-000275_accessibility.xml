@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accessibility>
+  <leftarrow>Previous Flashcard</leftarrow>
+  <rightarrow>Next Flashcard</rightarrow>
+  <flashcard1>
+    <image>Sven Linder photo</image>
+    <frontflashcardbackground>Front of flashcard white background</frontflashcardbackground>
+    <frontflashcardbutton>Flip to back of flashcard</frontflashcardbutton>
+  </flashcard1>
+</accessibility>

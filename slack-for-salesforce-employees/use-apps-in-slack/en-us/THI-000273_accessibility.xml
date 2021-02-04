@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accessibility>
+  <leftarrow>Previous Flashcard</leftarrow>
+  <rightarrow>Next Flashcard</rightarrow>
+  <flashcard1>
+    <image>Chris Kelly photo</image>
+    <frontflashcardbackground>Front of flashcard white background</frontflashcardbackground>
+    <frontflashcardbutton>Flip to back of flashcard</frontflashcardbutton>
+  </flashcard1>
+  <flashcard2>
+    <image>Dylan Ho photo</image>
+    <frontflashcardbackground>Front of flashcard white background</frontflashcardbackground>
+    <frontflashcardbutton>Flip to back of flashcard</frontflashcardbutton>
+  </flashcard2>
+  <flashcard3>
+    <image>Jamie Bland photo</image>
+    <frontflashcardbackground>Front of flashcard white background</frontflashcardbackground>
+    <frontflashcardbutton>Flip to back of flashcard</frontflashcardbutton>
+  </flashcard3>
+</accessibility>
