@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fib>
+  <fulltext>Marcia と Orson は Tele, Inc.のために合理化されたカスタマーエクスペリエンスを創造するために協力しています。Marcia がドイツのいずれかの担当者に契約に最終的な署名をしてもらう必要がある場合、Marcia は Orson にその旨を伝え、Orson と連携して署名を取得します。Orson はルール遵守に精通しており、この場合、自分が {blank_space3} の {blank_space2} を完了した場合にのみ {blank_space1} を受け取る資格があることを知っています。Marcia もルールに従う方法を理解しています。100 ユーザライセンスを購入しようとしている New York の Tele, Inc. チームに現地で販売を行う場合、Marcia は {blank_space4} がドイツにあっても、その商談の見積を行えることを知っています。Tele, Inc. は現地で購入し、請求書を {blank_space6} があるドイツに送付するため、これは Marcia の {blank_space5} 外での販売とはみなされません。</fulltext>
+  <answer1>スプリット</answer1>
+  <answer2>20%</answer2>
+  <answer3>営業活動</answer3>
+  <answer4>契約請求先住所</answer4>
+  <answer5>テリトリー</answer5>
+  <answer6>一元化された調達部門</answer6>
+  <fulltextsolution>Marcia と Orson は Tele, Inc.のために合理化されたカスタマーエクスペリエンスを創造するために協力しています。Marcia がドイツのいずれかの担当者に契約に最終的な署名をしてもらう必要がある場合、Marcia は Orson にその旨を伝え、Orson と連携して署名を取得します。Orson はルール遵守に精通しており、この場合、自分が営業活動の 20% を完了した場合にのみスプリットを受け取る資格があることを知っています。Marcia もルールに従う方法を理解しています。100 ユーザライセンスを購入しようとしている New York の Tele, Inc. チームに現地で販売を行う場合、Marcia は契約請求先住所がドイツにあっても、その商談の見積を行えることを知っています。Tele, Inc. は現地で購入し、請求書を一元化された調達部門があるドイツに送付するため、これは Marcia のテリトリー外での販売とはみなされません。</fulltextsolution>
+</fib>
