@@ -115,7 +115,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="9718-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="9718-19-1-1">初頭バイアス</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="9718-19-1-1">初期バイアス</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -178,7 +178,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="9780-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="9780-19-1-1">親近感/仲間意識バイアス</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="9780-19-1-1">親和/内集団バイアス</g>
 											</source>
 										</trans-unit>
 									</group>

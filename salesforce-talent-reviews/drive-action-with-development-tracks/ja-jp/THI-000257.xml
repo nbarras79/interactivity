@@ -115,7 +115,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="9718-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9718-19-1-1">Edgar は「能力育成」トラックの対象者である。信頼でき、一貫したパフォーマンスを示しているが、いくつかの主要な領域で能力を伸ばす必要がある。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9718-19-1-1">Edgar は「成長のための育成」トラックの対象者である。信頼でき、一貫したパフォーマンスを示しているが、いくつかの主要な領域で能力を伸ばす必要がある。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -124,7 +124,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="9983-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9983-612-1-1">本人と一緒に明確な目標を設定し、定期的な状況確認で継続的なフィードバックを実施する。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9983-612-1-1">本人と一緒に明確な目標を設定し、定期的なチェックインで継続的なフィードバックを実施する。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -133,7 +133,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="14049-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="14049-612-1-1">本人と一緒に明確な目標を設定し、定期的な状況確認で継続的なフィードバックを実施する。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="14049-612-1-1">本人と一緒に明確な目標を設定し、定期的なチェックインで継続的なフィードバックを実施する。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -142,7 +142,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="10015-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="10015-612-1-1">本人と一緒に明確な目標を設定し、定期的な状況確認で継続的なフィードバックを実施する。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="10015-612-1-1">本人と一緒に明確な目標を設定し、定期的なチェックインで継続的なフィードバックを実施する。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -151,7 +151,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="10047-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="10047-612-1-1">本人と一緒に明確な目標を設定し、定期的な状況確認で継続的なフィードバックを実施する。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="10047-612-1-1">本人と一緒に明確な目標を設定し、定期的なチェックインで継続的なフィードバックを実施する。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -178,7 +178,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="9780-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9780-19-1-1">Raquel は「パフォーマンスの改善」トラックの対象者である。現在のロールの期待に達していないが、向上心に溢れている。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9780-19-1-1">Raquel は「パフォーマンス向上」トラックの対象者である。現在のロールの期待に達していないが、向上心に溢れている。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -241,7 +241,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="9842-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9842-19-1-1">Ashish は「長期的養成」トラックの対象者である。一貫して高いパフォーマンスを発揮し、成長への高いポテンシャルを備えている。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9842-19-1-1">Ashish は「長期計画」トラックの対象者である。一貫して高いパフォーマンスを発揮し、成長への高いポテンシャルを備えている。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -304,7 +304,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="9904-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9904-19-1-1">Alice は「試験的抜擢」トラックの対象者である。優れたパフォーマンスを発揮し、責務を増やすことに前向きである。 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9904-19-1-1">Alice は「ストレッチ＆テスト」トラックの対象者である。優れたパフォーマンスを発揮し、責務を増やすことに前向きである。 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -551,7 +551,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="11144-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11144-612-1-1">本人と一緒に明確な目標を設定し、定期的な状況確認で継続的なフィードバックを実施する。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11144-612-1-1">本人と一緒に明確な目標を設定し、定期的なチェックインで継続的なフィードバックを実施する。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -560,7 +560,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="11155-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="11155-612-1-1">本人と一緒に明確な目標を設定し、定期的な状況確認で継続的なフィードバックを実施する。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="11155-612-1-1">本人と一緒に明確な目標を設定し、定期的なチェックインで継続的なフィードバックを実施する。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -569,7 +569,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="11166-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="11166-612-1-1">本人と一緒に明確な目標を設定し、定期的な状況確認で継続的なフィードバックを実施する。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="11166-612-1-1">本人と一緒に明確な目標を設定し、定期的なチェックインで継続的なフィードバックを実施する。</g>
 											</source>
 										</trans-unit>
 									</group>
