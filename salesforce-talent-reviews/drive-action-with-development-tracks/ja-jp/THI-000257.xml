@@ -97,7 +97,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="9555-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="9555-19-1-1">アクション</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="9555-19-1-1">行動項目</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -178,7 +178,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="9780-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9780-19-1-1">Raquel は「パフォーマンス向上」トラックの対象者である。現在のロールの期待に達していないが、向上心に溢れている。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9780-19-1-1">Raquel は「パフォーマンス向上」トラックの対象者である。現在の役割に求められる期待を満たしてはいないが、向上心に溢れている。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -313,7 +313,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="10283-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10283-612-1-1">次のロールへの昇格に向けて詳細な長期キャリア計画を立てるよう指導する。 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10283-612-1-1">次の役割への昇格に向けて詳細な長期キャリア計画を立てるように指導する。 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -322,7 +322,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="14097-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="14097-612-1-1">次のロールへの昇格に向けて詳細な長期キャリア計画を立てるよう指導する。 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="14097-612-1-1">次の役割への昇格に向けて詳細な長期キャリア計画を立てるように指導する。 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -331,7 +331,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="10315-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="10315-612-1-1">次のロールへの昇格に向けて詳細な長期キャリア計画を立てるよう指導する。 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="10315-612-1-1">次の役割への昇格に向けて詳細な長期キャリア計画を立てるように指導する。 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -340,7 +340,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="10347-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="10347-612-1-1">次のロールへの昇格に向けて詳細な長期キャリア計画を立てるよう指導する。 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="10347-612-1-1">次の役割への昇格に向けて詳細な長期キャリア計画を立てるように指導する。 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -515,7 +515,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="11019-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="11019-19-1-1">アクション</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="11019-19-1-1">行動項目</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -686,7 +686,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="11739-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11739-612-1-1">次のロールへの昇格に向けて詳細な長期キャリア計画を立てるよう指導する。 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11739-612-1-1">次の役割への昇格に向けて詳細な長期キャリア計画を立てるように指導する。 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -695,7 +695,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="11750-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="11750-612-1-1">次のロールへの昇格に向けて詳細な長期キャリア計画を立てるよう指導する。 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="11750-612-1-1">次の役割への昇格に向けて詳細な長期キャリア計画を立てるように指導する。 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -704,7 +704,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="11761-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="11761-612-1-1">次のロールへの昇格に向けて詳細な長期キャリア計画を立てるよう指導する。 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="11761-612-1-1">次の役割への昇格に向けて詳細な長期キャリア計画を立てるように指導する。 </g>
 											</source>
 										</trans-unit>
 									</group>

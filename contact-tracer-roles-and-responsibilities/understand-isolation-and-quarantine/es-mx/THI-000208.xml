@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2020-09-30T13:30:31.0Z" original="THI-000208.cptx" source-language="enUS">
+		<file datatype="cptx" date="2020-12-18T13:51:49.0Z" original="THI-000208.cptx" source-language="enUS">
 			<header>
-				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5" />
+				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
 					<count count-type="total" unit="trans-unit">193</count>
-					<count count-type="total" unit="word">657</count>
+					<count count-type="total" unit="word">648</count>
 					<count count-type="total" unit="x-cp-slides">1</count>
 				</count-group>
 			</header>
@@ -99,7 +99,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="12760-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-1-1">El padre de Ramón tuvo fiebre y tos el 3 de abril. El 5 de abril, al padre de Ramón le hacen pruebas de COVID-19 y el 7 de abril recibe resultados positivos de la prueba. Como resultado, el padre de Ramón se confina desde el 8 de abril. ¿Cuándo es el último día de la cuarentena de Ramón?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-1-1">El padre de Ramón tuvo fiebre y tos el 3 de abril. El 5 de abril, al padre de Ramón le hacen pruebas de COVID-19 y el 7 de abril recibe resultados positivos de la prueba. Como resultado, el padre de Ramón se confina desde el 8 de abril. ¿Cuándo es el último día de la cuarentena de Ramón? </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -153,7 +153,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:16.00">
 										<trans-unit id="13074-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13074-19-1-1">17 de abril</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13074-19-1-1">18 de abril</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -162,7 +162,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="13084-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13084-19-1-1">No es correcto. Ramón tiene que ponerse en cuarentena durante 14 días a partir de la fecha en la tuvo contacto cercano con su padre. El 17 de abril es solo 9 días después del 8 de abril. Tiene que estar en cuarentena 5 días más.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13084-19-1-1">Correcto. El padre de Ramón inició su confinamiento el 8 de abril, de modo que la cuarentena de Ramón termina 10 días después, el 18 de abril.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -225,7 +225,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="13251-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13251-19-1-1">Correcto. El padre de Ramón inició su confinamiento el 8 de abril, de modo que la cuarentena de Ramón termina 14 días después, el 22 de abril.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13251-19-1-1">No es correcto. Ramón tiene que ponerse en cuarentena solo durante 10 días a partir de la fecha en la tuvo contacto cercano con su padre. El 22 de abril es 14 días después del 8 de abril.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -288,7 +288,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="13418-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13418-19-1-1">No es correcto. Ramón tiene que ponerse en cuarentena solo durante 14 días a partir de la fecha en la tuvo contacto cercano con su padre. El 24 de abril es 16 días después del 8 de abril.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13418-19-1-1">No es correcto. Ramón tiene que ponerse en cuarentena solo durante 10 días a partir de la fecha en la tuvo contacto cercano con su padre. El 24 de abril es 16 días después del 8 de abril.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -531,7 +531,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="13585-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13585-19-1-1">No es correcto. Ramón tiene que ponerse en cuarentena solo durante 14 días a partir de la fecha en la tuvo contacto cercano con su padre. El 26 de abril es 18 días después del 8 de abril.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13585-19-1-1">No es correcto. Ramón tiene que ponerse en cuarentena solo durante 10 días a partir de la fecha en la tuvo contacto cercano con su padre. El 26 de abril es 18 días después del 8 de abril.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -551,7 +551,7 @@
 									</source>
 								</trans-unit>
 							</group>
-							<group cp:datatype="x-object" extype="69" id="1500" restype="x-cp-items" />
+							<group cp:datatype="x-object" extype="69" id="1500" restype="x-cp-items"/>
 						</slide>
 						<slide cp:datatype="x-object" extype="584" id="1649" resname="Slide 1" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
@@ -565,7 +565,7 @@
 									</source>
 								</trans-unit>
 							</group>
-							<group cp:datatype="x-object" extype="69" id="1614" restype="x-cp-items" />
+							<group cp:datatype="x-object" extype="69" id="1614" restype="x-cp-items"/>
 						</slide>
 						<slide cp:datatype="x-object" extype="584" id="5894" resname="Slide 2" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
@@ -579,7 +579,7 @@
 									</source>
 								</trans-unit>
 							</group>
-							<group cp:datatype="x-object" extype="69" id="5895" restype="x-cp-items" />
+							<group cp:datatype="x-object" extype="69" id="5895" restype="x-cp-items"/>
 						</slide>
 						<slide cp:datatype="x-object" extype="584" id="14417" resname="Slide 3" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
@@ -593,7 +593,7 @@
 									</source>
 								</trans-unit>
 							</group>
-							<group cp:datatype="x-object" extype="69" id="14406" restype="x-cp-items" />
+							<group cp:datatype="x-object" extype="69" id="14406" restype="x-cp-items"/>
 						</slide>
 						<slide cp:datatype="x-object" extype="584" id="9786" resname="Slide 4" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
@@ -607,7 +607,7 @@
 									</source>
 								</trans-unit>
 							</group>
-							<group cp:datatype="x-object" extype="69" id="9775" restype="x-cp-items" />
+							<group cp:datatype="x-object" extype="69" id="9775" restype="x-cp-items"/>
 						</slide>
 						<slide cp:datatype="x-object" extype="584" id="14910" resname="Slide 5" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
@@ -621,7 +621,7 @@
 									</source>
 								</trans-unit>
 							</group>
-							<group cp:datatype="x-object" extype="69" id="14899" restype="x-cp-items" />
+							<group cp:datatype="x-object" extype="69" id="14899" restype="x-cp-items"/>
 						</slide>
 						<slide cp:datatype="x-object" extype="10141" id="4086" resname="Slide 6" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
