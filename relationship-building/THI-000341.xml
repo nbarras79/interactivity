@@ -1,0 +1,3168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
+		<file datatype="cptx" date="2021-05-13T15:17:03.0Z" original="THI-000341.cptx" source-language="enUS">
+			<header>
+				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
+				<count-group name="countGroup1">
+					<count count-type="total" unit="trans-unit">380</count>
+					<count count-type="total" unit="word">606</count>
+					<count count-type="total" unit="x-cp-slides">1</count>
+				</count-group>
+			</header>
+			<body>
+				<group cp:datatype="x-object" extype="4" id="1" restype="x-cp-project">
+					<group cp:datatype="x-property" datatype="plaintext" extype="73" restype="x-cp-project-exp-line-1">
+						<trans-unit id="1-73">
+							<source>
+							</source>
+						</trans-unit>
+					</group>
+					<group cp:datatype="x-property" datatype="plaintext" extype="74" restype="x-cp-project-exp-line-2">
+						<trans-unit id="1-74">
+							<source>
+							</source>
+						</trans-unit>
+					</group>
+					<group cp:datatype="x-property" datatype="plaintext" extype="591" restype="x-cp-project-password-message">
+						<trans-unit id="1-591">
+							<source>Please type the correct password directly into the text box below and click the button below.</source>
+						</trans-unit>
+					</group>
+					<group cp:datatype="x-property" datatype="plaintext" extype="592" restype="x-cp-project-password-retry-message">
+						<trans-unit id="1-592">
+							<source>The Password you entered is incorrect. Please try again.</source>
+						</trans-unit>
+					</group>
+					<group cp:datatype="x-property" datatype="plaintext" extype="593" restype="x-cp-project-password-button-text">
+						<trans-unit id="1-593">
+							<source>Continue</source>
+						</trans-unit>
+					</group>
+					<group cp:datatype="x-object" extype="417" id="305" restype="x-cp-project-information">
+						<group cp:datatype="x-property" datatype="plaintext" extype="428" restype="x-cp-project-info-name">
+							<trans-unit id="305-428">
+								<source>Trailhead Interactivity</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="429" restype="x-cp-project-info-author">
+							<trans-unit id="305-429">
+								<source>TIDEV</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="430" restype="x-cp-project-info-company">
+							<trans-unit id="305-430">
+								<source>Salesforce</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="431" restype="x-cp-project-info-email">
+							<trans-unit id="305-431">
+								<source>
+								</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="432" restype="x-cp-project-info-website">
+							<trans-unit id="305-432">
+								<source>
+								</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="433" restype="x-cp-project-info-copyright-info">
+							<trans-unit id="305-433">
+								<source>
+								</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="434" restype="x-cp-project-info-description">
+							<trans-unit id="305-434">
+								<source>Template version date: 04/26/2021</source>
+							</trans-unit>
+						</group>
+					</group>
+					<group cp:datatype="x-object" extype="195" id="514" restype="x-cp-slides">
+						<slide cp:datatype="x-object" extype="30" id="12428" resname="Slide 0" restype="x-cp-standard-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="12428-337">
+									<source>Question 1</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="12428-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="12429" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="19" id="13074" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="13074-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="13074-19-1-1">Strongly Disagree</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="13241" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="13241-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="13241-19-1-1">Disagree</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="13408" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="13408-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="13408-19-1-1">Agree</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="13575" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="13575-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="13575-19-1-1">Strongly Agree</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="12760" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="12760-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="12760-19-1-1">Before criticizing somebody, I try to imagine how I would feel if I were in their place.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="73568" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="73568-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="73568-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="73593" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="73593-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="73593-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="73630" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="73630-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="73630-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="73667" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="73667-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="73667-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="73704" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="73704-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="73704-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20198" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20198-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="20198-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20244" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20244-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="20244-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20290" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20290-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="20290-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20336" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20336-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="20336-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20382" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20382-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="20382-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20440" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20440-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="20440-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20486" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20486-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="20486-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20532" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20532-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="20532-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20578" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20578-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="20578-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20624" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20624-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="20624-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20682" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20682-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="20682-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20728" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20728-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="20728-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20774" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20774-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="20774-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20820" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20820-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="20820-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20866" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20866-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="20866-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="58714" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="58714-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="58714-19-1-1">It upsets me to see someone being treated disrespectfully.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="58868" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="58868-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="58868-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="58914" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="58914-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="58914-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="58972" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="58972-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="58972-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="59030" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="59030-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="59030-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="59088" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="59088-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="59088-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61708" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61708-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="61708-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61754" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61754-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="61754-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61812" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61812-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="61812-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61870" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61870-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="61870-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61928" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61928-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="61928-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64548" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64548-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="64548-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64594" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64594-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="64594-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64652" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64652-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="64652-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64710" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64710-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="64710-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64768" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64768-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="64768-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67388" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67388-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="67388-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67434" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67434-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="67434-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67480" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67480-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="67480-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67526" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67526-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="67526-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67572" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67572-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="67572-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="58724" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="58724-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="58724-19-1-1">When someone else is feeling excited, I tend to get excited too.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="59152" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="59152-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="59152-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="59198" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="59198-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="59198-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="59256" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="59256-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="59256-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="59314" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="59314-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="59314-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="59372" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="59372-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="59372-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61992" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61992-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="61992-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="62038" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="62038-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="62038-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="62096" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="62096-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="62096-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="62154" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="62154-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="62154-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="62212" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="62212-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="62212-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64832" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64832-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="64832-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64878" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64878-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="64878-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64936" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64936-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="64936-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64994" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64994-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="64994-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="65052" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="65052-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="65052-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67636" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67636-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="67636-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67682" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67682-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="67682-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67728" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67728-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="67728-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67774" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67774-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="67774-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67820" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67820-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="67820-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="58734" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="58734-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="58734-19-1-1">I sometimes find it difficult to see things from the other person’s point of view.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="59436" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="59436-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="59436-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="59482" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="59482-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="59482-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="59540" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="59540-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="59540-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="59598" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="59598-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="59598-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="59656" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="59656-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="59656-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="62276" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="62276-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="62276-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="62322" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="62322-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="62322-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="62380" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="62380-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="62380-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="62438" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="62438-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="62438-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="62496" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="62496-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="62496-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="65116" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="65116-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="65116-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="65162" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="65162-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="65162-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="65220" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="65220-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="65220-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="65278" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="65278-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="65278-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="65336" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="65336-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="65336-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67884" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67884-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="67884-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67930" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67930-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="67930-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67976" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67976-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="67976-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68022" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68022-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="68022-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68068" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68068-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="68068-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="58744" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="58744-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="58744-19-1-1">If I’m sure I’m right about something, I don’t waste much time listening to other people’s arguments.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="59720" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="59720-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="59720-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="59766" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="59766-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="59766-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="59824" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="59824-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="59824-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="59882" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="59882-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="59882-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="59940" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="59940-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="59940-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="62560" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="62560-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="62560-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="62606" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="62606-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="62606-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="62664" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="62664-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="62664-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="62722" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="62722-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="62722-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="62780" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="62780-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="62780-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="65400" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="65400-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="65400-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="65446" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="65446-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="65446-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="65504" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="65504-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="65504-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="65562" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="65562-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="65562-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="65620" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="65620-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="65620-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68132" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68132-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="68132-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68178" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68178-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="68178-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68224" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68224-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="68224-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68270" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68270-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="68270-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68316" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68316-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="68316-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="58754" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="58754-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="58754-19-1-1">I try to look at everybody’s side of a disagreement before I make a decision.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60004" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60004-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="60004-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60050" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60050-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="60050-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60108" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60108-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="60108-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60166" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60166-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="60166-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60224" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60224-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="60224-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="62844" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="62844-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="62844-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="62890" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="62890-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="62890-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="62948" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="62948-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="62948-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63006" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63006-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="63006-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63064" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63064-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="63064-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="65968" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="65968-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="65968-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66014" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66014-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="66014-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66072" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66072-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="66072-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66130" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66130-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="66130-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66188" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66188-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="66188-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68380" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68380-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="68380-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68426" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68426-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="68426-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68472" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68472-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="68472-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68518" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68518-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="68518-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68564" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68564-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="68564-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="58764" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="58764-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="58764-19-1-1">I sometimes try to understand my friends better by imagining how things look from their perspective.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60288" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60288-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="60288-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60334" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60334-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="60334-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60392" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60392-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="60392-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60450" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60450-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="60450-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60508" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60508-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="60508-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63128" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63128-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="63128-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63174" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63174-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="63174-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63232" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63232-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="63232-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63290" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63290-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="63290-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63348" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63348-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="63348-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="65684" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="65684-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="65684-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="65730" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="65730-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="65730-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="65788" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="65788-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="65788-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="65846" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="65846-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="65846-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="65904" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="65904-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="65904-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68628" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68628-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="68628-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68674" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68674-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="68674-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68720" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68720-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="68720-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68766" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68766-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="68766-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68812" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68812-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="68812-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="58774" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="58774-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="58774-19-1-1">I get a strong urge to help when I see someone who is upset.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60572" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60572-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="60572-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60618" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60618-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="60618-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60676" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60676-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="60676-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60734" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60734-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="60734-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60792" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60792-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="60792-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63412" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63412-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="63412-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63458" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63458-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="63458-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63516" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63516-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="63516-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63574" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63574-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="63574-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63632" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63632-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="63632-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66252" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66252-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="66252-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66298" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66298-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="66298-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66356" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66356-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="66356-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66414" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66414-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="66414-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66472" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66472-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="66472-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68876" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68876-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="68876-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68922" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68922-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="68922-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="68968" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="68968-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="68968-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="69014" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="69014-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="69014-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="69060" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="69060-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="69060-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="58784" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="58784-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="58784-19-1-1">I believe that there are two sides to every question and try to look at them both.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60856" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60856-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="60856-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60902" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60902-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="60902-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="60960" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="60960-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="60960-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61018" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61018-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="61018-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61076" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61076-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="61076-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63696" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63696-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="63696-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63742" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63742-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="63742-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63800" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63800-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="63800-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63858" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63858-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="63858-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63916" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63916-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="63916-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66536" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66536-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="66536-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66582" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66582-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="66582-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66640" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66640-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="66640-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66698" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66698-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="66698-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66756" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66756-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="66756-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="69124" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="69124-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="69124-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="69170" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="69170-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="69170-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="69216" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="69216-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="69216-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="69262" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="69262-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="69262-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="69308" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="69308-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="69308-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="58794" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="58794-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="58794-19-1-1">When I’m upset at someone, I usually try to put myself in their shoes for a while.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61140" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61140-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="61140-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61186" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61186-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="61186-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61244" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61244-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="61244-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61302" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61302-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="61302-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61360" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61360-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="61360-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="63980" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="63980-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="63980-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64026" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64026-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="64026-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64084" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64084-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="64084-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64142" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64142-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="64142-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64200" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64200-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="64200-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66820" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66820-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="66820-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66866" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66866-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="66866-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66924" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66924-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="66924-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="66982" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="66982-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="66982-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67040" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67040-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="67040-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="69372" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="69372-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="69372-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="69418" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="69418-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="69418-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="69464" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="69464-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="69464-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="69510" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="69510-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="69510-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="69556" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="69556-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="69556-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="58804" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="58804-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="58804-19-1-1">When I see someone being taken advantage of, I feel protective towards them.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61424" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61424-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="61424-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61470" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61470-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="61470-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61528" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61528-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="61528-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61586" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61586-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="61586-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="61644" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="61644-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="61644-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64264" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64264-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="64264-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64310" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64310-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="64310-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64368" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64368-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="64368-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64426" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64426-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="64426-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="64484" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="64484-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="64484-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67104" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67104-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="67104-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67150" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67150-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="67150-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67208" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67208-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="67208-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67266" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67266-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="67266-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="67324" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="67324-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="67324-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="69620" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="69620-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="69620-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="69666" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="69666-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="69666-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="69712" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="69712-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="69712-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="69758" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="69758-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="69758-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="69804" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="69804-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="69804-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="13593" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="13593-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#990000;font-size:16.0pt" ctype="x-cp-font" id="13593-19-1-1">Please choose a selection for each statement.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="13725" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="13725-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:decoration:underlined;font:weight:bold" ctype="x-cp-font" id="13725-612-1-1">C</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="13725-612-1-2">lear Choices</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="13746" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="13746-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="13746-612-1-1">Clear Choices</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="13767" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="13767-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="13767-612-1-1">Clear Choices</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="74037" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="74037-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:decoration:underlined;font:weight:bold" ctype="x-cp-font" id="74037-612-1-1">P</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="74037-612-1-2">rint</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="74062" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="74062-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="74062-612-1-1">Print</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="74088" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="74088-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="74088-612-1-1">Print</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="583" id="5475" resname="Slide 0" restype="x-cp-main-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="5475-337">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="5475-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="1500" restype="x-cp-items"/>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="54776" resname="Slide 1" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="54776-337">
+									<source>Likert</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="54776-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="54765" restype="x-cp-items"/>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="1649" resname="Slide 2" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="1649-337">
+									<source>Blank</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="1649-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="1614" restype="x-cp-items"/>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="4086" resname="Slide 3" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="4086-337">
+									<source>MCQ,T/F,FIB,Sequence</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="4086-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="4051" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="3688" restype="Title Placeholder">
+									<trans-unit id="3688-190">
+										<source>Question Title Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3713" restype="Question Placeholder">
+									<trans-unit id="3713-190">
+										<source>Question Text Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3745" restype="Answer Area Placeholder">
+									<trans-unit id="3745-190">
+										<source>Answer Area Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3767" restype="Review Area Placeholder">
+									<trans-unit id="3767-190">
+										<source>Review area</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3785" restype="Success Shape Placeholder">
+									<trans-unit id="3785-190">
+										<source>Success Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3803" restype="TimeOut Shape Placeholder">
+									<trans-unit id="3803-190">
+										<source>TimeOut Feedback Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3821" restype="Partial Correct Shape Placeholder">
+									<trans-unit id="3821-190">
+										<source>Partial Correct Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3839" restype="Retry Shape Placeholder">
+									<trans-unit id="3839-190">
+										<source>Retry Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3857" restype="Incomplete Shape Placeholder">
+									<trans-unit id="3857-190">
+										<source>Incomplete Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3875" restype="Failure Shape Placeholder">
+									<trans-unit id="3875-190">
+										<source>Failure Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3907" restype="Review Mode Back Button Placeholder">
+									<trans-unit id="3907-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3926" restype="Review Mode Next Button Placeholder">
+									<trans-unit id="3926-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3945" restype="Clear Button Placeholder">
+									<trans-unit id="3945-190">
+										<source>Clear Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3964" restype="Back Button Placeholder">
+									<trans-unit id="3964-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3983" restype="Skip Button Placeholder">
+									<trans-unit id="3983-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4002" restype="Submit Button Placeholder">
+									<trans-unit id="4002-190">
+										<source>Submit Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4050" restype="Progress Indicator Placeholder">
+									<trans-unit id="4050-190">
+										<source>Question X of Y</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="4492" resname="Slide 4" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="4492-337">
+									<source>Matching</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="4492-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="4457" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="4098" restype="Title Placeholder">
+									<trans-unit id="4098-190">
+										<source>Question Title Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4123" restype="Question Placeholder">
+									<trans-unit id="4123-190">
+										<source>Question Text Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4145" restype="Column 1 Placeholder">
+									<trans-unit id="4145-190">
+										<source>Question Area Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4154" restype="Column 2 Placeholder">
+									<trans-unit id="4154-190">
+										<source>Question Area Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4186" restype="Question Area Placeholder">
+									<trans-unit id="4186-190">
+										<source>Question Area Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4205" restype="Answer Area Placeholder">
+									<trans-unit id="4205-190">
+										<source>Answer Area Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4227" restype="Review Area Placeholder">
+									<trans-unit id="4227-190">
+										<source>Review area</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4245" restype="Incomplete Shape Placeholder">
+									<trans-unit id="4245-190">
+										<source>Incomplete Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4263" restype="Failure Shape Placeholder">
+									<trans-unit id="4263-190">
+										<source>Failure Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4281" restype="Success Shape Placeholder">
+									<trans-unit id="4281-190">
+										<source>Success Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4313" restype="Review Mode Back Button Placeholder">
+									<trans-unit id="4313-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4332" restype="Review Mode Next Button Placeholder">
+									<trans-unit id="4332-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4351" restype="Clear Button Placeholder">
+									<trans-unit id="4351-190">
+										<source>Clear Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4370" restype="Back Button Placeholder">
+									<trans-unit id="4370-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4389" restype="Skip Button Placeholder">
+									<trans-unit id="4389-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4408" restype="Submit Button Placeholder">
+									<trans-unit id="4408-190">
+										<source>Submit Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4456" restype="Progress Indicator Placeholder">
+									<trans-unit id="4456-190">
+										<source>Question X of Y</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="4816" resname="Slide 5" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="4816-337">
+									<source>Hot Spot</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="4816-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="4781" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="4504" restype="Title Placeholder">
+									<trans-unit id="4504-190">
+										<source>Question Title Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4529" restype="Question Placeholder">
+									<trans-unit id="4529-190">
+										<source>Question Text Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4551" restype="Review Area Placeholder">
+									<trans-unit id="4551-190">
+										<source>Review area</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4569" restype="Incomplete Shape Placeholder">
+									<trans-unit id="4569-190">
+										<source>Incomplete Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4587" restype="Failure Shape Placeholder">
+									<trans-unit id="4587-190">
+										<source>Failure Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4605" restype="Success Shape Placeholder">
+									<trans-unit id="4605-190">
+										<source>Success Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4637" restype="Review Mode Back Button Placeholder">
+									<trans-unit id="4637-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4656" restype="Review Mode Next Button Placeholder">
+									<trans-unit id="4656-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4675" restype="Clear Button Placeholder">
+									<trans-unit id="4675-190">
+										<source>Clear Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4694" restype="Back Button Placeholder">
+									<trans-unit id="4694-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4713" restype="Skip Button Placeholder">
+									<trans-unit id="4713-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4732" restype="Submit Button Placeholder">
+									<trans-unit id="4732-190">
+										<source>Submit Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4780" restype="Progress Indicator Placeholder">
+									<trans-unit id="4780-190">
+										<source>Question X of Y</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="5102" resname="Slide 6" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="5102-337">
+									<source>Likert</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="5102-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="5067" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="4828" restype="Title Placeholder">
+									<trans-unit id="4828-190">
+										<source>Question Title Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4840" restype="Question Placeholder">
+									<trans-unit id="4840-190">
+										<source>Question Text Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4916" restype="Likert Question Area Placeholder">
+									<trans-unit id="4916-190">
+										<source>PlaceHolder for Adobe Captivate 5</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4934" restype="Incomplete Shape Placeholder">
+									<trans-unit id="4934-190">
+										<source>Incomplete Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4943" restype="Review Area Placeholder">
+									<trans-unit id="4943-190">
+										<source>Review area</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4952" restype="Progress Indicator Placeholder">
+									<trans-unit id="4952-190">
+										<source>Question X of Y</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4971" restype="Submit Button Placeholder">
+									<trans-unit id="4971-190">
+										<source>Submit Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4990" restype="Skip Button Placeholder">
+									<trans-unit id="4990-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5009" restype="Back Button Placeholder">
+									<trans-unit id="5009-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5028" restype="Clear Button Placeholder">
+									<trans-unit id="5028-190">
+										<source>Clear Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5047" restype="Review Mode Next Button Placeholder">
+									<trans-unit id="5047-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5066" restype="Review Mode Back Button Placeholder">
+									<trans-unit id="5066-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="5473" resname="Slide 7" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="5473-337">
+									<source>Result</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="5473-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="5438" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="5114" restype="Result Title Placeholder">
+									<trans-unit id="5114-190">
+										<source>Question Title Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5136" restype="Scoring Result Label Placeholder">
+									<trans-unit id="5136-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5145" restype="Scoring Result Placeholder">
+									<trans-unit id="5145-190">
+										<source>score</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5167" restype="Scoring Result Label Placeholder">
+									<trans-unit id="5167-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5176" restype="Scoring Result Placeholder">
+									<trans-unit id="5176-190">
+										<source>max-score</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5198" restype="Scoring Result Label Placeholder">
+									<trans-unit id="5198-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5207" restype="Scoring Result Placeholder">
+									<trans-unit id="5207-190">
+										<source>correct-questions</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5229" restype="Scoring Result Label Placeholder">
+									<trans-unit id="5229-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5238" restype="Scoring Result Placeholder">
+									<trans-unit id="5238-190">
+										<source>total-questions</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5260" restype="Scoring Result Label Placeholder">
+									<trans-unit id="5260-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5269" restype="Scoring Result Placeholder">
+									<trans-unit id="5269-190">
+										<source>percent</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5291" restype="Scoring Result Label Placeholder">
+									<trans-unit id="5291-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5300" restype="Scoring Result Placeholder">
+									<trans-unit id="5300-190">
+										<source>total-attempts</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5332" restype="Review Button Placeholder">
+									<trans-unit id="5332-190">
+										<source>PlaceHolder for Adobe Captivate 5</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5351" restype="Continue Button Placeholder">
+									<trans-unit id="5351-190">
+										<source>Clear Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5370" restype="Post Result Button Placeholder">
+									<trans-unit id="5370-190">
+										<source>PlaceHolder for Adobe Captivate 5</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5389" restype="Retake Button Placeholder">
+									<trans-unit id="5389-190">
+										<source>PlaceHolder for Adobe Captivate 5</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5411" restype="Review Area Placeholder">
+									<trans-unit id="5411-190">
+										<source>Review area</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+					</group>
+					<group cp:datatype="x-object" extype="197" id="382" restype="x-cp-quiz-manager">
+						<group cp:datatype="x-property" datatype="plaintext" extype="10009" restype="x-cp-quiz-submit-button-name">
+							<trans-unit id="382-10009">
+								<source>Submit</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10335" restype="x-cp-quiz-submit-all-button-name">
+							<trans-unit id="382-10335">
+								<source>Submit All</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10113" restype="x-cp-quiz-clear-button-name">
+							<trans-unit id="382-10113">
+								<source>Clear</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10007" restype="x-cp-quiz-skip-button-name">
+							<trans-unit id="382-10007">
+								<source>Skip</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10008" restype="x-cp-quiz-back-button-name">
+							<trans-unit id="382-10008">
+								<source>Back</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10237" restype="x-cp-quiz-review-button-name">
+							<trans-unit id="382-10237">
+								<source>Review Quiz</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10269" restype="x-cp-quiz-continue-button-name">
+							<trans-unit id="382-10269">
+								<source>Continue</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10011" restype="x-cp-quiz-email-address">
+							<trans-unit id="382-10011">
+								<source>
+								</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="2207" restype="x-cp-quiz-continue-key">
+							<trans-unit id="382-2207">
+								<source>Y</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10105" restype="x-cp-quiz-correct-feedback-text">
+							<trans-unit id="382-10105">
+								<source>Correct - Click anywhere or press 'y' to continue.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10291" restype="x-cp-quiz-partial-correct-feedback-text">
+							<trans-unit id="382-10291">
+								<source>Partially Correct - Click anywhere or press 'y' to continue.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10106" restype="x-cp-quiz-incorrect-feedback-text">
+							<trans-unit id="382-10106">
+								<source>Incorrect - Click anywhere or press 'y' to continue.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10107" restype="x-cp-quiz-retry-feedback-text">
+							<trans-unit id="382-10107">
+								<source>Try again</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10184" restype="x-cp-quiz-incomplete-feedback-text">
+							<trans-unit id="382-10184">
+								<source>You must answer the question before continuing.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10188" restype="x-cp-quiz-timeout-feedback-text">
+							<trans-unit id="382-10188">
+								<source>The time to answer this question has expired. Click anywhere or press 'y' to continue.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">
+							<trans-unit id="382-10358">
+								<source>You have answered all questions. What do you want to do next?</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10359" restype="x-cp-quiz-submit-all-incomplete-text">
+							<trans-unit id="382-10359">
+								<source>One or more questions is incomplete. Answer all questions to continue.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10360" restype="x-cp-quiz-submit-all-submit-incomplete-text">
+							<trans-unit id="382-10360">
+								<source>You have not answered a few questions yet. Are you sure you want to proceed without answering those questions?</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-object" extype="10042" id="383" restype="x-cp-quizzes">
+							<group cp:datatype="x-object" extype="10003" id="384" restype="x-cp-quiz">
+								<group cp:datatype="x-property" datatype="plaintext" extype="10002" restype="x-cp-quiz-name">
+									<trans-unit id="384-10002">
+										<source>Quiz</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10231" restype="x-cp-quiz-lms-objective-id">
+									<trans-unit id="384-10231">
+										<source>Quiz_2020811803</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10072" restype="x-cp-quiz-interaction-id-prefix">
+									<trans-unit id="384-10072">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10171" restype="x-cp-quiz-review-correct-message">
+									<trans-unit id="384-10171">
+										<source>You answered this correctly!</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10330" restype="x-cp-quiz-review-partial-correct-message">
+									<trans-unit id="384-10330">
+										<source>You answered this partially correct!</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
+									<trans-unit id="384-10172">
+										<source>You did not answer this question completely.</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
+									<trans-unit id="384-10173">
+										<source>Your answer:</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10174" restype="x-cp-quiz-review-incorrect-message-line-2">
+									<trans-unit id="384-10174">
+										<source>The correct answer is:</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10165" restype="x-cp-quiz-result-pass-message">
+									<trans-unit id="384-10165">
+										<source>Congratulations, you passed the quiz!</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10166" restype="x-cp-quiz-result-fail-message">
+									<trans-unit id="384-10166">
+										<source>Sorry, you failed!</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10170" restype="x-cp-quiz-result-email-button-text">
+									<trans-unit id="384-10170">
+										<source>Send E-mail</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10265" restype="x-cp-quiz-result-retake-button-text">
+									<trans-unit id="384-10265">
+										<source>Retake Quiz</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10271" restype="x-cp-quiz-result-post-result-text">
+									<trans-unit id="384-10271">
+										<source>Post Result</source>
+									</trans-unit>
+								</group>
+							</group>
+						</group>
+					</group>
+				</group>
+			</body>
+		</file>
+	</xliff>
