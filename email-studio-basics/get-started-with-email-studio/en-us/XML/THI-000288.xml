@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2021-07-01T15:58:48.0Z" original="THI-000403.cptx" source-language="enUS">
+		<file datatype="cptx" date="2021-03-11T13:52:42.0Z" original="THI-000288.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
 					<count count-type="total" unit="trans-unit">299</count>
-					<count count-type="total" unit="word">1407</count>
+					<count count-type="total" unit="word">828</count>
 					<count count-type="total" unit="x-cp-slides">2</count>
 				</count-group>
 			</header>
@@ -75,7 +75,7 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="434" restype="x-cp-project-info-description">
 							<trans-unit id="305-434">
-								<source>Template version date: 04/05/2021</source>
+								<source>Template version date: 12/15/2020</source>
 							</trans-unit>
 						</group>
 					</group>
@@ -97,7 +97,8 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22155-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="22155-19-1-1">Description</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="22155-19-1-1">
+												</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -106,7 +107,8 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22172-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="22172-19-1-1">Report Section</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="22172-19-1-1">
+												</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -115,7 +117,8 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="22219-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="22219-19-1-1">Executive Summary</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="22219-19-1-1">
+												</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -124,7 +127,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22285-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22285-612-1-1">Typically read by executives and managers, this section should read as a stand-alone report within the overall report.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22285-612-1-1">Yes</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -133,43 +136,43 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22296-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22296-612-1-1">Typically read by executives and managers, this section should read as a stand-alone report within the overall report.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22296-612-1-1">Yes</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="22307" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="22307-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22307-612-1-1">Typically read by executives and managers, this section should read as a stand-alone report within the overall report.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="22307-612-1-1">Yes — YAAAASSSSSS</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="22318" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="22318-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22318-612-1-1">Typically read by executives and managers, this section should read as a stand-alone report within the overall report.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22318-612-1-1">Yes</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="22410" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22410-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="22410-612-1-1">Drop Here</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22410-612-1-1">Gimme a pop, please.</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="22421" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22421-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="22421-612-1-1">Drop Here</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22421-612-1-1">Gimme a pop, please.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -178,7 +181,8 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="22469-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="22469-19-1-1">Introduction</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="22469-19-1-1">
+												</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -187,7 +191,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22517-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22517-612-1-1">Typically read by engineers and administrators, this describes the process for testing, and the results in detail.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22517-612-1-1">Hi</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -196,43 +200,43 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22528-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22528-612-1-1">Typically read by engineers and administrators, this describes the process for testing, and the results in detail.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22528-612-1-1">Hi</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="22539" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="22539-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22539-612-1-1">Typically read by engineers and administrators, this describes the process for testing, and the results in detail.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="22539-612-1-1">Hi — What up</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="22550" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="22550-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22550-612-1-1">Typically read by engineers and administrators, this describes the process for testing, and the results in detail.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22550-612-1-1">Hi</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="22632" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22632-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="22632-612-1-1">Drop Here</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22632-612-1-1">YAAAASSSSSS</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="22643" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22643-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="22643-612-1-1">Drop Here</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22643-612-1-1">YAAAASSSSSS</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -241,7 +245,8 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="22686-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="22686-19-1-1">Methodology</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="22686-19-1-1">
+												</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -250,7 +255,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22734-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22734-612-1-1">Typically read by project leads, team leads, and system owners, this is a more thorough overview of the penetration test.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22734-612-1-1">I’d like a soda?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -259,43 +264,43 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22745-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22745-612-1-1">Typically read by project leads, team leads, and system owners, this is a more thorough overview of the penetration test.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22745-612-1-1">I’d like a soda?</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="22756" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="22756-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22756-612-1-1">Typically read by project leads, team leads, and system owners, this is a more thorough overview of the penetration test.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="22756-612-1-1">I’d like a soda? — Gimme a pop, please.</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="22767" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="22767-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22767-612-1-1">Typically read by project leads, team leads, and system owners, this is a more thorough overview of the penetration test.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22767-612-1-1">I’d like a soda?</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="22849" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22849-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="22849-612-1-1">Drop Here</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22849-612-1-1">Irregardless</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="22860" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22860-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="22860-612-1-1">Drop Here</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22860-612-1-1">Irregardless</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -304,7 +309,8 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="22903-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="22903-19-1-1">Findings</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="22903-19-1-1">
+												</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -313,7 +319,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22951-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22951-612-1-1">Typically read by engineers and administrators, this section includes long lists like raw scanning results.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22951-612-1-1">Irrespective</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -322,43 +328,43 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22962-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22962-612-1-1">Typically read by engineers and administrators, this section includes long lists like raw scanning results.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22962-612-1-1">Irrespective</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="22973" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="22973-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22973-612-1-1">Typically read by engineers and administrators, this section includes long lists like raw scanning results.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="22973-612-1-1">Irrespective — Irregardless</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="22984" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="22984-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22984-612-1-1">Typically read by engineers and administrators, this section includes long lists like raw scanning results.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="22984-612-1-1">Irrespective</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="23066" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23066-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="23066-612-1-1">Drop Here</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="23066-612-1-1">What up</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="23077" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23077-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="23077-612-1-1">Drop Here</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="23077-612-1-1">What up</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -367,7 +373,8 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="24571-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="24571-19-1-1">Appendices</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="24571-19-1-1">
+												</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -376,7 +383,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="24712-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="24712-612-1-1">Typically read by project and team leads, system owners, and engineers, this lists recommendations and actions to take.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="24712-612-1-1">Good job</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -385,43 +392,43 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="24744-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="24744-612-1-1">Typically read by project and team leads, system owners, and engineers, this lists recommendations and actions to take.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="24744-612-1-1">Good job</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="24776" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="24776-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="24776-612-1-1">Typically read by project and team leads, system owners, and engineers, this lists recommendations and actions to take.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="24776-612-1-1">Good job — Werk</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="24808" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="24808-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="24808-612-1-1">Typically read by project and team leads, system owners, and engineers, this lists recommendations and actions to take.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="24808-612-1-1">Good job</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="24651" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="24651-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="24651-612-1-1">Drop Here</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="24651-612-1-1">Werk</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="24671" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="24671-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="24671-612-1-1">Drop Here</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="24671-612-1-1">Werk</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -484,7 +491,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23320-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="23320-19-1-1">Incorrect, try again.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="23320-19-1-1">Incorrect, please rearrange and try again.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -493,7 +500,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23328-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="23328-19-1-1">Correct, great job!</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="23328-19-1-1">Correct, Great Job!</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -527,9 +534,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23348-19-4">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="23348-19-4-1">This is a standard </g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="23348-19-4-2">drag five definitions to terms</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="23348-19-4-3"> drag and drop. There is a button (hidden) in the upper left corner that is used to display the accessible version (next slide).</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="23348-19-4-1">This is a standard five-term drag and drop. There is a button in the upper right corner that is used to display the accessible version (next slide).</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -572,7 +577,7 @@
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
 								<trans-unit id="24321-1285">
-									<source>There are two columns.  The left has statements and the right has a corresponsding dropdown lists. Select the correct answer from the dropdown lists that corresponds to the statesments. After you complete all the selections, click the submit button in the lower right corner. You are then told which selections you got right and which ones you got wrong. You can go back and fix the ones you got wrong, if any, and click Submit again. To start over, click the Reset button in the lower right corner.</source>
+									<source>There are two columns: Description and Term. Read a statement and then choose the correct associated step from the dropdown list. When you're done, click Submit and you'll be told which ones you got right and which ones you got wrong. If you have errors, go back through, make changes, and click Submit again. To reset the screen, click Reset. </source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-object" extype="69" id="24306" restype="x-cp-items">
@@ -580,7 +585,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23438-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="23438-19-1-1">Description</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="23438-19-1-1">Column 1</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -589,7 +594,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23455-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="23455-19-1-1">Report Section</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="23455-19-1-1">Column 2</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -616,7 +621,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23571-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="23571-612-1-1">Typically read by executives and managers, this section should read as a stand-alone report within the overall report.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="23571-612-1-1">Yes</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -625,7 +630,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23601-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23601-612-1-1">Typically read by executives and managers, this section should read as a stand-alone report within the overall report.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="23601-612-1-1">Yes</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -634,7 +639,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23612-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23612-612-1-1">Typically read by executives and managers, this section should read as a stand-alone report within the overall report.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="23612-612-1-1">Yes</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -661,7 +666,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23724-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="23724-612-1-1">Typically read by engineers and administrators, this describes the process for testing, and the results in detail.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="23724-612-1-1">Hi</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -670,7 +675,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23735-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23735-612-1-1">Typically read by engineers and administrators, this describes the process for testing, and the results in detail.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="23735-612-1-1">Hi</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -679,7 +684,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23746-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23746-612-1-1">Typically read by engineers and administrators, this describes the process for testing, and the results in detail.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="23746-612-1-1">Hi</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -706,7 +711,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23852-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="23852-612-1-1">Typically read by project leads, team leads, and system owners, this is a more thorough overview of the penetration test.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="23852-612-1-1">I’d like a soda?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -715,7 +720,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23863-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23863-612-1-1">Typically read by project leads, team leads, and system owners, this is a more thorough overview of the penetration test.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="23863-612-1-1">I’d like a soda?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -724,7 +729,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23874-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23874-612-1-1">Typically read by project leads, team leads, and system owners, this is a more thorough overview of the penetration test.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="23874-612-1-1">I’d like a soda?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -751,7 +756,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23980-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="23980-612-1-1">Typically read by engineers and administrators, this section includes long lists like raw scanning results.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="23980-612-1-1">Irrespective</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -760,7 +765,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23991-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23991-612-1-1">Typically read by engineers and administrators, this section includes long lists like raw scanning results.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="23991-612-1-1">Irrespective</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -769,7 +774,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="24002-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="24002-612-1-1">Typically read by engineers and administrators, this section includes long lists like raw scanning results.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="24002-612-1-1">Irrespective</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -796,7 +801,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="27586-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="27586-612-1-1">Typically read by project and team leads, system owners, and engineers, this lists recommendations and actions to take.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="27586-612-1-1">Good job</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -805,7 +810,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="27619-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="27619-612-1-1">Typically read by project and team leads, system owners, and engineers, this lists recommendations and actions to take.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="27619-612-1-1">Good job</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -814,7 +819,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="27652-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="27652-612-1-1">Typically read by project and team leads, system owners, and engineers, this lists recommendations and actions to take.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="27652-612-1-1">Good job</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -877,7 +882,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="24277-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="24277-19-1-1">Your selections are incorrect, please try again.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="24277-19-1-1">Your selections are incorrect, please try again.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -886,7 +891,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="24285-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="24285-19-1-1">Correct, great job!</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="24285-19-1-1">Correct, Great Job!</g>
 											</source>
 										</trans-unit>
 									</group>

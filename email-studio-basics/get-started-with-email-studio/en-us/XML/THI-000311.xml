@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2021-07-01T15:58:48.0Z" original="THI-000403.cptx" source-language="enUS">
+		<file datatype="cptx" date="2021-03-16T13:53:27.0Z" original="THI-000311.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
 					<count count-type="total" unit="trans-unit">299</count>
-					<count count-type="total" unit="word">1407</count>
+					<count count-type="total" unit="word">1521</count>
 					<count count-type="total" unit="x-cp-slides">2</count>
 				</count-group>
 			</header>
@@ -75,7 +75,7 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="434" restype="x-cp-project-info-description">
 							<trans-unit id="305-434">
-								<source>Template version date: 04/05/2021</source>
+								<source>Template version date: 03/08/2021</source>
 							</trans-unit>
 						</group>
 					</group>
@@ -106,7 +106,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22172-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="22172-19-1-1">Report Section</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="22172-19-1-1">Term</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -115,7 +115,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="22219-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="22219-19-1-1">Executive Summary</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="22219-19-1-1">Spear Phishing</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -124,7 +124,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22285-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22285-612-1-1">Typically read by executives and managers, this section should read as a stand-alone report within the overall report.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22285-612-1-1">An attacker targets the CEO with an email containing a malicious link.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -133,7 +133,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22296-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22296-612-1-1">Typically read by executives and managers, this section should read as a stand-alone report within the overall report.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22296-612-1-1">An attacker targets the CEO with an email containing a malicious link.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -142,7 +142,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22307-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22307-612-1-1">Typically read by executives and managers, this section should read as a stand-alone report within the overall report.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22307-612-1-1">An attacker targets the CEO with an email containing a malicious link.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -151,7 +151,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22318-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22318-612-1-1">Typically read by executives and managers, this section should read as a stand-alone report within the overall report.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22318-612-1-1">An attacker targets the CEO with an email containing a malicious link.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -178,7 +178,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="22469-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="22469-19-1-1">Introduction</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="22469-19-1-1">Whaling</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -187,7 +187,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22517-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22517-612-1-1">Typically read by engineers and administrators, this describes the process for testing, and the results in detail.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22517-612-1-1">A malicious actor finds your assistant's social media credentials, logs in to their account, and creates a list of executives to target.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -196,7 +196,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22528-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22528-612-1-1">Typically read by engineers and administrators, this describes the process for testing, and the results in detail.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22528-612-1-1">A malicious actor finds your assistant’s social media credentials, logs in to their account, and creates a list of executives to target.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -205,7 +205,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22539-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22539-612-1-1">Typically read by engineers and administrators, this describes the process for testing, and the results in detail.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22539-612-1-1">A malicious actor finds your assistant’s social media credentials, logs in to their account, and creates a list of executives to target.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -214,7 +214,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22550-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22550-612-1-1">Typically read by engineers and administrators, this describes the process for testing, and the results in detail.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22550-612-1-1">A malicious actor finds your assistant’s social media credentials, logs in to their account, and creates a list of executives to target.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -241,7 +241,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="22686-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="22686-19-1-1">Methodology</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="22686-19-1-1">Business Email Compromise</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -250,7 +250,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22734-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22734-612-1-1">Typically read by project leads, team leads, and system owners, this is a more thorough overview of the penetration test.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22734-612-1-1">An attacker uses an email from what seems to be a trusted sender to trick an executive into revealing confidential information.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -259,7 +259,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22745-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22745-612-1-1">Typically read by project leads, team leads, and system owners, this is a more thorough overview of the penetration test.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22745-612-1-1">An attacker uses an email from what seems to be a trusted sender to trick an executive into revealing confidential information.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -268,7 +268,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22756-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22756-612-1-1">Typically read by project leads, team leads, and system owners, this is a more thorough overview of the penetration test.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22756-612-1-1">An attacker uses an email from what seems to be a trusted sender to trick an executive into revealing confidential information.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -277,7 +277,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22767-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22767-612-1-1">Typically read by project leads, team leads, and system owners, this is a more thorough overview of the penetration test.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22767-612-1-1">An attacker uses an email from what seems to be a trusted sender to trick an executive into revealing confidential information.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -304,7 +304,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="22903-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="22903-19-1-1">Findings</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="22903-19-1-1">Administrative Support Staff</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -313,7 +313,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22951-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22951-612-1-1">Typically read by engineers and administrators, this section includes long lists like raw scanning results.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22951-612-1-1">A new contact sends you a link to view a pdf menu for your company retreat, and asks you to respond to a number on Signal.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -322,7 +322,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22962-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22962-612-1-1">Typically read by engineers and administrators, this section includes long lists like raw scanning results.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22962-612-1-1">A new contact sends you a link to view a pdf menu for your company retreat, and asks you to respond to a number on Signal.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -331,7 +331,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22973-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22973-612-1-1">Typically read by engineers and administrators, this section includes long lists like raw scanning results.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22973-612-1-1">A new contact sends you a link to view a pdf menu for your company retreat, and asks you to respond to a number on Signal.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -340,7 +340,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22984-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22984-612-1-1">Typically read by engineers and administrators, this section includes long lists like raw scanning results.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="22984-612-1-1">A new contact sends you a link to view a pdf menu for your company retreat, and asks you to respond to a number on Signal.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -367,7 +367,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="24571-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="24571-19-1-1">Appendices</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:20.0pt" ctype="x-cp-font" id="24571-19-1-1">Text</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -376,7 +376,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="24712-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="24712-612-1-1">Typically read by project and team leads, system owners, and engineers, this lists recommendations and actions to take.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="24712-612-1-1">An attacker actor sends a spoofed email that appears to be from the CFO to her staff telling them to make a payment.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -385,7 +385,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="24744-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="24744-612-1-1">Typically read by project and team leads, system owners, and engineers, this lists recommendations and actions to take.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="24744-612-1-1">An attacker actor sends a spoofed email that appears to be from the CFO to her staff telling them to make a payment.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -394,7 +394,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="24776-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="24776-612-1-1">Typically read by project and team leads, system owners, and engineers, this lists recommendations and actions to take.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="24776-612-1-1">An attacker actor sends a spoofed email that appears to be from the CFO to her staff telling them to make a payment.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -403,7 +403,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="24808-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="24808-612-1-1">Typically read by project and team leads, system owners, and engineers, this lists recommendations and actions to take.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="24808-612-1-1">An attacker actor sends a spoofed email that appears to be from the CFO to her staff telling them to make a payment.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -484,7 +484,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23320-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="23320-19-1-1">Incorrect, try again.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="23320-19-1-1">Incorrect, try again.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -493,7 +493,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23328-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="23328-19-1-1">Correct, great job!</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="23328-19-1-1">Correct, Great Job!</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -589,7 +589,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23455-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="23455-19-1-1">Report Section</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="23455-19-1-1">Term</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -616,7 +616,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23571-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="23571-612-1-1">Typically read by executives and managers, this section should read as a stand-alone report within the overall report.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="23571-612-1-1">An attacker targets the CEO with an email containing a malicious link.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -625,7 +625,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23601-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23601-612-1-1">Typically read by executives and managers, this section should read as a stand-alone report within the overall report.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23601-612-1-1">An attacker targets the CEO with an email containing a malicious link.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -634,7 +634,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23612-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23612-612-1-1">Typically read by executives and managers, this section should read as a stand-alone report within the overall report.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23612-612-1-1">An attacker targets the CEO with an email containing a malicious link.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -661,7 +661,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23724-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="23724-612-1-1">Typically read by engineers and administrators, this describes the process for testing, and the results in detail.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="23724-612-1-1">A malicious actor finds your assistant's social media credentials, logs in to their account, and creates a list of executives to target.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -670,7 +670,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23735-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23735-612-1-1">Typically read by engineers and administrators, this describes the process for testing, and the results in detail.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23735-612-1-1">A malicious actor finds your assistant’s social media credentials, logs in to their account, and creates a list of executives to target.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -679,7 +679,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23746-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23746-612-1-1">Typically read by engineers and administrators, this describes the process for testing, and the results in detail.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23746-612-1-1">A malicious actor finds your assistant’s social media credentials, logs in to their account, and creates a list of executives to target.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -706,7 +706,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23852-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="23852-612-1-1">Typically read by project leads, team leads, and system owners, this is a more thorough overview of the penetration test.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="23852-612-1-1">An attacker uses an email from what seems to be a trusted sender to trick an executive into revealing confidential information.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -715,7 +715,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23863-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23863-612-1-1">Typically read by project leads, team leads, and system owners, this is a more thorough overview of the penetration test.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23863-612-1-1">An attacker uses an email from what seems to be a trusted sender to trick an executive into revealing confidential information.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -724,7 +724,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23874-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23874-612-1-1">Typically read by project leads, team leads, and system owners, this is a more thorough overview of the penetration test.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23874-612-1-1">An attacker uses an email from what seems to be a trusted sender to trick an executive into revealing confidential information.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -751,7 +751,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23980-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="23980-612-1-1">Typically read by engineers and administrators, this section includes long lists like raw scanning results.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="23980-612-1-1">A new contact sends you a link to view a pdf menu for your company retreat, and asks you to respond to a number on Signal.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -760,7 +760,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23991-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23991-612-1-1">Typically read by engineers and administrators, this section includes long lists like raw scanning results.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="23991-612-1-1">A new contact sends you a link to view a pdf menu for your company retreat, and asks you to respond to a number on Signal.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -769,7 +769,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="24002-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="24002-612-1-1">Typically read by engineers and administrators, this section includes long lists like raw scanning results.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="24002-612-1-1">A new contact sends you a link to view a pdf menu for your company retreat, and asks you to respond to a number on Signal.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -796,7 +796,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="27586-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="27586-612-1-1">Typically read by project and team leads, system owners, and engineers, this lists recommendations and actions to take.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="27586-612-1-1">An attacker actor sends a spoofed email that appears to be from the CFO to her staff telling them to make a payment.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -805,7 +805,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="27619-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="27619-612-1-1">Typically read by project and team leads, system owners, and engineers, this lists recommendations and actions to take.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="27619-612-1-1">An attacker actor sends a spoofed email that appears to be from the CFO to her staff telling them to make a payment.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -814,7 +814,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="27652-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="27652-612-1-1">Typically read by project and team leads, system owners, and engineers, this lists recommendations and actions to take.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="27652-612-1-1">An attacker actor sends a spoofed email that appears to be from the CFO to her staff telling them to make a payment.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -877,7 +877,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="24277-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="24277-19-1-1">Your selections are incorrect, please try again.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="24277-19-1-1">Your selections are incorrect, please try again.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -886,7 +886,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="24285-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="24285-19-1-1">Correct, great job!</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="24285-19-1-1">Correct, Great Job!</g>
 											</source>
 										</trans-unit>
 									</group>
