@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2021-03-23T15:13:29.0Z" original="THI-000154.cptx" source-language="enUS">
+		<file datatype="cptx" date="2021-07-07T16:05:22.0Z" original="THI-000154.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
 					<count count-type="total" unit="trans-unit">307</count>
-					<count count-type="total" unit="word">961</count>
+					<count count-type="total" unit="word">963</count>
 					<count count-type="total" unit="x-cp-slides">4</count>
 				</count-group>
 			</header>
@@ -129,21 +129,21 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="53794-612-3">
 											<source>
-												<g css-style="font-family:'Courier New';font-face:'Regular';color:#223946;font-size:15.0pt" ctype="x-cp-font" id="53794-612-3-1">.addEventListener(’click’,disaplayOuterMessage, True);</g>
+												<g css-style="font-family:'Courier New';font-face:'Regular';color:#223946;font-size:15.0pt" ctype="x-cp-font" id="53794-612-3-1">.addEventListener(’click’,displayOuterMessage, true);</g>
 											</source>
 										</trans-unit>
 									</group>
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="53794-612-4">
 											<source>
-												<g css-style="font-family:'Courier New';font-face:'Regular';color:#223946;font-size:15.0pt" ctype="x-cp-font" id="53794-612-4-1">document.querySelector(’.innerDive’)</g>
+												<g css-style="font-family:'Courier New';font-face:'Regular';color:#223946;font-size:15.0pt" ctype="x-cp-font" id="53794-612-4-1">document.querySelector(’.innerDiv’)</g>
 											</source>
 										</trans-unit>
 									</group>
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="53794-612-5">
 											<source>
-												<g css-style="font-family:'Courier New';font-face:'Regular';color:#223946;font-size:15.0pt" ctype="x-cp-font" id="53794-612-5-1">.addEventListner(’click’, displayInnerMessage, true);</g>
+												<g css-style="font-family:'Courier New';font-face:'Regular';color:#223946;font-size:15.0pt" ctype="x-cp-font" id="53794-612-5-1">.addEventListener(’click’, displayInnerMessage, true);</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -213,7 +213,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13084-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13084-19-1-1">Incorrect. Events in the target phase will trigger all listeners on an element in the order they were registered.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13084-19-1-1">Incorrect. Event capturing is set to true, calling the events in order from outside to inside.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -276,7 +276,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13251-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13251-19-1-1">Incorrect. Both event listeners will get called.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13251-19-1-1">Incorrect. Both event listeners will get called in the capture phase.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -339,7 +339,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13418-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13418-19-1-1">Incorrect. Both event listeners will get called.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13418-19-1-1">Incorrect. Both event listeners will get called  in the capture phase.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -402,7 +402,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13585-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13585-19-1-1">Correct. Events in the target phase will trigger all listeners on an element in the order they were registered.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13585-19-1-1">Correct. Event capturing is set to true, calling the events in order from outside to inside.</g>
 											</source>
 										</trans-unit>
 									</group>
