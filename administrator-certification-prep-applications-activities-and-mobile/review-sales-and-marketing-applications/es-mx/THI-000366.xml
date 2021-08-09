@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2021-05-25T19:13:42.0Z" original="THI-000028.cptx" source-language="enUS">
+		<file datatype="cptx" date="2021-06-08T12:11:08.0Z" original="THI-000366.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
-					<count count-type="total" unit="trans-unit">301</count>
-					<count count-type="total" unit="word">1116</count>
+					<count count-type="total" unit="trans-unit">306</count>
+					<count count-type="total" unit="word">1380</count>
 					<count count-type="total" unit="x-cp-slides">5</count>
 				</count-group>
 			</header>
@@ -97,7 +97,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="12750-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="12750-19-1-1">Pregunta 1 de 3</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="12750-19-1-1">Pregunta 1 de 4</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -106,7 +106,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="12760-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-1-1">Ursa Major Solar proporciona varios niveles de asistencia al cliente. El vicepresidente de Asistencia desea un método automático para notificar al equipo de asistencia cuando un caso no resuelto haya permanecido abierto durante más de 4 horas. ¿Qué función se debe utilizar para alertar a gestores de asistencia de que un caso lleva abierto más de 4 horas?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="12760-19-1-1">Ursa Major Solar creó una nueva línea de paneles solares con un equipo de ventas especial responsable de la venta de estos productos. El proceso de ventas para la nueva línea es más complejo que el proceso de ventas actual y requiere etapas adicionales en la ruta de ventas. ¿Cómo debe el administrador del sistema configurar Salesforce para asegurarse de que solo estén visibles las etapas adecuadas según cada línea de productos?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -157,10 +157,10 @@
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="19" id="13074" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13074-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13074-19-1-1">Colas de casos</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13074-19-1-1">Debe crear un proceso de ventas y un tipo de registro de oportunidad para cada línea de productos.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -169,7 +169,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13084-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13084-19-1-1">No es correcto. Las colas de casos establecen prioridades, distribuyen y asignan registros a los equipos que comparten cargas de trabajo. Sin embargo, poner un caso en cola no alerta a los responsables de asistencia de los casos en peligro.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13084-19-1-1">Correcto. Se deben configurar dos cosas: 1) Hay que crear un nuevo proceso de ventas para determinar qué etapa es la que se muestra para esta nueva línea de productos. 2) Hay que crear un nuevo tipo de registro Oportunidad para mostrar un formato de página exclusivo para esta nueva línea de productos.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -220,10 +220,10 @@
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="19" id="13241" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13241-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13241-19-1-1">Reglas de respuesta automática</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13241-19-1-1">Debe crear una regla de validación que muestre las etapas adecuadas según la línea de productos.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -232,7 +232,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13251-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:11.0pt;font:style:italics" ctype="x-cp-font" id="13251-19-1-1">No es correcto. Las reglas de respuesta automática envían respuestas de email automáticas a los prospectos o hacen envíos de casos en función de los atributos del registro. Por ejemplo, configure una regla de respuesta automática para enviar respuestas rápidas a clientes para hacerles saber que alguien en su compañía recibió su consulta o detalles acerca de su problema.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13251-19-1-1">No es correcto. Las reglas de validación verifican que los datos que un usuario ingresa en un registro cumplen con las normas que especifica antes de que el usuario guarde el registro. Por lo tanto, una regla de validación no cumpliría las necesidades de mostrar las etapas apropiadas al nuevo equipo de ventas.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -283,10 +283,10 @@
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="19" id="13408" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13408-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13408-19-1-1">Reglas de distribución</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13408-19-1-1">Debe crear nuevas categorías de pronóstico y asignar los nuevos valores de lista de selección a dichas categorías.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -295,7 +295,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13418-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13418-19-1-1">Correcto. Las reglas de distribución distribuyen casos automáticamente cuando el caso cumple los criterios definidos en la entrada de regla.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13418-19-1-1">No es correcto. Una categoría de pronóstico es la categoría dentro del ciclo de ventas a la que se asigna una oportunidad según la etapa en la que esta se encuentre. La creación de nuevas categorías de pronósticos no daría como resultado la visibilidad de las etapas apropiadas para el nuevo equipo de ventas.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -346,10 +346,10 @@
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="19" id="13575" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13575-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13575-19-1-1">Reglas de asignación de casos</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13575-19-1-1">Debe crear una regla de validación que muestre las etapas adecuadas según la función de los usuarios.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -358,7 +358,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13585-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13585-19-1-1">No es correcto. Las reglas de asignación de casos definen condiciones que determinan cómo se procesan los prospectos o los casos. Sin embargo, cuando se encuentra una coincidencia, Salesforce procesa el elemento y deja de evaluar las entradas de regla de dicho elemento.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13585-19-1-1">No es correcto. Las reglas de validación verifican que los datos que un usuario ingresa en un registro cumplen con las normas que especifica antes de que el usuario guarde el registro. Por lo tanto, una regla de validación no cumpliría las necesidades de mostrar las etapas apropiadas al nuevo equipo de ventas.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -545,10 +545,295 @@
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="30" id="23027" resname="Slide 1" restype="x-cp-standard-slide">
+						<slide cp:datatype="x-object" extype="30" id="43457" resname="Slide 1" restype="x-cp-standard-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="43457-337">
+									<source>Pregunta 2</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="43457-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="43442" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="19" id="42683" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="42683-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="42683-19-1-1">Pregunta 2 de 4</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="42704" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
+										<trans-unit id="42704-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="42704-19-1-1">El director de Operaciones de Ventas de Ursa Major Solar se percató de que los representantes de ventas registran más oportunidades sin productos. Esto hace que el equipo de operaciones tenga que agregar productos a cada oportunidad a posteriori. ¿Qué cambio de configuración debe realizar el administrador del sistema para ayudar los representantes de ventas a agregar productos a cada oportunidad?</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="42831" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="42831-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="42831-612-1-1">A</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="42842" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="42842-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="42842-612-1-1">A</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="42859" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="42859-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="42859-612-1-1">A</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="42876" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="42876-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="42876-612-1-1">A</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="42893" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="42893-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="42893-612-1-1">A</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="42901" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="42901-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="42901-19-1-1">Debe crear una lista relacionada para permitir al usuario ver productos relacionados.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="42922" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="42922-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="42922-19-1-1">No es correcto. Agregar una lista relacionada no recordará necesariamente a los representantes de ventas que deben agregar productos al registrar oportunidades.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="42978" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="42978-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="42978-612-1-1">B</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="42989" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="42989-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="42989-612-1-1">B</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="43000" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43000-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="43000-612-1-1">B</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="43011" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43011-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="43011-612-1-1">B</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="43022" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43022-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="43022-612-1-1">B</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="43026" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43026-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43026-19-1-1">Debe activar un parámetro en las oportunidades para solicitar a los usuarios que agreguen productos a las oportunidades.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="43043" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43043-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43043-19-1-1">Correcto. Hay un parámetro que se puede activar/desactivar para pedir a los usuarios que agreguen un producto a la oportunidad.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="43099" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43099-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="43099-612-1-1">C</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="43110" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43110-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="43110-612-1-1">C</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="43121" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43121-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="43121-612-1-1">C</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="43132" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43132-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="43132-612-1-1">C</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="43143" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43143-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="43143-612-1-1">C</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="43147" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43147-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43147-19-1-1">Debe crear una regla de flujo de trabajo en el objeto Oportunidad para agregar un producto predeterminado a las oportunidades que no tengan productos.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="43164" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43164-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43164-19-1-1">No es correcto. Agregar un producto predeterminado a cada oportunidad sin producto no corregiría el problema de que los representantes de ventas no agregan productos al registrar oportunidades.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="43638" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43638-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="43638-612-1-1">D</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="43684" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43684-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="43684-612-1-1">D</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="43730" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43730-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="43730-612-1-1">D</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="43776" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43776-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="43776-612-1-1">D</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="43822" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43822-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="43822-612-1-1">D</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="43268" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43268-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43268-19-1-1">Debe definir la configuración predeterminada de toda la organización de Listas de precios para utilizar y Productos como Solo lectura.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="43285" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="43285-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43285-19-1-1">No es correcto. El acceso y la visibilidad de las Listas de precios y los Productos no recordará a los representantes de ventas que deben agregar productos cuando registren oportunidades.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="30" id="23027" resname="Slide 2" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="23027-337">
-									<source>Pregunta 2</source>
+									<source>Pregunta 3</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -562,7 +847,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22283-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="22283-19-1-1">Pregunta 2 de 3</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="22283-19-1-1">Pregunta 3 de 4</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -571,7 +856,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="22304-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="22304-19-1-1">Ursa Major Solar se percató de un aumento en los casos de asistencia que podrían resolverse de manera sencilla si los clientes tuviesen acceso a la documentación adecuada. Por lo tanto, Ursa Major Solar desea crear una base de conocimientos donde se pueden clasificar artículos en categorías. ¿Cuáles son los dos beneficios que reporta utilizar categorías de datos con Salesforce Knowledge? (Seleccione dos respuestas.)</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:15.0pt" ctype="x-cp-font" id="22304-19-1-1">Ursa Major Solar acaba de anunciar su nueva línea de productos. El formulario web del sitio web de Ursa Major Solar está generando una gran cantidad de prospectos que manifestaron su interés en estos productos. Estos prospectos se importan directamente en Salesforce de manera automática. ¿Qué dos funciones debe utilizar el administrador del sistema para asignar la propiedad de un prospecto al equipo de producto adecuado mediante el campo de interés en el producto de Prospecto?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -622,10 +907,10 @@
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="19" id="22495" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22495-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22495-19-1-1">Los propietarios de los artículos pueden realizar un seguimiento de las visualizaciones.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22495-19-1-1">Reglas de asignación</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -634,7 +919,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22516-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="22516-19-1-1">No es correcto. La utilización de categorías de datos no afecta a si los propietarios de los artículos pueden realizar un seguimiento de las visualizaciones de los artículos.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:11.0pt;font:style:italics" ctype="x-cp-font" id="22516-19-1-1">Correcto. Las reglas de asignación definen condiciones que determinan cómo se procesan los prospectos o los casos. En este escenario, cuando un posible cliente indica interés en un producto concreto (Interés de producto del campo Prospecto personalizado) en el formulario web, el prospecto se genera y se asigna al equipo de productos apropiado.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -685,10 +970,10 @@
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="19" id="22620" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22620-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22620-19-1-1">Los artículos se pueden clasificar en grupos.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22620-19-1-1">Reglas de distribución</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -697,7 +982,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22637-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="22637-19-1-1">Correcto. Las categorías de datos de Salesforce Knowledge permiten clasificar los artículos en grupos, lo que facilita la búsqueda de artículos.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="22637-19-1-1">No es correcto. Las reglas de distribución se utilizan para especificar las condiciones bajo las cuales se distribuye un caso. Los prospectos no son casos, por lo tanto, las reglas de distribución no se aplican a esta situación.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -748,10 +1033,10 @@
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="19" id="22741" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22741-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22741-19-1-1">Es posible controlar el acceso a los artículos.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22741-19-1-1">Equipos de prospectos</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -760,7 +1045,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22758-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="22758-19-1-1">Correcto. Las categorías de datos de Salesforce Knowledge permiten controlar el acceso a los artículos. Por ejemplo, los usuarios de EE. UU. pueden tener acceso limitado a artículos de Knowledge específicos de productos de EE. UU., mientras que los usuarios europeos pueden tener acceso solo a los artículos de Knowledge sobre productos exclusivos de Europa.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="22758-19-1-1">No es correcto. Los equipos de prospectos son un grupo de usuarios que pueden ver/acceder a un prospecto. Estos equipos no asignan la propiedad como se ha solicitado.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -811,10 +1096,10 @@
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="19" id="22838" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22838-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22838-19-1-1">Es posible hacer referencia a los artículos en publicaciones de Chatter.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22838-19-1-1">Colas</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -823,17 +1108,17 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22855-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="22855-19-1-1">No es correcto. Las categorías de datos no afectan a la posibilidad de publicar los artículos en Chatter.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="22855-19-1-1">Correcto. Las colas establecen prioridades, distribuyen y asignan registros a los equipos que comparten cargas de trabajo. En este escenario, se indica que el prospecto debe asignarse a los equipos de productos adecuados. Por lo tanto, las colas son necesarias.</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="30" id="24071" resname="Slide 2" restype="x-cp-standard-slide">
+						<slide cp:datatype="x-object" extype="30" id="24071" resname="Slide 3" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="24071-337">
-									<source>Pregunta 3</source>
+									<source>Pregunta 4</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -847,7 +1132,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23297-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="23297-19-1-1">Pregunta 3 de 3</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="23297-19-1-1">Pregunta 4 de 4</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -856,7 +1141,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="23318-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="23318-19-1-1">Ursa Major Solar busca reducir costos de asistencia. Para ello, quiere permitir a los clientes trabajar de manera conjunta para que se respondan preguntas unos a otros y, de este modo, resolver problemas. ¿Qué función debe utilizar un administrador de Salesforce para permitir a sus clientes interactuar entre sí y compartir mejores prácticas?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="23318-19-1-1">Los representantes de ventas de Ursa Major Solar trabajan en oportunidades y necesitan ver la forma en que sus colegas gestionaron con eficacia otras oportunidades con productos comparables y en competencia con los mismos competidores. ¿Qué dos funciones debe utilizar un administrador para lograr esto?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -907,10 +1192,10 @@
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="19" id="23515" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23515-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="23515-19-1-1">Sitios que utilizan Experience Cloud (anteriormente Comunidades)</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="23515-19-1-1">Tablero de oportunidades</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -919,7 +1204,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23536-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23536-19-1-1">Correcto. Los sitios web que utilizan Experience Cloud son una forma perfecta de compartir información y colaborar con personas clave para los procesos de negocio, como, por ejemplo, los clientes, los socios o los empleados. Esto también incluye la colaboración entre clientes.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23536-19-1-1">Correcto. Un tablero de oportunidades permite crear reportes y comparaciones de productos.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -970,10 +1255,10 @@
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="19" id="23640" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23640-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="23640-19-1-1">Campañas</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="23640-19-1-1">Grupos de Chatter</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -982,7 +1267,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23657-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23657-19-1-1">No es correcto. Una campaña es un proyecto de marketing saliente que se planea, gestiona y se sigue en Salesforce.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23657-19-1-1">Correcto. Un grupo de Chatter permite debatir y compartir el tablero.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1033,10 +1318,10 @@
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="19" id="23761" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23761-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="23761-19-1-1">OmniCanal</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="23761-19-1-1">Recordatorios de actualización de oportunidades</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1045,7 +1330,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23778-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23778-19-1-1">No es correcto. La función OmniCanal envía todos los tipos de elementos de trabajo a los agentes de asistencia disponibles mejor cualificados de su centro de llamadas. Por lo tanto, no se trata de una herramienta de colaboración entre clientes.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23778-19-1-1">No es correcto. Los recordatorios de actualización no permiten comparaciones ni debates.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1096,10 +1381,10 @@
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="19" id="23882" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23882-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="23882-19-1-1">Emails masivos</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="23882-19-1-1">Alertas de negocios importantes</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1108,292 +1393,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23899-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23899-19-1-1">No es correcto. La función de Emails masivos no permite a los clientes interactuar entre sí mismos para compartir mejores prácticas.</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-							</group>
-						</slide>
-						<slide cp:datatype="x-object" extype="30" id="27099" resname="Slide 3" restype="x-cp-standard-slide">
-							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
-								<trans-unit id="27099-337">
-									<source>Pregunta 5</source>
-								</trans-unit>
-							</group>
-							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
-								<trans-unit id="27099-1285">
-									<source>
-									</source>
-								</trans-unit>
-							</group>
-							<group cp:datatype="x-object" extype="69" id="27084" restype="x-cp-items">
-								<group cp:datatype="x-object" extype="19" id="26325" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26325-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="26325-19-1-1">Pregunta 5 de X</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="19" id="26346" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
-										<trans-unit id="26346-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="26346-19-1-1">Pregunta 5</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="26473" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26473-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="26473-612-1-1">A</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="26484" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26484-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="26484-612-1-1">A</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="26501" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26501-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="26501-612-1-1">A</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="26518" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26518-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="26518-612-1-1">A</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="26535" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26535-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="26535-612-1-1">A</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="19" id="26543" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
-										<trans-unit id="26543-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="26543-19-1-1">Opción 1</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="19" id="26564" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26564-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="26564-19-1-1">Explicación de opción 1</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="26620" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26620-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="26620-612-1-1">B</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="26631" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26631-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="26631-612-1-1">B</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="26642" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26642-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="26642-612-1-1">B</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="26653" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26653-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="26653-612-1-1">B</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="26664" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26664-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="26664-612-1-1">B</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="19" id="26668" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
-										<trans-unit id="26668-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="26668-19-1-1">Opción 2</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="19" id="26685" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26685-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="26685-19-1-1">Explicación de opción 2</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="26741" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26741-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="26741-612-1-1">C</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="26752" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26752-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="26752-612-1-1">C</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="26763" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26763-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="26763-612-1-1">C</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="26774" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26774-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="26774-612-1-1">C</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="26785" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26785-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="26785-612-1-1">C</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="19" id="26789" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
-										<trans-unit id="26789-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="26789-19-1-1">Opción 3</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="19" id="26806" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26806-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="26806-19-1-1">Explicación de opción 3</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="44382" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44382-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#585858;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="44382-612-1-1">D</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="44428" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44428-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt;font:weight:bold" ctype="x-cp-font" id="44428-612-1-1">D</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="44474" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44474-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="44474-612-1-1">D</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="44520" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44520-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="44520-612-1-1">D</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="44566" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44566-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:19.0pt" ctype="x-cp-font" id="44566-612-1-1">D</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="19" id="26910" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
-										<trans-unit id="26910-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="26910-19-1-1">Opción 4</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="19" id="26927" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="26927-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="26927-19-1-1">Explicación de opción 4</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23899-19-1-1">No es correcto. Las alertas de negocios importantes permiten enviar automáticamente emails a los usuarios cada vez que una oportunidad alcanza un umbral de importe y probabilidad.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1508,7 +1508,21 @@
 							</group>
 							<group cp:datatype="x-object" extype="69" id="5895" restype="x-cp-items"/>
 						</slide>
-						<slide cp:datatype="x-object" extype="584" id="52301" resname="Slide 2" restype="x-cp-content-master-slide">
+						<slide cp:datatype="x-object" extype="584" id="53316" resname="Slide 2" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="53316-337">
+									<source>Espacio de respuesta mayor de QWF</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="53316-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="53305" restype="x-cp-items"/>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="52301" resname="Slide 3" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="52301-337">
 									<source>QWF 5 opciones</source>
@@ -1522,7 +1536,7 @@
 							</group>
 							<group cp:datatype="x-object" extype="69" id="52290" restype="x-cp-items"/>
 						</slide>
-						<slide cp:datatype="x-object" extype="584" id="14417" resname="Slide 3" restype="x-cp-content-master-slide">
+						<slide cp:datatype="x-object" extype="584" id="14417" resname="Slide 4" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="14417-337">
 									<source>Bloque de código QWF</source>
@@ -1536,7 +1550,31 @@
 							</group>
 							<group cp:datatype="x-object" extype="69" id="14406" restype="x-cp-items"/>
 						</slide>
-						<slide cp:datatype="x-object" extype="584" id="9786" resname="Slide 4" restype="x-cp-content-master-slide">
+						<slide cp:datatype="x-object" extype="584" id="52921" resname="Slide 5" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="52921-337">
+									<source>Espacio lateral de QWF</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="52921-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="52910" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="612" id="52954" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
+										<trans-unit id="52954-612-1">
+											<source>
+												<g css-style="font-family:'Courier New';font-face:'Regular';color:#223946;font-size:12.0pt" ctype="x-cp-font" id="52954-612-1-1">Bloque de código</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="9786" resname="Slide 6" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="9786-337">
 									<source>QWF de lado a lado</source>
@@ -1550,7 +1588,7 @@
 							</group>
 							<group cp:datatype="x-object" extype="69" id="9775" restype="x-cp-items"/>
 						</slide>
-						<slide cp:datatype="x-object" extype="584" id="14910" resname="Slide 5" restype="x-cp-content-master-slide">
+						<slide cp:datatype="x-object" extype="584" id="14910" resname="Slide 7" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="14910-337">
 									<source>Lado QWF por código de bloque de lado</source>
@@ -1564,7 +1602,7 @@
 							</group>
 							<group cp:datatype="x-object" extype="69" id="14899" restype="x-cp-items"/>
 						</slide>
-						<slide cp:datatype="x-object" extype="584" id="1649" resname="Slide 6" restype="x-cp-content-master-slide">
+						<slide cp:datatype="x-object" extype="584" id="1649" resname="Slide 8" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="1649-337">
 									<source>En blanco</source>
@@ -1578,7 +1616,7 @@
 							</group>
 							<group cp:datatype="x-object" extype="69" id="1614" restype="x-cp-items"/>
 						</slide>
-						<slide cp:datatype="x-object" extype="10141" id="4086" resname="Slide 7" restype="x-cp-quiz-master-slide">
+						<slide cp:datatype="x-object" extype="10141" id="4086" resname="Slide 9" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4086-337">
 									<source>MCQ,T/F,FIB,Secuencia</source>
@@ -1678,7 +1716,7 @@
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="10141" id="4492" resname="Slide 8" restype="x-cp-quiz-master-slide">
+						<slide cp:datatype="x-object" extype="10141" id="4492" resname="Slide 10" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4492-337">
 									<source>Coincidentes</source>
@@ -1778,7 +1816,7 @@
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="10141" id="4816" resname="Slide 9" restype="x-cp-quiz-master-slide">
+						<slide cp:datatype="x-object" extype="10141" id="4816" resname="Slide 11" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4816-337">
 									<source>Punto interactivo</source>
@@ -1858,7 +1896,7 @@
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="10141" id="5102" resname="Slide 10" restype="x-cp-quiz-master-slide">
+						<slide cp:datatype="x-object" extype="10141" id="5102" resname="Slide 12" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="5102-337">
 									<source>Likert</source>
@@ -1933,7 +1971,7 @@
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="10141" id="5473" resname="Slide 11" restype="x-cp-quiz-master-slide">
+						<slide cp:datatype="x-object" extype="10141" id="5473" resname="Slide 13" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="5473-337">
 									<source>Resultado</source>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accessibility>
+  <leftarrow>前のフラッシュカード</leftarrow>
+  <rightarrow>次のフラッシュカード</rightarrow>
+  <flashcard1>
+    <image>Chris Kelly の写真</image>
+    <frontflashcardbackground>白い背景のフラッシュカードの前面</frontflashcardbackground>
+    <frontflashcardbutton>フラッシュカードの背面にフリップ</frontflashcardbutton>
+  </flashcard1>
+  <flashcard2>
+    <image>Dylan Ho の写真</image>
+    <frontflashcardbackground>白い背景のフラッシュカードの前面</frontflashcardbackground>
+    <frontflashcardbutton>フラッシュカードの背面にフリップ</frontflashcardbutton>
+  </flashcard2>
+  <flashcard3>
+    <image>Jamie Bland の写真</image>
+    <frontflashcardbackground>白い背景のフラッシュカードの前面</frontflashcardbackground>
+    <frontflashcardbutton>フラッシュカードの背面にフリップ</frontflashcardbutton>
+  </flashcard3>
+</accessibility>
