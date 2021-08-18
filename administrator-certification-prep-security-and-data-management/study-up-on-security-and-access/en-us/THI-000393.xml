@@ -1,0 +1,2545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<practiceexam>
+  <starttext>
+    <h1>Administrator Practice Test</h1>
+    <p style="text-align: left">Welcome to the Trailhead practice test for the Salesforce Administrator exam. This test gives you the opportunity to experience the format and level of questions you may see in the Salesforce Certified Administrator exam. This practice test is un-proctored, which means you can take it at your convenience from your own computer. You have the choice to take this test with or without a time limit and are shown the results upon submission. There is an option to view feedback stating why the answer you chose is correct or incorrect. You are provided percentage breakdowns for each section as well as an overall test score. The results are your guide to strengths and weaknesses to help you focus on areas needed for additional learning.</p>
+    <p>This practice test has 30 questions and if taking the timed version you are provided 30 minutes to complete it. To begin, please select whether you'd like to be timed or not. The test will start as soon as you select an option. Good luck!</p>
+  </starttext>
+  <timedbutton>Timed</timedbutton>
+  <untimedbutton>Untimed</untimedbutton>
+  <nextbuttontext>Next</nextbuttontext>
+  <previousbuttontext>Previous</previousbuttontext>
+  <submitbuttontext>Submit</submitbuttontext>
+  <reviewlaterbutton1>Save to Review Later</reviewlaterbutton1>
+  <reviewlaterbutton2>Saved for Review Later</reviewlaterbutton2>
+  <reviewpagebutton>Review Page</reviewpagebutton>
+  <viewdetailsbutton>View Details</viewdetailsbutton>
+  <printbutton>Print</printbutton>
+  <downloadbutton>Download .csv</downloadbutton>
+  <closebuttonarialabel>Popup Box Close</closebuttonarialabel>
+  <popupoptiontext>Please select {0} option(s).</popupoptiontext>
+  <screenoptiontext>Choose {2} options.</screenoptiontext>
+  <alerttext>
+    <h2>Time is Up</h2>
+    <p>As this is just a practice exam, you may close this pop up box and continue on. Had this been the actual exam your exam would have ended.</p>
+  </alerttext>
+  <resultspage>
+    <tablearialabel>A breakdown of your score by exam section / objective.</tablearialabel>
+    <resultspagetitle>Your Results</resultspagetitle>
+    <resultsscore>Score: {0} / {30}</resultsscore>
+    <resultspercentage>Percent: {100}%</resultspercentage>
+    <resultstime>Time Taken: {0} minutes {0} seconds</resultstime>
+    <tableaccessibility>A breakdown of your score by exam section / objective.</tableaccessibility>
+    <tablecolumn1header>Exam Section / Objective</tablecolumn1header>
+    <tablecolumn1header># Correct / # Questions</tablecolumn1header>
+    <tablecolumn1header>% Percent Correct</tablecolumn1header>
+    <row1title>Salesforce Fundamentals</row1title>
+    <row2title>Object Manager &#38; Lightning App Builder</row2title>
+    <row3title>Sales and Marketing Applications</row3title>
+    <row4title>Service and Support Applications</row4title>
+    <row5title>Productivity &#38; Collaboration</row5title>
+    <row6title>Data &#38; Analytics Management</row6title>
+    <row7title>Workflow/Process Automation</row7title>
+  </resultspage>
+  <itemcorrect>You got this correct!</itemcorrect>
+  <itemincorrect>You got this incorrect!</itemincorrect>
+  <correcttext>Correct.</correcttext>
+  <incorrecttext>Incorrect.</incorrecttext>
+  <referencetext>Learn more about the topic(s) discussed in this question by reviewing this {Reference Document} and this {Trailhead Badge}.</referencetext>
+  <questioncounttext>Question {0} of {30}</questioncounttext>
+  <question1>
+    <question>
+      <p>Ursa Major Solar recently enabled the multiple currencies feature.</p>
+      <p>As a result, which currency will be used as the foundation for all currency conversion rates?</p>
+    </question>
+    <option1>Corporate currency</option1>
+    <option1exp>By default, Salesforce organizations use a single currency. Once you set the required currency locale in your company settings, all currency values on records display in that currency.</option1exp>
+    <option2>Personal currency</option2>
+    <option2exp>By default, Salesforce organizations use a single currency. Once you set the required currency locale in your company settings, all currency values on records display in that currency.</option2exp>
+    <option3>Active currency</option3>
+    <option3exp>By default, Salesforce organizations use a single currency. Once you set the required currency locale in your company settings, all currency values on records display in that currency.</option3exp>
+    <option4>Record currency</option4>
+    <option4exp>By default, Salesforce organizations use a single currency. Once you set the required currency locale in your company settings, all currency values on records display in that currency.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question1>
+  <question2>
+    <question>
+      <p>Ursa Major Solar wants to assign feature licenses to user records in Salesforce. </p>
+      <p> What are two features licenses that can be assigned in this situation?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Knowledge User</option1>
+    <option1exp>Knowladge User and Service Cloud User are additional feature licenses that let users access features not included in their user license.</option1exp>
+    <option2>Service Cloud User</option2>
+    <option2exp>Knowladge User and Service Cloud User are additional feature licenses that let users access features not included in their user license.</option2exp>
+    <option3>Opportunity User</option3>
+    <option3exp> Opportunity can be accessed with a standard user license standard user license.</option3exp>
+    <option4>Console User</option4>
+    <option4exp>Console is part of the Service Cloud feature license.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question2>
+  <question3>
+    <question>
+      <p>Ursa Major is onboarding 15 new employees in three weeks. The administrator needs to create user records in Salesforce without activating them. </p>
+      <p> Which two methods allow the administrator to achieve this goal?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Create a .csv file ensuring that IsActive = False, and use the data loader to insert.</option1>
+    <option1exp>With a properly formatted csv file, Data Loader can be used to create multiple users. Include the IsActive = false to create the users in an inactive status.</option1exp>
+    <option2>Create them with the User Import Wizard and ensure that Active is unchecked.</option2>
+    <option2exp>Users cannot be created with the import wizard.</option2exp>
+    <option3>Click Add Multiple Users and ensure that Generate New Password and Notify User Immediately are unchecked.</option3>
+    <option3exp>An Admin can manually create mutiple users with the Generate New Password and Notify User Immediately box unchecked.</option3exp>
+    <option4>Schedule a Time-Dependent Workflow to create users in three weeks.</option4>
+    <option4exp>Workflow cannot create users.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question3>
+  <question4>
+    <question>
+      <p>Ursa Major Solar recently purchased 15 new Salesforce licenses. </p>
+      <p> How many users can an administrator create at the same time on the add multiple users page?</p>
+    </question>
+    <option1>A maximum of 15 users.</option1>
+    <option1exp>You can add up to 10 users at a time to your organization.</option1exp>
+    <option2>A maximum of 5 users.</option2>
+    <option2exp>You can add up to 10 users at a time to your organization.</option2exp>
+    <option3>A maximum of 10 users.</option3>
+    <option3exp>You can add up to 10 users at a time to your organization.</option3exp>
+    <option4>An unlimited number of users.</option4>
+    <option4exp>You can add up to 10 users at a time to your organization.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question4>
+  <question5>
+    <question>
+      <p>At Ursa Major Solar, an administrator has set up a new user. The user needs to activate the account before the email link expires by default. </p>
+      <p> How long does the user have before the link expires?</p>
+    </question>
+    <option1>10 days</option1>
+    <option1exp>The account verification link emailed to new users expires after 7 days, and users must change their password the first time they log in.</option1exp>
+    <option2>6 days</option2>
+    <option2exp>The account verification link emailed to new users expires after 7 days, and users must change their password the first time they log in.</option2exp>
+    <option3>7 days</option3>
+    <option3exp>The account verification link emailed to new users expires after 7 days, and users must change their password the first time they log in.</option3exp>
+    <option4>14 days</option4>
+    <option4exp>The account verification link emailed to new users expires after 7 days, and users must change their password the first time they log in.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question5>
+  <question6>
+    <question>
+      <p>When a Salesforce user is deactivated, what happens to all of the records the user owns in Salesforce?</p>
+    </question>
+    <option1>They are automatically deleted.</option1>
+    <option1exp>Deactivated users lose access to any records that were manually shared directly with them, or implicitly shared with them as team members. Users higher in the role hierarchy relative to the deactivated users also lose access to those records. However, you can still transfer their data to other users and view their names on the Users page.</option1exp>
+    <option2>They are automatically assigned to another user.</option2>
+    <option2exp>Deactivated users lose access to any records that were manually shared directly with them, or implicitly shared with them as team members. Users higher in the role hierarchy relative to the deactivated users also lose access to those records. However, you can still transfer their data to other users and view their names on the Users page.</option2exp>
+    <option3>They are assigned to the deactivated user until reassigned.</option3>
+    <option3exp>Deactivated users lose access to any records that were manually shared directly with them, or implicitly shared with them as team members. Users higher in the role hierarchy relative to the deactivated users also lose access to those records. However, you can still transfer their data to other users and view their names on the Users page.</option3exp>
+    <option4>They are automatically assigned to the administrator.</option4>
+    <option4exp>Deactivated users lose access to any records that were manually shared directly with them, or implicitly shared with them as team members. Users higher in the role hierarchy relative to the deactivated users also lose access to those records. However, you can still transfer their data to other users and view their names on the Users page.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question6>
+  <question7>
+    <question>
+      <p>A user at Ursa Major Solar attempts to log in to Salesforce from an IP address that is outside the login IP range on the user&#39;s profile but within the organization-wide trusted IP range. </p>
+      <p> What occurs as a result of this scenario?</p>
+    </question>
+    <option1>The user will be unable to log in at all.</option1>
+    <option1exp>Trusted IP Ranges define a list of IP addresses from which users can log in. When you define IP address restrictions for a profile, a login from any other IP address is denied.</option1exp>
+    <option2>The user will be able to log in after the computer is activated.</option2>
+    <option2exp>Trusted IP Ranges define a list of IP addresses from which users can log in. When you define IP address restrictions for a profile, a login from any other IP address is denied.</option2exp>
+    <option3>The user will be able to log in without activating the computer.</option3>
+    <option3exp>Trusted IP Ranges define a list of IP addresses from which users can log in. When you define IP address restrictions for a profile, a login from any other IP address is denied.</option3exp>
+    <option4>The user will be able to log in after answering one security question.</option4>
+    <option4exp>Trusted IP Ranges define a list of IP addresses from which users can log in. When you define IP address restrictions for a profile, a login from any other IP address is denied.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question7>
+  <question8>
+    <question>
+      <p>At Ursa Major Solar, Salesforce users have a session timeout of 12 hours. Management wants the session timeout to be increased to 24 hours. Management also wants inactive users to be logged out at that time. What should the administrator do to fulfill this request?</p>
+    </question>
+    <option1>In session settings, select 24 hours, and uncheck the box for force logout on session timeout.</option1>
+    <option1exp>In order to log users out after 24 check the force timeout and set the timeout value to 24 hours in the session settings.</option1exp>
+    <option2>In session settings, select 24 hours, and check the box for force logout on session timeout.</option2>
+    <option2exp>In order to log users out after 24 check the force timeout and set the timeout value to 24 hours in the session settings.</option2exp>
+    <option3>In user profiles, enter 24 hours in the timeout section, and check the box for Fforce logout on session timeout.</option3>
+    <option3exp>In order to log users out after 24 check the force timeout and set the timeout value.</option3exp>
+    <option4>In user profiles, type in 24 hours in the timeout section, and uncheck the box for force logout on session timeout.</option4>
+    <option4exp>In order to log users out after 24 check the force timeout and set the timeout value.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question8>
+  <question9>
+    <question>
+      <p>Ursa Major Solar has a social marketing team set up as a public group. A sales representative would like to engage the social marketing team on one opportunity. </p>
+      <p> What should the sales representative do to ensure the social marketing team can access the opportunity?</p>
+    </question>
+    <option1>Manually share the record with the public group.</option1>
+    <option1exp>Manual sharing gives other users access to certain types of records, including accounts, contacts, and leads.</option1exp>
+    <option2>Add the public group to the opportunity team.</option2>
+    <option2exp>Public groups are not sharable with oppotunity teams.</option2exp>
+    <option3>Change the opportunity owner to the public group.</option3>
+    <option3exp>Public groups cannot be owers of records.</option3exp>
+    <option4>Add the public group to an opportunity queue.</option4>
+    <option4exp>Public groups cannot be part of a queue.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question9>
+  <question10>
+    <question>
+      <p>Ursa Major Solar has a private sharing model on opportunities. Leadership has asked the administrator to create a new custom object that will track customer payment information and will link to the opportunity. Only those users with access
+        to the opportunity should be able to see the records on the new object. </p>
+      <p> What should the administrator create to achieve this goal?</p>
+    </question>
+    <option1>A master-detail relationship with profile permissions</option1>
+    <option1exp>Master-detail closely links objects together such that the master record controls certain behaviors of the detail and subdetail record. Access can be granted with profile permissions.</option1exp>
+    <option2>A lookup relationship with a criteria-based sharing rule</option2>
+    <option2exp>Master-detail closely links objects together such that the master record controls certain behaviors of the detail and subdetail record. Access can be granted with profile permissions.</option2exp>
+    <option3>A master-detail relationship with a criteria-based sharing rule</option3>
+    <option3exp>Master-detail closely links objects together such that the master record controls certain behaviors of the detail and subdetail record. Access can be granted with profile permissions.</option3exp>
+    <option4>A lookup relationship with profile permissions</option4>
+    <option4exp>Master-detail closely links objects together such that the master record controls certain behaviors of the detail and subdetail record. Access can be granted with profile permissions.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question10>
+  <question11>
+    <question>
+      <p>A user&#39;s profile can be controlled by which three settings?</p>
+      <p>Choose 3 options.</p>
+    </question>
+    <option1>Record type assignment</option1>
+    <option1exp>Profiles define how users access objects and data, and what they can do within the application.</option1exp>
+    <option2>Security at the field-level</option2>
+    <option2exp>Profiles define how users access objects and data, and what they can do within the application.</option2exp>
+    <option3>Assigned apps</option3>
+    <option3exp>Profiles define how users access objects and data, and what they can do within the application.</option3exp>
+    <option4>Feature license assignment</option4>
+    <option4exp>Feature license assignment grants access to features that need to be added to a user license.</option4exp>
+    <option5>Locale settings</option5>
+    <option5exp>Locales determine the display formats for date and time, users’ names, addresses, and commas and periods in numbers.</option5exp>
+  </question11>
+  <question12>
+    <question>
+      <p>Ursa Major Solar utilizes accounts in its sales process; however, not all users have access to them. New users require read access to accounts. Additionally, four new users require edit access. </p>
+      <p> What should an administrator do to configure access for the new users?</p>
+    </question>
+    <option1>Configure a sharing rule for account view access and another sharing rule for edit access to specific users.</option1>
+    <option1exp>A permission set is a collection of settings and permissions that give users access to various tools and functions. Permission sets extend users’ functional access without changing their profiles.</option1exp>
+    <option2>Configure a profile to grant account edit access and a permission set to restrict read access to specific users.</option2>
+    <option2exp>A permission set is a collection of settings and permissions that give users access to various tools and functions. Permission sets extend users’ functional access without changing their profiles.</option2exp>
+    <option3>Configure a permission set to grant account edit access to specific users and modify the standard user profile.</option3>
+    <option3exp>A permission set is a collection of settings and permissions that give users access to various tools and functions. Permission sets extend users’ functional access without changing their profiles.</option3exp>
+    <option4>Configure a profile to grant account view access and a permission set to grant account edit access to specific users.</option4>
+    <option4exp>A permission set is a collection of settings and permissions that give users access to various tools and functions. Permission sets extend users’ functional access without changing their profiles.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question12>
+  <question13>
+    <question>
+      <p>An administrator at Ursa Major Solar wants to allow a sales user to relate an opportunity to a campaign. </p>
+      <p>What are two ways to accomplish this goal?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Choose the primary campaign source for the opportunity.</option1>
+    <option1exp>Fill in the Primary Campaign Source field to indicate that the opportunity resulted from a specific campaign.</option1exp>
+    <option2>Utilize the campaign influence related list on the opportunity.</option2>
+    <option2exp>The Opportunities related list on a campaign shows every opportunity that is linked to that campaign.</option2exp>
+    <option3>Use the campaign hierarchy related list on the opportunity.</option3>
+    <option3exp>The campaign hierarchy shows what campaigns are group together.</option3exp>
+    <option4>Select the campaign record type when creating the opportunity.</option4>
+    <option4exp>Campaign record types are specific to the campaign record.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question13>
+  <question14>
+    <question>
+      <p>Ursa Major Solar&#39;s administrator needs to create a custom field to track a specific Tier 2 support user on a case record. </p>
+      <p> What is the appropriate data type to utilize when creating this custom field?</p>
+    </question>
+    <option1>Lookup relationship</option1>
+    <option1exp>A lookup relationship links two objects together. This is an optional relationship.</option1exp>
+    <option2>Lookup filter</option2>
+    <option2exp>Lookup filters are administrator settings that restrict the valid values and lookup dialog results for lookup, master-detail, and hierarchical relationship fields.</option2exp>
+    <option3>Formula</option3>
+    <option3exp>A formula is an algorithm that derives its value from other fields, expressions, or values. Formulas can help you automatically calculate the value of a field based on other fields.</option3exp>
+    <option4>Hierarchical relationship</option4>
+    <option4exp>A special lookup relationship available for only the user object.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question14>
+  <question15>
+    <question>
+      <p>Ursa Major Solar needs to fulfill the following requirements: <ul>
+          <li>A custom object must be created to capture account survey data.</li>
+          <li>Users need the ability to select an account from the survey record and view related surveys on the account record.</li>
+        </ul>Which two actions can an administrator configure to meet these requirements?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Create a lookup relationship field on the survey object.</option1>
+    <option1exp>A lookup relationship links two objects together. Adding the lookup relationship field on the survey object will allow the user to link to an account.</option1exp>
+    <option2>Put the survey related list on the account page layout.</option2>
+    <option2exp>Records in Salesforce include details and links to other related records. Add the related list to the account page to provide access to the releated survey.</option2exp>
+    <option3>Create a lookup relationship field on the account object.</option3>
+    <option3exp>A lookup relationship links two objects together. Adding the lookup relationship field on the survey object will allow the user to link to an account.</option3exp>
+    <option4>Put the account related list on the survey page layout.</option4>
+    <option4exp>Records in Salesforce include details and links to other related records. Add the related list to the account page to provide access to the releated survey.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question15>
+  <question16>
+    <question>
+      <p>Ursa Major Solar recently acquired a company whose sales team has a unique sales process, with stages that are different from the current setup of stages in Salesforce. </p>
+      <p> The Chief Technology Officer (CTO) has decided that the new sales team should <strong>NOT</strong> change their process at all. </p>
+      <p> What should the administrator do to incorporate the new sales team&#39;s process?</p>
+    </question>
+    <option1>Create new values for the opportunity stage field and use field-level security to control which teams see which fields.</option1>
+    <option1exp>Record types let you offer different business processes, picklist values, and page layouts to different users.</option1exp>
+    <option2>Create new values for the opportunity stage field; order them so that the new Sales team&#39;s values are at the bottom of the picklist.</option2>
+    <option2exp>Record types let you offer different business processes, picklist values, and page layouts to different users.</option2exp>
+    <option3>Create new values for the opportunity stage field; create a new sales process assigned to a custom record type for the new sales team.</option3>
+    <option3exp>Record types let you offer different business processes, picklist values, and page layouts to different users.</option3exp>
+    <option4>Create a record type and page layout for the new sales team and a custom field for the new stages.</option4>
+    <option4exp>Record types let you offer different business processes, picklist values, and page layouts to different users.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question16>
+  <question17>
+    <question>
+      <p>Ursa Major Solar&#39;s administrator created a new account record type, but when marketing users are creating new account records, they are unable to choose the new record type. </p>
+      <p> What are two potential causes of this issue?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>The record type is deactivated.</option1>
+    <option1exp>Record types need to be active in order for users to access them.</option1exp>
+    <option2>The record type default setting is disabled.</option2>
+    <option2exp>A record type can be active or inactive.</option2exp>
+    <option3>The record type is disassociated from the page layout.</option3>
+    <option3exp>The record type is not populated by the page layout relationship.</option3exp>
+    <option4>The record type is disabled on the marketing user profile.</option4>
+    <option4exp>Record types need to be assigned to a profile.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question17>
+  <question18>
+    <question>
+      <p>Ursa Major Solar has the following process regarding its opportunities: <ul>
+          <li>There are three different lines of business (Widget A, Widget B, Widget C) that each contain fields specific to that line of business&#39;s industry and customers.</li>
+          <li>For each line of business, there is a specific set of fields that Sales users should see and a different set of fields that Marketing users should see.</li>
+        </ul>An Administrator needs to configure Page Layouts and Record Types for the Opportunity object so that each team sees what it needs to see, without cluttered layouts containing unnecessary fields. </p>
+      <p> What should the Administrator do to accomplish this goal?</p>
+    </question>
+    <option1>Create six Record Types (Marketing Widget A, Marketing Widget B, Marketing Widget C, Sales Widget A, Sales Widget B, and Sales Widget C) with six total Page Layouts, one for each Record Type.</option1>
+    <option1exp>Record types let you offer different business processes, picklist values, and page layouts to different users. Only three record types are needed to track the different widget types. Six page layouts to provide the proper fields for each group.</option1exp>
+    <option2>Create one Record Type with six Page Layouts (Marketing Widget A, Marketing Widget B, Marketing Widget C, Sales Widget A, Sales Widget B, and Sales Widget C).</option2>
+    <option2exp>Record types let you offer different business processes, picklist values, and page layouts to different users. Three record types are needed to track the different widget types. Six page layouts to provide the proper fields for each group.</option2exp>
+    <option3>Create three Record Types (Widget A, Widget B, Widget C) with six Page Layouts (Sales Widget A, Sales Widget B, Sales Widget C, Marketing Widget A, Marketing Widget B, and Marketing Widget C).</option3>
+    <option3exp>Record types let you offer different business processes, picklist values, and page layouts to different users. Three record types to track the different widget types. Six page layouts to provide the proper fields for each group.</option3exp>
+    <option4>Create six Record Types (Sales Widget A, Sales Widget B, Sales Widget C, Marketing Widget A, Marketing Widget B, and Marketing Widget C) with one Page Layout.</option4>
+    <option4exp>Record types let you offer different business processes, picklist values, and page layouts to different users. Only three record types are needed to track the different widget types. Six page layouts to provide the proper fields for each group.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question18>
+  <question19>
+    <question>
+      <p>Sales representatives at Ursa Major Solar are working on opportunities and need to see how their colleagues have effectively managed other opportunities with comparable products, competing against the same competitors. </p>
+      <p> Which two features should an administrator use to allow for this?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Opportunity Dashboard</option1>
+    <option1exp>An opportunity dashboard allows for the reporting and camparison of products.</option1exp>
+    <option2>Chatter groups</option2>
+    <option2exp>A chatter group allows for discussion and sharing of the dashboard.</option2exp>
+    <option3>Opportunity update reminders</option3>
+    <option3exp>Reminder updates will not allow for comparison or discussion.</option3exp>
+    <option4>Big deal alerts</option4>
+    <option4exp>Big Deal Alerts automatically email your users whenever an opportunity reaches a threshold of amount and probability. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question19>
+  <question20>
+    <question>
+      <p>Ursa Major Solar is using products and price books. </p>
+      <p> Which two items should an administrator take into considerations about these features?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>A product can have a different list price in different price books.</option1>
+    <option1exp>Each product can exist in multiple price books with different prices and currency.</option1exp>
+    <option2>The standard and list price for a product can be listed in more than one currency.</option2>
+    <option2exp>Each product can exist in multiple price books with different prices and currency.</option2exp>
+    <option3>If price books contain assets, they can NOT contain products.</option3>
+    <option3exp>Price books track the prices of products and services that your company offers to customers.</option3exp>
+    <option4>Products without a price are automatically added to the standard price book.</option4>
+    <option4exp>Products require a price in order to be added to a standard price book.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question20>
+  <question21>
+    <question>
+      <p>Which two actions should an administrator perform to provide a sales team with an easy solution for gathering customer requirements and sharing presentations with their customers?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Add customers to private Chatter groups.</option1>
+    <option1exp>Create a Chatter customer group. Customers can see only the groups they&#39;re invited to. They can interact only with members of those groups.</option1exp>
+    <option2>Use Salesforce Files to post presentations in Chatter.</option2>
+    <option2exp>Post files to a Chatter customer group.</option2exp>
+    <option3>Add customers to libraries.</option3>
+    <option3exp>External customers cannot be added to Libraries.</option3exp>
+    <option4>Ensure opportunity teams are created for customers.</option4>
+    <option4exp>Opportunity teams are for internal users.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question21>
+  <question22>
+    <question>
+      <p>Ursa Major Solar customers are starting to request custom-sized solar panels, which are currently unavailable in the standard inventory. Management has decided to add custom sizing as an add-on item in Salesforce. </p>
+      <p> The administrator needs to allow sales users to add custom sizing to the total opportunity sale. </p>
+      <p> What should the administrator do to achieve this goal?</p>
+    </question>
+    <option1>Add custom sizing as a new product in a pricebook.</option1>
+    <option1exp>Use products and pricebooks to track what is being sold.</option1exp>
+    <option2>Add a new field on the opportunity labeled custom sizing.</option2>
+    <option2exp>Use products and pricebooks to track what is being sold.</option2exp>
+    <option3>Make a new custom object related to opportunities for custom sizing.</option3>
+    <option3exp>Use products and pricebooks to track what is being sold.</option3exp>
+    <option4>Add custom sizing as a new product in an order.</option4>
+    <option4exp>Use products and pricebooks to track what is being sold.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question22>
+  <question23>
+    <question>
+      <p>Ursa Major Solar (UMS) is configuring the lead conversion process. </p>
+      <p> Which two factors should UMS consider before setting up the process?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Roll-up summary lead fields can be mapped to custom contact fields.</option1>
+    <option1exp>Roll-up summarizes are not avalible to map to another object.</option1exp>
+    <option2>Standard lead fields are automatically converted to account, contact, and opportunity fields.</option2>
+    <option2exp>When leads are converted lead records, standard lead fields map to contact, account, person account, and opportunity fields. Custom fields are map to newly created records.</option2exp>
+    <option3>Custom lead fields can be mapped to account, contact, and opportunity fields.</option3>
+    <option3exp>When leads are converted lead records, standard lead fields map to contact, account, person account, and opportunity fields. Custom fields are map to newly created records.</option3exp>
+    <option4>Custom lead fields can be mapped to custom object fields.</option4>
+    <option4exp>Leads are not converted to custom objects.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question23>
+  <question24>
+    <question>
+      <p>An Administrator at Ursa Major Solar is converting a lead and needs to capture custom lead data on the converted contact. </p>
+      <p> What should the administrator do to accomplish this goal?</p>
+    </question>
+    <option1>Map custom lead fields to custom contact fields.</option1>
+    <option1exp>When leads are converted lead records, standard lead fields map to contact, account, person account, and opportunity fields. Custom fields are map to newly created records.</option1exp>
+    <option2>Utilize the lead conversion wizard to select the fields.</option2>
+    <option2exp>Fields are not selected by the converting user, they are setup by the admin</option2exp>
+    <option3>Utilize the data loader to move the custom lead data.</option3>
+    <option3exp>The standard lead convertion process converts data.</option3exp>
+    <option4>Map custom lead fields to standard contact fields.</option4>
+    <option4exp>Custom lead fields cannot be mapped to standard contact fields.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question24>
+  <question25>
+    <question>
+      <p>What two valid assignee options should an administrator use to configure case assignment rules?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>User</option1>
+    <option1exp>User and queue can be assigned to a case.</option1exp>
+    <option2>Queue</option2>
+    <option2exp>User and queue can be assigned to a case.</option2exp>
+    <option3>Case team</option3>
+    <option3exp>A case team is a group of people that work together to solve cases. Case teams cannot own records.</option3exp>
+    <option4>Public group</option4>
+    <option4exp>A public group consists of a set of users. Public groups cannot own records.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question25>
+  <question26>
+    <question>
+      <p>Ursa Major Solar needs a case to be automatically created. </p>
+      <p> Which three features can an administrator use to accomplish this goal?</p>
+      <p>Choose 3 options.</p>
+    </question>
+    <option1>Email-to-case</option1>
+    <option1exp>Setup Web-to-Case or Email-to-Case to automatically capture cases from your website and customer emails.</option1exp>
+    <option2>SMS-to-case</option2>
+    <option2exp>Salesforce cannot create cases via text without addtional coding or an app from the AppExchange.</option2exp>
+    <option3>Lightning for Outlook</option3>
+    <option3exp>Lightning for Outlook can link emails to Contacts, Leads, Accounts, Opportunities, and Cases.</option3exp>
+    <option4>Process Builder</option4>
+    <option4exp>Configure a process to create records automaticly with process builder</option4exp>
+    <option5>Web-to-case</option5>
+    <option5exp>Setup Web-to-Case or Email-to-Case to automatically capture cases from your website and customer emails.</option5exp>
+  </question26>
+  <question27>
+    <question>
+      <p>Ursa Major Solar tracks both user issues and customer issues. <ul>
+          <li>A user issue can be logged as: new, waiting for reply, closed</li>
+          <li>A customer issue can be logged as: new, working, closed</li>
+        </ul>An administrator needs to track both case types. Which features should be used?</p>
+    </question>
+    <option1>Record Types and Support Processes</option1>
+    <option1exp>Record types let you offer different business processes, picklist values, and page layouts to different users.</option1exp>
+    <option2>Page Layouts and Record Types</option2>
+    <option2exp>Page layouts and record type are include in the support process. Use multiple business processes to track separate sales, support, and lead lifecycles.</option2exp>
+    <option3>Workflows and Automated Case Users</option3>
+    <option3exp>Use multiple business processes to track separate sales, support, and lead lifecycles.</option3exp>
+    <option4>Page Layouts and Process Builder</option4>
+    <option4exp>Use multiple business processes to track separate sales, support, and lead lifecycles.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question27>
+  <question28>
+    <question>
+      <p>An administrator at Ursa Major Solar is setting up case feed. </p>
+      <p> What should the administrator consider?</p>
+    </question>
+    <option1>Chatter feed tracking must be enabled for the case object.</option1>
+    <option1exp>Enabling Case Feed actions and feed items gives your users access to both standard actions they’ll need when working with cases, such as Email and Change Status, and to feed items related to those actions.</option1exp>
+    <option2>The Use Case Feed permission is automatically active for all profiles.</option2>
+    <option2exp>Enabling Case Feed actions and feed items gives your users access to both standard actions they’ll need when working with cases, such as Email and Change Status, and to feed items related to those actions.</option2exp>
+    <option3>By default, the case feed replaces the standard case detail page.</option3>
+    <option3exp>Once you enable Case Feed actions and feed items, your cases are upgraded to the new user interface automatically.</option3exp>
+    <option4>The Service Cloud user feature license is required for case feed.</option4>
+    <option4exp>Case feed is enabled on in the support settings. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question28>
+  <question29>
+    <question>
+      <p>Ursa Major Solar is setting up case assignment rules. </p>
+      <p> What are two places where the cases can be assigned?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Queue</option1>
+    <option1exp>Rules assign leads and cases to the specified user or queue.</option1exp>
+    <option2>User</option2>
+    <option2exp>Rules assign leads and cases to the specified user or queue.</option2exp>
+    <option3>Contact</option3>
+    <option3exp>Rules assign leads and cases to the specified user or queue.</option3exp>
+    <option4>Profile</option4>
+    <option4exp>Rules assign leads and cases to the specified user or queue.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question29>
+  <question30>
+    <question>
+      <p>High Priority cases at Ursa Major Solar need to get a response in less than 3 hours or escalated to a queue called &quot;High Priority Queue.&quot; </p>
+      <p> An administrator needs to configure the case management process to implement this requirement. </p>
+      <p> How should the administrator achieve this goal?</p>
+    </question>
+    <option1>Create an assignment rule to assign all cases where status = high to the high priority queue.</option1>
+    <option1exp>Assigmnet rules assign cases to a specified user or queue.</option1exp>
+    <option2>Create an escalation rule to assign all cases where status = high to the high priority queue based on the last modification time and set the age over to 3 (hours).</option2>
+    <option2exp>Escalation rules automatically escalate cases when the case meets the criteria defined in the rule entry. Use age to track when the last response on the case was.</option2exp>
+    <option3>Create an escalation rule to assign all cases where status = high to the high priority queue based on when the case is created.</option3>
+    <option3exp>Escalation rules automatically escalate cases when the case meets the criteria defined in the rule entry. Use age to track when the last response on the case was.</option3exp>
+    <option4>Create a case milestone to assign all cases where status = high to the high priority queue based on the last modification time and set the age over to 3 (hours).</option4>
+    <option4exp>Milestones represent required, time-dependent steps in your support process, like first response or case resolution times.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question30>
+  <question31>
+    <question>
+      <p>Ursa Major Solar (USM) has a Web-to-Case form on its Lightning Customer Community. USM wants to separate Cases into the following product categories: <ul>
+          <li>Residential </li>
+          <li>Lots/Land</li>
+          <li>Commercial </li>
+        </ul> USM has added a picklist field to store this data. </p>
+      <p> How can the Case be automatically placed in the correct queue upon submission?</p>
+    </question>
+    <option1>Create Record Types for each picklist value and a Business Process to move each Case to the correct Queue.</option1>
+    <option1exp>Business processes display different picklist values according to each user’s profile but do not assign records.</option1exp>
+    <option2>Create Assignment Rules based on the picklist values to move Cases to a Queue.</option2>
+    <option2exp>Assignment Rules define conditions that determine how leads or cases are processed. The rules assign leads and cases to the specified user or queue.</option2exp>
+    <option3>Create an Escalation Rule entry for each picklist value and set to zero minutes.</option3>
+    <option3exp>Escalation rules automatically escalate cases when the case meets the criteria defined in the rule entry.</option3exp>
+    <option4>Create Record Types for each picklist value and assign to each product team&#39;s profile.</option4>
+    <option4exp>Record types let you offer different business processes, picklist values, and page layouts to different users not assign records.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question31>
+  <question32>
+    <question>
+      <p>Which feature should Ursa Major Solar use if they want their support agents who are skilled in a particular product line to own cases directly after customers log them from an automated channel?</p>
+    </question>
+    <option1>Assignment rules</option1>
+    <option1exp>Assignment rules automate your organization’s lead generation and support processes. Use lead assignment rules to specify how leads are assigned to users or queues.</option1exp>
+    <option2>Case escalation rules</option2>
+    <option2exp>Escalation rules automatically escalate cases when the case meets the criteria defined in the rule entry.</option2exp>
+    <option3>Workflow field update</option3>
+    <option3exp>Assignment rules automate your organization’s lead generation and support processes. Use lead assignment rules to specify how leads are assigned to users or queues. </option3exp>
+    <option4>Case team routing</option4>
+    <option4exp>A case team is a group of people that work together to solve cases. Case are not routed by teams.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question32>
+  <question33>
+    <question>
+      <p>Ursa Major Solar uses the following: <ul>
+          <li>Private data access model for cases</li>
+          <li>Support agents, who own cases</li>
+          <li>Product specialists who occasionally need access to cases in their product line</li>
+        </ul> What are two actions that will allow the appropriate access in this scenario?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Case owners manually add product specialists to ad hoc case teams.</option1>
+    <option1exp>A case team is a group of people that work together to solve cases.</option1exp>
+    <option2>A case escalation rule assigns ownership to product specialists.</option2>
+    <option2exp>Escalation rules would not allow for teams to access that case. </option2exp>
+    <option3>Case owners configure pre-defined case teams.</option3>
+    <option3exp>Case teams are configured by admins </option3exp>
+    <option4>Administrators configure pre-defined case teams and assignment rules.</option4>
+    <option4exp>A case team is a group of people that work together to solve cases. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question33>
+  <question34>
+    <question>
+      <p>Ursa Major Solar has the following environment and requirements: <ul>
+          <li>Critical, high-priority accounts have an assigned District Manager, Sales Representative, Inside Sales Representative, and Customer Service Representative.</li>
+          <li>The Sales Manager wants to prevent these accounts from being inadvertently contacted more than once on the same day.</li>
+          <li>The Sales Manager wants to report on various customer interactions.</li>
+        </ul>How should the administrator fulfill these requirements?</p>
+    </question>
+    <option1>Log a separate task, call, or activity on the account.</option1>
+    <option1exp>Use activities to log key touchpoints on customers so that a report can be pulled.</option1exp>
+    <option2>Log a case on the account.</option2>
+    <option2exp>Case are an inbound touchpoint from the customer, not to the customer.</option2exp>
+    <option3>Post customer interactions in Chatter on the account.</option3>
+    <option3exp>Activities should be used to log key touchpoints on customers so that a report can be pulled. </option3exp>
+    <option4>Enter comments into the notes section on the account.</option4>
+    <option4exp>Activities should be used to log key touchpoints on customers so that a report can be pulled.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question34>
+  <question35>
+    <question>
+      <p>Users at Universal Containers (UC) adhere to the following process for expense reports: <ul>
+          <li>Create the expense report.</li>
+          <li>Attach receipts in an Expenses app.</li>
+          <li>Send the report to the accountant to review and approve.</li>
+        </ul> An administrator needs to enable this app for Salesforce Mobile. </p>
+      <p> What should the administrator consider from the User&#39;s perspective?</p>
+    </question>
+    <option1>A user can create records, attach receipts as photos, and submit for approval.</option1>
+    <option1exp>An approval process automates how records are approved in Salesforce.</option1exp>
+    <option2>A user can create list views, attach receipts as photos, and submit records for approval.</option2>
+    <option2exp>List views are not able to be submitted for approval.</option2exp>
+    <option3>A user can search Salesforce Records, attach receipts as photos, and approve records from Chatter.</option3>
+    <option3exp>An approval process automates how records are approved in Salesforce.</option3exp>
+    <option4>A user can utilize Search, create list views, and receive record push notifications from Chatter.</option4>
+    <option4exp>An approval process automates how records are approved in Salesforce.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question35>
+  <question36>
+    <question>
+      <p>An administrator needs to configure Ursa Major Solar&#39;s Salesforce Mobile app with the company&#39;s brand-specific images and color schemes. </p>
+      <p> Which set of branding options should the administrator use?</p>
+    </question>
+    <option1>Loading Page Logo, Brand Color, Loading Page Color</option1>
+    <option1exp>Change the Salesforce mobile app’s appearance, including the loading page background color, loading page logo, and header background color, so the app matches your company’s branding.</option1exp>
+    <option2>Loading Page Color, Action Colors, Loading Page Logo</option2>
+    <option2exp>Change the Salesforce mobile app’s appearance, including the loading page background color, loading page logo, and header background color, so the app matches your company’s branding.</option2exp>
+    <option3>Individual Page Colors, Multiple Loading Page Logos</option3>
+    <option3exp>Change the Salesforce mobile app’s appearance, including the loading page background color, loading page logo, and header background color so the app matches your company’s branding.</option3exp>
+    <option4>Tab Colors, Action Colors, Loading Page Logo</option4>
+    <option4exp>Change the Salesforce mobile app’s appearance, including the loading page background color, loading page logo, and header background color, so the app matches your company’s branding.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question36>
+  <question37>
+    <question>
+      <p>The managers at Ursa Major Solar asked the administrator to quickly provide access to sales reports and dashboards. </p>
+      <p> How can this be done?</p>
+    </question>
+    <option1>Build reports and dashboards.</option1>
+    <option1exp>The Salesforce Adoption Dashboards app can be found on the AppEschange.</option1exp>
+    <option2>Use the Salesforce Auto-Report Builder.</option2>
+    <option2exp>The Salesforce Adoption Dashboards app can be found on the AppEschange.</option2exp>
+    <option3>Search the AppExchange for free adoption report apps.</option3>
+    <option3exp>The Salesforce Adoption Dashboards app can be found on the AppEschange.</option3exp>
+    <option4>Log a case to Salesforce Support.</option4>
+    <option4exp>The Salesforce Adoption Dashboards app can be found on the AppEschange.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question37>
+  <question38>
+    <question>
+      <p>A new approval process is being adapted by Ursa Major Solar. After an opportunity has been approved, the contract is sent to the customer for signature as the final step in that process. </p>
+      <p> How can the administrator implement this functionality?</p>
+    </question>
+    <option1>Use the Salesforce Autosign flow.</option1>
+    <option1exp>AppExchange is the leading enterprise cloud marketplace with ready-to-install apps, solutions, and consultants that let you extend Salesforce. </option1exp>
+    <option2>Check the &quot;Send PDF&quot; box on the approval process setup.</option2>
+    <option2exp>AppExchange is the leading enterprise cloud marketplace with ready-to-install apps, solutions, and consultants that let you extend Salesforce. </option2exp>
+    <option3>Install an app from the AppExchange.</option3>
+    <option3exp>AppExchange is the leading enterprise cloud marketplace with ready-to-install apps, solutions, and consultants that let you extend Salesforce. </option3exp>
+    <option4>Hire a consulting firm to develop a document signing workflow.</option4>
+    <option4exp>AppExchange is the leading enterprise cloud marketplace with ready-to-install apps, solutions, and consultants that let you extend Salesforce.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question38>
+  <question39>
+    <question>
+      <p>Recently, one of Ursa Major Solar&#39;s (UMS) competitors lost critical data after a powerful hurricane caused multiple power outages. </p>
+      <p> UMS needs to ensure that its Salesforce data is backed up and protected from such an event. </p>
+      <p> Which two statements are true regarding this goal?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>UMS can download an app from the AppExchange.</option1>
+    <option1exp>AppExchange is the leading enterprise cloud marketplace with ready-to-install apps, solutions, and consultants that let you extend Salesforce. </option1exp>
+    <option2>UMS can use Salesforce&#39;s weekly or monthly backup service, which is provided via a zip file.</option2>
+    <option2exp>A Salesforce org can generate backup files of your data on a weekly or monthly basis.</option2exp>
+    <option3>UMS can use Salesforce&#39;s daily backup service, which is provided via a zip file.</option3>
+    <option3exp>A Salesforce org can generate backup files of your data on a weekly or monthly basis.</option3exp>
+    <option4>UMS should contact Salesforce Support for a free backup.</option4>
+    <option4exp>A Salesforce org can generate backup files of your data on a weekly or monthly basis.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question39>
+  <question40>
+    <question>
+      <p>Ursa Major Solar is looking into backup methods. </p>
+      <p> Which set of small and large data backup methods are available in native Salesforce?</p>
+    </question>
+    <option1>Data Loader Exports, Report Exports, and Weekly Data Export Service</option1>
+    <option1exp>Data can be backed up via Data Loader Exports, Report Exports, and Weekly Data Export Service.</option1exp>
+    <option2>Report Exports, Dashboard Exports, and Weekly Data Export Service</option2>
+    <option2exp>Dashboards are not avalible for backup.</option2exp>
+    <option3>Data Loader Exports, Mass Exports, and Weekly Data Export Service</option3>
+    <option3exp>Mass exports are not avalible.</option3exp>
+    <option4>Mass Export Wizard, Weekly Data Export Service, and Data Loader Exports</option4>
+    <option4exp>Mass exports are not avalible.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question40>
+  <question41>
+    <question>
+      <p>Ursa Major Solar needs to transfer records from one user to another user during a mass transfer of account records.</p>
+      <p>Which two record types can be used for this transfer?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Open cases</option1>
+    <option1exp>Use the Mass Transfer tool to transfer multiple accounts, leads, service contracts, and custom objects from one user to another. </option1exp>
+    <option2>Closed cases</option2>
+    <option2exp>Use the Mass Transfer tool to transfer multiple accounts, leads, service contracts, and custom objects from one user to another.</option2exp>
+    <option3>Closed activities</option3>
+    <option3exp>Use the Mass Transfer tool to transfer multiple accounts, leads, service contracts, and custom objects from one user to another.</option3exp>
+    <option4>Related custom object records</option4>
+    <option4exp>Use the Mass Transfer tool to transfer multiple accounts, leads, service contracts, and custom objects from one user to another.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question41>
+  <question42>
+    <question>
+      <p>Ursa Major Solar wants to ensure that unique data is always input into a specific field.</p>
+      <p>Which two field properties should the administrator configure?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Unique</option1>
+    <option1exp>Customize standard and custom fields to tailor your org to your own unique requirements.</option1exp>
+    <option2>Required</option2>
+    <option2exp>Customize standard and custom fields to tailor your org to your own unique requirements.</option2exp>
+    <option3>Default Value</option3>
+    <option3exp>Customize standard and custom fields to tailor your org to your own unique requirements.</option3exp>
+    <option4>Data Type</option4>
+    <option4exp>Customize standard and custom fields to tailor your org to your own unique requirements.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question42>
+  <question43>
+    <question>
+      <p>Ursa Major Solar uses Validation Rule Fields.</p>
+      <p>What are two of these fields?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Owner</option1>
+    <option1exp>Valdiation Rules are not owned.</option1exp>
+    <option2>Error Message</option2>
+    <option2exp>An error message displays to the user when a field fails the validation rule.</option2exp>
+    <option3>Active Date</option3>
+    <option3exp>There is an Active check box.</option3exp>
+    <option4>Error Condition Formula</option4>
+    <option4exp>An error Condition Formula is the expression used to validate the field.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question43>
+  <question44>
+    <question>
+      <p>Ursa Major Solar uses a validation rule to prevent invalid data.</p>
+      <p>What are three conditions where this rule is used?</p>
+      <p>Choose 3 options.</p>
+    </question>
+    <option1>When records are imported.</option1>
+    <option1exp>Validation rules are triggered by creating a record.</option1exp>
+    <option2>When records are submitted using web-to-lead.</option2>
+    <option2exp>Validation rules are triggered by creating a record.</option2exp>
+    <option3>When records are updated by a workflow rule.</option3>
+    <option3exp>A workflow rule does not trigger a validation rule.</option3exp>
+    <option4>When records are edited and saved by a user.</option4>
+    <option4exp>Validation rules are triggered by saving or editing a record.</option4exp>
+    <option5>When records are deleted by a user.</option5>
+    <option5exp>Deleting a record would not trigger a validation rule.</option5exp>
+  </question44>
+  <question45>
+    <question>
+      <p>What are two ways to customize basic reports using Lightning Experience?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>By adding a chart</option1>
+    <option1exp>Charts can be added to a report.</option1exp>
+    <option2>By adding links to external pages</option2>
+    <option2exp>Links cannot be added to a report.</option2exp>
+    <option3>By adding a Lightning Component</option3>
+    <option3exp>Lightning Components are not avalible on reports.</option3exp>
+    <option4>By adding a filter</option4>
+    <option4exp>Reports can be filtered.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question45>
+  <question46>
+    <question>
+      <p>Ursa Major Solar has selected report folders that are shared with a small group of users who are on Lightning Experience. The administrator needs to prevent these users from customizing the information in the reports. </p>
+      <p> What should the administrator do to achieve this goal?</p>
+    </question>
+    <option1>Lock report filters.</option1>
+    <option1exp>Report filters can be locked to prevent viewers from changing the filter settings.</option1exp>
+    <option2>Utilize Custom Report Types.</option2>
+    <option2exp>Custom report types would not prevent users from customizing a report.</option2exp>
+    <option3>Run the report as a specified user.</option3>
+    <option3exp>Running a report would not prevent users from customizing a report.</option3exp>
+    <option4>Change Field Level Security.</option4>
+    <option4exp>Field-level security settings let you restrict users’ access to view and edit specific fields, not reports.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question46>
+  <question47>
+    <question>
+      <p>Ursa Major Solar is adding objects to a custom report type. </p>
+      <p> How many objects, maximum, can be added to this report type?</p>
+    </question>
+    <option1>One as long as the object has a master-child relationship</option1>
+    <option1exp>Each report type must specify a primary object and may optionally include other related objects. Up to four objects may be linked in a report type. </option1exp>
+    <option2>Two as long as the objects have associations</option2>
+    <option2exp>Each report type must specify a primary object and may optionally include other related objects. Up to four objects may be linked in a report type. </option2exp>
+    <option3>Four as long as the objects have associations</option3>
+    <option3exp>Each report type must specify a primary object and may optionally include other related objects. Up to four objects may be linked in a report type. </option3exp>
+    <option4>Unlimited as long as the objects have associations</option4>
+    <option4exp>Each report type must specify a primary object and may optionally include other related objects. Up to four objects may be linked in a report type. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question47>
+  <question48>
+    <question>
+      <p>At Ursa Major Solar, Sales representatives use a custom report type for Account reports. New fields have been created on the Account Object. An administrator needs to report on the newly created fields. </p>
+      <p> What should the administrator do to achieve this goal?</p>
+    </question>
+    <option1>From the Custom Report Type, Edit Object Relationships, then add the new fields to the report.</option1>
+    <option1exp>Add fields to a custom report in the custom report type field layout.</option1exp>
+    <option2>From the Custom Report Type, Edit Layout, then add the new fields to the report.</option2>
+    <option2exp>Add fields to a custom report in the custom report type field layout.</option2exp>
+    <option3>Create a new account report and add the new fields from the Report Builder.</option3>
+    <option3exp>Add fields to a custom report in the custom report type field layout.</option3exp>
+    <option4>Create a new account report folder, go to share, and then add the new fields.</option4>
+    <option4exp>Add fields to a custom report in the custom report type field layout.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question48>
+  <question49>
+    <question>
+      <p>After a recent restructure of its Sales Department, Ursa Major Solar is having issues with records being omitted in the new Opportunity Report. </p>
+      <p> Which three questions should the administrator ask to research this issue?</p>
+      <p>Choose 3 options.</p>
+    </question>
+    <option1>Are records currently being shared with the sales manager?</option1>
+    <option1exp>If one of your reports is either missing records or contains results that shouldn&#39;t display.</option1exp>
+    <option2>Do the records the sales managers expect to see match the filter criteria?</option2>
+    <option2exp>If one of your reports is either missing records or contains results that shouldn&#39;t display.</option2exp>
+    <option3>Have the owners of the records been frozen?</option3>
+    <option3exp>Freezing users would not prevent records from being populated. If one of your reports is either missing records or contains results that shouldn&#39;t display.</option3exp>
+    <option4>Do owners of all records have Roles and correct Territory Assignments?</option4>
+    <option4exp>If one of your reports is either missing records or contains results that shouldn&#39;t display. </option4exp>
+    <option5>Did the sales manager start from a copy or clone of an existing report?</option5>
+    <option5exp>Records can be added back in regardless of what report type is started with.</option5exp>
+  </question49>
+  <question50>
+    <question>
+      <p>Ursa Major Solar wants to add charts to a Salesforce dashboard. </p>
+      <p> What are three standard chart types that are available?</p>
+      <p>Choose 3 options.</p>
+    </question>
+    <option1>Bar chart</option1>
+    <option1exp>Bar chart is an avalible component.</option1exp>
+    <option2>Gauge chart</option2>
+    <option2exp>Gauge chart is an avalible component.</option2exp>
+    <option3>Venn Diagram</option3>
+    <option3exp>Venn Diagram is not an avalible component.</option3exp>
+    <option4>Table</option4>
+    <option4exp>Tables is an avalible component.</option4exp>
+    <option5>Heat map</option5>
+    <option5exp>Heat map is not an avalible component.</option5exp>
+  </question50>
+  <question51>
+    <question>
+      <p>Ursa Major Solar wants all Sales Users to see a dashboard that displays Total Closed/Won Opportunity Amount by User on a monthly basis. The Opportunity sharing model is private. </p>
+      <p> What should the administrator do to fulfill this request?</p>
+    </question>
+    <option1>Request for the Sales Manager to create the Dashboard from the Opportunities by User Report and save it to her private Dashboards Folder.</option1>
+    <option1exp>Saving to a private folder will not allow access for the Sales users. </option1exp>
+    <option2>Create the Dashboard from the Opportunities by User Report, choose the Sales Manager as RunAs User and Save in the private Dashboard Folder.</option2>
+    <option2exp>Saving to a private folder will not allow access for the Sales users.</option2exp>
+    <option3>Request for the Sales Manager to create the Dashboard from the Opportunities by User Report, select &quot;View Dashboard as Me&quot;, and save in the shared Dashboard Folder.</option3>
+    <option3exp>By setting the running user to the Sales Manager and saving in a shared folder the Sales user will see all the records the Sales Manager can see. </option3exp>
+    <option4>Create the Dashboard from the Opportunities by User Report, then save it in the shared Dashboard Folder as a Dynamic Dashboard.</option4>
+    <option4exp>Dynamic dashboard would only show data the running users has access too.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question51>
+  <question52>
+    <question>
+      <p>Ursa Major Solar uses data from the grand total of a custom report to create their dashboard.</p>
+      <p>Which two components will populate the grand total properly?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Metric</option1>
+    <option1exp>Use a metric when you have one key value to display. </option1exp>
+    <option2>Gauge</option2>
+    <option2exp>Use a gauge when you have a single value that you want to show within a range of custom values.</option2exp>
+    <option3>Table</option3>
+    <option3exp>Use a table to show a set of report data in column form.</option3exp>
+    <option4>Chart</option4>
+    <option4exp>Use a chart when you want to show data graphically.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question52>
+  <question53>
+    <question>
+      <p>An administrator for Ursa Major Solar wants to allow internal users to view a dashboard as a Sales Manager within a given sales region. </p>
+      <p> How can this be configured?</p>
+    </question>
+    <option1>Create a dashboard with multiple components.</option1>
+    <option1exp>This type of dashboard would start to reach the compent limit and require maintenance.</option1exp>
+    <option2>Create a dashboard to run as the logged-in user.</option2>
+    <option2exp>This type of dashboard would only show the logged-in users records not specific to a Sales Manager.</option2exp>
+    <option3>Create a dashboard to run as a specified user.</option3>
+    <option3exp>This dashboard would show the specified users information properly.</option3exp>
+    <option4>Create a dashboard for all opportunities in the region.</option4>
+    <option4exp>With this type of dashboard, all users would see all data.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question53>
+  <question54>
+    <question>
+      <p>Ursa Major Solar (UMS) is using the workflow field update. </p>
+      <p> Which two actions can UMS complete with this feature?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Apply a specific value to a field.</option1>
+    <option1exp>Use a field update action to apply the value.</option1exp>
+    <option2>Update the value of a field on a child object.</option2>
+    <option2exp>Workflow actions cannot update child records.</option2exp>
+    <option3>Modify the record type of a record.</option3>
+    <option3exp>Use a field update action to change the record type.</option3exp>
+    <option4>Choose a formula field for a field update.</option4>
+    <option4exp>Formula fields are a calculation and cannot be updated with a workflow.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question54>
+  <question55>
+    <question>
+      <p>The administrator at Ursa Major Solar needs to provide information for total Salesforce licenses, used licenses, and the remaining Salesforce licenses.</p>
+      <p> Where in setup can this information be found?</p>
+    </question>
+    <option1>Users</option1>
+    <option1exp>Though you can find information for each individual user&#39;s license under the Users section of Setup, you would not find information about how many licenses have been used, and how many are still available.</option1exp>
+    <option2>Profiles</option2>
+    <option2exp>Profiles define how users can access objects and data. This is not where you would find information about how many licenses have been used or are still available.</option2exp>
+    <option3>Critical Updates</option3>
+    <option3exp>Critical Updates is found in Company Settings and is where you would review and activite release updates to improve performance, security, business logic and usability.</option3exp>
+    <option4>Company Information</option4>
+    <option4exp>You would find information about how many licenses have been used and how many are still available under the Company Information section in Setup.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question55>
+  <question56>
+    <question>
+      <p>An administrator at Ursa Major Solar (UMS) needs to create a new user.</p>
+      <p> When creating a username, which two considerations need to be taken in to account?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Username needs to be in the format of an Email Address.</option1>
+    <option1exp>All usernames must be in the form of an email address buut do not need to be an actual email.</option1exp>
+    <option2>Username must be unique across all Salesforce orgs.</option2>
+    <option2exp>All usernames musut be unique across all production orgs. If a company has a standard email dowmain (which is used as a username), an administrator needs to add an additional identifier in the email to make it unique.</option2exp>
+    <option3>Username matches to the User&#39;s Email address.</option3>
+    <option3exp>A username can be different from the user&#39;s email address, but the username must be in the form of an email.</option3exp>
+    <option4>Username is added to the Active User Log.</option4>
+    <option4exp>When creating a new user you do not need to take the Active User Log into account.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question56>
+  <question57>
+    <question>
+      <p>An administrator at Ursa Major Solar is configuring password requirements for the company&#39;s users.</p>
+      <p> Which three actions are administrators able to configure?</p>
+      <p>Choose 3 options.</p>
+    </question>
+    <option1>Set maximum invalid login attempts.</option1>
+    <option1exp>An admin is able to set the maximum number of invalid login attempts before a user is locked out of their account.</option1exp>
+    <option2>Set prohibited password values.</option2>
+    <option2exp>An admin can define requirements to be included in the password, but is unable to set prohibited password values.</option2exp>
+    <option3>Set the length of time before passwords expire.</option3>
+    <option3exp>The length of time until a user password expires and must be changed defaults to 90 days. An admin is also able to change this setting to an expiration date that&#39;s earlier or later than the default experation date, or set it to
+      never expire.</option3exp>
+    <option4>Set requirement that passwords must be unique for each user.</option4>
+    <option4exp>An admin is able to set the requirement that passwords must be unique from previous passwords used for each individual user, but not accross users.</option4exp>
+    <option5>Set password complexity requirements.</option5>
+    <option5exp>An admin can set password complexity requirements suuch as the types of character&#39;s that must be used in a user&#39;s password.</option5exp>
+  </question57>
+  <question58>
+    <question>
+      <p>A user is unable to log in to Salesforce.</p>
+      <p> What should a Salesforce administrator do?</p>
+    </question>
+    <option1>View the user&#39;s login history.</option1>
+    <option1exp>Viewing the use&#39;s login history will give the admin information as to why the user is unable to login, and insight into how to solve the issue.</option1exp>
+    <option2>Change the user&#39;s profile.</option2>
+    <option2exp>Changing the user&#39;s profile changes user access and settings, not login information.</option2exp>
+    <option3>Ask the user to change their password.</option3>
+    <option3exp>The issue may not be that the user needs a new password. There could be many other reasons the user cannot login to their account, so the admin must first understand the underlying issue to resolve it.</option3exp>
+    <option4>Unlock the User.</option4>
+    <option4exp>The user login issue might not be that they are locked out, or if they are, the admin should research the reason before unlocking the user&#39;s account.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question58>
+  <question59>
+    <question>
+      <p>A sales manager recently left Universal Containers and the Salesforce administrator has received the urgent request to deactivate their username. Because the sales manager was part of several approval processes, it is taking longer than expected.</p>
+      <p> What should the Salesforce administrator do?</p>
+    </question>
+    <option1>Freeze the User record.</option1>
+    <option1exp>If we are unable to deactivate a user immediately because of account configuration with approval processes, etc., the admin should freeze the user account. This will prevent the user from logging into the organization as the admin takes the necessary steps to deactivate them.</option1exp>
+    <option2>Change the User email address.</option2>
+    <option2exp>Changing the user email address does not change the user&#39;s login information and will not prevent them from logging into their account.</option2exp>
+    <option3>Reset the User password.</option3>
+    <option3exp>Resetting the password will prompt the user to reset their own password, and would still allow the user to log in to their account.</option3exp>
+    <option4>Change the User profile.</option4>
+    <option4exp>Changing the user&#39;s profile changes the user&#39;s access and settings, not login information or access.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question59>
+  <question60>
+    <question>
+      <p>Which Salesforce tool should an administrator use to better understand all of the configuration changes that have been made from January 1 through July 1?</p>
+    </question>
+    <option1>Setup Audit Trail</option1>
+    <option1exp>The Setup Audit Trail tracks all changes made or actions performed within an org for the previous 6 months.</option1exp>
+    <option2>Custom Report Type</option2>
+    <option2exp>With Custom Report Type you can create reports that track field history for standard or custom objects if history tracking is enabled in the Custom Fields & Relationship section, but it does not show a history of org configuration changes.</option2exp>
+    <option3>Debug Log</option3>
+    <option3exp>The Debug Log records database operations, system processes and errors that occuur when executing a transaction or running unit tests, not overall org configuration changes.</option3exp>
+    <option4>Network Access Settings</option4>
+    <option4exp>Network Access Settings allows the admin to set trusted IP ranges for users to log in, it does not track configuration changes.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question60>
+  <question61>
+    <question>
+      <p>At Universal Containers, a user&#39;s department determines which fields the user can see and edit on opportunities. For example, users on the sales team can edit all fields on the opportunity, while users on the support team have read-only
+        access to these fields.</p>
+      <p> In which location is field-level security controlled for users on these teams?</p>
+    </question>
+    <option1>Sharing rules</option1>
+    <option1exp>Sharing Rules define the level of access to a record at the object-level. Sharing rules cannot be stricter than the org-wide. default settings. Sharing rules just allow greater access for particular users by making exceptions to the org-wide sharing settings.</option1exp>
+    <option2>Role</option2>
+    <option2exp>Roles control access to objects, and open access from the org-wide default settings. Roles do not give access at a field-level.</option2exp>
+    <option3>Public groups</option3>
+    <option3exp>Public groups arer collections of individual users, other groups, individual roles or territories, and/or roles or teritories with their subordinates that all have a function in common. They are used when defning sharing rules and also define access and sharing settings at the object level.</option3exp>
+    <option4>Profile</option4>
+    <option4exp>Profiles control object access, field-level security (which fields are visible or editable), page layouts, record types and apps. Profiles control what a user can do in the Salesforce org. This is referred to as CRED (create, read, edit, and delete). It also defines data administration access to "View all" or "Modify all."</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question61>
+  <question62>
+    <question>
+      <p>An administrator at Ursa Major Solar is using sharing rules to grant record access to users.</p>
+      <p> Which two types of record access can the administrator grant?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Read Only</option1>
+    <option1exp>Read Only access is granted with sharing rules</option1exp>
+    <option2>Read/Write</option2>
+    <option2exp>Read/Write access is granted with sharing rurles.</option2exp>
+    <option3>Read/Write/Transfer</option3>
+    <option3exp>An admin cannot grant Read/Write/Transfer access with sharing rules.</option3exp>
+    <option4>Read/Write/Delete</option4>
+    <option4exp>An admin cannot grant Read/Write/Delete access with sharing rules.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question62>
+  <question63>
+    <question>
+      <p>An administrator at Ursa Major Solar is implementing an organization-wide default option for the Account object.</p>
+      <p> What is a correct option for the administrator in this scenario?</p>
+    </question>
+    <option1>No Access</option1>
+    <option1exp>No access would not allow anyone in the organization to access the Account object.</option1exp>
+    <option2>Private</option2>
+    <option2exp>An admin would want to choose Private access at an org-wide level, because you can always open up access from the org-wide default, but you cannot restrict access.</option2exp>
+    <option3>Public Read/Write/Delete</option3>
+    <option3exp>An admin would not want everyone in the org to have Read/Write/Delete access, and you cannot restrict access from the org-wide default level, so you would want to start with a more restrictive default, and open access from there.</option3exp>
+    <option4>Public Read/Write/Transfer</option4>
+    <option4exp>An admin would not want everyone in the org to have Read/Write/Transfer access, and you cannot restrict access from the org-wide default level, so you would want to start with a more restrictive default, and open access from there.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question63>
+  <question64>
+    <question>
+      <p>Which two levels of access should be set when sharing a document folder with users?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Read/Write/Create/Delete</option1>
+    <option1exp>An admin would not want users to be able to delete content.</option1exp>
+    <option2>Read/Write</option2>
+    <option2exp>Read/Write access should be given when sharing a document folder with users so they are able to open and access documents.</option2exp>
+    <option3>Read/Write/Create</option3>
+    <option3exp>An admin would give Read/Write/Create access so that users are able to contribute to content.</option3exp>
+    <option4>Read-only</option4>
+    <option4exp>Read&#39;-only access would prevent users from fully accessing content.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question64>
+  <question65>
+    <question>
+      <p>Where does an administrator control field-level security for users?</p>
+    </question>
+    <option1>Sharing rule</option1>
+    <option1exp>Sharing rules control object-level access.</option1exp>
+    <option2>Role</option2>
+    <option2exp>Role-based sharing controls object-level access.</option2exp>
+    <option3>User</option3>
+    <option3exp>When you set up a user, you do not configure field-level security access.</option3exp>
+    <option4>Profile</option4>
+    <option4exp>Profiles allow admins to grant field-level access and access in the profile bypasses rules and org-wide defaults set by sharing rules.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question65>
+  <question66>
+    <question>
+      <p>Which type of field do administrators use when creating a junction object?</p>
+    </question>
+    <option1>Text area</option1>
+    <option1exp>Text area is not used when creating a junction object.</option1exp>
+    <option2>Master-detail</option2>
+    <option2exp>Master-detail is a custom field that is used when creating a junction object. The junction object allows a many-to-many relationship.</option2exp>
+    <option3>Look-up</option3>
+    <option3exp>A look-up field is not used when creating a junction object. The look-up field allows users to create a relationship between two records so you can associate them with each other.</option3exp>
+    <option4>Formula</option4>
+    <option4exp>Formula fields allow you to define calculations that reference other fields to display new numeric, text, date, or checkbox values in that field, but they are not used when creating a junction object.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question66>
+  <question67>
+    <question>
+      <p>Universal Containers has two business groups, Products and Services. Both groups will be using opportunities to track deals, but different fields are required by each group.</p>
+      <p>In which two ways should an administrator meet this requirement?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Create two page layouts.</option1>
+    <option1exp>By creating two page layouts, you are able to customize what fields are shown for each group based on the type of page layout they have access to.</option1exp>
+    <option2>Create two record types.</option2>
+    <option2exp>By creating two record types you are able to customize what fields are shown fo each group based on the type of record they have access to.</option2exp>
+    <option3>Create two lead processes.</option3>
+    <option3exp>Lead processes are used before the opportunity is created.</option3exp>
+    <option4>Create two permission sets.</option4>
+    <option4exp>A user is assigned a permission set, and that does affect what the user can see. However, if the user needs to see both types of opportunities based on whether the opportunity is a product or service, you would want them to be able to easily pick the type of opportunity and the corresponding page layout/fields.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question67>
+  <question68>
+    <question>
+      <p>The support group at Ursa Major Solar has the following requirements: <ul>
+          <li>Agents need to capture different information for product support and inquiry cases.</li>
+          <li>The lifecycle for inquiry cases should have fewer steps than the lifecycle for product support cases.</li>
+        </ul>Which three features should an administrator use to meet these requirements?</p>
+      <p>Choose 3 options.</p>
+    </question>
+    <option1>Record types</option1>
+    <option1exp>Record types determine which page layouts and picklst values users have access to, so creating two different record types for product support vs. inquiry will meet these requirements.</option1exp>
+    <option2>Page layouts</option2>
+    <option2exp>Page layouts control the layout and the organization of buttons, fields, links, etc. on object record pages. The admin is able to use page layouts to customize the content of record pages and make them unique for product support vs. inquiry.</option2exp>
+    <option3>Support processes</option3>
+    <option3exp>After creating a support process, it is assciated with a record type. Based on the record type chosen when creating a record (product support or inquiry in this example), the support process associated is used to determine the
+      "status" field picklist on the case object.</option3exp>
+    <option4>Field-level security</option4>
+    <option4exp>Field-level secuirty controls access to each field on the field-level, not on the object level.</option4exp>
+    <option5>Permission sets</option5>
+    <option5exp>Permission sets do not specify page layout assignments, which are tied to record types and ultimately will control the fields and picklist options that a user sees.</option5exp>
+  </question68>
+  <question69>
+    <question>
+      <p>Ursa Major Solar has the following environment and requirements: <ul>
+          <li>A new custom object named Regulations__c is a child of the account object.</li>
+          <li>All users need the ability to view Regulations__c when viewing accounts with the sales account page layout.</li>
+        </ul>How should an administrator provide access to Regulations__c on the sales account page layout?</p>
+    </question>
+    <option1>By adding a new related list for Regulations__c to the sales account page layout</option1>
+    <option1exp>Adding the related list will allow users to access the child accounts.</option1exp>
+    <option2>By adding a new section for Regulations__c to the sales account page layout</option2>
+    <option2exp>Adding the related list will allow users to access the child accounts. Related lists are within a section.</option2exp>
+    <option3>By adding a new action for Regulations__c to the sales account page layout</option3>
+    <option3exp>Adding an action will not allow users to view the child accounts.</option3exp>
+    <option4>By adding a new custom link for Regulations__c to the sales account page layout</option4>
+    <option4exp>Adding a custom link will not allow users to view the child accounts.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question69>
+  <question70>
+    <question>
+      <p>A company needs its customer service agents to collect and display different information on case records based on whether customers are calling in with a question, product suggestion, or complaint.</p>
+      <p> Which three features should the administrator use to meet this goal?</p>
+      <p>Choose 3 options.</p>
+    </question>
+    <option1>Support processes</option1>
+    <option1exp>Use multiple business processes to display different picklist values according to each user’s profile.</option1exp>
+    <option2>Record types</option2>
+    <option2exp>Customize the values in record type or business process picklists based on your organization’s unique needs.</option2exp>
+    <option3>Permission sets</option3>
+    <option3exp>Permission sets extend a users&#39; functionally.</option3exp>
+    <option4>Field level security</option4>
+    <option4exp>Field level security limits access to specific fields via profile permissions on an object or page layout.</option4exp>
+    <option5>Page layouts</option5>
+    <option5exp>Page layouts control the layout and related lists on object record pages.</option5exp>
+  </question70>
+  <question71>
+    <question>
+      <p>An administrator at Ursa Major Solar (UMS) has created a new Lightning record page for the sales team to display a report chart embedded on the account page. No record types currently exist for an account.</p>
+      <p> Which action should the administrator perform to make this page the default view of the UMS app for the sales team without impacting the support team?</p>
+    </question>
+    <option1>Make the page the org default.</option1>
+    <option1exp>Making the page the org default would be for the entire org affecting all users.</option1exp>
+    <option2>Make the page the default object record page for the UMS app.</option2>
+    <option2exp>Making the page the object default would be for the app affecting all users.</option2exp>
+    <option3>Create an account record type and make the page the default object record page.</option3>
+    <option3exp>Making the page the object default would be for the entire object affecting all users.</option3exp>
+    <option4>Make the page the default object record page for the UMS app for the sales profile.</option4>
+    <option4exp>Activate Lightning record pages as the default record page for profiles.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question71>
+  <question72>
+    <question>
+      <p>Ursa Major Solar is experiencing quality assurance issues with a product line. An administrator needs to use a standard object to track the extent of the problem.</p>
+      <p> Which standard object should be used?</p>
+    </question>
+    <option1>Account</option1>
+    <option1exp>An account is an organization or person involved with your business (such as customers, competitors, and partners).</option1exp>
+    <option2>Opportunity</option2>
+    <option2exp>An opporunity is a sale or pending deal.</option2exp>
+    <option3>Case</option3>
+    <option3exp>A case represents a customer issue or problem.</option3exp>
+    <option4>Product</option4>
+    <option4exp>A product is what your org sells.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question72>
+  <question73>
+    <question>
+      <p>Ursa Major Solar needs to ensure compliance with a platinum service level agreement; therefore, cases that stay in the Tier 2 queue for longer than 4 hours must be re-assigned to the Tier 3 queue.</p>
+      <p> Which Salesforce feature should be used to fulfill this requirement?</p>
+    </question>
+    <option1>Auto response rule</option1>
+    <option1exp>Auto-response rules automatically send email responses to lead or case submissions based on the record’s attributes.</option1exp>
+    <option2>Case escalation rule</option2>
+    <option2exp>Case escalation rules automatically escalate cases when the case meets the criteria defined in the rule entry.</option2exp>
+    <option3>Case assignment rule</option3>
+    <option3exp>Assignment rules automate lead generation and support processes.</option3exp>
+    <option4>Case comments</option4>
+    <option4exp>Case comments are used to add notes to a case.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question73>
+  <question74>
+    <question>
+      <p>Ursa Major Solar has a million new Account records to upload into Salesforce.</p>
+      <p> What is the recommended method for uploading this data?</p>
+    </question>
+    <option1>Utilize the Data Import Wizard.</option1>
+    <option1exp>Data Import Wizard is supported for loads up to 50,000 records at a time.</option1exp>
+    <option2>Utilize the Data Loader.</option2>
+    <option2exp>Data Loader is supported for loads of up to 5 million records.</option2exp>
+    <option3>Utilize an AppExchange app.</option3>
+    <option3exp>AppExchange is a marketplace offering solutions, such as apps, components, and consulting services.</option3exp>
+    <option4>Request help from Salesforce.</option4>
+    <option4exp>Salesforce support is not needed. Data Loader is supported for loads of up to 5 million records.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question74>
+  <question75>
+    <question>
+      <p>Ursa Major Solar is importing data and has many records that do <strong>NOT</strong> meet the data validation criteria. </p>
+      <p>What will occur?</p>
+    </question>
+    <option1>The import process will require user authorization in order to import the invalid records.</option1>
+    <option1exp>Salesforce runs validation rules on records before they are imported. Records that fail validation are not imported.</option1exp>
+    <option2>The import process will fail, but only for the records with invalid data.</option2>
+    <option2exp>Salesforce runs validation rules on records before they are imported. Records that fail validation are not imported.</option2exp>
+    <option3>The import process will abort when it encounters the first invalid record.</option3>
+    <option3exp>Salesforce runs validation rules on records before they are imported. Records that fail validation are not imported.</option3exp>
+    <option4>The import process will ignore the data validation criteria.</option4>
+    <option4exp>Salesforce runs validation rules on records before they are imported. Records that fail validation are not imported.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question75>
+  <question76>
+    <question>
+      <p>Users at Ursa Major Solar are trying to create Opportunities.</p>
+      <p> When populating a custom picklist field, the users receive errors. Additionally, when the users select either of the two values in the picklist, they receive different error messages above the field and are unable to save the
+        Opportunities.</p>
+      <p> Why is this error likely occurring?</p>
+    </question>
+    <option1>The users don&#39;t have access to the picklist field.</option1>
+    <option1exp>Contradicting validation rules for the same field will cause users not be able to save the record.</option1exp>
+    <option2>The two picklist values are unavailable to the Record Type.</option2>
+    <option2exp>Picklists are not set by record type.</option2exp>
+    <option3>The picklist field has contradicting validation rules.</option3>
+    <option3exp>Contradicting validation rules for the same field will cause users not be able to save the record.</option3exp>
+    <option4>The users don&#39;t have access to the Large Enterprise Record Type.</option4>
+    <option4exp>In this senario, access to a record type would not cause a validation rule to fail.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question76>
+  <question77>
+    <question>
+      <p>Ursa Major Solar has an opportunity record with a close date of November 15, which fulfills the criteria of a time-dependent workflow rule. The time-dependent action is scheduled for November 8.</p>
+      <p> The opportunity is edited before November 8, however, and no longer meets the criteria.</p>
+      <p> What happens to the time-dependent action?</p>
+    </question>
+    <option1>It is put on hold.</option1>
+    <option1exp>Time-dependent actions remain in the workflow queue only as long as the workflow rule criteria are still valid. If a record no longer matches the rule criteria, Salesforce removes the time-dependent actions queued for that record.</option1exp>
+    <option2>It will execute on November 8.</option2>
+    <option2exp>Time-dependent actions remain in the workflow queue only as long as the workflow rule criteria are still valid. If a record no longer matches the rule criteria, Salesforce removes the time-dependent actions queued for that record.</option2exp>
+    <option3>It will execute on November 15.</option3>
+    <option3exp>Time-dependent actions remain in the workflow queue only as long as the workflow rule criteria are still valid. If a record no longer matches the rule criteria, Salesforce removes the time-dependent actions queued for that record.</option3exp>
+    <option4>It is automatically removed from the queue.</option4>
+    <option4exp>Time-dependent actions remain in the workflow queue only as long as the workflow rule criteria are still valid. If a record no longer matches the rule criteria, Salesforce removes the time-dependent actions queued for that record.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question77>
+  <question78>
+    <question>
+      <p>Ursa Major Solar placed a time-dependent action in the workflow queue when the record was created.</p>
+      <p> What are two situations that will cause this action to be removed from the queue?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>If the record no longer matches the rule criteria</option1>
+    <option1exp>Time-dependent actions remain in the workflow queue only as long as the workflow rule criteria are still valid. If a record no longer matches the rule criteria, Salesforce removes the time-dependent actions queued for that record.</option1exp>
+    <option2>If the action is deleted from the workflow queue</option2>
+    <option2exp>Time-dependent actions remain in the workflow queue only as long as the workflow rule criteria are still valid. If a record no longer matches the rule criteria, Salesforce removes the time-dependent actions queued for that record.</option2exp>
+    <option3>If a validation rule is triggered for the record</option3>
+    <option3exp>Time-dependent actions remain in the workflow queue only as long as the workflow rule criteria are still valid. If a record no longer matches the rule criteria, Salesforce removes the time-dependent actions queued for that record.</option3exp>
+    <option4>If another record triggers the same workflow rule</option4>
+    <option4exp>Time-dependent actions remain in the workflow queue only as long as the workflow rule criteria are still valid. If a record no longer matches the rule criteria, Salesforce removes the time-dependent actions queued for that record.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question78>
+  <question79>
+    <question>
+      <p>An administrator at Ursa Major Solar is configuring a workflow rule.</p>
+      <p> What are two considerations for an administrator in this situation?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>When a new rule is activated, each existing record is evaluated.</option1>
+    <option1exp>Workflow rules can be triggered any time a record is saved or created, depending on your rule criteria. Rules created after saving records don’t affect those records retroactively.</option1exp>
+    <option2>Rule actions can take place immediately or can be time based.</option2>
+    <option2exp>Workflow rules can be triggered any time a record is saved or created, depending on your rule criteria.</option2exp>
+    <option3>Rules can be evaluated when records are created or edited.</option3>
+    <option3exp>Workflow rules can be triggered any time a record is saved or created, depending on your rule criteria.</option3exp>
+    <option4>Before the Data Import Wizard is used, rules must be deactivated.</option4>
+    <option4exp>The data import wizard will still run with workflow rules.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question79>
+  <question80>
+    <question>
+      <p>A sales executive at Universal Containers wants to be notified whenever high-value opportunities are created for hot accounts.</p>
+      <p>What should an administrator do to meet this requirement?</p>
+    </question>
+    <option1>Create an escalation rule based on the opportunity amount.</option1>
+    <option1exp>Escalation rules automatically escalate cases when the case meets the criteria defined in the rule entry.</option1exp>
+    <option2>Create a workflow rule on the opportunity object.</option2>
+    <option2exp>Automate your organization’s standard process by creating a workflow rule.</option2exp>
+    <option3>Create a validation rule that evaluates the account rating.</option3>
+    <option3exp>Validation rules verify that the data a user enters in a record meets the standards you specify before the user can save the record.</option3exp>
+    <option4>Create an auto-response rule on the opportunity object.</option4>
+    <option4exp>Auto-response rules let you automatically send email responses to lead or case submissions based on the record’s attributes. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question80>
+  <question81>
+    <question>
+      <p>Salesforce users at Universal Containers complain that global search returns too many records.</p>
+      <p>Which two configurations should a System Administrator perform to help users manage search results?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Specify the Search Filter Fields for the object&#39;s search layout.</option1>
+    <option1exp>Customize search settings, search result filters, and lookup search.</option1exp>
+    <option2>Specify the Keywords and include them into the object&#39;s search layout.</option2>
+    <option2exp>Customize search settings, search result filters, and lookup search.</option2exp>
+    <option3>Reduce the number of records displayed for each object in the Search Results page.</option3>
+    <option3exp>Customize search settings, search result filters, and lookup search.</option3exp>
+    <option4>Enable Sidebar Search Auto-Complete in the object&#39;s search settings.</option4>
+    <option4exp>Customize search settings, search result filters, and lookup search.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question81>
+  <question82>
+    <question>
+      <p>What are two reasons a user cannot be deactivated?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>The user account is frozen.</option1>
+    <option1exp>A user account can be frozen if unable to be deactivated, but it does not prevent an account from being deactivated.</option1exp>
+    <option2>The user is the recipient of Workflow Email Alerts.</option2>
+    <option2exp>If a user is active in a workflow, it will prevent the user from being deactivated.</option2exp>
+    <option3>The user is a Customer Community Administrator.</option3>
+    <option3exp>The user cannot be deactivated if they are a Customer Community Administrator.</option3exp>
+    <option4>The user is the Owner of open Opportunities.</option4>
+    <option4exp>The user can still be deactivated if they are the owner of open opportunities. The ownership can then be transferred to another user account.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question82>
+  <question83>
+    <question>
+      <p>What is a benefit of entering Trusted IP Ranges in the Network Access section?</p>
+    </question>
+    <option1>Users that log in within the network will not be required to verify their identity.</option1>
+    <option1exp>Entering Trusted IP Ranges in the Network Access section allows users to bypass verification.</option1exp>
+    <option2>All attempts to log in from outside the network will be denied.</option2>
+    <option2exp>If they are not logging in from a trusted IP, users can use a verification code or security token to authenticate and then log in.</option2exp>
+    <option3>Users are unable to log in through the API on networks not marked as trusted.</option3>
+    <option3exp>If they are not logging in from a trusted IP, users are able to log in through the API using a verification code or security token.</option3exp>
+    <option4>AppExchange packages can communicate with an external site.</option4>
+    <option4exp>All apps can communicate with an external site as long as a verification code or security token is used to authenticate.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question83>
+  <question84>
+    <question>
+      <p>How can a System Administrator discover who added a field to the account page layout?</p>
+    </question>
+    <option1>Create a poll in the Admin Chatter group.</option1>
+    <option1exp>Creating a poll is not a verified way to track field changes to the account page layout.</option1exp>
+    <option2>Run an Account History report.</option2>
+    <option2exp>Running a report will not show changes to the Account page.</option2exp>
+    <option3>Download the Setup Audit Trail.</option3>
+    <option3exp>The Setup Audit Trail tracks field history.</option3exp>
+    <option4>Review the Account Last Modified By field.</option4>
+    <option4exp>The Account Last Modified By might show a change made after the information you would be looking for.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question84>
+  <question85>
+    <question>
+      <p>Which two changes are tracked in the Setup Audit Trail?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Using the Data Import Wizard</option1>
+    <option1exp>The Setup Audit Trail tracks the use of the Data Import Wizard.</option1exp>
+    <option2>Resetting a user&#39;s password</option2>
+    <option2exp>The Setup Audit Trail tracks password resets.</option2exp>
+    <option3>Using the Data Loader</option3>
+    <option3exp>The Setup Audit Trail does not track use of Data Loader</option3exp>
+    <option4>Creating a List View</option4>
+    <option4exp>The Setup Audit Trail does not track List View creation.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question85>
+  <question86>
+    <question>
+      <p>Universal Containers uses a private sharing model for Cases. Each product line has several product specialists who want to have visibility to all Cases involving their product line.</p>
+      <p>How should the System Administrator meet this requirement?</p>
+    </question>
+    <option1>Add the product specialists to the Account Team for each Account that has purchased a product from the product line.</option1>
+    <option1exp>Use a case team to allow the group of people to work together to solve cases.</option1exp>
+    <option2>Create a pre-defined Case Team for each group of product specialists and assign the team using Case Assignment Rules.</option2>
+    <option2exp>A case team is a group of people that work together to solve cases.</option2exp>
+    <option3>Create an owner-based Case Sharing Rule to share corresponding Cases with the product specialist role.</option3>
+    <option3exp>Use a case team to allow the group of people to work together to solve cases.</option3exp>
+    <option4>Change the Org-Wide Default for Cases to Controlled By Parent and add product specialists to Account Teams.</option4>
+    <option4exp>Use a case team to allow the group of people to work together to solve cases.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question86>
+  <question87>
+    <question>
+      <p>Universal Containers utilizes a private sharing model for Accounts, Contacts, and Opportunities. When account owners are on vacation, a back-up sales rep needs access to all Accounts with the rating of Hot.</p>
+      <p>How should the System Administrator give the back-up sales rep access to Hot Accounts?</p>
+    </question>
+    <option1>Use a workflow rule to change ownership for all the Hot Accounts where the owner&#39;s On Vacation field is checked.</option1>
+    <option1exp>Changing sharing rules is not needed. Allow the user to manually share records.</option1exp>
+    <option2>Create a criteria-based sharing rule to share all Hot Accounts with the user in the back-up rep account field.</option2>
+    <option2exp>Changing sharing rules is not needed. Allow the user to manually share records.</option2exp>
+    <option3>Instruct the Hot Account owner to manually share the Accounts with the back-up rep before leaving on vacation.</option3>
+    <option3exp>Allow the user to manually share records.</option3exp>
+    <option4>Create a criteria-based sharing rule to share all Hot Accounts with all the users in the back-up rep&#39;s public group.</option4>
+    <option4exp>Changing sharing rules is not needed. Allow the user to manually share records.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question87>
+  <question88>
+    <question>
+      <p>Universal Containers uses a custom object within the product development team. Product development, executives, and System Administrators should be the only users with access to records of this object. Product development needs read/write access to all the records within the object, while the executives should only be able to view the records.</p>
+      <p>How can the System Administrator configure the security model to meet these requirements?</p>
+    </question>
+    <option1>Set the Organization-Wide Defaults for the custom object to Private; give the Product Development Profile Modify All for the object; give the Executive Profile View All access.</option1>
+    <option1exp>Assign default access to Controlled by Parent, Private, Public Read Only, or Public Read/Write. Object permissions specify the base-level access users have to create, read, edit, and delete records for each object. Manage object permissions in permission sets and profiles.</option1exp>
+    <option2>Set the Organization-Wide Defaults for the custom object to Public Read Write; Give the Product Development Profile Read, Create, Edit permissions; give the Executive Profile Read Only permissions for that object.</option2>
+    <option2exp>Assign default access to Controlled by Parent, Private, Public Read Only, or Public Read/Write. Object permissions specify the base-level access users have to create, read, edit, and delete records for each object. Manage object permissions in permission sets and profiles.</option2exp>
+    <option3>Set the Organization-Wide Defaults for the custom object to Public Read Write; create a Read Only Sharing Rule to share all records in the object with the Executive Public Group.</option3>
+    <option3exp>Assign default access to Controlled by Parent, Private, Public Read Only, or Public Read/Write. Object permissions specify the base-level access users have to create, read, edit, and delete records for each object. Manage object permissions in permission sets and profiles.</option3exp>
+    <option4>Set the Organization-Wide Defaults for the custom object to Private; add the Executive users to the default team for the object; add the default team to all the records.</option4>
+    <option4exp>Assign default access to Controlled by Parent, Private, Public Read Only, or Public Read/Write. Object permissions specify the base-level access users have to create, read, edit, and delete records for each object. Manage object permissions in permission sets and profiles.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question88>
+  <question89>
+    <question>
+      <p>Universal Containers uses a hybrid sharing model where Accounts and Contacts are Read Only and Opportunities and Cases are Private. Account Executives (AE) own all the Accounts. Some Contacts are owned by AEs, and other Contacts are owned by support reps.</p>
+      <p>How should the System Administrator ensure the AEs can edit all the Contacts associated with their Accounts, no matter who owns the Contact?</p>
+    </question>
+    <option1>Account owner privileges give the AE edit access to all related records by default.</option1>
+    <option1exp>The user may have inherited Read access from a subordinate in the role hierarchy. If the user who has access is on a different branch of the hierarchy from the account owner, check the sharing rules, account teams, and account territory.</option1exp>
+    <option2>Select the edit all associated contacts option for the AE Role in the Role Hierarchy.</option2>
+    <option2exp>The user may have inherited Read access from a subordinate in the role hierarchy. If the user who has access is on a different branch of the hierarchy from the account owner, check the sharing rules, account teams, and account territory.</option2exp>
+    <option3>Create a read/write Sharing Rule to share all related Contacts with the Account owner.</option3>
+    <option3exp>The user may have inherited Read access from a subordinate in the role hierarchy. If the user who has access is on a different branch of the hierarchy from the account owner, check the sharing rules, account teams, and account territory.</option3exp>
+    <option4>Use the Mass Transfer Tool to transfer ownership of all Contacts to the AEs.</option4>
+    <option4exp>The user may have inherited Read access from a subordinate in the role hierarchy. If the user who has access is on a different branch of the hierarchy from the account owner, check the sharing rules, account teams, and account territory.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question89>
+  <question90>
+    <question>
+      <p>The Password Policy shows that the length of time until passwords expire is 90 days. However, some users find that their passwords expire every 30 days.</p>
+      <p>Where should the System Administrator change the password expiration period for these users?</p>
+    </question>
+    <option1>Individual User records</option1>
+    <option1exp>Changes to org-wide password policies don’t apply to users of a profile that has its own password policies.</option1exp>
+    <option2>Permission Sets assigned to the Users</option2>
+    <option2exp>Changes to org-wide password policies don’t apply to users of a profile that has its own password policies.</option2exp>
+    <option3>Profiles assigned to the Users</option3>
+    <option3exp>Changes to org-wide password policies don’t apply to users of a profile that has its own password policies.</option3exp>
+    <option4>Roles assigned to the Users</option4>
+    <option4exp>Changes to org-wide password policies don’t apply to users of a profile that has its own password policies.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question90>
+  <question91>
+    <question>
+      <p>Universal Containers has three Account record types: Prospect, Customer, and Vendor. The Customer record type is only for Accounts that have a Closed Won Opportunity.</p>
+      <p> How should a System Administrator prevent users from selecting the Customer Record Type when they create new Account records?</p>
+    </question>
+    <option1>Remove the Customer Record Type as an Assigned Record Type in the users&#39; Profiles and Permission Sets.</option1>
+    <option1exp>Assign record types to users in their profiles or permission sets (or permission set groups), or a combination of these. </option1exp>
+    <option2>Create an Account Validation Rule that prevents new Accounts with the Customer Record Type from being saved.</option2>
+    <option2exp>Assign record types to users in their profiles or permission sets (or permission set groups), or a combination of these. </option2exp>
+    <option3>Create an Account Auto-Assignment Rule to assign the Prospect Record Type to all new Accounts.</option3>
+    <option3exp>Assign record types to users in their profiles or permission sets (or permission set groups), or a combination of these. </option3exp>
+    <option4>Create a Workflow Rule or Process to change the Record Type from Customer to Prospect.</option4>
+    <option4exp>Assign record types to users in their profiles or permission sets (or permission set groups), or a combination of these. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question91>
+  <question92>
+    <question>
+      <p>Universal Containers created a new custom object to track Inventory items. The Support Team cannot see the Inventory object&#39;s tab.</p>
+      <p> Which two settings should the System Administrator check to find the cause of the problem?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Inventory object Sharing Settings</option1>
+    <option1exp>Object permissions specify the type of access that users have to objects.</option1exp>
+    <option2>Inventory object Page Layouts</option2>
+    <option2exp>Object permissions specify the type of access that users have to objects.</option2exp>
+    <option3>Support Team Profiles</option3>
+    <option3exp>Object permissions specify the type of access that users have to objects.</option3exp>
+    <option4>Support Team Permission Sets</option4>
+    <option4exp>Object permissions specify the type of access that users have to objects.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question92>
+  <question93>
+    <question>
+      <p>How should a System Administrator provide a Sales Rep Commission report that is visible only to the Executive Team?</p>
+    </question>
+    <option1>Set Opportunity Org-Wide Default Sharing Settings to Private.</option1>
+    <option1exp>Each user, group, or role can have its own level of access to a report and dashboard folder. Viewers can see the data. Editors can determine what data is shown. Managers can control access.</option1exp>
+    <option2>Save the report in a folder shared with the Executive Team.</option2>
+    <option2exp>Each user, group, or role can have its own level of access to a report and dashboard folder. Viewers can see the data. Editors can determine what data is shown. Managers can control access.</option2exp>
+    <option3>Name the report &quot;For Executive Team Use Only - DO NOT USE.&quot;</option3>
+    <option3exp>Each user, group, or role can have its own level of access to a report and dashboard folder. Viewers can see the data. Editors can determine what data is shown. Managers can control access.</option3exp>
+    <option4>Save the report in the My Personal Report folder.</option4>
+    <option4exp>My personal reports are only avalible to the logged in user. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question93>
+  <question94>
+    <question>
+      <p>A System Administrator cannot share a report folder.</p>
+      <p> What is a possible reason?</p>
+    </question>
+    <option1>Folder Sharing is not enabled for the Org.</option1>
+    <option1exp>Folder sharing is automatically enabled when it is created as a public folder.</option1exp>
+    <option2>The folder is private.</option2>
+    <option2exp>If the folder is private, it cannot be shared.</option2exp>
+    <option3>The reports in the folder only reference custom objects.</option3>
+    <option3exp>This would not prevent the folder from being shared.</option3exp>
+    <option4>The reports in the folder are already shared with other users.</option4>
+    <option4exp>The reports already being shared would not prevent it from being shared with others.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question94>
+  <question95>
+    <question>
+      <p>A Delegated Administrator at Universal Containers cannot edit the Created Date field for the Account record.</p>
+      <p>What reason should the System Administrator give for why this is occurring?</p>
+    </question>
+    <option1>This user does not have Edit permissions on the Account object.</option1>
+    <option1exp>Created date is when the record was created. Created Date fields have defaulted on create and cannot be changed.</option1exp>
+    <option2>This field is Read-Only in Field-Level Security settings.</option2>
+    <option2exp>Created date is when the record was created. Created Date fields have defaulted on create and cannot be changed.</option2exp>
+    <option3>This field is defined as Read-Only on the Page Layout.</option3>
+    <option3exp>Created date is when the record was created. Created Date fields have defaulted on create and cannot be changed.</option3exp>
+    <option4>This is a System Audit field and it is Read-Only for existing records.</option4>
+    <option4exp>Created date is when the record was created. Created Date fields have defaulted on create and cannot be changed.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question95>
+  <question96>
+    <question>
+      <p>Universal Containers wants to create a field to store credit card numbers and needs to make sure the information is protected.</p>
+      <p> Which two actions allow the System Administrator to provide enhanced security for this field?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Create an Encrypted Text field.</option1>
+    <option1exp>An encypted text field restricts other users from seeing custom text fields that should be kept private. Only users with the View Encrypted Data permission can see the data in encrypted text fields.</option1exp>
+    <option2>Update Field-Level Security settings.</option2>
+    <option2exp>Using Field-Level Security settings provides enhanced security by restricting which users are able to see information in certain fields.</option2exp>
+    <option3>Configure different Page Layouts for users.</option3>
+    <option3exp>Page Layouts are primarily used to organize pages. You would want to use field-level security to restrict user access, because field-level security overrides the page layout settings.</option3exp>
+    <option4>Use different Record Types for users.</option4>
+    <option4exp>Record Types determine the field information you see on your page layouts. You would want to use field-level security to restrict user access, because field-level security overrides the page layout settings.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question96>
+  <question97>
+    <question>
+      <p>Universal Containers has a renewals sales team that will use the Opportunity object. They want to use many of the same picklist fields that are already defined, but will need unique picklist values.</p>
+      <p>What feature allows a System Administrator to maintain the same field for two different teams?</p>
+    </question>
+    <option1>Record Types</option1>
+    <option1exp>Record types determine whcih business processes, page layouts, fields and picklist values a user can access and allow the admin to maintain the same field for two different teams.</option1exp>
+    <option2>Permission Sets</option2>
+    <option2exp>Permission sets determine the page layouts that users are able to access, they do not control field-level access.</option2exp>
+    <option3>Page Layouts</option3>
+    <option3exp>Page layouts determine the fields that users are able to see on the page, they do not control the values in the picklist.</option3exp>
+    <option4>Sales Processes</option4>
+    <option4exp>Sales processes determine the stages that users are able to see on the page, they do not control the values in the picklist.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question97>
+  <question98>
+    <question>
+      <p>Universal Containers has a sales team focused on renewals. They will use many of the same Opportunity fields as other teams, but need different Stage values.</p>
+      <p>What should the System Administrator update to support this requirement?</p>
+    </question>
+    <option1>Stage field picklist options in Record Types</option1>
+    <option1exp>Use multiple business processes to display different picklist values according to each user’s profile.</option1exp>
+    <option2>Stage Selected Values in the Sales Processes</option2>
+    <option2exp>Use multiple business processes to display different picklist values according to each user’s profile.</option2exp>
+    <option3>Page Layouts to include the correct field</option3>
+    <option3exp>Use multiple business processes to display different picklist values according to each user’s profile.</option3exp>
+    <option4>Field-Level Security in the User Profile</option4>
+    <option4exp>Use multiple business processes to display different picklist values according to each user’s profile.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question98>
+  <question99>
+    <question>
+      <p>Universal Containers has a complex sales process with multiple record types, each shared with all Profiles. Some users complain about the Record Type selection screen when creating new Opportunities.</p>
+      <p>Which two actions should the System Administrator take to allow these users to bypass choosing a Record Type?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Instruct users to update the Default Record Type in My Settings.</option1>
+    <option1exp>Set an option to automatically insert your default record type when you create records. </option1exp>
+    <option2>Remove Record Types from the users&#39; Profiles.</option2>
+    <option2exp>Each profile is associated with a single record type; users will never be prompted to select a record type when creating records.</option2exp>
+    <option3>Remove Record Types from the users&#39; Sales Process.</option3>
+    <option3exp>Each profile is associated with record types.</option3exp>
+    <option4>Remove the Record Type field from the users&#39; Page Layout.</option4>
+    <option4exp>Each profile is associated with record types.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question99>
+  <question100>
+    <question>
+      <p>The customer support team wants to use a different Page Layout when closing a Case.</p>
+      <p>Which method should the System Administrator use to fulfill this request?</p>
+    </question>
+    <option1>Record Type and Page Layout</option1>
+    <option1exp>When agents close a case, they see the close case page layout, where agents can enter information about the case resolution.</option1exp>
+    <option2>Case Close Page Layout</option2>
+    <option2exp>When agents close a case, they see the close case page layout, where agents can enter information about the case resolution.</option2exp>
+    <option3>Field-Level Security</option3>
+    <option3exp>When agents close a case, they see the close case page layout, where agents can enter information about the case resolution.</option3exp>
+    <option4>Support Process</option4>
+    <option4exp>When agents close a case, they see the close case page layout, where agents can enter information about the case resolution.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question100>
+  <question101>
+    <question>
+      <p>Universal Containers has an inside sales team that only sells warranty renewals and an outside sales team that only sells products. Each type of sale captures different information and has a different sales cycle.</p>
+      <p>How should the System Administrator configure Salesforce to meet these requirements?</p>
+    </question>
+    <option1>Create a Page Layout, Sales Process, and Record Type for each type of sale.</option1>
+    <option1exp>Record types offer different business processes, picklist values, and page layouts to different users.</option1exp>
+    <option2>Create a custom Object for warranty renewals with the appropriate Sales Process.</option2>
+    <option2exp>Use record types to offer different business processes, picklist values, and page layouts to different users.</option2exp>
+    <option3>Create a Validation Rule that displays the correct Page Layout and Sales Process based on Role.</option3>
+    <option3exp>Use record types to offer different business processes, picklist values, and page layouts to different users.</option3exp>
+    <option4>Create a custom picklist field on the Opportunity to specify if it is a product or warranty sale.</option4>
+    <option4exp>Use record types to offer different business processes, picklist values, and page layouts to different users.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question101>
+  <question102>
+    <question>
+      <p>Universal Containers offers a variety of products that are comparable to products from other companies. Sales representatives request a method to track product strengths and weaknesses compared to those offered by other vendors.</p>
+      <p> What should the System Administrator implement?</p>
+    </question>
+    <option1>Products and Pricebooks on Opportunity Line Items</option1>
+    <option1exp>The fields for competitors help track competition as sales work to close deals.</option1exp>
+    <option2>Competitors on the Opportunity Page Layout</option2>
+    <option2exp>The fields for competitors help track competition as sales work to close deals.</option2exp>
+    <option3>Big Deal Alerts on high-value Opportunities</option3>
+    <option3exp>The fields for competitors help track competition as sales work to close deals.</option3exp>
+    <option4>Strength and Weakness fields on Company Information</option4>
+    <option4exp>The fields for competitors help track competition as sales work to close deals.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question102>
+  <question103>
+    <question>
+      <p>Universal Containers wants the sales team to access information about Closed Won Opportunities with a common competitor for all pending big deals.</p>
+      <p>Which features should the System Administrator implement?</p>
+    </question>
+    <option1>Competitors and Similar Opportunities</option1>
+    <option1exp>Enable similar opportunities and competitors to allow users to find Closed - Won opportunities that match the attributes of an opportunity they&#39;re currently working on, so they can quickly access information that can help them close their deals.</option1exp>
+    <option2>Commonalities and Won Information</option2>
+    <option2exp>Enable similar opportunities and competitors to allow users to find Closed - Won opportunities that match the attributes of an opportunity they&#39;re currently working on, so they can quickly access information that can help them close their deals.</option2exp>
+    <option3>Sales Teams and Closed Won Opportunities</option3>
+    <option3exp>Enable similar opportunities and competitors to allow users to find Closed - Won opportunities that match the attributes of an opportunity they&#39;re currently working on, so they can quickly access information that can help them close their deals.</option3exp>
+    <option4>Big Deal Alerts and Sales Teams</option4>
+    <option4exp>Enable similar opportunities and competitors to allow users to find Closed - Won opportunities that match the attributes of an opportunity they&#39;re currently working on, so they can quickly access information that can help them close their deals.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question103>
+  <question104>
+    <question>
+      <p>How should the System Administrator implement biweekly notifications for Sales Reps that include Opportunities that need attention based on the Opportunity Owner&#39;s last login, past due Opportunities, and all Opportunities that have not been updated in the last 30 days? </p>
+    </question>
+    <option1>Create Scheduled Reports.</option1>
+    <option1exp>Scheduled reports would not be able to be schedule based on the user&#39;s last login.</option1exp>
+    <option2>Create Opportunity Update Reminders.</option2>
+    <option2exp>Opportunity update reminders allow managers to automatically send and schedule emails that include a report of the team&#39;s open opportunities to direct reports. You can select the fields you want to include in the reminders such as last login date, or # not updated in the last 30 days.</option2exp>
+    <option3>Create Scheduled Dashboards.</option3>
+    <option3exp>Scheduled dashboards would not be able to be schedule based on the user&#39;s last login.</option3exp>
+    <option4>Create a Chatter Group.</option4>
+    <option4exp>A Chatter group would not post reminders based on the user&#39;s last login.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question104>
+  <question105>
+    <question>
+      <p>Universal Containers sells through many different reseller networks. Each reseller&#39;s deals are tracked on separate opportunities. The sales manager is concerned that the pipeline report is not accurate due to multiple opportunities for the same end customer.</p>
+      <p>How should the sales process be modified to ensure opportunities are not double-counted in the pipeline?</p>
+    </question>
+    <option1>Enable duplicate management to prevent the creation of the duplicate opportunities.</option1>
+    <option1exp>Duplicate rules would not help to omit duplicate opporutnities.</option1exp>
+    <option2>Create one opportunity and use the competitors related list to track the different resellers.</option2>
+    <option2exp>Competiors would not help track resellers.</option2exp>
+    <option3>Change the amount on the duplicate opportunities to zero.</option3>
+    <option3exp>Changing the amount to zero would not help to omit duplicate opporutnities.</option3exp>
+    <option4>Change the forecast category to Omitted on the duplicate opportunities.</option4>
+    <option4exp>A forecast category is the category within the sales cycle to which an opportunity is assigned based on its opportunity stage. The standard forecast categories are Pipeline, Best Case, Commit, Omitted, and Closed.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question105>
+  <question106>
+    <question>
+      <p>The Sales Operations team notices an increase in Opportunities without Products.</p>
+      <p> Which configuration change should the System Administrator make to help Sales Reps remember to add Products to every Opportunity?</p>
+    </question>
+    <option1>Create a related list to enable the user to view the related products.</option1>
+    <option1exp>Prompting users to add products to opportunities allows sales to easliy add products.</option1exp>
+    <option2>Enable the Opportunity setting to prompt users to add products to opportunities.</option2>
+    <option2exp>Prompting users to add products to opportunities allows sales to easliy add products.</option2exp>
+    <option3>Create a Workflow Rule on the Opportunity object to add a default Product to Opportunities with no Products.</option3>
+    <option3exp>Prompting users to add products to opportunities allows sales to easliy add products.</option3exp>
+    <option4>Set the Org-Wide Defaults for Price Books to Use and Products to Read Only.</option4>
+    <option4exp>Prompting users to add products to opportunities allows sales to easliy add products.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question106>
+  <question107>
+    <question>
+      <p>Custom fields in the Lead object can be mapped to which two types of fields?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Custom Opportunity</option1>
+    <option1exp>Custom lead fields allow custom information to convert to custom fields in accounts, contacts, and opportunities.</option1exp>
+    <option2>Custom Account</option2>
+    <option2exp>Custom lead fields allow custom information to convert to custom fields in accounts, contacts, and opportunities.</option2exp>
+    <option3>Standard Contact</option3>
+    <option3exp>Custom lead fields allow custom information to convert to custom fields in accounts, contacts, and opportunities.</option3exp>
+    <option4>Custom Activity</option4>
+    <option4exp>Custom lead fields allow custom information to convert to custom fields in accounts, contacts, and opportunities.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question107>
+  <question108>
+    <question>
+      <p>Which two related lists should be added to the Opportunity page layout to track how Campaigns contribute to the overall pipeline?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Campaign Influence</option1>
+    <option1exp>The Campaign Influence tool helps attribute a percentage of success to influential campaigns.</option1exp>
+    <option2>Contact Roles</option2>
+    <option2exp>Opportunity contact roles specify the part that each contact plays in a deal.</option2exp>
+    <option3>Open Activities</option3>
+    <option3exp>Open Activities will not help track campaign information.</option3exp>
+    <option4>Campaign Members</option4>
+    <option4exp>Campaign members are contacts or leads associated with campaigns.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question108>
+  <question109>
+    <question>
+      <p>Which two objects can be related to Campaign Members?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Partners</option1>
+    <option1exp>Campaign members are contacts or leads associated with campaigns, not partners.</option1exp>
+    <option2>Leads</option2>
+    <option2exp>Campaign members are contacts or leads associated with campaigns.</option2exp>
+    <option3>Contacts</option3>
+    <option3exp>Campaign members are contacts or leads associated with campaigns.</option3exp>
+    <option4>Contact Roles</option4>
+    <option4exp>Campaign members are contacts or leads associated with campaigns, not contact roles.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question109>
+  <question110>
+    <question>
+      <p>How can multiple Campaign records be associated with a single Opportunity?</p>
+    </question>
+    <option1>Campaign Influence</option1>
+    <option1exp>Use Campaign Influence to relate multiple campaigns to an opportunity. </option1exp>
+    <option2>Campaign Hierarchy</option2>
+    <option2exp>Associating campaigns using a lookup relationship allows you to group campaigns within a specific marketing program or initiative, but it doesn’t show influence.</option2exp>
+    <option3>Primary Campaign Source</option3>
+    <option3exp>Use Campaign Influence to relate multiple campaigns to an opportunity. Primary campaign source is a picklist. </option3exp>
+    <option4>Campaign Members</option4>
+    <option4exp>Campaign members are contacts or leads associated with campaigns. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question110>
+  <question111>
+    <question>
+      <p>A System Administrator enables Case Feed Actions and Feed Items in Support Settings.</p>
+      <p>With the appropriate Profile permissions enabled, what change will users see?</p>
+    </question>
+    <option1>Cases will use Feed Layouts rather than standard Page Layouts.</option1>
+    <option1exp>When you enable case feed-specific actions and feed items, existing cases are upgraded to the case feed user interface.</option1exp>
+    <option2>Case Feeds will no longer be hidden on standard Page Layouts.</option2>
+    <option2exp>When you enable case feed-specific actions and feed items, existing cases are upgraded to the case feed user interface.</option2exp>
+    <option3>All Case fields will be added to the Chatter Feed Tracking.</option3>
+    <option3exp>When you enable case feed-specific actions and feed items, existing cases are upgraded to the case feed user interface.</option3exp>
+    <option4>All Case buttons will be converted to Actions in the Case Feed.</option4>
+    <option4exp>When you enable case feed-specific actions and feed items, existing cases are upgraded to the case feed user interface.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question111>
+  <question112>
+    <question>
+      <p>In which situation is the Case Contact notified when a support representative adds a new case comment?</p>
+    </question>
+    <option1>The Support Representative posts the comment to the Case Chatter Feed.</option1>
+    <option1exp>A contact is notified when a case comment has been modified or added to a case. </option1exp>
+    <option2>The Support Representative uses the Send Email Action on the Case Feed.</option2>
+    <option2exp>A contact is notified when a case comment has been modified or added to a case. </option2exp>
+    <option3>The System Administrator enables Case Comment Notification to Contacts.</option3>
+    <option3exp>A contact is notified when a case comment has been modified or added to a case. </option3exp>
+    <option4>The System Administrator configures the Case Auto-Response Rules.</option4>
+    <option4exp>A contact is notified when a case comment has been modified or added to a case. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question112>
+  <question113>
+    <question>
+      <p>Which configuration action should be performed to ensure every Case gets assigned to a valid Owner?</p>
+    </question>
+    <option1>Create a Validation Rule based on the Created By field.</option1>
+    <option1exp>Validation rules verify that the data a user enters in a record meets the standards specify before the user can save the record. </option1exp>
+    <option2>Define the Default Case Owner in Support Settings.</option2>
+    <option2exp>This automatically assigns a user or queue to all cases that don&#39;t match any case assignment rule entries.</option2exp>
+    <option3>Create a Workflow Rule that checks for a blank Owner field.</option3>
+    <option3exp>Define a default case owner to automatically assign a user or queue to all cases that don&#39;t match any case assignment rule entries. </option3exp>
+    <option4>Configure a default value for the Case Owner field.</option4>
+    <option4exp>Define a default case owner to automatically assign a user or queue to all cases that don&#39;t match any case assignment rule entries. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question113>
+  <question114>
+    <question>
+      <p>Customers complain that they do not know when Comments have been added to their Cases.</p>
+      <p> Which configuration can a System Administrator implement to address this concern? </p>
+    </question>
+    <option1>Configure Feed Tracking for Case Comments.</option1>
+    <option1exp>Enable Case Comment notification to notify contacts when a case comment has been modified or added to a case. </option1exp>
+    <option2>Create a Workflow Rule Email Alert on Case Comments.</option2>
+    <option2exp>Enable Case Comment notification to notify contacts when a case comment has been modified or added to a case. </option2exp>
+    <option3>Enable Case Comment Notification to Contacts.</option3>
+    <option3exp>This notifies contacts when a case comment has been modified or added to a case. </option3exp>
+    <option4>Configure the Case Auto-Response Rules.</option4>
+    <option4exp>Enable Case Comment Notification to notify contacts when a case comment has been modified or added to a case. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question114>
+  <question115>
+    <question>
+      <p>Universal Containers wants to allow potential customers to submit Cases for technical inquiries. They do not have resources to set up a call center and need to make support available through another means.</p>
+      <p>Which two options should they consider?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Generate Web-to-Case HTML code to add to the website</option1>
+    <option1exp>Gather customer support requests directly from a website and automatically generate new cases with Web-to-Case. Setting up Web-to-Case involves enabling the feature, choosing settings, and adding the Web-to-Case form to your website.</option1exp>
+    <option2>Adding a link to a specified routing address for Email-to-Case</option2>
+    <option2exp>Set up Email-to-Case to efficiently resolve customer issues. Salesforce automatically creates cases and auto-populates case fields when customers send messages to the specified email addresses.</option2exp>
+    <option3>Implement a Lightning Partner Community with Knowledge</option3>
+    <option3exp>Partner communities and knowledge articles can’t submit cases to support.</option3exp>
+    <option4>Adding a link for Auto-Response Rules for Solutions</option4>
+    <option4exp>A link and auto-response rules can&#39;t submit cases to support.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question115>
+  <question116>
+    <question>
+      <p>Universal Containers uses an Auto-numbering system to uniquely identify each support request. They want customers to know this number as soon as possible.</p>
+      <p>Which two features should the System Administrator implement to allow customers have quick access to this information?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Self-service Portal</option1>
+    <option1exp>A self-service portal provides an online support channel for your customers - allowing them to resolve their inquiries without contacting a customer service representative.</option1exp>
+    <option2>Auto-response Rules</option2>
+    <option2exp>Auto-response rules let you automatically send email responses for case submissions based on the record’s attributes. </option2exp>
+    <option3>Case Feed Layout Actions</option3>
+    <option3exp>Case feed layout actions do not allow for self-service.</option3exp>
+    <option4>Case Comment Notifications</option4>
+    <option4exp>Case comment notifications do not allow for self-service.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question116>
+  <question117>
+    <question>
+      <p>Universal Containers wants internal support requests to be directed to any of the IT representatives. They want external support requests to be directed to customer support representatives based on the contact&#39;s location.</p>
+      <p>What should the System Administrator use to set this up?</p>
+    </question>
+    <option1>Territory Management and Teams</option1>
+    <option1exp>Territory management and teams make it easy for your sales team to structure Salesforce data the way sales territories are structured.</option1exp>
+    <option2>Assignment Rules and Queues</option2>
+    <option2exp>Assignment rules automate support processes. Queues prioritize, distribute, and assign records to teams who share workloads.</option2exp>
+    <option3>Automated Notifications and Groups</option3>
+    <option3exp>Assignment rules automate support processes. Queues prioritize, distribute, and assign records to teams who share workloads.</option3exp>
+    <option4>Auto-responses Rules and Profiles</option4>
+    <option4exp>Assignment rules automate support processes. Queues prioritize, distribute, and assign records to teams who share workloads.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question117>
+  <question118>
+    <question>
+      <p>The marketing team is asked to provide branding and messaging for email templates to be used throughout the customer support process.</p>
+      <p>In which two locations can the System Administrator implement customer-facing email templates with respect to Cases?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Case Auto-response Rules</option1>
+    <option1exp>Auto-response rules let you automatically send email responses to lead or case submissions based on the record’s attributes.</option1exp>
+    <option2>Owner Assignment Notifications</option2>
+    <option2exp>Auto-response rules let you automatically send email responses to lead or case submissions based on the record’s attributes.</option2exp>
+    <option3>Support Reps&#39; Send Email options</option3>
+    <option3exp>These options let you create email templates for support users.</option3exp>
+    <option4>Case Escalation Notifications</option4>
+    <option4exp>Auto-response rules let you automatically send email responses to lead or case submissions based on the record’s attributes.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question118>
+  <question119>
+    <question>
+      <p>Support Representatives at Universal Containers want the same Technical Engineer group to be associated with each new Case.</p>
+      <p>What should a System Administrator define to implement this requirement? </p>
+    </question>
+    <option1>A Default Case Team on each User&#39;s record</option1>
+    <option1exp>Default case teams provide access to records. Assignment rules automate support processes. Create case teams to help groups of people work together to solve cases.</option1exp>
+    <option2>A Default Case Team on each Account record</option2>
+    <option2exp>Default case teams provide access to records. Assignment rules automate support processes. Create case teams to help groups of people work together to solve cases.</option2exp>
+    <option3>A Case Assignment Rule to associate the Case Team</option3>
+    <option3exp>Assignment rules automate support processes. Create case teams to help groups of people work together to solve cases.</option3exp>
+    <option4>A Workflow Rule to add the Case Team</option4>
+    <option4exp>Assignment rules automate support processes. Create case teams to help groups of people work together to solve cases. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question119>
+  <question120>
+    <question>
+      <p>How should a sales rep create an all-day event in Salesforce? </p>
+    </question>
+    <option1>Use a task for an all-day event because then no time fields are needed.</option1>
+    <option1exp>Tasks have due dates.</option1exp>
+    <option2>Check the all-day event checkbox on the event.</option2>
+    <option2exp>Checking the all-day event checkbox sets the start and end times for 24 hours.</option2exp>
+    <option3>Ensure the event is scheduled for times within the Start and End of Day hours.</option3>
+    <option3exp>Checking the all-day event checkbox sets the start and end times for 24 hours.</option3exp>
+    <option4>Ask the System Administrator to check all-day events in the Activity settings.</option4>
+    <option4exp>Checking the all-day event checkbox sets the start and end times for 24 hours.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question120>
+  <question121>
+    <question>
+      <p>Which two actions allow the System Administrator to limit Chatter access during roll-out to a subset of Salesforce users?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Create a Permission Set with the &quot;Enable Chatter&quot; permission for the subset of users.</option1>
+    <option1exp>Control access to Chatter with a profile or permission set. </option1exp>
+    <option2>Add the subset of users to the company-wide Chatter group.</option2>
+    <option2exp>Control access to Chatter with a profile or permission set. </option2exp>
+    <option3>Edit a Profile to &quot;Enable Chatter&quot; for the subset of users.</option3>
+    <option3exp>Control access to Chatter with a profile or permission set. </option3exp>
+    <option4>Create an email invitation for the subset of users.</option4>
+    <option4exp>Control access to Chatter with a profile or permission set. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question121>
+  <question122>
+    <question>
+      <p>How should a Chatter user send a message to another Chatter user that cannot be viewed by anyone else?</p>
+    </question>
+    <option1>Use @mention to include the recipient within the message.</option1>
+    <option1exp>@mention is public. Use Chatter messages for secure private conversations with other Chatter users.</option1exp>
+    <option2>Post a Private Message to the recipient.</option2>
+    <option2exp>Use Chatter Messages for secure private conversations with other Chatter users.</option2exp>
+    <option3>Post a Message to Record owner.</option3>
+    <option3exp>Posting on a record inherites the sharing rules. Use Chatter Messages for secure private conversations with other Chatter users.</option3exp>
+    <option4>Use #secret to send the message to the recipient.</option4>
+    <option4exp>Using a hashtag is public. Use Chatter Messages for secure private conversations with other Chatter users.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question122>
+  <question123>
+    <question>
+      <p>Universal Containers regularly imports Accounts from an external order system that has its own ID field for each record.</p>
+      <p> What should the System Administrator do to help prevent duplicates during these imports?</p>
+    </question>
+    <option1>Use VLOOKUP to find matching records in Salesforce.</option1>
+    <option1exp>Use an external ID field that contains record identifiers from a system outside of Salesforce.</option1exp>
+    <option2>Use the ID from the order system in place of the Salesforce ID.</option2>
+    <option2exp>Use an external ID field that contains record identifiers from a system outside of Salesforce.</option2exp>
+    <option3>Create a unique External ID field on Accounts in Salesforce for matching.</option3>
+    <option3exp>An external ID field contains record identifiers from a system outside of Salesforce.</option3exp>
+    <option4>Create a formula field that identifies matches.</option4>
+    <option4exp>Use an external ID field that contains record identifiers from a system outside of Salesforce.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question123>
+  <question124>
+    <question>
+      <p>Universal Containers has inconsistent data in its 20,000 existing Accounts and asked the System Administrator to convert all of the standard country fields to ISO codes.</p>
+      <p>What method should the System Administrator use?</p>
+    </question>
+    <option1>Mass Update Addresses</option1>
+    <option1exp>Use mass update when data is inconsistent.</option1exp>
+    <option2>List View Inline Editing</option2>
+    <option2exp>List view inline editing cannot help to mass update information. Use mass update when data is inconsistent.</option2exp>
+    <option3>Report Exports</option3>
+    <option3exp>Exporting data cannot help to mass update information. Use mass update when data is inconsistent.</option3exp>
+    <option4>Data.com Clean</option4>
+    <option4exp>Data.com is not a standard tool. Use mass update when data is inconsistent.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question124>
+  <question125>
+    <question>
+      <p>How long is data stored in the Recycle Bin?</p>
+    </question>
+    <option1>Up to 7 days</option1>
+    <option1exp>Deleted records remain in the Recycle Bin for 15 days, and can be restored during that time.</option1exp>
+    <option2>Up to 15 days</option2>
+    <option2exp>Deleted records remain in the Recycle Bin for 15 days, and can be restored during that time.</option2exp>
+    <option3>Up to 90 days</option3>
+    <option3exp>Deleted records remain in the Recycle Bin for 15 days, and can be restored during that time.</option3exp>
+    <option4>Up to 30 days</option4>
+    <option4exp>Deleted records remain in the Recycle Bin for 15 days, and can be restored during that time.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question125>
+  <question126>
+    <question>
+      <p>A System Administrator will use the Import Wizard to update existing Account records.</p>
+      <p>Which values can the Import Wizard use to find matching records? </p>
+    </question>
+    <option1>Account Name and Site fields</option1>
+    <option1exp>Match Account Id, Account Name, and Account Site exactly as they appear in the application.</option1exp>
+    <option2>Created By field</option2>
+    <option2exp>Match Account Id, Account Name, and Account Site exactly as they appear in the application.</option2exp>
+    <option3>Parent Account field</option3>
+    <option3exp>Match Account Id, Account Name, and Account Site exactly as they appear in the application.</option3exp>
+    <option4>Address field</option4>
+    <option4exp>Match Account Id, Account Name, and Account Site exactly as they appear in the application. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question126>
+  <question127>
+    <question>
+      <p>Which configuration option shows sales representatives the fields they must fill in prior to saving an Opportunity? </p>
+    </question>
+    <option1>Page Layout required fields</option1>
+    <option1exp>Make the field required on a specific page layout.</option1exp>
+    <option2>Opportunity Validation Rules</option2>
+    <option2exp>Make the field required on a specific page layout.</option2exp>
+    <option3>Dependent Picklist Fields</option3>
+    <option3exp>Make the field required on a specific page layout.</option3exp>
+    <option4>Field-level Security</option4>
+    <option4exp>Make the field required on a specific page layout.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question127>
+  <question128>
+    <question>
+      <p>What is a benefit of using a Lookup Filter instead of a Validation Rule?</p>
+    </question>
+    <option1>Improves user efficiency when selecting a related record</option1>
+    <option1exp>To improve user efficiency by limiting the number of available options in a lookup search dialog.</option1exp>
+    <option2>Better error messages when an incorrect record is selected</option2>
+    <option2exp>Lookup filters do not provide error messages.</option2exp>
+    <option3>Faster page refresh on the Salesforce Mobile App</option3>
+    <option3exp>To improve user efficiency by limiting the number of available options in a lookup search dialog.</option3exp>
+    <option4>Adds the ability to edit multiple records from list views</option4>
+    <option4exp>Improve user efficiency by limiting the number of available options in a lookup search dialog.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question128>
+  <question129>
+    <question>
+      <p>Which set of Salesforce records is exported by choosing the "Export All" option instead of "Export" in Data Loader?</p>
+    </question>
+    <option1>Records for all standard objects in the org.</option1>
+    <option1exp>Export archived activity records and soft-deleted records with Export All.</option1exp>
+    <option2>Records for a specified object and its parent records.</option2>
+    <option2exp>Export archived activity records and soft-deleted records with Export All.</option2exp>
+    <option3>Records for a specified object including records in the recycle bin.</option3>
+    <option3exp>Export archived activity records and soft-deleted records with Export All.</option3exp>
+    <option4>Records for a specified object and its child records.</option4>
+    <option4exp>Export archived activity records and soft-deleted records with Export All.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question129>
+  <question130>
+    <question>
+      <p>Which two best practices are recommendedprior to mass-deleting records?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Download a Setup Audit Trail for the last six months before deletion.</option1>
+    <option1exp>Back up data prior to mass deleting.</option1exp>
+    <option2>Schedule a weekly data export and download the backup zip files.</option2>
+    <option2exp>Back up data prior to mass deleting.</option2exp>
+    <option3>Create a new list view for all records that need to be deleted.</option3>
+    <option3exp>Back up data prior to mass deleting.</option3exp>
+    <option4>Run and export a report to archive data before deletion.</option4>
+    <option4exp>Back up data prior to mass deleting.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question130>
+  <question131>
+    <question>
+      <p>How should a System Administrator configure a report for each sales rep to see their own Open Opportunities?</p>
+    </question>
+    <option1>Create a Summary report grouped by Sales Rep.</option1>
+    <option1exp>Filter a report by value to define the filter criteria.</option1exp>
+    <option2>Create a separate report for each Sales Rep.</option2>
+    <option2exp>Filter a report by value to define the filter criteria.</option2exp>
+    <option3>Create a report filtered by &quot;My Opportunities&quot;.</option3>
+    <option3exp>Filter a report by value to define the filter criteria.</option3exp>
+    <option4>Create a report schedule for each Sales Rep.</option4>
+    <option4exp>Filter a report by value to define the filter criteria.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question131>
+  <question132>
+    <question>
+      <p>Which report should a System Administrator use to display the number of Contacts related to an Account?</p>
+    </question>
+    <option1>Summary report with a Roll-up Summary Account field</option1>
+    <option1exp>Write summary formulas to evaluate a report&#39;s group subtotals and grand totals. </option1exp>
+    <option2>Tabular report with a Roll-up Summary Account field</option2>
+    <option2exp>Write summary formulas to evaluate a report&#39;s group subtotals and grand totals. </option2exp>
+    <option3>Summary report with a report formula</option3>
+    <option3exp>Write summary formulas to evaluate a report&#39;s group subtotals and grand totals. </option3exp>
+    <option4>Tabular report with a report formula</option4>
+    <option4exp>Write summary formulas to evaluate a report&#39;s group subtotals and grand totals. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question132>
+  <question133>
+    <question>
+      <p>Universal Containers uses a private data access model. Product managers and sales representatives are in different branches of the role hierarchy.</p>
+      <p>What should an Administrator do to ensure that product managers can report on opportunities in their product line?</p>
+    </question>
+    <option1>Create a sharing rule based on criteria.</option1>
+    <option1exp>A criteria-based sharing rule determines with whom to share records based on field values.</option1exp>
+    <option2>Save all opportunity reports in a public folder.</option2>
+    <option2exp>A criteria-based sharing rule determines with whom to share records based on field values.</option2exp>
+    <option3>Move all product managers to a role below the sales representatives.</option3>
+    <option3exp>A criteria-based sharing rule determines with whom to share records based on field values.</option3exp>
+    <option4>Create a new role for product managers and sales representatives.</option4>
+    <option4exp>A criteria-based sharing rule determines with whom to share records based on field values.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question133>
+  <question134>
+    <question>
+      <p>A Finance user with the &quot;View All Data&quot; permission enabled sees no Opportunities when opening a Sales pipeline report. However, a Sales Rep sees Opportunities as expected.</p>
+      <p>Which two actions should a System Administrator perform to resolve this problem?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Select Save Hierarchy Level on the pipeline report.</option1>
+    <option1exp>Show the hierarchy to see your org’s role hierarchy above the report results. You can use the role hierarchy to share report data with people at different levels in the hierarchy.</option1exp>
+    <option2>Create a Custom Report Type for the user that shows all records.</option2>
+    <option2exp>Show the hierarchy to see your org’s role hierarchy above the report results. You can use the role hierarchy to share report data with people at different levels in the hierarchy.</option2exp>
+    <option3>Update the report filter to show All Opportunities.</option3>
+    <option3exp>Use filters to pare down a report until it only shows the data that is needed.</option3exp>
+    <option4>Change the Org-Wide Opportunity Sharing Default to Public Read.</option4>
+    <option4exp>Show the hierarchy to see your org’s role hierarchy above the report results. You can use the role hierarchy to share report data with people at different levels in the hierarchy.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question134>
+  <question135>
+    <question>
+      <p>What should a System Administrator configure to provide each Sales Rep a dashboard that shows their current Opportunity pipeline?</p>
+    </question>
+    <option1>Set a Dashboard filter to the current user.</option1>
+    <option1exp>The dashboard viewer allows the dashboard readers see data as themselves, according to their own access to data. These types of dashboards are often called dynamic dashboards.</option1exp>
+    <option2>Create a dashboard folder for each user.</option2>
+    <option2exp>The dashboard viewer allows the dashboard readers see data as themselves, according to their own access to data. These types of dashboards are often called dynamic dashboards.</option2exp>
+    <option3>Create a dashboard for each user.</option3>
+    <option3exp>The dashboard viewer allows the dashboard readers see data as themselves, according to their own access to data. These types of dashboards are often called dynamic dashboards.</option3exp>
+    <option4>Set the Dashboard Running User to the current user.</option4>
+    <option4exp>The dashboard viewer allows the dashboard readers see data as themselves, according to their own access to data. These types of dashboards are often called dynamic dashboards.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question135>
+  <question136>
+    <question>
+      <p>Which three reports can be used to display a list of the Top 10 Accounts on a dashboard?</p>
+      <p>Choose 3 options.</p>
+    </question>
+    <option1>Tabular report with a chart</option1>
+    <option1exp>Use a tabular report as the source report .</option1exp>
+    <option2>Tabular report with Rows to Display set to 10</option2>
+    <option2exp>Use a tabular report as the source report .</option2exp>
+    <option3>Summary report with a chart</option3>
+    <option3exp>The default two-column table uses the first grouping and summary field from the chart in the source report. If the report has no chart, default columns are based on the first grouping and summary field in the report.</option3exp>
+    <option4>Summary report with Rows to Display set to 10</option4>
+    <option4exp>The default two-column table uses the first grouping and summary field from the chart in the source report. If the report has no chart, default columns are based on the first grouping and summary field in the report.</option4exp>
+    <option5>Summary report without a chart</option5>
+    <option5exp>The default two-column table uses the first grouping and summary field from the chart in the source report. If the report has no chart, default columns are based on the first grouping and summary field in the report.</option5exp>
+  </question136>
+  <question137>
+    <question>
+      <p>What is the maximum number of components that can be added to a single Dashboard?</p>
+    </question>
+    <option1>3</option1>
+    <option1exp>Each dashboard can have up to 20 components.</option1exp>
+    <option2>15</option2>
+    <option2exp>Each dashboard can have up to 20 components.</option2exp>
+    <option3>20</option3>
+    <option3exp>Each dashboard can have up to 20 components.</option3exp>
+    <option4>50</option4>
+    <option4exp>Each dashboard can have up to 20 components.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question137>
+  <question138>
+    <question>
+      <p>What should a System Administrator do to organize the fields available on a report?</p>
+    </question>
+    <option1>Create a custom report type.</option1>
+    <option1exp>Add and removed fields on a report by creating a custom report type. </option1exp>
+    <option2>Modify the standard report type.</option2>
+    <option2exp>Add and removed fields on a report by creating a custom report type. </option2exp>
+    <option3>Edit the Report Builder layout.</option3>
+    <option3exp>Add and removed fields on a report by creating a custom report type. </option3exp>
+    <option4>Enable Dynamic Reports.</option4>
+    <option4exp>Add and removed fields on a report by creating a custom report type. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question138>
+  <question139>
+    <question>
+      <p>What should the System Administrator check when users are unable to find a CustomReport Type?</p>
+    </question>
+    <option1>Make sure the new Report Type is deployed.</option1>
+    <option1exp>Mark the report as “deployed” when the report is ready to be available.</option1exp>
+    <option2>Make sure the user Profile includes the Report Type.</option2>
+    <option2exp>Mark the report as “deployed” when the report is ready to be avalible.</option2exp>
+    <option3>Add the new Report Type to the related objects.</option3>
+    <option3exp>Mark the report as “deployed” when the report is ready to be avalible.</option3exp>
+    <option4>Add a button for the new Report Type to the Report Builder.</option4>
+    <option4exp>Mark the report as “deployed” when the report is ready to be avalible.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question139>
+  <question140>
+    <question>
+      <p>A System Administrator creates a Workflow Rule that assigns a task to a support manager role when a case is escalated. The case owner iscomplaining about being assigned these tasks.</p>
+      <p>What should a System Administrator do to correct this issue?</p>
+    </question>
+    <option1>Make sure there is only one user in the role.</option1>
+    <option1exp>Select an assignee for your task. An assignee can be in the form of a user, role, record owner, record creator, opportunity team role, or account team role, depending on the type of record you chose.</option1exp>
+    <option2>Change the Workflow Rule to assign tasks based on profile.</option2>
+    <option2exp>Select an assignee for your task. An assignee can be in the form of a user, role, record owner, record creator, opportunity team role, or account team role, depending on the type of record you chose.</option2exp>
+    <option3>Add a field update to the Workflow to also change the owner.</option3>
+    <option3exp>Select an assignee for your task. An assignee can be in the form of a user, role, record owner, record creator, opportunity team role, or account team role, depending on the type of record you chose.</option3exp>
+    <option4>Remove the Workflow and use a report instead.</option4>
+    <option4exp>Select an assignee for your task. An assignee can be in the form of a user, role, record owner, record creator, opportunity team role, or account team role, depending on the type of record you chose.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question140>
+  <question141>
+    <question>
+      <p>Universal Containers wants to automatically assign a Task to account managers when a customer&#39;s agreement is about to expire.</p>
+      <p> How should a System Administrator configure this functionality? </p>
+    </question>
+    <option1>Create a Workflow on Account with a rule criteria of Agreement End Date > TODAY().</option1>
+    <option1exp>Use a time-based workflow.</option1exp>
+    <option2>Create a Workflow on Account with a rule criteria of Agreement End Date < TODAY().</option2> <option2exp>Use a time-based workflow.</option2exp>
+        <option3>Create a Time-based Workflow on Account with a rule criteria of Agreement End Date > TODAY().</option3>
+        <option3exp>Use a time-based workflow with a greater operator.</option3exp>
+        <option4>Create a Time-based Workflow on Account with a rule criteria of Agreement End Date < TODAY().</option4> <option4exp>Use a time-based workflow with a greater operator.</option4exp>
+            <option5></option5>
+            <option5exp></option5exp>
+  </question141>
+  <question142>
+    <question>
+      <p>A System Administrator created a workflow rule that sends email alerts when a Case with a high priority is created. A new Support Engineer who works remotely at Universal Containers complains about not receiving the email alerts. All other users at Universal Containers receive these email alerts.</p>
+      <p>How can a Salesforce Administrator troubleshoot this issue?</p>
+    </question>
+    <option1>Verify the user&#39;s email address.</option1>
+    <option1exp>Verify the email address is Always start with the email address and make sure it&#39;s spelled correctly.</option1exp>
+    <option2>Check if the Workflow Rule is active.</option2>
+    <option2exp>Verify the email address is Always start with the email address and make sure it&#39;s spelled correctly.</option2exp>
+    <option3>Check if the correct Email Template is used.</option3>
+    <option3exp>Verify the email address is Always start with the email address and make sure it&#39;s spelled correctly.</option3exp>
+    <option4>Check if the Workflow evaluation criteria is correct.</option4>
+    <option4exp>Verify the email address is Always start with the email address and make sure it&#39;s spelled correctly.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question142>
+  <question143>
+    <question>
+      <p>Universal Containers created aTime-Based Workflow rule that sends a follow-up email to the customer two days after a Case is closed. The System Administrator wants to verify that the workflow functions correctly.</p>
+      <p> Which queue should the System Administrator view to monitor pending Workflow Actions?</p>
+    </question>
+    <option1>Outbound Messaging Delivery Queue</option1>
+    <option1exp>When a workflow rule that has time-dependent actions is triggered, use the workflow queue to view pending actions and cancel them if necessary.</option1exp>
+    <option2>Mass Email Queue</option2>
+    <option2exp>When a workflow rule that has time-dependent actions is triggered, use the workflow queue to view pending actions and cancel them if necessary.</option2exp>
+    <option3>Time-Based Workflow Queue</option3>
+    <option3exp>When a workflow rule that has time-dependent actions is triggered, use the workflow queue to view pending actions and cancel them if necessary.</option3exp>
+    <option4>Background Jobs Queue</option4>
+    <option4exp>When a workflow rule that has time-dependent actions is triggered, use the workflow queue to view pending actions and cancel them if necessary.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question143>
+  <question144>
+    <question>
+      <p>Universal Containers wants to create a Workflow Rule to send an email alert to members of its Board of Directors, none of whom use Salesforce.</p>
+      <p> How many of the board members can be added to a single Email Alert?</p>
+    </question>
+    <option1>It is not possible to add additional email addresses to the Email Alert.</option1>
+    <option1exp>Salesforce allows up to five additional email addresses for recipients who are not Salesforce users, leads, or contacts.</option1exp>
+    <option2>Up to 5 additional email addresses can be added to the Email Alert.</option2>
+    <option2exp>Salesforce allows up to five additional email addresses for recipients who are not Salesforce users, leads, or contacts.</option2exp>
+    <option3>Up to 25 additional email addresses can be added to the Email Alert.</option3>
+    <option3exp>Salesforce allows up to five additional email addresses for recipients who are not Salesforce users, leads, or contacts.</option3exp>
+    <option4>Up to 250 additional email addresses can be added to the Email Alert.</option4>
+    <option4exp>Salesforce allows up to five additional email addresses for recipients who are not Salesforce users, leads, or contacts.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question144>
+  <question145>
+    <question>
+      <p>Universal Containers has a team of Account Managers that requested email alerts any time an Opportunity or Case is created on Accounts that they own.</p>
+      <p>What is the minimum number of workflows needed to accomplish this task?</p>
+    </question>
+    <option1>One workflow rule with two email alerts</option1>
+    <option1exp>Workflow rules are specific to each object.</option1exp>
+    <option2>Two workflow rules with one email alert each</option2>
+    <option2exp>Workflow rules are specific to each object.</option2exp>
+    <option3>No workflow rules, but two email alerts</option3>
+    <option3exp>Workflow rules are specific to each object.</option3exp>
+    <option4>Four workflow rules for create and update on Opportunities and Accounts</option4>
+    <option4exp>Workflow rules are specific to each object.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question145>
+  <question146>
+    <question>
+      <p>What are two Initial Submission Actions in an Approval Process?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>The record is locked for everyone except the Owner.</option1>
+    <option1exp>An initial submission action occurs when a user first submits a record for approval.</option1exp>
+    <option2>A task can be assigned to users in a specific Profile.</option2>
+    <option2exp>An initial submission action occurs when a user first submits a record for approval.</option2exp>
+    <option3>An outbound message can be sent to another application.</option3>
+    <option3exp>An initial submission action occurs when a user first submits a record for approval.</option3exp>
+    <option4>The value of a field on the record can be updated.</option4>
+    <option4exp>An initial submission action occurs when a user first submits a record for approval.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question146>
+  <question147>
+    <question>
+      <p>A System Administrator wants to implement a feature for call recording to monitor customer service quality using Salesforce Service Cloud.</p>
+      <p>Which two statements regarding call recording should be considered when implementing this requirement?</p>
+      <p>Choose 2 options.</p>
+    </question>
+    <option1>Call recording is a native feature available with Salesforce by default.</option1>
+    <option1exp>Use the AppExchange for solutions to find complex processes.</option1exp>
+    <option2>Call recording is a feature of some add-on products from the AppExchange.</option2>
+    <option2exp>Use the AppExchange to find solutions for complex processes.</option2exp>
+    <option3>Call recording is a feature that a developer might create with Salesforce App Cloud.</option3>
+    <option3exp>Use a developer to code to create solutions for complex processes. </option3exp>
+    <option4>Call recording is a feature that will not work with Salesforce Service Cloud.</option4>
+    <option4exp>Use the AppExchange to find solutions for complex processes. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question147>
+  <question148>
+    <question>
+      <p>Universal Containers wants Sales Reps to process credit card payments when an Opportunity is Closed Won.</p>
+      <p>Which approach should the System Administrator use to enable this feature?</p>
+    </question>
+    <option1>Add payment detail custom fields to the Opportunity.</option1>
+    <option1exp>Use the AppExchange to find solutions for complex processes. </option1exp>
+    <option2>Install an AppExchange credit card payment package.</option2>
+    <option2exp>Use the AppExchange to find solutions for complex processes. </option2exp>
+    <option3>Build a standard Visualforce page and Salesforce site.</option3>
+    <option3exp>Use the AppExchange to find solutions for complex processes. </option3exp>
+    <option4>Create a Workflow Rule Email Alert to notify Finance.</option4>
+    <option4exp>Use the AppExchange to find solutions for complex processes. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question148>
+  <question149>
+    <question>
+      <p>Cloud Kicks (CK) has a service console that is used by agents who take calls from customers and stores with questions about products.</p>
+      <p>The CK case process is complex and agents often make mistakes. To help the administrator has created a screen flow that guides agents through the process. </p>
+      <p>How should the administrator deploy the screen flow?</p>
+    </question>
+    <option1>Use a custom action that launches the screen flow</option1>
+    <option1exp>The utility bar gives users quick access to commonly used tools such as flow.</option1exp>
+    <option2>Create a link that launches the screen flow</option2>
+    <option2exp>The utility bar gives users quick access to commonly used tools such as flow.</option2exp>
+    <option3>Launch the flow from the utility bar in the console</option3>
+    <option3exp>The utility bar gives users quick access to commonly used tools such as flow.</option3exp>
+    <option4>Use code to launch the screen flow in a modal</option4>
+    <option4exp>The utility bar gives users quick access to commonly used tools such as flow.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question149>
+  <question150>
+    <question>
+      <p>Universal Containers has asked its Administrator to automatically set some fields when a Lead is created.</p>
+      <p>What is the best way for the administrator to perform this automation?</p>
+    </question>
+    <option1>Record Triggered-Flow that runs Before save</option1>
+    <option1exp>Update new and changed records by using before-save updates in flows.</option1exp>
+    <option2>Use a Screen Flow with default values</option2>
+    <option2exp>Update new and changed records by using before-save updates in flows.</option2exp>
+    <option3>Use Process Builder that launches a flow</option3>
+    <option3exp>Update new and changed records by using before-save updates in flows.</option3exp>
+    <option4>Create 1 Workflow rule per field</option4>
+    <option4exp>Update new and changed records by using before-save updates in flows.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question150>
+  <question151>
+    <question>
+      <p>The administrator at Universal Containers is creating a flow with several steps.</p>
+      <p>How can the administrator check their work as they are developing the flow?</p>
+    </question>
+    <option1>Use the Debug tool in the flow builder</option1>
+    <option1exp>Test a new flow or troubleshoot a flow that fails with the debug option in Flow Builder.</option1exp>
+    <option2>Perform the same steps manually via the UI</option2>
+    <option2exp>Test a new flow or troubleshoot a flow that fails with the debug option in Flow Builder.</option2exp>
+    <option3>Use debug logs found in Setup</option3>
+    <option3exp>Test a new flow or troubleshoot a flow that fails with the debug option in Flow Builder.</option3exp>
+    <option4>Use debug logs in the Developer Console</option4>
+    <option4exp>Test a new flow or troubleshoot a flow that fails with the debug option in Flow Builder.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question151>
+  <question152>
+    <question>
+      <p>The administrator at Cloud Kicks want to update the Account with the number of records on a custom object.</p>
+      <p>How should the administrator fulfill this requirement?</p>
+    </question>
+    <option1>Create a Flow</option1>
+    <option1exp>Use the debug option in Flow Builder to test a new flow or troubleshoot a flow that fails. </option1exp>
+    <option2>Create a Workflow Rule</option2>
+    <option2exp>Use the debug option in Flow Builder to test a new flow or troubleshoot a flow that fails. </option2exp>
+    <option3>Create a Process</option3>
+    <option3exp>Use the debug option in Flow Builder to test a new flow or troubleshoot a flow that fails. </option3exp>
+    <option4>Create a Formula</option4>
+    <option4exp>Use the debug option in Flow Builder to test a new flow or troubleshoot a flow that fails. </option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question152>
+  <question153>
+    <question>
+      <p>The administrator for the Cloud Kicks has a flow that makes several updates to Contacts when they are being created. If the Contact Status is “New” and the Contact’s email is known, the administrator would also like to send a welcome email.</p>
+      <p>What should the administrator do to complete this requirement?</p>
+    </question>
+    <option1>Create a workflow rule with email alert to send the email.</option1>
+    <option1exp>When a flow executes a Decision element, it evaluates each decision outcome in order.</option1exp>
+    <option2>Create a process builder with email alert to send the email.</option2>
+    <option2exp>When a flow executes a Decision element, it evaluates each decision outcome in order.</option2exp>
+    <option3>Update the flow with a decision to send the email when needed.</option3>
+    <option3exp>When a flow executes a Decision element, it evaluates each decision outcome in order.</option3exp>
+    <option4>Update the flow with a formula to send the email when needed.</option4>
+    <option4exp>When a flow executes a Decision element, it evaluates each decision outcome in order.</option4exp>
+    <option5></option5>
+    <option5exp></option5exp>
+  </question153>
+</practiceexam>
