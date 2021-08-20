@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2021-07-18T08:26:19.0Z" original="THI-000399.cptx" source-language="enUS">
+		<file datatype="cptx" date="2021-08-20T13:58:40.0Z" original="THI-000399.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
@@ -292,6 +292,83 @@
 										</trans-unit>
 									</group>
 								</group>
+								<group cp:datatype="x-object" extype="612" id="13796" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="13796-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#15325b;font-size:16.0pt" ctype="x-cp-font" id="13796-612-1-1">How to use</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="13796-612-2">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0076d2;font-size:10.0pt;font:weight:bold" ctype="x-cp-font" id="13796-612-2-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="13796-612-3">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:14.0pt" ctype="x-cp-font" id="13796-612-3-1">Returns character position where string occurs in the variable. This is great to use to hide or show content based on keywords in data.</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="13796-612-4">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:14.0pt" ctype="x-cp-font" id="13796-612-4-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="13796-612-5">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:14.0pt;font:weight:bold" ctype="x-cp-font" id="13796-612-5-1">1: String (required)</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="13796-612-6">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:14.0pt" ctype="x-cp-font" id="13796-612-6-1">Variable to analyze</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="13796-612-7">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:14.0pt" ctype="x-cp-font" id="13796-612-7-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="13796-612-8">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:14.0pt;font:weight:bold" ctype="x-cp-font" id="13796-612-8-1">2: Numeric (required)</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="13796-612-9">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:14.0pt" ctype="x-cp-font" id="13796-612-9-1">Character position to return</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="13828" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="13828-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#15325b;font-size:16.0pt" ctype="x-cp-font" id="13828-612-1-1">Example</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
 								<group cp:datatype="x-object" extype="612" id="18252" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
 										<trans-unit id="18252-612-1">
@@ -378,83 +455,6 @@
 										<trans-unit id="18252-612-12">
 											<source>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:14.0pt" ctype="x-cp-font" id="18252-612-12-1">Maximum length of substring</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="13828" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
-										<trans-unit id="13828-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#15325b;font-size:16.0pt" ctype="x-cp-font" id="13828-612-1-1">Example</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="13796" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
-										<trans-unit id="13796-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#15325b;font-size:16.0pt" ctype="x-cp-font" id="13796-612-1-1">How to use</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
-										<trans-unit id="13796-612-2">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0076d2;font-size:10.0pt;font:weight:bold" ctype="x-cp-font" id="13796-612-2-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
-										<trans-unit id="13796-612-3">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:14.0pt" ctype="x-cp-font" id="13796-612-3-1">Returns character position where string occurs in the variable. This is great to use to hide or show content based on keywords in data.</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
-										<trans-unit id="13796-612-4">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:14.0pt" ctype="x-cp-font" id="13796-612-4-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
-										<trans-unit id="13796-612-5">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:14.0pt;font:weight:bold" ctype="x-cp-font" id="13796-612-5-1">1: String (required)</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
-										<trans-unit id="13796-612-6">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:14.0pt" ctype="x-cp-font" id="13796-612-6-1">Variable to analyze</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
-										<trans-unit id="13796-612-7">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:14.0pt" ctype="x-cp-font" id="13796-612-7-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
-										<trans-unit id="13796-612-8">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:14.0pt;font:weight:bold" ctype="x-cp-font" id="13796-612-8-1">2: Numeric (required)</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
-										<trans-unit id="13796-612-9">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:14.0pt" ctype="x-cp-font" id="13796-612-9-1">Character position to return</g>
 											</source>
 										</trans-unit>
 									</group>
