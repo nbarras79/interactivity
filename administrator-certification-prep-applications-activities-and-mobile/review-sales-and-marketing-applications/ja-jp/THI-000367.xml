@@ -114,7 +114,7 @@
 										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 											<trans-unit id="173217-612-2">
 												<source>
-													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173217-612-2-1">Account</g>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173217-612-2-1">取引先</g>
 												</source>
 											</trans-unit>
 										</group>
