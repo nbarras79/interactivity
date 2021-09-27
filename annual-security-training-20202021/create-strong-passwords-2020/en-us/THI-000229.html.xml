@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wordchoice>
+  <submitbutton>Submit</submitbutton>
+  <restartbutton>Restart</restartbutton>
+  <incorrecttext>That's not correct, please try again.</incorrecttext>
+  <correcttext>Great Job!</correcttext>
+  <wordchoice1>
+    <fulltext1>{blank_space} is all about proving that you are, in fact, you. </fulltext1>
+    <choice1>Authentication</choice1>
+    <choice2>Multifactor authentication</choice2>
+    <choice3>Have</choice3>
+    <choice4>Password</choice4>
+    <answer>Authentication</answer>
+  </wordchoice1>
+  <wordchoice2>
+    <fulltext2>It’s all about what you know (such as your username and {blank_space} ),</fulltext2>
+    <choice1>authentication</choice1>
+    <choice2>multifactor authentication</choice2>
+    <choice3>have</choice3>
+    <choice4>password</choice4>
+    <answer>password</answer>
+  </wordchoice2>
+  <wordchoice3>
+    <fulltext3>what you {blank_space} (such as a smart card or token), and who you are (such as your fingerprints or facial recognition). </fulltext3>
+    <choice1>authentication</choice1>
+    <choice2>multifactor authentication</choice2>
+    <choice3>have</choice3>
+    <choice4>password</choice4>
+    <answer>have</answer>
+  </wordchoice3>
+  <wordchoice4>
+    <fulltext3>To stay secure, use at least two of these methods to secure an account (that is, {blank_space}).</fulltext3>
+    <choice1>authentication</choice1>
+    <choice2>multifactor authentication</choice2>
+    <choice3>have</choice3>
+    <choice4>password</choice4>
+    <answer>multifactor authentication</answer>
+  </wordchoice4>
+</wordchoice>
