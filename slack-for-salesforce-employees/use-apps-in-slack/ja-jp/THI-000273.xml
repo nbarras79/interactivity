@@ -114,7 +114,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173217-612-3">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:24.0pt" ctype="x-cp-font" id="173217-612-3-1">「1 枚の絵が 1,000 の言葉に値するとしたら、1 個の GIF には 1,000 個の絵文字と同じくらいの価値があるでしょうか? 絵文字と同様に、GIF を投稿するとテキストでは捉えられない気持ちや意味がメッセージに追加されます。」  </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:24.0pt" ctype="x-cp-font" id="173217-612-3-1">「1 枚の絵が 1,000 の言葉に値するとしたら、1 個の GIF には 1,000 個の絵文字と同じくらいの価値があるかも知れません。絵文字と同様に、GIF を投稿するとテキストでは捉えられない気持ちや意味をメッセージに加えることができます。」  </g>
 											</source>
 										</trans-unit>
 									</group>

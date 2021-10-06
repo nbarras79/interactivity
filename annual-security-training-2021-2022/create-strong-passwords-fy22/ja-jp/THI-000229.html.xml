@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wordchoice>
+  <submitbutton>送信</submitbutton>
+  <restartbutton>再開</restartbutton>
+  <incorrecttext>不正解です。もう一度お試しください。</incorrecttext>
+  <correcttext>正解です!</correcttext>
+  <wordchoice1>
+    <fulltext1>{blank_space} とは自分が実際に本人であることを証明することです。 </fulltext1>
+    <choice1>認証</choice1>
+    <choice2>多要素認証</choice2>
+    <choice3>持っているもの</choice3>
+    <choice4>パスワード</choice4>
+    <answer>認証</answer>
+  </wordchoice1>
+  <wordchoice2>
+    <fulltext2>自分が知っていること (ユーザ名と {blank_space}) 、</fulltext2>
+    <choice1>認証</choice1>
+    <choice2>多要素認証</choice2>
+    <choice3>持っているもの</choice3>
+    <choice4>パスワード</choice4>
+    <answer>パスワード</answer>
+  </wordchoice2>
+  <wordchoice3>
+    <fulltext3>自分が {blank_space} (スマートカードやトークンなど)、そして自分の身元を証明するもの (指紋や顔認識など)。 </fulltext3>
+    <choice1>認証</choice1>
+    <choice2>多要素認証</choice2>
+    <choice3>持っている</choice3>
+    <choice4>パスワード</choice4>
+    <answer>持っているもの</answer>
+  </wordchoice3>
+  <wordchoice4>
+    <fulltext3>安全性を高めるには、これらの方法のうちの 2 つ以上を使用して、アカウントを保護します (これが {blank_space}です)。</fulltext3>
+    <choice1>認証</choice1>
+    <choice2>多要素認証</choice2>
+    <choice3>持っているもの</choice3>
+    <choice4>パスワード</choice4>
+    <answer>多要素認証</answer>
+  </wordchoice4>
+</wordchoice>

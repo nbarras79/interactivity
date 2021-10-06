@@ -112,7 +112,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173217-612-3">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:24.0pt" ctype="x-cp-font" id="173217-612-3-1">「何をしていても、自分にメッセージを送信すれば、最も早くメモを取り始めることができます。私は常に Slack を開いているため、あわてて別のアプリを開く必要がありません。おまけに、メッセージはデバイス間で同期されるのです。」</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:24.0pt" ctype="x-cp-font" id="173217-612-3-1">「何をしていても、メモを取り始めるには自分宛にメッセージを送るのが手っ取り早い方法です。Slack を常時開いているので、あわてて別のアプリを開く必要もなく、メッセージもデバイス間で同期されます。」</g>
 											</source>
 										</trans-unit>
 									</group>
