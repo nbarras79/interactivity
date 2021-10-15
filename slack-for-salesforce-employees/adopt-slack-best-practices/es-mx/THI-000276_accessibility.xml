@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accessibility>
+  <leftarrow>Tarjeta nemot&eacute;cnica anterior</leftarrow>
+  <rightarrow>Tarjeta nemot&eacute;cnica siguiente</rightarrow>
+  <flashcard1>
+    <image>Foto de Sharon Klardie</image>
+    <frontflashcardbackground>Portada de tarjeta nemot&eacute;cnica con fondo blanco</frontflashcardbackground>
+    <frontflashcardbutton>Ver dorso de tarjeta nemot&eacute;cnica</frontflashcardbutton>
+  </flashcard1>
+</accessibility>
