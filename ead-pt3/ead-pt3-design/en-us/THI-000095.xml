@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2020-12-03T15:51:49.0Z" original="THI-000095.cptx" source-language="enUS">
+		<file datatype="cptx" date="2021-11-03T12:07:29.0Z" original="THI-000095.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
-					<count count-type="total" unit="trans-unit">337</count>
-					<count count-type="total" unit="word">1260</count>
+					<count count-type="total" unit="trans-unit">308</count>
+					<count count-type="total" unit="word">1066</count>
 					<count count-type="total" unit="x-cp-slides">5</count>
 				</count-group>
 			</header>
@@ -106,7 +106,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="12760-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-1-1">An Einstein Analytics consultant needs to show total values of all cases by case status, grouped by month/year the case was created. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-1-1">A Tableau CMR consultant needs to show total values of all cases by case status, grouped by month/year the case was created. </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -558,232 +558,6 @@
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="19" id="52601" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="52601-19-1-1">INSTRUCTIONS</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-1-2">:</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-2">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-2-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-3">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-3-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-4">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-4-1">1. Change the “X” in “Question 1 of X” to the total number of questions (do this on all questions).</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-5">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-5-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-6">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-6-1">2. Type or paste the questions in the questions section.</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-7">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-7-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-8">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-8-1">3. Type or paste the answers in the answer sections.</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-9">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-9-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-10">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-10-1">4. Type or paste the feedback for each answer.</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-11">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-11-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-12">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-12-1">5. In slide actions, click script_window and adjust the following:</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-13">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-13-1">	- </g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="52601-19-13-2">qnc </g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-13-3">= number of correct answers for this question</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-14">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-14-1">	- ans1 = the letter of the correct answer</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-15">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-15-1">	- ans2 = if there is a second correct answer, change to the applicable answer letter</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-16">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-16-1">	- ans3 = if there is a third correct answer, change to the applicable answer letter</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="19" id="52649" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="52649-19-1-1">If you need an option E (a fifth answer)</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-1-2">:</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-2">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-2-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-3">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-3-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-4">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-4-1">1. Change the Master slide from </g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="52649-19-4-2">QWF </g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-4-3">to </g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="52649-19-4-4">QWF 5 options</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-4-5">.</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-5">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-5-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-6">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-6-1">2. Re-position all the items back into the fluid boxes (drag until box turns green).</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-7">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-7-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-8">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-8-1">3. From the last slide, copy and paste the three items to the appropriate emply fluid boxes.</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-9">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-9-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-10">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-10-1">4. Click each of the three items and ensure the labels (in Properties tab) are as follows: </g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-11">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-11-1">	- The E button: Q&lt;question #&gt;_D</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-12">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-12-1">	- Option 5: Q&lt;question #&gt;_E_Text</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-13">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-13-1">	- Option 5 Explanation: Q&lt;question #&gt;_E_Explanation</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
 							</group>
 						</slide>
 						<slide cp:datatype="x-object" extype="30" id="43457" resname="Slide 1" restype="x-cp-standard-slide">
@@ -812,7 +586,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="42704-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="42704-19-1-1">What is an advantage of using Analytics templated apps?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="42704-19-1-1">What is an advantage of using Tableau CRM templated apps?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -875,7 +649,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="42922-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="42922-19-1-1">Correct. Analytics templated apps and prebuilt Analytics apps from Salesforce speed your organization’s time-to-value with Analytics. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="42922-19-1-1">Correct. Tableau CRM templated apps and prebuilt Tableau CRM apps from Salesforce speed your organization’s time-to-value with Tableau CRM. </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -938,7 +712,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="43043-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43043-19-1-1">Incorrect. Einstein Analytics does not create users, profiles, or permission sets.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43043-19-1-1">Incorrect. Tableau CRM does not create users, profiles, or permission sets.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -992,7 +766,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="43147-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43147-19-1-1">When creating an app from a template, Analytics automatically creates recipes for lenses and datasets in the application.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43147-19-1-1">When creating an app from a template, Tableau CRM automatically creates recipes for lenses and datasets in the application.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1001,7 +775,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="43164-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43164-19-1-1">Incorrect. Einstein Analytics templates do not automatically create recipes between datasets. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43164-19-1-1">Incorrect. Tableau CRM templates do not automatically create recipes between datasets. </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1055,7 +829,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="43268-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43268-19-1-1">When creating an app from a template, Analytics automatically creates the flows needed.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43268-19-1-1">When creating an app from a template, Tableau CRM automatically creates the flows needed.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1064,7 +838,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="43285-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43285-19-1-1">Incorrect. Einstein Analytics does not create flows in your org. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43285-19-1-1">Incorrect. Tableau CRM does not create flows in your org. </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1214,7 +988,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22620-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22620-19-1-1">Make sure all app users, including the Analytics Integration User, have the Einstein Analytics license.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22620-19-1-1">Make sure all app users, including the Analytics Integration User, have the Tableau CRM license.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1286,7 +1060,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22758-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="22758-19-1-1">Correct. All users need the appropriate analytics user licenses; the org must have a defined approval process; and the field-level security must be set for the Analytics Integration User to see all fields used in the app.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="22758-19-1-1">Correct. All users need the appropriate analytics user licenses, the org must have a defined approval process, and the field-level security must be set for the Analytics Integration User to see all fields used in the app.</g>
 											</source>
 										</trans-unit>
 									</group>

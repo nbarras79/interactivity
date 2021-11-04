@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2020-12-01T14:56:44.0Z" original="THI-000089.cptx" source-language="enUS">
+		<file datatype="cptx" date="2021-11-03T10:21:50.0Z" original="THI-000089.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
 					<count count-type="total" unit="trans-unit">278</count>
-					<count count-type="total" unit="word">882</count>
+					<count count-type="total" unit="word">884</count>
 					<count count-type="total" unit="x-cp-slides">4</count>
 				</count-group>
 			</header>
@@ -106,7 +106,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="12760-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-1-1">An Einstein Analytics consultant wants to determine the first day of the week, customize the display labels of fields, and customize colors of charts based on field values.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-1-1">An Tableau CRM consultant wants to determine the first day of the week, customize the display labels of fields, and customize colors of charts based on field values.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -175,7 +175,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13074-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13074-19-1-1">By using extended metadata (XMD) to customize the formatting of dataset fields and their values in Analytics dashboards and lenses. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13074-19-1-1">By using extended metadata (XMD) to customize the formatting of dataset fields and their values in Tableau CRM dashboards and lenses. </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -364,7 +364,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13575-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13575-19-1-1">Use Einstein REST API to modify these attributes.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13575-19-1-1">Use Tableau CRM REST API to modify these attributes.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -586,7 +586,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="42704-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="42704-19-1-1">An Einstein Analytics consultant notices their dashboard takes too long to load Salesforce data.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="42704-19-1-1">An Tableau CRM consultant notices their dashboard takes too long to load Salesforce data.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -601,7 +601,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="42704-19-3">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="42704-19-3-1">What can an Einstein Analytics user do to improve dashboard performance?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="42704-19-3-1">What can an Tableau CRM user do to improve dashboard performance?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -718,7 +718,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="43026-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43026-19-1-1">Run an efficiency check on the entire org through Einstein Analytics to ensure everything is running efficiently.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43026-19-1-1">Run an efficiency check on the entire org through Tableau CRM to ensure everything is running efficiently.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -727,7 +727,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="43043-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43043-19-1-1">Incorrect. Running an efficiency check on the entire org through Einstein Analytics is not currently a feature. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43043-19-1-1">Incorrect. Running an efficiency check on the entire org through Tableau CRM is not currently a feature. </g>
 											</source>
 										</trans-unit>
 									</group>
