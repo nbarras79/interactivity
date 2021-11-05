@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accessibility>
+  <leftarrow>Vorherige Lernkarte</leftarrow>
+  <rightarrow>Nächste Lernkarte</rightarrow>
+  <flashcard1>
+    <image>Foto von Mala Ravi</image>
+    <frontflashcardbackground>Vorderseite der Lernkarte mit weißem Hintergrund</frontflashcardbackground>
+    <frontflashcardbutton>Zur Rückseite der Lernkarte wechseln</frontflashcardbutton>
+  </flashcard1>
+</accessibility>
