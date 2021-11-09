@@ -26,12 +26,12 @@
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="591" restype="x-cp-project-password-message">
 						<trans-unit id="1-591">
-							<source>Veuillez saisir le mot de passe correct directement dans la zone de texte ci-dessous et cliquer sur le bouton ci-dessous.</source>
+							<source>Veuillez saisir le mot de passe correct directement dans la zone de texte ci-dessous et cliquer sur le bouton.</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="592" restype="x-cp-project-password-retry-message">
 						<trans-unit id="1-592">
-							<source>Le mot de passe que vous avez saisi est incorrect. Veuillez réessayer.</source>
+							<source>Le mot de passe que vous avez saisi est incorrect. Veuillez r&eacute;essayer.</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="593" restype="x-cp-project-password-button-text">
@@ -42,7 +42,7 @@
 					<group cp:datatype="x-object" extype="417" id="305" restype="x-cp-project-information">
 						<group cp:datatype="x-property" datatype="plaintext" extype="428" restype="x-cp-project-info-name">
 							<trans-unit id="305-428">
-								<source>Interactivité Trailhead</source>
+								<source>Interactivit&eacute; Trailhead</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="429" restype="x-cp-project-info-author">
@@ -75,7 +75,7 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="434" restype="x-cp-project-info-description">
 							<trans-unit id="305-434">
-								<source>Date de la version du modèle : 05/04/2021</source>
+								<source>Date de la version du mod&egrave;le&nbsp;: 05/04/2021</source>
 							</trans-unit>
 						</group>
 					</group>
@@ -89,7 +89,7 @@
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
 								<trans-unit id="21092-1285">
-									<source>Pour accéder à la version entièrement accessible de cette expérience interactive, cliquez sur le bouton d’accessibilité ou appuyez sur la touche Z.</source>
+									<source>Pour acc&eacute;der &agrave; la version enti&egrave;rement accessible de cette exp&eacute;rience interactive, cliquez sur le bouton d&rsquo;accessibilit&eacute; ou appuyez sur la touche&nbsp;Z.</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-object" extype="69" id="21066" restype="x-cp-items">
@@ -97,7 +97,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="19839-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="19839-19-1-1">Étapes</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="19839-19-1-1">&Eacute;tapes</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -115,7 +115,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="19969-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="19969-612-1-1">Lorsque vous travaillez en déplacement, appliquez un filtre de confidentialité à votre ordinateur portable.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="19969-612-1-1">Lorsque vous travaillez en d&eacute;placement, appliquez un filtre de confidentialit&eacute; &agrave; votre ordinateur portable.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -124,7 +124,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="19980-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="19980-612-1-1">Lorsque vous travaillez en déplacement, appliquez un filtre de confidentialité à votre ordinateur portable.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="19980-612-1-1">Lorsque vous travaillez en d&eacute;placement, appliquez un filtre de confidentialit&eacute; &agrave; votre ordinateur portable.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -133,7 +133,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="19991-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="19991-612-1-1">Lorsque vous travaillez en déplacement, appliquez un filtre de confidentialité à votre ordinateur portable.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="19991-612-1-1">Lorsque vous travaillez en d&eacute;placement, appliquez un filtre de confidentialit&eacute; &agrave; votre ordinateur portable.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -142,7 +142,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="20002-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="20002-612-1-1">Lorsque vous travaillez en déplacement, appliquez un filtre de confidentialité à votre ordinateur portable.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="20002-612-1-1">Lorsque vous travaillez en d&eacute;placement, appliquez un filtre de confidentialit&eacute; &agrave; votre ordinateur portable.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -180,7 +180,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="20200-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="20200-612-1-1">Vérifiez votre messagerie professionnelle.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="20200-612-1-1">V&eacute;rifiez votre messagerie professionnelle.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -189,7 +189,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="20211-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="20211-612-1-1">Vérifiez votre messagerie professionnelle.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="20211-612-1-1">V&eacute;rifiez votre messagerie professionnelle.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -198,7 +198,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="20222-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="20222-612-1-1">Vérifiez votre messagerie professionnelle.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="20222-612-1-1">V&eacute;rifiez votre messagerie professionnelle.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -207,7 +207,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="20233-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="20233-612-1-1">Vérifiez votre messagerie professionnelle.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="20233-612-1-1">V&eacute;rifiez votre messagerie professionnelle.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -245,7 +245,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="20417-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="20417-612-1-1">Avant de vous rendre dans un pays à haut risque, obtenez l’approbation de votre responsable, consultez le site Where2 et informez le service de technologie commerciale. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="20417-612-1-1">Avant de vous rendre dans un pays &agrave; haut risque, obtenez l&rsquo;approbation de votre responsable, consultez le site&nbsp;Where2 et informez le service de technologie commerciale. </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -254,7 +254,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="20428-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="20428-612-1-1">Avant de vous rendre dans un pays à haut risque, obtenez l’approbation de votre responsable, consultez le site Where2 et informez le service de technologie commerciale. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="20428-612-1-1">Avant de vous rendre dans un pays &agrave; haut risque, obtenez l&rsquo;approbation de votre responsable, consultez le site&nbsp;Where2 et informez le service de technologie commerciale. </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -263,7 +263,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="20439-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="20439-612-1-1">Avant de vous rendre dans un pays à haut risque, obtenez l’approbation de votre responsable, consultez le site Where2 et informez le service de technologie commerciale. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="20439-612-1-1">Avant de vous rendre dans un pays &agrave; haut risque, obtenez l&rsquo;approbation de votre responsable, consultez le site&nbsp;Where2 et informez le service de technologie commerciale. </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -272,7 +272,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="20450-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="20450-612-1-1">Avant de vous rendre dans un pays à haut risque, obtenez l’approbation de votre responsable, consultez le site Where2 et informez le service de technologie commerciale. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="20450-612-1-1">Avant de vous rendre dans un pays &agrave; haut risque, obtenez l&rsquo;approbation de votre responsable, consultez le site&nbsp;Where2 et informez le service de technologie commerciale. </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -310,7 +310,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="20634-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="20634-612-1-1">Lorsque vous êtes sur le réseau Wi-Fi de l’hôtel, connectez-vous au VPN.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="20634-612-1-1">Lorsque vous &ecirc;tes sur le r&eacute;seau&nbsp;Wi-Fi de l&rsquo;h&ocirc;tel, connectez-vous au VPN.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -319,7 +319,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="20645-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="20645-612-1-1">Lorsque vous êtes sur le réseau Wi-Fi de l’hôtel, connectez-vous au VPN.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="20645-612-1-1">Lorsque vous &ecirc;tes sur le r&eacute;seau&nbsp;Wi-Fi de l&rsquo;h&ocirc;tel, connectez-vous au VPN.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -328,7 +328,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="20656-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="20656-612-1-1">Lorsque vous êtes sur le réseau Wi-Fi de l’hôtel, connectez-vous au VPN.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="20656-612-1-1">Lorsque vous &ecirc;tes sur le r&eacute;seau&nbsp;Wi-Fi de l&rsquo;h&ocirc;tel, connectez-vous au VPN.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -337,7 +337,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="20667-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="20667-612-1-1">Lorsque vous êtes sur le réseau Wi-Fi de l’hôtel, connectez-vous au VPN.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="20667-612-1-1">Lorsque vous &ecirc;tes sur le r&eacute;seau&nbsp;Wi-Fi de l&rsquo;h&ocirc;tel, connectez-vous au VPN.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -375,7 +375,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="20861-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="20861-612-1-1">Réinitialiser</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="20861-612-1-1">R&eacute;initialiser</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -384,7 +384,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="20873-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="20873-612-1-1">Réinitialiser</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="20873-612-1-1">R&eacute;initialiser</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -393,7 +393,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="20885-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="20885-612-1-1">Réinitialiser</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="20885-612-1-1">R&eacute;initialiser</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -429,7 +429,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21003-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="21003-19-1-1">Faux. Essayez à nouveau.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="21003-19-1-1">Faux. Essayez &agrave; nouveau.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -438,7 +438,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21011-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="21011-19-1-1">Exact, bon travail !</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="21011-19-1-1">Exact, bon travail&nbsp;!</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -472,9 +472,9 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="27980-19-4">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="27980-19-4-1">Il s’agit d’une norme </g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="27980-19-4-2">Faites glisser quatre éléments pour corriger l’ordre.</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="27980-19-4-3"> Réalisez des opérations de glisser-déposer. Un bouton (masqué) se trouvant dans le coin supérieur gauche est utilisé pour afficher la version accessible (diapositive suivante).</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="27980-19-4-1">Il s&rsquo;agit d&rsquo;une norme </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="27980-19-4-2">Faites glisser quatre&nbsp;&eacute;l&eacute;ments pour corriger l&rsquo;ordre.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="27980-19-4-3"> R&eacute;alisez des op&eacute;rations de glisser-d&eacute;poser. Un bouton (masqu&eacute;) se trouvant dans le coin sup&eacute;rieur gauche est utilis&eacute; pour afficher la version accessible (diapositive suivante).</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -483,7 +483,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:1.00">
 										<trans-unit id="28971-641-1">
 											<source>
-												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="28971-641-1-1">Bouton non utilisé</g>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="28971-641-1-1">Bouton non utilis&eacute;</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -492,7 +492,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:1.00">
 										<trans-unit id="28988-641-1">
 											<source>
-												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="28988-641-1-1">Bouton non utilisé</g>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="28988-641-1-1">Bouton non utilis&eacute;</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -501,7 +501,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:1.00">
 										<trans-unit id="29001-641-1">
 											<source>
-												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="29001-641-1-1">Bouton non utilisé</g>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="29001-641-1-1">Bouton non utilis&eacute;</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -517,7 +517,7 @@
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
 								<trans-unit id="21964-1285">
-									<source>Il y a deux colonnes.  Celle de gauche contient des affirmations et celle de droite les listes déroulantes correspondantes. Sélectionnez la bonne réponse qui correspond à chaque affirmation dans les listes déroulantes. Après avoir effectué toutes les sélections, cliquez sur le bouton Soumettre dans le coin inférieur droit. Les sélections correctes et incorrectes vous sont ensuite indiquées. Vous pouvez revenir en arrière et corriger les sélections incorrectes, le cas échéant, puis cliquer à nouveau sur Soumettre. Pour recommencer, cliquez sur le bouton Réinitialiser dans le coin inférieur droit.</source>
+									<source>Il y a deux&nbsp;colonnes.  Celle de gauche contient des affirmations et celle de droite les listes d&eacute;roulantes correspondantes. S&eacute;lectionnez la bonne r&eacute;ponse qui correspond &agrave; chaque affirmation dans les listes d&eacute;roulantes. Apr&egrave;s avoir effectu&eacute; toutes les s&eacute;lections, cliquez sur le bouton Soumettre dans le coin inf&eacute;rieur droit. Les s&eacute;lections correctes et incorrectes vous sont ensuite indiqu&eacute;es. Vous pouvez revenir en arri&egrave;re et corriger les s&eacute;lections incorrectes, le cas &eacute;ch&eacute;ant, puis cliquer &agrave; nouveau sur Soumettre. Pour recommencer, cliquez sur le bouton R&eacute;initialiser dans le coin inf&eacute;rieur droit.</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-object" extype="69" id="21949" restype="x-cp-items">
@@ -543,7 +543,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21152-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="21152-19-1-1">Votre sélection pour cet élément n’est pas correcte. Veuillez réessayer.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="21152-19-1-1">Votre s&eacute;lection pour cet &eacute;l&eacute;ment n&rsquo;est pas correcte. Veuillez r&eacute;essayer.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -552,7 +552,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21173-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="21173-19-1-1">Votre sélection pour cet élément est correcte.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="21173-19-1-1">Votre s&eacute;lection pour cet &eacute;l&eacute;ment est correcte.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -561,7 +561,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21234-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="21234-612-1-1">Lorsque vous travaillez en déplacement, appliquez un filtre de confidentialité à votre ordinateur portable.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="21234-612-1-1">Lorsque vous travaillez en d&eacute;placement, appliquez un filtre de confidentialit&eacute; &agrave; votre ordinateur portable.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -570,7 +570,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21264-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21264-612-1-1">Lorsque vous travaillez en déplacement, appliquez un filtre de confidentialité à votre ordinateur portable.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21264-612-1-1">Lorsque vous travaillez en d&eacute;placement, appliquez un filtre de confidentialit&eacute; &agrave; votre ordinateur portable.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -579,7 +579,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21275-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21275-612-1-1">Lorsque vous travaillez en déplacement, appliquez un filtre de confidentialité à votre ordinateur portable.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21275-612-1-1">Lorsque vous travaillez en d&eacute;placement, appliquez un filtre de confidentialit&eacute; &agrave; votre ordinateur portable.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -588,7 +588,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21327-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="21327-19-1-1">Votre sélection pour cet élément n’est pas correcte. Veuillez réessayer.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="21327-19-1-1">Votre s&eacute;lection pour cet &eacute;l&eacute;ment n&rsquo;est pas correcte. Veuillez r&eacute;essayer.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -597,7 +597,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21344-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="21344-19-1-1">Votre sélection pour cet élément est correcte.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="21344-19-1-1">Votre s&eacute;lection pour cet &eacute;l&eacute;ment est correcte.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -606,7 +606,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21387-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="21387-612-1-1">Vérifiez votre messagerie professionnelle.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="21387-612-1-1">V&eacute;rifiez votre messagerie professionnelle.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -615,7 +615,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21398-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21398-612-1-1">Vérifiez votre messagerie professionnelle.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21398-612-1-1">V&eacute;rifiez votre messagerie professionnelle.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -624,7 +624,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21409-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21409-612-1-1">Vérifiez votre messagerie professionnelle.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21409-612-1-1">V&eacute;rifiez votre messagerie professionnelle.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -633,7 +633,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21455-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="21455-19-1-1">Votre sélection pour cet élément n’est pas correcte. Veuillez réessayer.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="21455-19-1-1">Votre s&eacute;lection pour cet &eacute;l&eacute;ment n&rsquo;est pas correcte. Veuillez r&eacute;essayer.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -642,7 +642,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21472-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="21472-19-1-1">Votre sélection pour cet élément est correcte.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="21472-19-1-1">Votre s&eacute;lection pour cet &eacute;l&eacute;ment est correcte.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -651,7 +651,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21515-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="21515-612-1-1">Avant de vous rendre dans un pays à haut risque, obtenez l’approbation de votre responsable, consultez le site Where2 et informez le service de technologie commerciale. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="21515-612-1-1">Avant de vous rendre dans un pays &agrave; haut risque, obtenez l&rsquo;approbation de votre responsable, consultez le site&nbsp;Where2 et informez le service de technologie commerciale. </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -660,7 +660,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21526-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21526-612-1-1">Avant de vous rendre dans un pays à haut risque, obtenez l’approbation de votre responsable, consultez le site Where2 et informez le service de technologie commerciale. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21526-612-1-1">Avant de vous rendre dans un pays &agrave; haut risque, obtenez l&rsquo;approbation de votre responsable, consultez le site&nbsp;Where2 et informez le service de technologie commerciale. </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -669,7 +669,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21537-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21537-612-1-1">Avant de vous rendre dans un pays à haut risque, obtenez l’approbation de votre responsable, consultez le site Where2 et informez le service de technologie commerciale. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21537-612-1-1">Avant de vous rendre dans un pays &agrave; haut risque, obtenez l&rsquo;approbation de votre responsable, consultez le site&nbsp;Where2 et informez le service de technologie commerciale. </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -678,7 +678,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21583-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="21583-19-1-1">Votre sélection pour cet élément n’est pas correcte. Veuillez réessayer.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="21583-19-1-1">Votre s&eacute;lection pour cet &eacute;l&eacute;ment n&rsquo;est pas correcte. Veuillez r&eacute;essayer.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -687,7 +687,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21600-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="21600-19-1-1">Votre sélection pour cet élément est correcte.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="21600-19-1-1">Votre s&eacute;lection pour cet &eacute;l&eacute;ment est correcte.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -696,7 +696,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21643-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="21643-612-1-1">Lorsque vous êtes sur le réseau Wi-Fi de l’hôtel, connectez-vous au VPN.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="21643-612-1-1">Lorsque vous &ecirc;tes sur le r&eacute;seau&nbsp;Wi-Fi de l&rsquo;h&ocirc;tel, connectez-vous au VPN.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -705,7 +705,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21654-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21654-612-1-1">Lorsque vous êtes sur le réseau Wi-Fi de l’hôtel, connectez-vous au VPN.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21654-612-1-1">Lorsque vous &ecirc;tes sur le r&eacute;seau&nbsp;Wi-Fi de l&rsquo;h&ocirc;tel, connectez-vous au VPN.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -714,7 +714,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21665-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21665-612-1-1">Lorsque vous êtes sur le réseau Wi-Fi de l’hôtel, connectez-vous au VPN.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21665-612-1-1">Lorsque vous &ecirc;tes sur le r&eacute;seau&nbsp;Wi-Fi de l&rsquo;h&ocirc;tel, connectez-vous au VPN.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -723,7 +723,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21798-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="21798-612-1-1">Réinitialiser</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="21798-612-1-1">R&eacute;initialiser</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -732,7 +732,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21810-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="21810-612-1-1">Réinitialiser</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="21810-612-1-1">R&eacute;initialiser</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -741,7 +741,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21822-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="21822-612-1-1">Réinitialiser</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="21822-612-1-1">R&eacute;initialiser</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -777,7 +777,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21940-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="21940-19-1-1">Vos sélections ne sont pas correctes, veuillez réessayer.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="21940-19-1-1">Vos s&eacute;lections ne sont pas correctes, veuillez r&eacute;essayer.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -786,7 +786,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="21948-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="21948-19-1-1">Exact, bon travail !</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="21948-19-1-1">Exact, bon travail&nbsp;!</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -819,14 +819,14 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="27959-19-4">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="27959-19-4-1">Ceci est utilisé pour l’accessibilité.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="27959-19-4-1">Ceci est utilis&eacute; pour l&rsquo;accessibilit&eacute;.</g>
 											</source>
 										</trans-unit>
 									</group>
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="27959-19-5">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="27959-19-5-1">Créez ceci pour refléter les informations sur la diapositive standard. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="27959-19-5-1">Cr&eacute;ez ceci pour refl&eacute;ter les informations sur la diapositive standard. </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -886,7 +886,7 @@
 						<slide cp:datatype="x-object" extype="584" id="1742" resname="Slide 3" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="1742-337">
-									<source>Contenu 01</source>
+									<source>Contenu&nbsp;01</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -909,7 +909,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="1691" restype="Text Caption Placeholder">
 									<trans-unit id="1691-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -917,7 +917,7 @@
 						<slide cp:datatype="x-object" extype="584" id="2263" resname="Slide 4" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2263-337">
-									<source>Contenu 02</source>
+									<source>Contenu&nbsp;02</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -941,7 +941,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="1826" restype="Text Caption Placeholder">
 									<trans-unit id="1826-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="1852" restype="Image Placeholder">
@@ -951,7 +951,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="1887" restype="Text Caption Placeholder">
 									<trans-unit id="1887-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="1913" restype="Image Placeholder">
@@ -961,7 +961,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="1948" restype="Text Caption Placeholder">
 									<trans-unit id="1948-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="1974" restype="Image Placeholder">
@@ -976,7 +976,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2048" restype="Text Caption Placeholder">
 									<trans-unit id="2048-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2087" restype="Image Placeholder">
@@ -986,7 +986,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2109" restype="Text Caption Placeholder">
 									<trans-unit id="2109-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2148" restype="Image Placeholder">
@@ -996,7 +996,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2170" restype="Text Caption Placeholder">
 									<trans-unit id="2170-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1004,7 +1004,7 @@
 						<slide cp:datatype="x-object" extype="584" id="2429" resname="Slide 5" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2429-337">
-									<source>Contenu 03</source>
+									<source>Contenu&nbsp;03</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1028,17 +1028,17 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2334" restype="Text Caption Placeholder">
 									<trans-unit id="2334-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2356" restype="Text Caption Placeholder">
 									<trans-unit id="2356-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2378" restype="Text Caption Placeholder">
 									<trans-unit id="2378-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1046,7 +1046,7 @@
 						<slide cp:datatype="x-object" extype="584" id="2550" resname="Slide 6" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2550-337">
-									<source>Contenu 04</source>
+									<source>Contenu&nbsp;04</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1077,7 +1077,7 @@
 						<slide cp:datatype="x-object" extype="584" id="2619" resname="Slide 7" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2619-337">
-									<source>Contenu 05</source>
+									<source>Contenu&nbsp;05</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1098,7 +1098,7 @@
 						<slide cp:datatype="x-object" extype="584" id="2901" resname="Slide 8" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2901-337">
-									<source>Contenu 06</source>
+									<source>Contenu&nbsp;06</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1120,12 +1120,12 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2667" restype="Text Caption Placeholder">
 									<trans-unit id="2667-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2702" restype="Text Caption Placeholder">
 									<trans-unit id="2702-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="2754" restype="SmartShape">
@@ -1140,12 +1140,12 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2776" restype="Text Caption Placeholder">
 									<trans-unit id="2776-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2811" restype="Text Caption Placeholder">
 									<trans-unit id="2811-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2863" restype="Image Placeholder">
@@ -1158,7 +1158,7 @@
 						<slide cp:datatype="x-object" extype="584" id="3018" resname="Slide 9" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="3018-337">
-									<source>Contenu 07</source>
+									<source>Contenu&nbsp;07</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1176,7 +1176,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2954" restype="Text Caption Placeholder">
 									<trans-unit id="2954-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1223,7 +1223,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3180" restype="Text Caption Placeholder">
 									<trans-unit id="3180-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="3219" restype="SmartShape">
@@ -1238,7 +1238,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3241" restype="Text Caption Placeholder">
 									<trans-unit id="3241-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="3280" restype="SmartShape">
@@ -1253,7 +1253,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3302" restype="Text Caption Placeholder">
 									<trans-unit id="3302-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="3341" restype="SmartShape">
@@ -1268,7 +1268,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3363" restype="Text Caption Placeholder">
 									<trans-unit id="3363-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="3402" restype="SmartShape">
@@ -1283,7 +1283,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3424" restype="Text Caption Placeholder">
 									<trans-unit id="3424-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="3463" restype="SmartShape">
@@ -1298,7 +1298,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3498" restype="Text Caption Placeholder">
 									<trans-unit id="3498-190">
-										<source>LÉGENDE TEXTUELLE</source>
+										<source>L&Eacute;GENDE TEXTUELLE</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1306,7 +1306,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="3990" resname="Slide 11" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="3990-337">
-									<source>QCM, V/F, texte à trous, séquence</source>
+									<source>QCM, V/F, texte &agrave; trous, s&eacute;quence</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1318,82 +1318,82 @@
 							<group cp:datatype="x-object" extype="69" id="3963" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="3600" restype="Title Placeholder">
 									<trans-unit id="3600-190">
-										<source>Espace réservé au titre de la question</source>
+										<source>Espace r&eacute;serv&eacute; pour le titre de la question</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3625" restype="Question Placeholder">
 									<trans-unit id="3625-190">
-										<source>Espace réservé au texte de la question</source>
+										<source>Espace r&eacute;serv&eacute; pour le texte de la question</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3657" restype="Answer Area Placeholder">
 									<trans-unit id="3657-190">
-										<source>Espace réservé à la zone de réponse</source>
+										<source>Espace r&eacute;serv&eacute; pour la r&eacute;ponse</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3679" restype="Review Area Placeholder">
 									<trans-unit id="3679-190">
-										<source>Zone d’examen</source>
+										<source>Zone d&rsquo;examen</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3697" restype="Success Shape Placeholder">
 									<trans-unit id="3697-190">
-										<source>Espace réservé pour la légende Réussite</source>
+										<source>Espace r&eacute;serv&eacute; pour la l&eacute;gende en cas de bonne r&eacute;ponse</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3715" restype="TimeOut Shape Placeholder">
 									<trans-unit id="3715-190">
-										<source>Espace réservé pour les commentaires sur le délai d’expiration</source>
+										<source>Espace r&eacute;serv&eacute; pour les commentaires sur le d&eacute;lai d&rsquo;expiration</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3733" restype="Partial Correct Shape Placeholder">
 									<trans-unit id="3733-190">
-										<source>Espace réservé pour la légende Partiellement correct</source>
+										<source>Espace r&eacute;serv&eacute; pour la l&eacute;gende en cas de r&eacute;ponse partiellement correcte</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3751" restype="Retry Shape Placeholder">
 									<trans-unit id="3751-190">
-										<source>Espace réservé pour la légende Réessayer</source>
+										<source>Espace r&eacute;serv&eacute; pour la l&eacute;gende en cas de nouvel essai</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3769" restype="Incomplete Shape Placeholder">
 									<trans-unit id="3769-190">
-										<source>Espace réservé pour la légende Incomplet</source>
+										<source>Espace r&eacute;serv&eacute; pour la l&eacute;gende en cas de r&eacute;ponse incompl&egrave;te</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3787" restype="Failure Shape Placeholder">
 									<trans-unit id="3787-190">
-										<source>Espace réservé pour la légende Échec</source>
+										<source>Espace r&eacute;serv&eacute; pour la l&eacute;gende en cas de mauvaise r&eacute;ponse</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3819" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="3819-190">
-										<source>Espace réservé au bouton Retour</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Retour</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3838" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="3838-190">
-										<source>Espace réservé au bouton Ignorer</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Ignorer</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3857" restype="Clear Button Placeholder">
 									<trans-unit id="3857-190">
-										<source>Espace réservé au bouton Effacer</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Effacer</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3876" restype="Back Button Placeholder">
 									<trans-unit id="3876-190">
-										<source>Espace réservé au bouton Retour</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Retour</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3895" restype="Skip Button Placeholder">
 									<trans-unit id="3895-190">
-										<source>Espace réservé au bouton Ignorer</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Ignorer</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3914" restype="Submit Button Placeholder">
 									<trans-unit id="3914-190">
-										<source>Espace réservé au bouton Soumettre</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Soumettre</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3962" restype="Progress Indicator Placeholder">
@@ -1406,7 +1406,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="4388" resname="Slide 12" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4388-337">
-									<source>Mise en correspondance</source>
+									<source>Correspondant</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1418,82 +1418,82 @@
 							<group cp:datatype="x-object" extype="69" id="4361" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4002" restype="Title Placeholder">
 									<trans-unit id="4002-190">
-										<source>Espace réservé au titre de la question</source>
+										<source>Espace r&eacute;serv&eacute; pour le titre de la question</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4027" restype="Question Placeholder">
 									<trans-unit id="4027-190">
-										<source>Espace réservé au texte de la question</source>
+										<source>Espace r&eacute;serv&eacute; pour le texte de la question</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4049" restype="Column 1 Placeholder">
 									<trans-unit id="4049-190">
-										<source>Espace réservé à la zone de questions</source>
+										<source>Espace r&eacute;serv&eacute; &agrave; la question</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4058" restype="Column 2 Placeholder">
 									<trans-unit id="4058-190">
-										<source>Espace réservé à la zone de questions</source>
+										<source>Espace r&eacute;serv&eacute; &agrave; la question</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4090" restype="Question Area Placeholder">
 									<trans-unit id="4090-190">
-										<source>Espace réservé à la zone de questions</source>
+										<source>Espace r&eacute;serv&eacute; &agrave; la question</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4109" restype="Answer Area Placeholder">
 									<trans-unit id="4109-190">
-										<source>Espace réservé à la zone de réponse</source>
+										<source>Espace r&eacute;serv&eacute; pour la r&eacute;ponse</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4131" restype="Review Area Placeholder">
 									<trans-unit id="4131-190">
-										<source>Zone d’examen</source>
+										<source>Zone d&rsquo;examen</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4149" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4149-190">
-										<source>Espace réservé pour la légende Incomplet</source>
+										<source>Espace r&eacute;serv&eacute; pour la l&eacute;gende en cas de r&eacute;ponse incompl&egrave;te</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4167" restype="Failure Shape Placeholder">
 									<trans-unit id="4167-190">
-										<source>Espace réservé pour la légende Échec</source>
+										<source>Espace r&eacute;serv&eacute; pour la l&eacute;gende en cas de mauvaise r&eacute;ponse</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4185" restype="Success Shape Placeholder">
 									<trans-unit id="4185-190">
-										<source>Espace réservé pour la légende Réussite</source>
+										<source>Espace r&eacute;serv&eacute; pour la l&eacute;gende en cas de bonne r&eacute;ponse</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4217" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4217-190">
-										<source>Espace réservé au bouton Retour</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Retour</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4236" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4236-190">
-										<source>Espace réservé au bouton Ignorer</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Ignorer</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4255" restype="Clear Button Placeholder">
 									<trans-unit id="4255-190">
-										<source>Espace réservé au bouton Effacer</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Effacer</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4274" restype="Back Button Placeholder">
 									<trans-unit id="4274-190">
-										<source>Espace réservé au bouton Retour</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Retour</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4293" restype="Skip Button Placeholder">
 									<trans-unit id="4293-190">
-										<source>Espace réservé au bouton Ignorer</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Ignorer</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4312" restype="Submit Button Placeholder">
 									<trans-unit id="4312-190">
-										<source>Espace réservé au bouton Soumettre</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Soumettre</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4360" restype="Progress Indicator Placeholder">
@@ -1506,7 +1506,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="4704" resname="Slide 13" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4704-337">
-									<source>Point chaud</source>
+									<source>Hot Spot</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1518,62 +1518,62 @@
 							<group cp:datatype="x-object" extype="69" id="4677" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4400" restype="Title Placeholder">
 									<trans-unit id="4400-190">
-										<source>Espace réservé au titre de la question</source>
+										<source>Espace r&eacute;serv&eacute; pour le titre de la question</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4425" restype="Question Placeholder">
 									<trans-unit id="4425-190">
-										<source>Espace réservé au texte de la question</source>
+										<source>Espace r&eacute;serv&eacute; pour le texte de la question</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4447" restype="Review Area Placeholder">
 									<trans-unit id="4447-190">
-										<source>Zone d’examen</source>
+										<source>Zone d&rsquo;examen</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4465" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4465-190">
-										<source>Espace réservé pour la légende Incomplet</source>
+										<source>Espace r&eacute;serv&eacute; pour la l&eacute;gende en cas de r&eacute;ponse incompl&egrave;te</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4483" restype="Failure Shape Placeholder">
 									<trans-unit id="4483-190">
-										<source>Espace réservé pour la légende Échec</source>
+										<source>Espace r&eacute;serv&eacute; pour la l&eacute;gende en cas de mauvaise r&eacute;ponse</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4501" restype="Success Shape Placeholder">
 									<trans-unit id="4501-190">
-										<source>Espace réservé pour la légende Réussite</source>
+										<source>Espace r&eacute;serv&eacute; pour la l&eacute;gende en cas de bonne r&eacute;ponse</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4533" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4533-190">
-										<source>Espace réservé au bouton Retour</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Retour</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4552" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4552-190">
-										<source>Espace réservé au bouton Ignorer</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Ignorer</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4571" restype="Clear Button Placeholder">
 									<trans-unit id="4571-190">
-										<source>Espace réservé au bouton Effacer</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Effacer</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4590" restype="Back Button Placeholder">
 									<trans-unit id="4590-190">
-										<source>Espace réservé au bouton Retour</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Retour</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4609" restype="Skip Button Placeholder">
 									<trans-unit id="4609-190">
-										<source>Espace réservé au bouton Ignorer</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Ignorer</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4628" restype="Submit Button Placeholder">
 									<trans-unit id="4628-190">
-										<source>Espace réservé au bouton Soumettre</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Soumettre</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4676" restype="Progress Indicator Placeholder">
@@ -1598,27 +1598,27 @@
 							<group cp:datatype="x-object" extype="69" id="4955" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4716" restype="Title Placeholder">
 									<trans-unit id="4716-190">
-										<source>Espace réservé au titre de la question</source>
+										<source>Espace r&eacute;serv&eacute; pour le titre de la question</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4728" restype="Question Placeholder">
 									<trans-unit id="4728-190">
-										<source>Espace réservé au texte de la question</source>
+										<source>Espace r&eacute;serv&eacute; pour le texte de la question</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4804" restype="Likert Question Area Placeholder">
 									<trans-unit id="4804-190">
-										<source>Espace réservé pour Adobe Captivate 5</source>
+										<source>Espace r&eacute;serv&eacute; pour Adobe&nbsp;Captivate&nbsp;5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4822" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4822-190">
-										<source>Espace réservé pour la légende Incomplet</source>
+										<source>Espace r&eacute;serv&eacute; pour la l&eacute;gende en cas de r&eacute;ponse incompl&egrave;te</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4831" restype="Review Area Placeholder">
 									<trans-unit id="4831-190">
-										<source>Zone d’examen</source>
+										<source>Zone d&rsquo;examen</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4840" restype="Progress Indicator Placeholder">
@@ -1628,32 +1628,32 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4859" restype="Submit Button Placeholder">
 									<trans-unit id="4859-190">
-										<source>Espace réservé au bouton Soumettre</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Soumettre</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4878" restype="Skip Button Placeholder">
 									<trans-unit id="4878-190">
-										<source>Espace réservé au bouton Ignorer</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Ignorer</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4897" restype="Back Button Placeholder">
 									<trans-unit id="4897-190">
-										<source>Espace réservé au bouton Retour</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Retour</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4916" restype="Clear Button Placeholder">
 									<trans-unit id="4916-190">
-										<source>Espace réservé au bouton Effacer</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Effacer</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4935" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4935-190">
-										<source>Espace réservé au bouton Ignorer</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Ignorer</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4954" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4954-190">
-										<source>Espace réservé au bouton Retour</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Retour</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1661,7 +1661,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="5345" resname="Slide 15" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="5345-337">
-									<source>Résultat</source>
+									<source>R&eacute;sultat</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1673,12 +1673,12 @@
 							<group cp:datatype="x-object" extype="69" id="5318" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4994" restype="Result Title Placeholder">
 									<trans-unit id="4994-190">
-										<source>Espace réservé au titre de la question</source>
+										<source>Espace r&eacute;serv&eacute; pour le titre de la question</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5016" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5016-190">
-										<source>Espace réservé pour l’étiquette du résultat de la notation</source>
+										<source>Espace r&eacute;serv&eacute; pour le r&eacute;sultat</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5025" restype="Scoring Result Placeholder">
@@ -1688,27 +1688,27 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5047" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5047-190">
-										<source>Espace réservé pour l’étiquette du résultat de la notation</source>
+										<source>Espace r&eacute;serv&eacute; pour le r&eacute;sultat</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5056" restype="Scoring Result Placeholder">
 									<trans-unit id="5056-190">
-										<source>max-score</source>
+										<source>score-max</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5078" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5078-190">
-										<source>Espace réservé pour l’étiquette du résultat de la notation</source>
+										<source>Espace r&eacute;serv&eacute; pour le r&eacute;sultat</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5087" restype="Scoring Result Placeholder">
 									<trans-unit id="5087-190">
-										<source>correct-questions</source>
+										<source>bonnes-r&eacute;ponses</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5109" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5109-190">
-										<source>Espace réservé pour l’étiquette du résultat de la notation</source>
+										<source>Espace r&eacute;serv&eacute; pour le r&eacute;sultat</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5118" restype="Scoring Result Placeholder">
@@ -1718,7 +1718,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5140" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5140-190">
-										<source>Espace réservé pour l’étiquette du résultat de la notation</source>
+										<source>Espace r&eacute;serv&eacute; pour le r&eacute;sultat</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5149" restype="Scoring Result Placeholder">
@@ -1728,37 +1728,37 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5171" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5171-190">
-										<source>Espace réservé pour l’étiquette du résultat de la notation</source>
+										<source>Espace r&eacute;serv&eacute; pour le r&eacute;sultat</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5180" restype="Scoring Result Placeholder">
 									<trans-unit id="5180-190">
-										<source>total-attempts</source>
+										<source>total-tentatives</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5212" restype="Review Button Placeholder">
 									<trans-unit id="5212-190">
-										<source>Espace réservé pour Adobe Captivate 5</source>
+										<source>Espace r&eacute;serv&eacute; pour Adobe&nbsp;Captivate&nbsp;5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5231" restype="Continue Button Placeholder">
 									<trans-unit id="5231-190">
-										<source>Espace réservé au bouton Effacer</source>
+										<source>Espace r&eacute;serv&eacute; pour le bouton Effacer</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5250" restype="Post Result Button Placeholder">
 									<trans-unit id="5250-190">
-										<source>Espace réservé pour Adobe Captivate 5</source>
+										<source>Espace r&eacute;serv&eacute; pour Adobe&nbsp;Captivate&nbsp;5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5269" restype="Retake Button Placeholder">
 									<trans-unit id="5269-190">
-										<source>Espace réservé pour Adobe Captivate 5</source>
+										<source>Espace r&eacute;serv&eacute; pour Adobe&nbsp;Captivate&nbsp;5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5291" restype="Review Area Placeholder">
 									<trans-unit id="5291-190">
-										<source>Zone d’examen</source>
+										<source>Zone d&rsquo;examen</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1792,7 +1792,7 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10237" restype="x-cp-quiz-review-button-name">
 							<trans-unit id="382-10237">
-								<source>Questionnaire récapitulatif</source>
+								<source>Examiner le questionnaire</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10269" restype="x-cp-quiz-continue-button-name">
@@ -1813,47 +1813,47 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10105" restype="x-cp-quiz-correct-feedback-text">
 							<trans-unit id="382-10105">
-								<source>Correct : cliquez n’importe où ou appuyez sur « O » pour continuer.</source>
+								<source>Correct. Cliquez n&rsquo;importe o&ugrave; ou appuyez sur «&nbsp;O&nbsp;» pour continuer.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10291" restype="x-cp-quiz-partial-correct-feedback-text">
 							<trans-unit id="382-10291">
-								<source>Partiellement correct : cliquez n’importe où ou appuyez sur « O » pour continuer.</source>
+								<source>Partiellement correct. Cliquez n&rsquo;importe o&ugrave; ou appuyez sur «&nbsp;O&nbsp;» pour continuer.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10106" restype="x-cp-quiz-incorrect-feedback-text">
 							<trans-unit id="382-10106">
-								<source>Incorrect : cliquez n’importe où ou appuyez sur « O » pour continuer.</source>
+								<source>Incorrect. Cliquez n&rsquo;importe o&ugrave; ou appuyez sur «&nbsp;O&nbsp;» pour continuer.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10107" restype="x-cp-quiz-retry-feedback-text">
 							<trans-unit id="382-10107">
-								<source>Réessayer</source>
+								<source>R&eacute;essayer</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10184" restype="x-cp-quiz-incomplete-feedback-text">
 							<trans-unit id="382-10184">
-								<source>Vous devez répondre à la question avant de continuer.</source>
+								<source>Vous devez r&eacute;pondre &agrave; la question avant de continuer.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10188" restype="x-cp-quiz-timeout-feedback-text">
 							<trans-unit id="382-10188">
-								<source>Le délai de réponse à cette question est expiré. Cliquez n’importe où ou appuyez sur « O » pour continuer.</source>
+								<source>Le temps de r&eacute;ponse pour cette question est expir&eacute;. Cliquez n&rsquo;importe o&ugrave; ou appuyez sur «&nbsp;O&nbsp;» pour continuer.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">
 							<trans-unit id="382-10358">
-								<source>Vous avez répondu à toutes les questions. Que voulez-vous faire ensuite ?</source>
+								<source>Vous avez r&eacute;pondu &agrave; toutes les questions. Que voulez-vous faire ensuite&nbsp;?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10359" restype="x-cp-quiz-submit-all-incomplete-text">
 							<trans-unit id="382-10359">
-								<source>Une ou plusieurs questions sont incomplètes. Répondez à toutes les questions pour continuer.</source>
+								<source>Une ou plusieurs questions sont incompl&egrave;tes. R&eacute;pondez &agrave; toutes les questions pour continuer.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10360" restype="x-cp-quiz-submit-all-submit-incomplete-text">
 							<trans-unit id="382-10360">
-								<source>Vous n’avez pas encore répondu à certaines des questions. Êtes-vous sûr de vouloir continuer sans répondre à ces questions ?</source>
+								<source>Vous n&rsquo;avez pas encore r&eacute;pondu &agrave; toutes les questions. &Ecirc;tes-vous s&ucirc;r(e) de vouloir continuer sans r&eacute;pondre &agrave; ces questions&nbsp;?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-object" extype="10042" id="383" restype="x-cp-quizzes">
@@ -1876,37 +1876,37 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10171" restype="x-cp-quiz-review-correct-message">
 									<trans-unit id="384-10171">
-										<source>Bonne réponse !</source>
+										<source>Vous avez r&eacute;pondu correctement&nbsp;!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10330" restype="x-cp-quiz-review-partial-correct-message">
 									<trans-unit id="384-10330">
-										<source>Une partie de votre réponse est correcte !</source>
+										<source>Vous avez r&eacute;pondu correctement en partie&nbsp;!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
 									<trans-unit id="384-10172">
-										<source>Vous n’avez pas totalement répondu à cette question.</source>
+										<source>Vous n&rsquo;avez pas totalement r&eacute;pondu &agrave; cette question.</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
 									<trans-unit id="384-10173">
-										<source>Votre réponse :</source>
+										<source>Votre r&eacute;ponse&nbsp;:</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10174" restype="x-cp-quiz-review-incorrect-message-line-2">
 									<trans-unit id="384-10174">
-										<source>La bonne réponse est :</source>
+										<source>La bonne r&eacute;ponse est&nbsp;:</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10165" restype="x-cp-quiz-result-pass-message">
 									<trans-unit id="384-10165">
-										<source>Félicitations, vous avez réussi le questionnaire !</source>
+										<source>F&eacute;licitations, vous avez r&eacute;ussi le questionnaire&nbsp;!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10166" restype="x-cp-quiz-result-fail-message">
 									<trans-unit id="384-10166">
-										<source>Désolé, vous avez échoué.</source>
+										<source>D&eacute;sol&eacute;, vous avez &eacute;chou&eacute;.</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10170" restype="x-cp-quiz-result-email-button-text">
@@ -1916,12 +1916,12 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10265" restype="x-cp-quiz-result-retake-button-text">
 									<trans-unit id="384-10265">
-										<source>Répondre à nouveau au questionnaire</source>
+										<source>Refaire le questionnaire</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10271" restype="x-cp-quiz-result-post-result-text">
 									<trans-unit id="384-10271">
-										<source>Publier le résultat</source>
+										<source>Publier le r&eacute;sultat</source>
 									</trans-unit>
 								</group>
 							</group>

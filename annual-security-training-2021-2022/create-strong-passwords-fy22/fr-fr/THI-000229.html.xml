@@ -2,37 +2,37 @@
 <wordchoice>
   <submitbutton>Soumettre</submitbutton>
   <restartbutton>Recommencer</restartbutton>
-  <incorrecttext>Ce n’est pas correct, veuillez réessayer.</incorrecttext>
-  <correcttext>Vous avez bien travaillé !</correcttext>
+  <incorrecttext>Ce n&rsquo;est pas correct, veuillez r&eacute;essayer.</incorrecttext>
+  <correcttext>Vous avez bien travaill&eacute;&nbsp;!</correcttext>
   <wordchoice1>
-    <fulltext1>{blank_space} consiste à prouver que vous êtes bien vous. </fulltext1>
-    <choice1>L’authentification</choice1>
-    <choice2>L’authentification multifacteur</choice2>
-    <choice3>Possédez</choice3>
+    <fulltext1>{blank_space} consiste &agrave; prouver que vous &ecirc;tes bien vous. </fulltext1>
+    <choice1>L&rsquo;authentification</choice1>
+    <choice2>L&rsquo;authentification multifacteur</choice2>
+    <choice3>Poss&eacute;dez</choice3>
     <choice4>Le mot de passe</choice4>
-    <answer>L’authentification</answer>
+    <answer>L&rsquo;authentification</answer>
   </wordchoice1>
   <wordchoice2>
-    <fulltext2>Tout dépend de ce que vous savez (comme votre nom d’utilisateur et votre {blank_space}),</fulltext2>
+    <fulltext2>Tout d&eacute;pend de ce que vous savez (comme votre nom d&rsquo;utilisateur et votre {blank_space}),</fulltext2>
     <choice1>authentification</choice1>
     <choice2>authentification multifacteur</choice2>
-    <choice3>possédez</choice3>
+    <choice3>poss&eacute;dez</choice3>
     <choice4>mot de passe</choice4>
     <answer>mot de passe</answer>
   </wordchoice2>
   <wordchoice3>
-    <fulltext3>de ce que vous {blank_space} (comme une carte à puce ou un jeton) et de qui vous êtes (empreintes digitales ou reconnaissance faciale par exemple). </fulltext3>
+    <fulltext3>de ce que vous {blank_space} (comme une carte &agrave; puce ou un jeton) et de qui vous &ecirc;tes (empreintes digitales ou reconnaissance faciale par exemple). </fulltext3>
     <choice1>authentification</choice1>
     <choice2>authentification multifacteur</choice2>
-    <choice3>possédez</choice3>
+    <choice3>poss&eacute;dez</choice3>
     <choice4>mot de passe</choice4>
-    <answer>possédez</answer>
+    <answer>poss&eacute;dez</answer>
   </wordchoice3>
   <wordchoice4>
-    <fulltext3>Afin d’assurer la sécurité, utilisez au moins deux de ces méthodes pour sécuriser un compte (c’est-à-dire, l’{blank_space}).</fulltext3>
+    <fulltext3>Afin d&rsquo;assurer la s&eacute;curit&eacute;, utilisez au moins deux de ces m&eacute;thodes pour s&eacute;curiser un compte (c&rsquo;est-&agrave;-dire, l&rsquo;{blank_space}).</fulltext3>
     <choice1>authentification</choice1>
     <choice2>authentification multifacteur</choice2>
-    <choice3>possédez</choice3>
+    <choice3>poss&eacute;dez</choice3>
     <choice4>mot de passe</choice4>
     <answer>authentification multifacteur</answer>
   </wordchoice4>
