@@ -2,38 +2,38 @@
 <wordchoice>
   <submitbutton>Enviar</submitbutton>
   <restartbutton>Reiniciar</restartbutton>
-  <incorrecttext>Isso não está correto, tente novamente.</incorrecttext>
-  <correcttext>Ótimo trabalho!</correcttext>
+  <incorrecttext>Isso n&atilde;o est&aacute; correto. Tente novamente.</incorrecttext>
+  <correcttext>&Oacute;timo trabalho!</correcttext>
   <wordchoice1>
-    <fulltext1>{blank_space} tem tudo a ver com a prova de que você é, na verdade, você. </fulltext1>
-    <choice1>Autenticação</choice1>
-    <choice2>Autenticação multifator</choice2>
+    <fulltext1>{blank_space} tem tudo a ver com a prova de que voc&ecirc; &eacute;, na verdade, voc&ecirc;. </fulltext1>
+    <choice1>Autentica&ccedil;&atilde;o</choice1>
+    <choice2>Autentica&ccedil;&atilde;o multifator</choice2>
     <choice3>Tem</choice3>
     <choice4>Senha</choice4>
-    <answer>Autenticação</answer>
+    <answer>Autentica&ccedil;&atilde;o</answer>
   </wordchoice1>
   <wordchoice2>
-    <fulltext2>O que importa é o que você sabe (como seu nome de usuário e {blank_space} ),</fulltext2>
-    <choice1>autenticação</choice1>
-    <choice2>autenticação multifator</choice2>
+    <fulltext2>O que importa &eacute; o que voc&ecirc; sabe (como seu nome de usu&aacute;rio e {blank_space} ),</fulltext2>
+    <choice1>autentica&ccedil;&atilde;o</choice1>
+    <choice2>autentica&ccedil;&atilde;o multifator</choice2>
     <choice3>tem</choice3>
     <choice4>senha</choice4>
     <answer>senha</answer>
   </wordchoice2>
   <wordchoice3>
-    <fulltext3>o que você {blank_space} (como um cartão inteligente ou token) e quem você é (como suas impressões digitais ou reconhecimento facial). </fulltext3>
-    <choice1>autenticação</choice1>
-    <choice2>autenticação multifator</choice2>
+    <fulltext3>o que voc&ecirc; {blank_space} (como um cart&atilde;o inteligente ou token) e quem voc&ecirc; &eacute; (como suas impress&otilde;es digitais ou reconhecimento facial). </fulltext3>
+    <choice1>autentica&ccedil;&atilde;o</choice1>
+    <choice2>autentica&ccedil;&atilde;o multifator</choice2>
     <choice3>tem</choice3>
     <choice4>senha</choice4>
     <answer>tem</answer>
   </wordchoice3>
   <wordchoice4>
-    <fulltext3>Para se manter seguro, use pelo menos dois desses métodos para proteger uma conta (ou seja, {blank_space}).</fulltext3>
-    <choice1>autenticação</choice1>
-    <choice2>autenticação multifator</choice2>
+    <fulltext3>Para se manter seguro, use pelo menos dois desses m&eacute;todos para proteger uma conta (ou seja, {blank_space}).</fulltext3>
+    <choice1>autentica&ccedil;&atilde;o</choice1>
+    <choice2>autentica&ccedil;&atilde;o multifator</choice2>
     <choice3>tem</choice3>
     <choice4>senha</choice4>
-    <answer>autenticação multifator</answer>
+    <answer>autentica&ccedil;&atilde;o multifator</answer>
   </wordchoice4>
 </wordchoice>

@@ -310,7 +310,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="20634-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="20634-612-1-1">ホテルの Wi-Fi ネットワークを使用する際には、VPN に接続する。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="20634-612-1-1">ホテルの Wi-Fi ネットワークを使用する際には、VPN に接続する。 </g>
 											</source>
 										</trans-unit>
 									</group>
