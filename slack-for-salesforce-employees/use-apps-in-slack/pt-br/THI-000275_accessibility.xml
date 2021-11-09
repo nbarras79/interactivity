@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accessibility>
+  <leftarrow>Flashcard anterior</leftarrow>
+  <rightarrow>Próximo flashcard</rightarrow>
+  <flashcard1>
+    <image>Foto de Sven Linder</image>
+    <frontflashcardbackground>Frente do flashcard fundo branco</frontflashcardbackground>
+    <frontflashcardbutton>Vire o verso do flashcard</frontflashcardbutton>
+  </flashcard1>
+</accessibility>
