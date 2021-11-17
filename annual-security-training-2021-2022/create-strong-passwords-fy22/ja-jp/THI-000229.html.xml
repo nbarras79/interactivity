@@ -24,7 +24,7 @@
     <fulltext3>自分が {blank_space} (スマートカードやトークンなど)、そして自分の身元を証明するもの (指紋や顔認識など)。 </fulltext3>
     <choice1>認証</choice1>
     <choice2>多要素認証</choice2>
-    <choice3>持っている</choice3>
+    <choice3>持っているもの</choice3>
     <choice4>パスワード</choice4>
     <answer>持っているもの</answer>
   </wordchoice3>

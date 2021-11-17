@@ -5,7 +5,7 @@
   <incorrecttext>Das ist falsch. Bitte versuchen Sie es erneut.</incorrecttext>
   <correcttext>Gut gemacht!</correcttext>
   <wordchoice1>
-    <fulltext1>Bei {blank_space} geht es schlicht um den Beweis, dass Sie tats&auml;chlich Sie sind. </fulltext1>
+    <fulltext1>Bei {blank_space} geht es schlicht um den Beweis, dass Sie tatsächlich Sie sind. </fulltext1>
     <choice1>Authentifizierung</choice1>
     <choice2>Multi-Faktor-Authentifizierung</choice2>
     <choice3>haben</choice3>
@@ -13,7 +13,7 @@
     <answer>Authentifizierung</answer>
   </wordchoice1>
   <wordchoice2>
-    <fulltext2>Es geht darum, was Sie wissen (z.&nbsp;B. Benutzername und {blank_space}),</fulltext2>
+    <fulltext2>Es geht darum, was Sie wissen (z. B. Benutzername und {blank_space}),</fulltext2>
     <choice1>Authentifizierung</choice1>
     <choice2>Multi-Faktor-Authentifizierung</choice2>
     <choice3>haben</choice3>
@@ -21,7 +21,7 @@
     <answer>Kennwort</answer>
   </wordchoice2>
   <wordchoice3>
-    <fulltext3>was Sie {blank_space} (wie Smart Card oder Token), und wer Sie sind (z&nbsp; B. Ihre Fingerabdr&uuml;cke oder Gesichtserkennung). </fulltext3>
+    <fulltext3>was Sie {blank_space} (wie Smart Card oder Token), und wer Sie sind (z  B. Ihre Fingerabdrücke oder Gesichtserkennung). </fulltext3>
     <choice1>Authentifizierung</choice1>
     <choice2>Multi-Faktor-Authentifizierung</choice2>
     <choice3>haben</choice3>
@@ -29,7 +29,7 @@
     <answer>haben</answer>
   </wordchoice3>
   <wordchoice4>
-    <fulltext3>Um Sicherheit zu gew&auml;hrleisten, nutzen Sie mindestens zwei dieser Methoden, um einen Account abzusichern (also {blank_space}).</fulltext3>
+    <fulltext3>Um Sicherheit zu gewährleisten, nutzen Sie mindestens zwei dieser Methoden, um einen Account abzusichern (also {blank_space}).</fulltext3>
     <choice1>Authentifizierung</choice1>
     <choice2>Multi-Faktor-Authentifizierung</choice2>
     <choice3>haben</choice3>
