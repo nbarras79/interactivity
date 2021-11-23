@@ -2,38 +2,38 @@
 <wordchoice>
   <submitbutton>Enviar</submitbutton>
   <restartbutton>Reiniciar</restartbutton>
-  <incorrecttext>No es la respuesta correcta, int&eacute;ntelo de nuevo.</incorrecttext>
+  <incorrecttext>No es la respuesta correcta, inténtelo de nuevo.</incorrecttext>
   <correcttext>¡Excelente trabajo!</correcttext>
   <wordchoice1>
     <fulltext1>{blank_space} trata fundamentalmente de probar que usted es, de hecho, usted. </fulltext1>
-    <choice1>La autenticaci&oacute;n</choice1>
-    <choice2>La autenticaci&oacute;n de m&uacute;ltiples factores</choice2>
+    <choice1>La autenticación</choice1>
+    <choice2>La autenticación de múltiples factores</choice2>
     <choice3>Tiene</choice3>
-    <choice4>Contrase&ntilde;a</choice4>
-    <answer>La autenticaci&oacute;n</answer>
+    <choice4>Contraseña</choice4>
+    <answer>La autenticación</answer>
   </wordchoice1>
   <wordchoice2>
     <fulltext2>Se trata de lo que sabe (como su nombre de usuario y {blank_space}),</fulltext2>
-    <choice1>la autenticaci&oacute;n</choice1>
-    <choice2>la autenticaci&oacute;n de m&uacute;ltiples factores</choice2>
+    <choice1>la autenticación</choice1>
+    <choice2>la autenticación de múltiples factores</choice2>
     <choice3>tiene</choice3>
-    <choice4>contrase&ntilde;a</choice4>
-    <answer>contrase&ntilde;a</answer>
+    <choice4>contraseña</choice4>
+    <answer>contraseña</answer>
   </wordchoice2>
   <wordchoice3>
     <fulltext3>lo que {blank_space} (como una tarjeta inteligente o un token) y su identidad (como sus huellas digitales o el reconocimiento facial). </fulltext3>
-    <choice1>la autenticaci&oacute;n</choice1>
-    <choice2>la autenticaci&oacute;n de m&uacute;ltiples factores</choice2>
+    <choice1>la autenticación</choice1>
+    <choice2>la autenticación de múltiples factores</choice2>
     <choice3>tiene</choice3>
-    <choice4>contrase&ntilde;a</choice4>
+    <choice4>contraseña</choice4>
     <answer>tiene</answer>
   </wordchoice3>
   <wordchoice4>
-    <fulltext3>Para permanecer seguro, utilice al menos dos de estos m&eacute;todos para proteger una cuenta (es decir, {blank_space}).</fulltext3>
-    <choice1>la autenticaci&oacute;n</choice1>
-    <choice2>la autenticaci&oacute;n de m&uacute;ltiples factores</choice2>
+    <fulltext3>Para permanecer seguro, utilice al menos dos de estos métodos para proteger una cuenta (es decir, {blank_space}).</fulltext3>
+    <choice1>la autenticación</choice1>
+    <choice2>la autenticación de múltiples factores</choice2>
     <choice3>tiene</choice3>
-    <choice4>contrase&ntilde;a</choice4>
-    <answer>la autenticaci&oacute;n de m&uacute;ltiples factores</answer>
+    <choice4>contraseña</choice4>
+    <answer>la autenticación de múltiples factores</answer>
   </wordchoice4>
 </wordchoice>

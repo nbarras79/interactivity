@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accessibility>
+  <leftarrow>Tarjeta nemotécnica anterior</leftarrow>
+  <rightarrow>Tarjeta nemotécnica siguiente</rightarrow>
+  <flashcard1>
+    <image>Foto de Orlando Morriesette</image>
+    <frontflashcardbackground>Portada de tarjeta nemotécnica con fondo blanco</frontflashcardbackground>
+    <frontflashcardbutton>Ver dorso de tarjeta nemotécnica</frontflashcardbutton>
+  </flashcard1>
+</accessibility>
