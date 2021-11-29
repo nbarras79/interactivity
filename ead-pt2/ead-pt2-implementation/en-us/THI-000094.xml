@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2021-01-12T18:35:33.0Z" original="THI-000094.cptx" source-language="enUS">
+		<file datatype="cptx" date="2021-11-03T11:53:42.0Z" original="THI-000094.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
-					<count count-type="total" unit="trans-unit">154</count>
-					<count count-type="total" unit="word">497</count>
+					<count count-type="total" unit="trans-unit">155</count>
+					<count count-type="total" unit="word">498</count>
 					<count count-type="total" unit="x-cp-slides">4</count>
 				</count-group>
 			</header>
@@ -149,19 +149,30 @@ Template date: 11_05_2020</source>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="173287" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
-										<trans-unit id="173287-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173287-612-1-1">Analytics REST API and Dashboard JSON</g>
-											</source>
-										</trans-unit>
+									<group cp:datatype="x-bullet-list-numbering-specialchar" ctype="x-cp-bullet">
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
+											<trans-unit id="173287-612-1">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173287-612-1-1">Tableau CRM REST API </g>
+												</source>
+											</trans-unit>
+										</group>
+									</group>
+									<group cp:datatype="x-bullet-list-numbering-specialchar" ctype="x-cp-bullet">
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
+											<trans-unit id="173287-612-2">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173287-612-2-1">Dashboard JSON</g>
+												</source>
+											</trans-unit>
+										</group>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="173252" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173252-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173252-612-1-1">Developers can write SAQL to directly access Analytics data by what two approaches?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173252-612-1-1">Developers can write SAQL to directly access Tableau CRM data by what two approaches?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -203,7 +214,7 @@ Template date: 11_05_2020</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173322-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173322-612-1-1">Why would you configure cross-dataset faceting with connected data sources?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173322-612-1-1">How would you configure cross-dataset faceting with connected data sources?</g>
 											</source>
 										</trans-unit>
 									</group>

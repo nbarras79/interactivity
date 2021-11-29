@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accessibility>
-  <leftarrow>Fiche pr&eacute;c&eacute;dente</leftarrow>
+  <leftarrow>Fiche précédente</leftarrow>
   <rightarrow>Fiche suivante</rightarrow>
   <flashcard1>
-    <image>Photo de Mala&nbsp;Ravi</image>
+    <image>Photo de Mala Ravi</image>
     <frontflashcardbackground>Recto de la fiche au fond blanc</frontflashcardbackground>
     <frontflashcardbutton>Passer au verso de la fiche</frontflashcardbutton>
   </flashcard1>

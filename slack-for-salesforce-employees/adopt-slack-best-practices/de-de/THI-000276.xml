@@ -26,7 +26,7 @@
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="591" restype="x-cp-project-password-message">
 						<trans-unit id="1-591">
-							<source>Geben Sie das richtige Kennwort direkt in das nachstehende Textfeld ein und klicken Sie auf die nachstehende Schaltfl&auml;che.</source>
+							<source>Geben Sie das richtige Kennwort direkt in das nachstehende Textfeld ein und klicken Sie auf die nachstehende Schaltfläche.</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="592" restype="x-cp-project-password-retry-message">
@@ -84,7 +84,7 @@ Datum der Vorlage: 01.12.2021</source>
 						<slide cp:datatype="x-object" extype="30" id="5568" resname="Slide 0" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="5568-337">
-									<source>Lernkarte&nbsp;1</source>
+									<source>Lernkarte 1</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -102,7 +102,7 @@ Datum der Vorlage: 01.12.2021</source>
 												<g css-style="font-family:'Courier New';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-1-2">@hier</g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-1-3"> statt </g>
 												<g css-style="font-family:'Courier New';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-1-4">@channel</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-1-5"> zur Vermeidung des Sendens von Benachrichtigungen an die globale Belegschaft au&szlig;erhalb der Arbeitszeit. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-1-5"> zur Vermeidung des Sendens von Benachrichtigungen an die globale Belegschaft außerhalb der Arbeitszeit. </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -121,7 +121,7 @@ Datum der Vorlage: 01.12.2021</source>
 												<g css-style="font-family:'Courier New';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-3-2">@hier</g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-3-3"> statt </g>
 												<g css-style="font-family:'Courier New';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-3-4">@channel</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-3-5"> , um die Aufmerksamkeit aller zu erhalten und gleichzeitig auf dezentrale Teammitglieder R&uuml;cksicht zu nehmen. Achten Sie darauf, dass Sie nicht blinden Alarm schlagen und alle nur dann benachrichtigen, wenn es wichtig, von Belang und zeitkritisch ist.&quot;</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-3-5"> , um die Aufmerksamkeit aller zu erhalten und gleichzeitig auf dezentrale Teammitglieder Rücksicht zu nehmen. Achten Sie darauf, dass Sie nicht blinden Alarm schlagen und alle nur dann benachrichtigen, wenn es wichtig, von Belang und zeitkritisch ist.&quot;</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -246,82 +246,82 @@ Datum der Vorlage: 01.12.2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3767" restype="Review Area Placeholder">
 									<trans-unit id="3767-190">
-										<source>&Uuml;berpr&uuml;fungsbereich</source>
+										<source>Überprüfungsbereich</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3785" restype="Success Shape Placeholder">
 									<trans-unit id="3785-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Erfolg&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3803" restype="TimeOut Shape Placeholder">
 									<trans-unit id="3803-190">
-										<source>Platzhalter f&uuml;r das Feedback &quot;Timeout&quot;</source>
+										<source>Platzhalter für das Feedback &quot;Timeout&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3821" restype="Partial Correct Shape Placeholder">
 									<trans-unit id="3821-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Teilweise richtig&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Teilweise richtig&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3839" restype="Retry Shape Placeholder">
 									<trans-unit id="3839-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Wiederholen&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Wiederholen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3857" restype="Incomplete Shape Placeholder">
 									<trans-unit id="3857-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Unvollst&auml;ndig&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Unvollständig&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3875" restype="Failure Shape Placeholder">
 									<trans-unit id="3875-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Kein Erfolg&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Kein Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3688" restype="Title Placeholder">
 									<trans-unit id="3688-190">
-										<source>Platzhalter f&uuml;r Fragetitel</source>
+										<source>Platzhalter für Fragetitel</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3713" restype="Question Placeholder">
 									<trans-unit id="3713-190">
-										<source>Platzhalter f&uuml;r den Text der Frage</source>
+										<source>Platzhalter für den Text der Frage</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3745" restype="Answer Area Placeholder">
 									<trans-unit id="3745-190">
-										<source>Platzhalter f&uuml;r den Bereich &quot;Antwort&quot;</source>
+										<source>Platzhalter für den Bereich &quot;Antwort&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3907" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="3907-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Zur&uuml;ck&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3926" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="3926-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;&Uuml;berspringen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3945" restype="Clear Button Placeholder">
 									<trans-unit id="3945-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;L&ouml;schen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Löschen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3964" restype="Back Button Placeholder">
 									<trans-unit id="3964-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Zur&uuml;ck&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3983" restype="Skip Button Placeholder">
 									<trans-unit id="3983-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;&Uuml;berspringen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4002" restype="Submit Button Placeholder">
 									<trans-unit id="4002-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Senden&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Senden&quot;</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -346,82 +346,82 @@ Datum der Vorlage: 01.12.2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4098" restype="Title Placeholder">
 									<trans-unit id="4098-190">
-										<source>Platzhalter f&uuml;r Fragetitel</source>
+										<source>Platzhalter für Fragetitel</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4123" restype="Question Placeholder">
 									<trans-unit id="4123-190">
-										<source>Platzhalter f&uuml;r den Text der Frage</source>
+										<source>Platzhalter für den Text der Frage</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4145" restype="Column 1 Placeholder">
 									<trans-unit id="4145-190">
-										<source>Platzhalter f&uuml;r den Bereich &quot;Frage&quot;</source>
+										<source>Platzhalter für den Bereich &quot;Frage&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4154" restype="Column 2 Placeholder">
 									<trans-unit id="4154-190">
-										<source>Platzhalter f&uuml;r den Bereich &quot;Frage&quot;</source>
+										<source>Platzhalter für den Bereich &quot;Frage&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4186" restype="Question Area Placeholder">
 									<trans-unit id="4186-190">
-										<source>Platzhalter f&uuml;r den Bereich &quot;Frage&quot;</source>
+										<source>Platzhalter für den Bereich &quot;Frage&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4205" restype="Answer Area Placeholder">
 									<trans-unit id="4205-190">
-										<source>Platzhalter f&uuml;r den Bereich &quot;Antwort&quot;</source>
+										<source>Platzhalter für den Bereich &quot;Antwort&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4227" restype="Review Area Placeholder">
 									<trans-unit id="4227-190">
-										<source>&Uuml;berpr&uuml;fungsbereich</source>
+										<source>Überprüfungsbereich</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4245" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4245-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Unvollst&auml;ndig&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Unvollständig&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4263" restype="Failure Shape Placeholder">
 									<trans-unit id="4263-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Kein Erfolg&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Kein Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4281" restype="Success Shape Placeholder">
 									<trans-unit id="4281-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Erfolg&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4313" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4313-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Zur&uuml;ck&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4332" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4332-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;&Uuml;berspringen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4351" restype="Clear Button Placeholder">
 									<trans-unit id="4351-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;L&ouml;schen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Löschen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4370" restype="Back Button Placeholder">
 									<trans-unit id="4370-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Zur&uuml;ck&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4389" restype="Skip Button Placeholder">
 									<trans-unit id="4389-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;&Uuml;berspringen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4408" restype="Submit Button Placeholder">
 									<trans-unit id="4408-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Senden&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Senden&quot;</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -446,62 +446,62 @@ Datum der Vorlage: 01.12.2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4504" restype="Title Placeholder">
 									<trans-unit id="4504-190">
-										<source>Platzhalter f&uuml;r Fragetitel</source>
+										<source>Platzhalter für Fragetitel</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4529" restype="Question Placeholder">
 									<trans-unit id="4529-190">
-										<source>Platzhalter f&uuml;r den Text der Frage</source>
+										<source>Platzhalter für den Text der Frage</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4551" restype="Review Area Placeholder">
 									<trans-unit id="4551-190">
-										<source>&Uuml;berpr&uuml;fungsbereich</source>
+										<source>Überprüfungsbereich</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4569" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4569-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Unvollst&auml;ndig&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Unvollständig&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4587" restype="Failure Shape Placeholder">
 									<trans-unit id="4587-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Kein Erfolg&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Kein Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4605" restype="Success Shape Placeholder">
 									<trans-unit id="4605-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Erfolg&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4637" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4637-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Zur&uuml;ck&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4656" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4656-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;&Uuml;berspringen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4675" restype="Clear Button Placeholder">
 									<trans-unit id="4675-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;L&ouml;schen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Löschen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4694" restype="Back Button Placeholder">
 									<trans-unit id="4694-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Zur&uuml;ck&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4713" restype="Skip Button Placeholder">
 									<trans-unit id="4713-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;&Uuml;berspringen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4732" restype="Submit Button Placeholder">
 									<trans-unit id="4732-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Senden&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Senden&quot;</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -521,27 +521,27 @@ Datum der Vorlage: 01.12.2021</source>
 							<group cp:datatype="x-object" extype="69" id="5067" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4828" restype="Title Placeholder">
 									<trans-unit id="4828-190">
-										<source>Platzhalter f&uuml;r Fragetitel</source>
+										<source>Platzhalter für Fragetitel</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4840" restype="Question Placeholder">
 									<trans-unit id="4840-190">
-										<source>Platzhalter f&uuml;r den Text der Frage</source>
+										<source>Platzhalter für den Text der Frage</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4916" restype="Likert Question Area Placeholder">
 									<trans-unit id="4916-190">
-										<source>Platzhalter f&uuml;r Adobe Captivate 5</source>
+										<source>Platzhalter für Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4934" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4934-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Unvollst&auml;ndig&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Unvollständig&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4943" restype="Review Area Placeholder">
 									<trans-unit id="4943-190">
-										<source>&Uuml;berpr&uuml;fungsbereich</source>
+										<source>Überprüfungsbereich</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4952" restype="Progress Indicator Placeholder">
@@ -551,32 +551,32 @@ Datum der Vorlage: 01.12.2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4971" restype="Submit Button Placeholder">
 									<trans-unit id="4971-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Senden&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Senden&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4990" restype="Skip Button Placeholder">
 									<trans-unit id="4990-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;&Uuml;berspringen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5009" restype="Back Button Placeholder">
 									<trans-unit id="5009-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Zur&uuml;ck&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5028" restype="Clear Button Placeholder">
 									<trans-unit id="5028-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;L&ouml;schen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Löschen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5047" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="5047-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;&Uuml;berspringen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5066" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="5066-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Zur&uuml;ck&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -596,12 +596,12 @@ Datum der Vorlage: 01.12.2021</source>
 							<group cp:datatype="x-object" extype="69" id="5438" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="5114" restype="Result Title Placeholder">
 									<trans-unit id="5114-190">
-										<source>Platzhalter f&uuml;r Fragetitel</source>
+										<source>Platzhalter für Fragetitel</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5136" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5136-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Bewertungsergebnis&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5145" restype="Scoring Result Placeholder">
@@ -611,7 +611,7 @@ Datum der Vorlage: 01.12.2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5167" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5167-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Bewertungsergebnis&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5176" restype="Scoring Result Placeholder">
@@ -621,7 +621,7 @@ Datum der Vorlage: 01.12.2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5198" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5198-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Bewertungsergebnis&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5207" restype="Scoring Result Placeholder">
@@ -631,7 +631,7 @@ Datum der Vorlage: 01.12.2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5229" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5229-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Bewertungsergebnis&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5238" restype="Scoring Result Placeholder">
@@ -641,7 +641,7 @@ Datum der Vorlage: 01.12.2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5260" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5260-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Bewertungsergebnis&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5269" restype="Scoring Result Placeholder">
@@ -651,7 +651,7 @@ Datum der Vorlage: 01.12.2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5291" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5291-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Bewertungsergebnis&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5300" restype="Scoring Result Placeholder">
@@ -661,27 +661,27 @@ Datum der Vorlage: 01.12.2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5332" restype="Review Button Placeholder">
 									<trans-unit id="5332-190">
-										<source>Platzhalter f&uuml;r Adobe Captivate 5</source>
+										<source>Platzhalter für Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5351" restype="Continue Button Placeholder">
 									<trans-unit id="5351-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;L&ouml;schen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Löschen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5370" restype="Post Result Button Placeholder">
 									<trans-unit id="5370-190">
-										<source>Platzhalter f&uuml;r Adobe Captivate 5</source>
+										<source>Platzhalter für Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5389" restype="Retake Button Placeholder">
 									<trans-unit id="5389-190">
-										<source>Platzhalter f&uuml;r Adobe Captivate 5</source>
+										<source>Platzhalter für Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5411" restype="Review Area Placeholder">
 									<trans-unit id="5411-190">
-										<source>&Uuml;berpr&uuml;fungsbereich</source>
+										<source>Überprüfungsbereich</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -700,22 +700,22 @@ Datum der Vorlage: 01.12.2021</source>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10113" restype="x-cp-quiz-clear-button-name">
 							<trans-unit id="382-10113">
-								<source>L&ouml;schen</source>
+								<source>Löschen</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10007" restype="x-cp-quiz-skip-button-name">
 							<trans-unit id="382-10007">
-								<source>&Uuml;berspringen</source>
+								<source>Überspringen</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10008" restype="x-cp-quiz-back-button-name">
 							<trans-unit id="382-10008">
-								<source>Zur&uuml;ck</source>
+								<source>Zurück</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10237" restype="x-cp-quiz-review-button-name">
 							<trans-unit id="382-10237">
-								<source>Quiz zur &Uuml;berpr&uuml;fung</source>
+								<source>Quiz zur Überprüfung</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10269" restype="x-cp-quiz-continue-button-name">
@@ -736,17 +736,17 @@ Datum der Vorlage: 01.12.2021</source>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10105" restype="x-cp-quiz-correct-feedback-text">
 							<trans-unit id="382-10105">
-								<source>Richtig. Klicken Sie auf eine beliebige Stelle oder dr&uuml;cken Sie &quot;j&quot;, um fortzufahren.</source>
+								<source>Richtig. Klicken Sie auf eine beliebige Stelle oder drücken Sie &quot;j&quot;, um fortzufahren.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10291" restype="x-cp-quiz-partial-correct-feedback-text">
 							<trans-unit id="382-10291">
-								<source>Teilweise richtig. Klicken Sie auf eine beliebige Stelle oder dr&uuml;cken Sie &quot;j&quot;, um fortzufahren.</source>
+								<source>Teilweise richtig. Klicken Sie auf eine beliebige Stelle oder drücken Sie &quot;j&quot;, um fortzufahren.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10106" restype="x-cp-quiz-incorrect-feedback-text">
 							<trans-unit id="382-10106">
-								<source>Falsch. Klicken Sie auf eine beliebige Stelle oder dr&uuml;cken Sie &quot;j&quot;, um fortzufahren.</source>
+								<source>Falsch. Klicken Sie auf eine beliebige Stelle oder drücken Sie &quot;j&quot;, um fortzufahren.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10107" restype="x-cp-quiz-retry-feedback-text">
@@ -756,27 +756,27 @@ Datum der Vorlage: 01.12.2021</source>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10184" restype="x-cp-quiz-incomplete-feedback-text">
 							<trans-unit id="382-10184">
-								<source>Um fortfahren zu k&ouml;nnen, m&uuml;ssen Sie die Frage beantworten.</source>
+								<source>Um fortfahren zu können, müssen Sie die Frage beantworten.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10188" restype="x-cp-quiz-timeout-feedback-text">
 							<trans-unit id="382-10188">
-								<source>Die Zeit zur Beantwortung dieser Frage ist abgelaufen. Klicken Sie auf eine beliebige Stelle oder dr&uuml;cken Sie &quot;j&quot;, um fortzufahren.</source>
+								<source>Die Zeit zur Beantwortung dieser Frage ist abgelaufen. Klicken Sie auf eine beliebige Stelle oder drücken Sie &quot;j&quot;, um fortzufahren.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">
 							<trans-unit id="382-10358">
-								<source>Sie haben alle Fragen beantwortet. Was m&ouml;chten Sie als N&auml;chstes tun?</source>
+								<source>Sie haben alle Fragen beantwortet. Was möchten Sie als Nächstes tun?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10359" restype="x-cp-quiz-submit-all-incomplete-text">
 							<trans-unit id="382-10359">
-								<source>Eine oder mehrere Fragen sind unvollst&auml;ndig. Beantworten Sie alle Fragen, um fortzufahren.</source>
+								<source>Eine oder mehrere Fragen sind unvollständig. Beantworten Sie alle Fragen, um fortzufahren.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10360" restype="x-cp-quiz-submit-all-submit-incomplete-text">
 							<trans-unit id="382-10360">
-								<source>Sie haben noch nicht alle Fragen beantwortet. M&ouml;chten Sie wirklich fortfahren, ohne diese Fragen zu beantworten?</source>
+								<source>Sie haben noch nicht alle Fragen beantwortet. Möchten Sie wirklich fortfahren, ohne diese Fragen zu beantworten?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-object" extype="10042" id="383" restype="x-cp-quizzes">
@@ -809,7 +809,7 @@ Datum der Vorlage: 01.12.2021</source>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
 									<trans-unit id="384-10172">
-										<source>Sie haben diese Frage nicht vollst&auml;ndig beantwortet.</source>
+										<source>Sie haben diese Frage nicht vollständig beantwortet.</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
@@ -824,7 +824,7 @@ Datum der Vorlage: 01.12.2021</source>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10165" restype="x-cp-quiz-result-pass-message">
 									<trans-unit id="384-10165">
-										<source>Gl&uuml;ckwunsch! Sie haben das Quiz bestanden.</source>
+										<source>Glückwunsch! Sie haben das Quiz bestanden.</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10166" restype="x-cp-quiz-result-fail-message">

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accessibility>
-  <leftarrow>Fiche pr&eacute;c&eacute;dente</leftarrow>
+  <leftarrow>Fiche précédente</leftarrow>
   <rightarrow>Fiche suivante</rightarrow>
   <flashcard1>
-    <image>Photo de Chris&nbsp;Kelly</image>
+    <image>Photo de Chris Kelly</image>
     <frontflashcardbackground>Recto de la fiche au fond blanc</frontflashcardbackground>
     <frontflashcardbutton>Passer au verso de la fiche</frontflashcardbutton>
   </flashcard1>
   <flashcard2>
-    <image>Photo de Dylan&nbsp;Ho</image>
+    <image>Photo de Dylan Ho</image>
     <frontflashcardbackground>Recto de la fiche au fond blanc</frontflashcardbackground>
     <frontflashcardbutton>Passer au verso de la fiche</frontflashcardbutton>
   </flashcard2>
   <flashcard3>
-    <image>Photo de Jamie&nbsp;Bland</image>
+    <image>Photo de Jamie Bland</image>
     <frontflashcardbackground>Recto de la fiche au fond blanc</frontflashcardbackground>
     <frontflashcardbutton>Passer au verso de la fiche</frontflashcardbutton>
   </flashcard3>

@@ -26,12 +26,12 @@
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="591" restype="x-cp-project-password-message">
 						<trans-unit id="1-591">
-							<source>Escriba la contrase&ntilde;a correcta directamente en el cuadro de texto que se muestra debajo y haga clic en el bot&oacute;n que est&aacute; a continuaci&oacute;n.</source>
+							<source>Escriba la contraseña correcta directamente en el cuadro de texto que se muestra debajo y haga clic en el botón que está a continuación.</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="592" restype="x-cp-project-password-retry-message">
 						<trans-unit id="1-592">
-							<source>La contrase&ntilde;a introducida es incorrecta. Vuelva a intentarlo.</source>
+							<source>La contraseña introducida es incorrecta. Vuelva a intentarlo.</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="593" restype="x-cp-project-password-button-text">
@@ -42,7 +42,7 @@
 					<group cp:datatype="x-object" extype="417" id="305" restype="x-cp-project-information">
 						<group cp:datatype="x-property" datatype="plaintext" extype="428" restype="x-cp-project-info-name">
 							<trans-unit id="305-428">
-								<source>Tarjetas nemot&eacute;cnicas</source>
+								<source>Tarjetas nemotécnicas</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="429" restype="x-cp-project-info-author">
@@ -83,7 +83,7 @@
 						<slide cp:datatype="x-object" extype="30" id="5568" resname="Slide 0" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="5568-337">
-									<source>Tarjeta nemot&eacute;cnica 1</source>
+									<source>Tarjeta nemotécnica 1</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -98,10 +98,10 @@
 										<trans-unit id="173217-612-1">
 											<source>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-1-1">Sugerencia: Utilice </g>
-												<g css-style="font-family:'Courier New';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-1-2">@aqu&iacute;</g>
+												<g css-style="font-family:'Courier New';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-1-2">@aquí</g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-1-3"> en lugar de </g>
 												<g css-style="font-family:'Courier New';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-1-4">@canal</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-1-5"> para evitar el env&iacute;o de notificaciones a empleados de todo el mundo en su tiempo libre. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-1-5"> para evitar el envío de notificaciones a empleados de todo el mundo en su tiempo libre. </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -116,11 +116,11 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173217-612-3">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-3-1">&ldquo;Utilice </g>
-												<g css-style="font-family:'Courier New';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-3-2">@aqu&iacute;</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-3-1">“Utilice </g>
+												<g css-style="font-family:'Courier New';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-3-2">@aquí</g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-3-3"> en lugar de </g>
 												<g css-style="font-family:'Courier New';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-3-4">@canal</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-3-5"> para captar la atenci&oacute;n de todos sin olvidar a los miembros de equipo distribuidos. Aseg&uacute;rese de no emitir falsas alarmas y de solo alertar a todos cuando sea importante, relevante y en el horario apropiado&rdquo;.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-3-5"> para captar la atención de todos sin olvidar a los miembros de equipo distribuidos. Asegúrese de no emitir falsas alarmas y de solo alertar a todos cuando sea importante, relevante y en el horario apropiado”.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -228,7 +228,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="4086" resname="Slide 2" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4086-337">
-									<source>Opci&oacute;n m&uacute;ltiple, V/F, Completar espacios en blanco, Secuencia</source>
+									<source>Opción múltiple, V/F, Completar espacios en blanco, Secuencia</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -245,82 +245,82 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3767" restype="Review Area Placeholder">
 									<trans-unit id="3767-190">
-										<source>&Aacute;rea de revisi&oacute;n</source>
+										<source>Área de revisión</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3785" restype="Success Shape Placeholder">
 									<trans-unit id="3785-190">
-										<source>Marcador de posici&oacute;n de descripci&oacute;n de respuesta correcta</source>
+										<source>Marcador de posición de descripción de respuesta correcta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3803" restype="TimeOut Shape Placeholder">
 									<trans-unit id="3803-190">
-										<source>Marcador de posici&oacute;n de comentario de tiempo de espera agotado</source>
+										<source>Marcador de posición de comentario de tiempo de espera agotado</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3821" restype="Partial Correct Shape Placeholder">
 									<trans-unit id="3821-190">
-										<source>Marcador de posici&oacute;n de descripci&oacute;n de respuesta parcialmente correcta</source>
+										<source>Marcador de posición de descripción de respuesta parcialmente correcta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3839" restype="Retry Shape Placeholder">
 									<trans-unit id="3839-190">
-										<source>Marcador de posici&oacute;n de descripci&oacute;n de reintento</source>
+										<source>Marcador de posición de descripción de reintento</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3857" restype="Incomplete Shape Placeholder">
 									<trans-unit id="3857-190">
-										<source>Marcador de posici&oacute;n de descripci&oacute;n de respuesta incompleta</source>
+										<source>Marcador de posición de descripción de respuesta incompleta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3875" restype="Failure Shape Placeholder">
 									<trans-unit id="3875-190">
-										<source>Marcador de posici&oacute;n de descripci&oacute;n de respuesta incorrecta</source>
+										<source>Marcador de posición de descripción de respuesta incorrecta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3688" restype="Title Placeholder">
 									<trans-unit id="3688-190">
-										<source>Marcador de posici&oacute;n de t&iacute;tulo de pregunta</source>
+										<source>Marcador de posición de título de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3713" restype="Question Placeholder">
 									<trans-unit id="3713-190">
-										<source>Marcador de posici&oacute;n de texto de pregunta</source>
+										<source>Marcador de posición de texto de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3745" restype="Answer Area Placeholder">
 									<trans-unit id="3745-190">
-										<source>Marcador de posici&oacute;n de &aacute;rea de respuesta</source>
+										<source>Marcador de posición de área de respuesta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3907" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="3907-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Atr&aacute;s</source>
+										<source>Marcador de posición de botón Atrás</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3926" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="3926-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Omitir</source>
+										<source>Marcador de posición de botón Omitir</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3945" restype="Clear Button Placeholder">
 									<trans-unit id="3945-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Borrar</source>
+										<source>Marcador de posición de botón Borrar</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3964" restype="Back Button Placeholder">
 									<trans-unit id="3964-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Atr&aacute;s</source>
+										<source>Marcador de posición de botón Atrás</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3983" restype="Skip Button Placeholder">
 									<trans-unit id="3983-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Omitir</source>
+										<source>Marcador de posición de botón Omitir</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4002" restype="Submit Button Placeholder">
 									<trans-unit id="4002-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Enviar</source>
+										<source>Marcador de posición de botón Enviar</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -345,82 +345,82 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4098" restype="Title Placeholder">
 									<trans-unit id="4098-190">
-										<source>Marcador de posici&oacute;n de t&iacute;tulo de pregunta</source>
+										<source>Marcador de posición de título de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4123" restype="Question Placeholder">
 									<trans-unit id="4123-190">
-										<source>Marcador de posici&oacute;n de texto de pregunta</source>
+										<source>Marcador de posición de texto de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4145" restype="Column 1 Placeholder">
 									<trans-unit id="4145-190">
-										<source>Marcador de posici&oacute;n de &aacute;rea de pregunta</source>
+										<source>Marcador de posición de área de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4154" restype="Column 2 Placeholder">
 									<trans-unit id="4154-190">
-										<source>Marcador de posici&oacute;n de &aacute;rea de pregunta</source>
+										<source>Marcador de posición de área de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4186" restype="Question Area Placeholder">
 									<trans-unit id="4186-190">
-										<source>Marcador de posici&oacute;n de &aacute;rea de pregunta</source>
+										<source>Marcador de posición de área de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4205" restype="Answer Area Placeholder">
 									<trans-unit id="4205-190">
-										<source>Marcador de posici&oacute;n de &aacute;rea de respuesta</source>
+										<source>Marcador de posición de área de respuesta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4227" restype="Review Area Placeholder">
 									<trans-unit id="4227-190">
-										<source>&Aacute;rea de revisi&oacute;n</source>
+										<source>Área de revisión</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4245" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4245-190">
-										<source>Marcador de posici&oacute;n de descripci&oacute;n de respuesta incompleta</source>
+										<source>Marcador de posición de descripción de respuesta incompleta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4263" restype="Failure Shape Placeholder">
 									<trans-unit id="4263-190">
-										<source>Marcador de posici&oacute;n de descripci&oacute;n de respuesta incorrecta</source>
+										<source>Marcador de posición de descripción de respuesta incorrecta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4281" restype="Success Shape Placeholder">
 									<trans-unit id="4281-190">
-										<source>Marcador de posici&oacute;n de descripci&oacute;n de respuesta correcta</source>
+										<source>Marcador de posición de descripción de respuesta correcta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4313" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4313-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Atr&aacute;s</source>
+										<source>Marcador de posición de botón Atrás</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4332" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4332-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Omitir</source>
+										<source>Marcador de posición de botón Omitir</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4351" restype="Clear Button Placeholder">
 									<trans-unit id="4351-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Borrar</source>
+										<source>Marcador de posición de botón Borrar</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4370" restype="Back Button Placeholder">
 									<trans-unit id="4370-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Atr&aacute;s</source>
+										<source>Marcador de posición de botón Atrás</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4389" restype="Skip Button Placeholder">
 									<trans-unit id="4389-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Omitir</source>
+										<source>Marcador de posición de botón Omitir</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4408" restype="Submit Button Placeholder">
 									<trans-unit id="4408-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Enviar</source>
+										<source>Marcador de posición de botón Enviar</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -445,62 +445,62 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4504" restype="Title Placeholder">
 									<trans-unit id="4504-190">
-										<source>Marcador de posici&oacute;n de t&iacute;tulo de pregunta</source>
+										<source>Marcador de posición de título de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4529" restype="Question Placeholder">
 									<trans-unit id="4529-190">
-										<source>Marcador de posici&oacute;n de texto de pregunta</source>
+										<source>Marcador de posición de texto de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4551" restype="Review Area Placeholder">
 									<trans-unit id="4551-190">
-										<source>&Aacute;rea de revisi&oacute;n</source>
+										<source>Área de revisión</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4569" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4569-190">
-										<source>Marcador de posici&oacute;n de descripci&oacute;n de respuesta incompleta</source>
+										<source>Marcador de posición de descripción de respuesta incompleta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4587" restype="Failure Shape Placeholder">
 									<trans-unit id="4587-190">
-										<source>Marcador de posici&oacute;n de descripci&oacute;n de respuesta incorrecta</source>
+										<source>Marcador de posición de descripción de respuesta incorrecta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4605" restype="Success Shape Placeholder">
 									<trans-unit id="4605-190">
-										<source>Marcador de posici&oacute;n de descripci&oacute;n de respuesta correcta</source>
+										<source>Marcador de posición de descripción de respuesta correcta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4637" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4637-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Atr&aacute;s</source>
+										<source>Marcador de posición de botón Atrás</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4656" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4656-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Omitir</source>
+										<source>Marcador de posición de botón Omitir</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4675" restype="Clear Button Placeholder">
 									<trans-unit id="4675-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Borrar</source>
+										<source>Marcador de posición de botón Borrar</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4694" restype="Back Button Placeholder">
 									<trans-unit id="4694-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Atr&aacute;s</source>
+										<source>Marcador de posición de botón Atrás</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4713" restype="Skip Button Placeholder">
 									<trans-unit id="4713-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Omitir</source>
+										<source>Marcador de posición de botón Omitir</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4732" restype="Submit Button Placeholder">
 									<trans-unit id="4732-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Enviar</source>
+										<source>Marcador de posición de botón Enviar</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -520,27 +520,27 @@
 							<group cp:datatype="x-object" extype="69" id="5067" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4828" restype="Title Placeholder">
 									<trans-unit id="4828-190">
-										<source>Marcador de posici&oacute;n de t&iacute;tulo de pregunta</source>
+										<source>Marcador de posición de título de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4840" restype="Question Placeholder">
 									<trans-unit id="4840-190">
-										<source>Marcador de posici&oacute;n de texto de pregunta</source>
+										<source>Marcador de posición de texto de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4916" restype="Likert Question Area Placeholder">
 									<trans-unit id="4916-190">
-										<source>Marcador de posici&oacute;n de Adobe Captivate 5</source>
+										<source>Marcador de posición de Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4934" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4934-190">
-										<source>Marcador de posici&oacute;n de descripci&oacute;n de respuesta incompleta</source>
+										<source>Marcador de posición de descripción de respuesta incompleta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4943" restype="Review Area Placeholder">
 									<trans-unit id="4943-190">
-										<source>&Aacute;rea de revisi&oacute;n</source>
+										<source>Área de revisión</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4952" restype="Progress Indicator Placeholder">
@@ -550,32 +550,32 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4971" restype="Submit Button Placeholder">
 									<trans-unit id="4971-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Enviar</source>
+										<source>Marcador de posición de botón Enviar</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4990" restype="Skip Button Placeholder">
 									<trans-unit id="4990-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Omitir</source>
+										<source>Marcador de posición de botón Omitir</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5009" restype="Back Button Placeholder">
 									<trans-unit id="5009-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Atr&aacute;s</source>
+										<source>Marcador de posición de botón Atrás</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5028" restype="Clear Button Placeholder">
 									<trans-unit id="5028-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Borrar</source>
+										<source>Marcador de posición de botón Borrar</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5047" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="5047-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Omitir</source>
+										<source>Marcador de posición de botón Omitir</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5066" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="5066-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Atr&aacute;s</source>
+										<source>Marcador de posición de botón Atrás</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -595,12 +595,12 @@
 							<group cp:datatype="x-object" extype="69" id="5438" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="5114" restype="Result Title Placeholder">
 									<trans-unit id="5114-190">
-										<source>Marcador de posici&oacute;n de t&iacute;tulo de pregunta</source>
+										<source>Marcador de posición de título de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5136" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5136-190">
-										<source>Marcador de posici&oacute;n de etiqueta de resultado de puntuaje</source>
+										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5145" restype="Scoring Result Placeholder">
@@ -610,17 +610,17 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5167" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5167-190">
-										<source>Marcador de posici&oacute;n de etiqueta de resultado de puntuaje</source>
+										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5176" restype="Scoring Result Placeholder">
 									<trans-unit id="5176-190">
-										<source>puntuaje m&aacute;ximo</source>
+										<source>puntuaje máximo</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5198" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5198-190">
-										<source>Marcador de posici&oacute;n de etiqueta de resultado de puntuaje</source>
+										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5207" restype="Scoring Result Placeholder">
@@ -630,7 +630,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5229" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5229-190">
-										<source>Marcador de posici&oacute;n de etiqueta de resultado de puntuaje</source>
+										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5238" restype="Scoring Result Placeholder">
@@ -640,7 +640,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5260" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5260-190">
-										<source>Marcador de posici&oacute;n de etiqueta de resultado de puntuaje</source>
+										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5269" restype="Scoring Result Placeholder">
@@ -650,7 +650,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5291" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5291-190">
-										<source>Marcador de posici&oacute;n de etiqueta de resultado de puntuaje</source>
+										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5300" restype="Scoring Result Placeholder">
@@ -660,27 +660,27 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5332" restype="Review Button Placeholder">
 									<trans-unit id="5332-190">
-										<source>Marcador de posici&oacute;n de Adobe Captivate 5</source>
+										<source>Marcador de posición de Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5351" restype="Continue Button Placeholder">
 									<trans-unit id="5351-190">
-										<source>Marcador de posici&oacute;n de bot&oacute;n Borrar</source>
+										<source>Marcador de posición de botón Borrar</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5370" restype="Post Result Button Placeholder">
 									<trans-unit id="5370-190">
-										<source>Marcador de posici&oacute;n de Adobe Captivate 5</source>
+										<source>Marcador de posición de Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5389" restype="Retake Button Placeholder">
 									<trans-unit id="5389-190">
-										<source>Marcador de posici&oacute;n de Adobe Captivate 5</source>
+										<source>Marcador de posición de Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5411" restype="Review Area Placeholder">
 									<trans-unit id="5411-190">
-										<source>&Aacute;rea de revisi&oacute;n</source>
+										<source>Área de revisión</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -709,12 +709,12 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10008" restype="x-cp-quiz-back-button-name">
 							<trans-unit id="382-10008">
-								<source>Atr&aacute;s</source>
+								<source>Atrás</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10237" restype="x-cp-quiz-review-button-name">
 							<trans-unit id="382-10237">
-								<source>Cuestionario de revisi&oacute;n</source>
+								<source>Cuestionario de revisión</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10269" restype="x-cp-quiz-continue-button-name">
@@ -735,17 +735,17 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10105" restype="x-cp-quiz-correct-feedback-text">
 							<trans-unit id="382-10105">
-								<source>Respuesta correcta. Haga clic en cualquier lugar o presione &ldquo;S&rdquo; para continuar.</source>
+								<source>Respuesta correcta. Haga clic en cualquier lugar o presione “S” para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10291" restype="x-cp-quiz-partial-correct-feedback-text">
 							<trans-unit id="382-10291">
-								<source>Respuesta parcialmente correcta. Haga clic en cualquier lugar o presione &ldquo;S&rdquo; para continuar.</source>
+								<source>Respuesta parcialmente correcta. Haga clic en cualquier lugar o presione “S” para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10106" restype="x-cp-quiz-incorrect-feedback-text">
 							<trans-unit id="382-10106">
-								<source>Respuesta incorrecta. Haga clic en cualquier lugar o presione &ldquo;S&rdquo; para continuar.</source>
+								<source>Respuesta incorrecta. Haga clic en cualquier lugar o presione “S” para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10107" restype="x-cp-quiz-retry-feedback-text">
@@ -760,22 +760,22 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10188" restype="x-cp-quiz-timeout-feedback-text">
 							<trans-unit id="382-10188">
-								<source>El tiempo para responder esta pregunta caduc&oacute;. Haga clic en cualquier lugar o presione &ldquo;S&rdquo; para continuar.</source>
+								<source>El tiempo para responder esta pregunta caducó. Haga clic en cualquier lugar o presione “S” para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">
 							<trans-unit id="382-10358">
-								<source>Respondi&oacute; todas las preguntas. ¿Qu&eacute; desea hacer a continuaci&oacute;n?</source>
+								<source>Respondió todas las preguntas. ¿Qué desea hacer a continuación?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10359" restype="x-cp-quiz-submit-all-incomplete-text">
 							<trans-unit id="382-10359">
-								<source>Una o varias preguntas est&aacute;n incompletas. Responda todas las preguntas para continuar.</source>
+								<source>Una o varias preguntas están incompletas. Responda todas las preguntas para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10360" restype="x-cp-quiz-submit-all-submit-incomplete-text">
 							<trans-unit id="382-10360">
-								<source>Todav&iacute;a no respondi&oacute; algunas preguntas. ¿Seguro que desea continuar sin responder esas preguntas?</source>
+								<source>Todavía no respondió algunas preguntas. ¿Seguro que desea continuar sin responder esas preguntas?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-object" extype="10042" id="383" restype="x-cp-quizzes">
@@ -808,7 +808,7 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
 									<trans-unit id="384-10172">
-										<source>Su respuesta a esta pregunta est&aacute; incompleta.</source>
+										<source>Su respuesta a esta pregunta está incompleta.</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
@@ -823,12 +823,12 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10165" restype="x-cp-quiz-result-pass-message">
 									<trans-unit id="384-10165">
-										<source>¡Felicitaciones! Aprob&oacute; el cuestionario.</source>
+										<source>¡Felicitaciones! Aprobó el cuestionario.</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10166" restype="x-cp-quiz-result-fail-message">
 									<trans-unit id="384-10166">
-										<source>Lamentablemente, reprob&oacute;.</source>
+										<source>Lamentablemente, reprobó.</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10170" restype="x-cp-quiz-result-email-button-text">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2020-12-03T13:49:09.0Z" original="THI-000093.cptx" source-language="enUS">
+		<file datatype="cptx" date="2021-11-03T11:29:25.0Z" original="THI-000093.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
@@ -797,7 +797,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="42704-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="42704-19-1-1">How can an Einstein Analytics consultant implement timeseries?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="42704-19-1-1">How can a Tableau CRM consultant implement timeseries?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1082,7 +1082,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="22304-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="22304-19-1-1">An Einstein Analytics consultant wants to be able to compare year-to-date values with the same values from last year. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="22304-19-1-1">A Tableau CRM consultant wants to be able to compare year-to-date values with the same values from last year. </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1097,7 +1097,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="22304-19-3">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="22304-19-3-1">Which functionality from Einstein Analytics should the consultant use? </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="22304-19-3-1">Which functionality from Tableau CRM should the consultant use? </g>
 											</source>
 										</trans-unit>
 									</group>

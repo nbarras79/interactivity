@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accessibility>
-  <leftarrow>Tarjeta nemot&eacute;cnica anterior</leftarrow>
-  <rightarrow>Tarjeta nemot&eacute;cnica siguiente</rightarrow>
+  <leftarrow>Tarjeta nemotécnica anterior</leftarrow>
+  <rightarrow>Tarjeta nemotécnica siguiente</rightarrow>
   <flashcard1>
     <image>Foto de Jet Kasinger</image>
-    <frontflashcardbackground>Portada de tarjeta nemot&eacute;cnica con fondo blanco</frontflashcardbackground>
-    <frontflashcardbutton>Ver dorso de tarjeta nemot&eacute;cnica</frontflashcardbutton>
+    <frontflashcardbackground>Portada de tarjeta nemotécnica con fondo blanco</frontflashcardbackground>
+    <frontflashcardbutton>Ver dorso de tarjeta nemotécnica</frontflashcardbutton>
   </flashcard1>
 </accessibility>

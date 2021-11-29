@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <accessibility>
   <leftarrow>Flashcard anterior</leftarrow>
-  <rightarrow>Pr&oacute;ximo flashcard</rightarrow>
+  <rightarrow>Próximo flashcard</rightarrow>
   <flashcard1>
     <image>Foto do Andy White</image>
     <frontflashcardbackground>Frente do flashcard fundo branco</frontflashcardbackground>
