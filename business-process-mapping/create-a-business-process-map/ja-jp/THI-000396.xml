@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2021-11-03T10:21:50.0Z" original="THI-000089.cptx" source-language="enUS">
+		<file datatype="cptx" date="2021-07-01T13:26:18.0Z" original="THI-000396.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
-					<count count-type="total" unit="trans-unit">278</count>
-					<count count-type="total" unit="word">884</count>
+					<count count-type="total" unit="trans-unit">276</count>
+					<count count-type="total" unit="word">794</count>
 					<count count-type="total" unit="x-cp-slides">4</count>
 				</count-group>
 			</header>
@@ -75,7 +75,7 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="434" restype="x-cp-project-info-description">
 							<trans-unit id="305-434">
-								<source>テンプレートバージョン日: 11_13_2020</source>
+								<source>テンプレートバージョン日: 2021 年 4 月 26 日</source>
 							</trans-unit>
 						</group>
 					</group>
@@ -97,7 +97,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="12750-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="12750-19-1-1">設問 1/2</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="12750-19-1-1">設問 1/1</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -106,7 +106,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="12760-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-1-1">ある Tableau CRM コンサルタントが、週初日を指定し、項目の表示ラベルをカスタマイズし、項目値に基づいてグラフの色をカスタマイズしようとしています。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-1-1">あなたはカフェでコーヒーを注文する顧客のビジネスプロセスマップを作成することを任されました。 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -121,7 +121,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="12760-19-3">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-3-1">これを行うには、どうすればよいですか?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-3-1">このプロセスの入力と結果は次のどれですか?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -175,7 +175,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13074-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13074-19-1-1">拡張メタデータ (XMD) を使用して、Tableau CRM ダッシュボードおよびレンズのデータセット項目とその値の書式をカスタマイズする。 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13074-19-1-1">入力はシフトのタイムカードを押したコーヒーショップの従業員で、結果は週の終わりに給与を受け取った従業員。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -184,7 +184,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13084-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13084-19-1-1">正解。拡張メタデータ (XMD) では、データセット項目とその値を変更することができます。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13084-19-1-1">不正解。ここで注目すべきトランザクションだけではなく、コーヒーショップ従業員がシフトで行うすべてのことがこのプロセスマップに含まれてしまいます。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -238,7 +238,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13241-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13241-19-1-1">ダッシュボードデザイナでカスタムダッシュボードを作成し、属性を変更する。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13241-19-1-1">入力はコーヒーショップに入った人で、結果はコーヒーショップから出た人。 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -247,7 +247,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13251-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13251-19-1-1">不正解。表示ラベルと曜日の変更や色のカスタマイズは、ダッシュボードデザイナから行うことはできません。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13251-19-1-1">不正解。このプロセスの開始と終了であるかもしれませんが、プロセスにとって重要なやりとりを見逃しています。 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -301,7 +301,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13408-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13408-19-1-1">データセット JSON を編集する。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13408-19-1-1">入力はローストされたコーヒー豆で、結果は淹れられたコーヒー。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -310,7 +310,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13418-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13418-19-1-1">不正解。JSON は、ダッシュボードのコンポーネントおよびその相互作用を定義します。 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13418-19-1-1">不正解。この範囲は狭すぎるのに加えて、最も重要なペルソナである顧客が含まれていません。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -364,7 +364,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13575-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13575-19-1-1">Tableau CRM REST API を使用して、該当する属性を変更する。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13575-19-1-1">入力はコーヒーを買うことを決めた人で、結果は飲み物を受け取った人。 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -373,7 +373,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13585-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13585-19-1-1">不正解。REST API では、ユーザがこれらの属性を変更することはできません。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="13585-19-1-1">正解。この入力と結果は、プロセスの重要な部分を捉えていて、余分な事象が含まれていません。 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -382,7 +382,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13593-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#fd0000;font-size:16.0pt" ctype="x-cp-font" id="13593-19-1-1">回答を選択してください</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#990000;font-size:16.0pt" ctype="x-cp-font" id="13593-19-1-1">回答を選択してください</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -391,7 +391,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13601-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#fd0000;font-size:16.0pt" ctype="x-cp-font" id="13601-19-1-1">回答を 2 つ選択</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#990000;font-size:16.0pt" ctype="x-cp-font" id="13601-19-1-1">回答を 2 つ選択</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -400,7 +400,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13609-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#fd0000;font-size:16.0pt" ctype="x-cp-font" id="13609-19-1-1">回答を 2 つだけ選択</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#990000;font-size:16.0pt" ctype="x-cp-font" id="13609-19-1-1">回答を 2 つだけ選択</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -409,7 +409,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="15300-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#fd0000;font-size:16.0pt" ctype="x-cp-font" id="15300-19-1-1">回答を 3 つ選択</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#990000;font-size:16.0pt" ctype="x-cp-font" id="15300-19-1-1">回答を 3 つ選択</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -418,7 +418,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="15308-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#fd0000;font-size:16.0pt" ctype="x-cp-font" id="15308-19-1-1">回答を 3 つだけ選択</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#990000;font-size:16.0pt" ctype="x-cp-font" id="15308-19-1-1">回答を 3 つだけ選択</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -577,7 +577,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="42683-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="42683-19-1-1">設問 2/2</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:13.0pt" ctype="x-cp-font" id="42683-19-1-1">設問 2/X</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -586,22 +586,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="42704-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="42704-19-1-1">ある Tableau CRM コンサルタントが、ダッシュボードでの Salesforce データの読み込みに時間がかかり過ぎることに気が付きました。</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
-										<trans-unit id="42704-19-2">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="42704-19-2-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
-										<trans-unit id="42704-19-3">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="42704-19-3-1">ダッシュボードのパフォーマンスを改善するために Tableau CRM ユーザができることは何ですか?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="42704-19-1-1">設問 2</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -655,7 +640,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="42901-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="42901-19-1-1">Excel シートからインポートされたデータからダッシュボードを実行する。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="42901-19-1-1">オプション 1</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -664,7 +649,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="42922-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="42922-19-1-1">不正解。ダッシュボードのパフォーマンスは、データセットを作成するために使用されたデータの形式に左右されません。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="42922-19-1-1">オプション 1 の説明</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -718,7 +703,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="43026-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43026-19-1-1">Tableau CRM から組織全体の効率チェックを実行し、すべてが効率的に実行されていることを確認する。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43026-19-1-1">オプション 2</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -727,7 +712,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="43043-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43043-19-1-1">不正解。Tableau CRM から組織全体の効率チェックを実行する機能は現在ありません。 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43043-19-1-1">オプション 2 の説明</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -781,7 +766,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="43147-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43147-19-1-1">別の組織でダッシュボードを実行した後、ダッシュボードを最初の組織に再接続する。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43147-19-1-1">オプション 3</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -790,7 +775,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="43164-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43164-19-1-1">不正解。別の組織でダッシュボードを実行すると、そのダッシュボードはデータから分離されます。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43164-19-1-1">オプション 3 の説明</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -844,7 +829,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="43268-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43268-19-1-1">ダッシュボードとそのクエリに対してパフォーマンスチェックを実行し、すべてが最適に実行されていることを確認する。 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43268-19-1-1">オプション 4</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -853,7 +838,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="43285-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43285-19-1-1">正解。ダッシュボードの設計が完了したら、パフォーマンスチェックを実行し、クエリとレンズが最適に実行されていることを確認します。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43285-19-1-1">オプション 4 の説明</g>
 											</source>
 										</trans-unit>
 									</group>

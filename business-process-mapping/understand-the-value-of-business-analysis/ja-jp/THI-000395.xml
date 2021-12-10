@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2021-11-03T12:18:21.0Z" original="THI-000099.cptx" source-language="enUS">
+		<file datatype="cptx" date="2021-06-07T08:58:31.0Z" original="THI-000395n.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
-					<count count-type="total" unit="trans-unit">159</count>
-					<count count-type="total" unit="word">521</count>
+					<count count-type="total" unit="trans-unit">163</count>
+					<count count-type="total" unit="word">533</count>
 					<count count-type="total" unit="x-cp-slides">5</count>
 				</count-group>
 			</header>
@@ -75,8 +75,7 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="434" restype="x-cp-project-info-description">
 							<trans-unit id="305-434">
-								<source>499 x 320 px
-テンプレート日: 11_05_2020</source>
+								<source>499 x 320 pxテンプレート日: 2021 年 3 月 29 日</source>
 							</trans-unit>
 						</group>
 					</group>
@@ -107,7 +106,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173217-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173217-612-1-1">100</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173217-612-1-1">システムを変更せずに実装できるものを含め、すぐに効果が出るプロセス改善を見つけることができる</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -116,13 +115,46 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173077-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173077-612-1-1">1 つの組織で 1 日に作成できるストーリーの最大数はいくつですか?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173077-612-1-1">プロセスの改善</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="10137" id="160808" restype="Group">
 									<group cp:datatype="x-object" extype="69" id="160809" restype="x-cp-items"/>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="215972" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="215972-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="215972-19-1-1">説明</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="215972-19-1-2">:</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="215972-19-2">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="215972-19-2-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="215972-19-3">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="215972-19-3-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="215972-19-4">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="215972-19-4-1">1.「1/X」の「X」をフラッシュカードの総数に変更します (これをすべてフラッシュカードで行う)。</g>
+											</source>
+										</trans-unit>
+									</group>
 								</group>
 							</group>
 						</slide>
@@ -152,7 +184,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173287-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173287-612-1-1">過剰適合</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173287-612-1-1">構築フェーズとテストフェーズでアーキテクチャや要件に関するコミュニケーション不足によって生じる修正を減らすことができる</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -161,7 +193,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173252-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173252-612-1-1">データの準備をするときに、使用されている変数項目が多くあり過ぎることを何と言いますか?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173252-612-1-1">修正の削減または排除</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -194,7 +226,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173357-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173357-612-1-1">一般ユーザには「Tableau CRM Plus ユーザ」、システム管理者アクセスには「Tableau CRM Plus 管理者」</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173357-612-1-1">ユーザが必要としているアプリケーションを作成し、トレーニング資料の作成に費やす時間を減らすことができる</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -203,7 +235,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173322-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173322-612-1-1">Einstein Discovery にアクセスするためにユーザに必要な権限および権限セットは何ですか?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173322-612-1-1">利用の促進</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -236,7 +268,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173427-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173427-612-1-1">「なぜそれが起きたか」インサイト</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173427-612-1-1">導入に必要な変更管理を始めるための分析にユーザが関与できる</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -245,7 +277,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173392-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173392-612-1-1">Einstein Discovery で使用される滝グラフは、どのような種類のインサイトを視覚化するのに役立ちますか? </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173392-612-1-1">ユーザエンゲージメントの向上</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -269,7 +301,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="12225-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12225-612-1-1">5/4</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12225-612-1-1">5/X</g>
 											</source>
 										</trans-unit>
 									</group>
