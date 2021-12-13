@@ -2570,7 +2570,7 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10360" restype="x-cp-quiz-submit-all-submit-incomplete-text">
 							<trans-unit id="378-10360">
-								<source>まだいくつかの設問に回答していません。それらの設問に回答せずに続行しますか?</source>
+								<source>まだ回答していない設問が残っています。これらの設問に回答せずに続行しますか?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-object" extype="10042" id="379" restype="x-cp-quizzes">
@@ -2603,12 +2603,12 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
 									<trans-unit id="380-10172">
-										<source>この設問に完全に回答しませんでした。</source>
+										<source>この設問への回答が不完全です。</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
 									<trans-unit id="380-10173">
-										<source>あなた回答:</source>
+										<source>あなたの回答:</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10174" restype="x-cp-quiz-review-incorrect-message-line-2">
