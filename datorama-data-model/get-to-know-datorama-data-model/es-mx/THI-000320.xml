@@ -337,7 +337,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="38504-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="38504-19-1-1">Incorrecto, inténtelo de nuevo.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="38504-19-1-1">Incorrecto, vuelva a intentarlo.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -380,7 +380,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="38532-19-4">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="38532-19-4-1">Este es el modo estándar </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="38532-19-4-1">Esta es la opción estándar </g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="38532-19-4-2">arrastrar seis elementos hacia dos grupos</g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="38532-19-4-3"> de arrastrar y soltar. Hay un botón (oculto) en la esquina superior izquierda que se utiliza para mostrar la versión accesible (siguiente diapositiva).</g>
 											</source>
@@ -391,7 +391,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:1.00">
 										<trans-unit id="38562-641-1">
 											<source>
-												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="38562-641-1-1">Botón sin utilizar</g>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="38562-641-1-1">Botón no utilizado</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -400,7 +400,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:1.00">
 										<trans-unit id="38574-641-1">
 											<source>
-												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="38574-641-1-1">Botón sin utilizar</g>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="38574-641-1-1">Botón no utilizado</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -409,7 +409,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:1.00">
 										<trans-unit id="38586-641-1">
 											<source>
-												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="38586-641-1-1">Botón sin utilizar</g>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="38586-641-1-1">Botón no utilizado</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -425,7 +425,7 @@
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
 								<trans-unit id="39832-1285">
-									<source>Existen dos columnas.  La de la izquierda contiene declaraciones y la de la derecha contiene las listas desplegables correspondientes. Seleccione de las listas desplegables la respuesta correcta correspondiente a cada declaración. Luego de completar todas las selecciones, haga clic en el botón de enviar en la esquina inferior derecha. A continuación, se le indicará qué selecciones son correctas y cuáles son incorrectas. Puede regresar y corregir las selecciones incorrectas, si hay alguna, y hacer clic nuevamente en el botón Enviar. Para comenzar de nuevo, haga clic en el botón Restablecer en la esquina inferior derecha.</source>
+									<source>Hay dos columnas.  En la columna izquierda se muestran declaraciones y en la derecha, una lista desplegable correspondiente. Seleccione la respuesta correcta de las listas desplegables que corresponden con las declaraciones. Una vez que completó todas las selecciones, haga clic en el botón de enviar en la esquina inferior derecha. A continuación, se le indica qué selecciones fueron correctas y cuáles no. Puede volver atrás y corregir las que fueron incorrectas, si hubo alguna, y haga clic en Enviar de nuevo. Para comenzar de nuevo, haga clic en el botón Restablecer en la esquina inferior derecha.</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-object" extype="69" id="39817" restype="x-cp-items">
@@ -451,7 +451,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="38673-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38673-19-1-1">Su selección para este elemento es incorrecta. Inténtelo de nuevo.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38673-19-1-1">La selección para este elemento es incorrecta. Vuelva a intentarlo.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -489,7 +489,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="38796-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38796-19-1-1">Su selección para este elemento es correcta.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38796-19-1-1">La selección para este elemento es correcta.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -498,7 +498,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="38861-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38861-19-1-1">Su selección para este elemento es incorrecta. Inténtelo de nuevo.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38861-19-1-1">La selección para este elemento es incorrecta. Vuelva a intentarlo.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -536,7 +536,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="38943-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38943-19-1-1">Su selección para este elemento es correcta.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38943-19-1-1">La selección para este elemento es correcta.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -545,7 +545,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39002-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39002-19-1-1">Su selección para este elemento es incorrecta. Inténtelo de nuevo.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39002-19-1-1">La selección para este elemento es incorrecta. Vuelva a intentarlo.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -583,7 +583,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39084-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39084-19-1-1">Su selección para este elemento es correcta.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39084-19-1-1">La selección para este elemento es correcta.</g>
 											</source>
 										</trans-unit>
 									</group>

@@ -89,7 +89,7 @@
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
 								<trans-unit id="42014-1285">
-									<source>Pour accéder à la version entièrement accessible de cette expérience interactive, cliquez sur le bouton d’accessibilité ou appuyez sur la touche Z.</source>
+									<source>Pour utiliser la version entièrement accessible de cette expérience interactive, cliquez sur le bouton d’accessibilité ou appuyez sur Z.</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-object" extype="69" id="41988" restype="x-cp-items">
@@ -367,7 +367,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="41913-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="41913-19-1-1">Exact, bon boulot !</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="41913-19-1-1">Exact, bon travail !</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -634,7 +634,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="43197-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="43197-19-1-1">Exact, bon boulot !</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="43197-19-1-1">Exact, bon travail !</g>
 											</source>
 										</trans-unit>
 									</group>
