@@ -26,12 +26,12 @@
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="591" restype="x-cp-project-password-message">
 						<trans-unit id="1-591">
-							<source>Escriba la contraseña correcta directamente en el cuadro de texto a continuación y haga clic en el botón que también aparece.</source>
+							<source>Escriba la contraseña correcta directamente en el cuadro de texto que se muestra debajo y haga clic en el botón que está a continuación.</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="592" restype="x-cp-project-password-retry-message">
 						<trans-unit id="1-592">
-							<source>La contraseña que ingresó es incorrecta. Inténtelo de nuevo.</source>
+							<source>La contraseña introducida es incorrecta. Vuelva a intentarlo.</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="593" restype="x-cp-project-password-button-text">
@@ -872,7 +872,7 @@
 						<slide cp:datatype="x-object" extype="584" id="1625" resname="Slide 2" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="1625-337">
-									<source>En blanco</source>
+									<source>Espacio en blanco</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1306,7 +1306,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="3990" resname="Slide 11" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="3990-337">
-									<source>MCQ,T/F,FIB,Secuencia</source>
+									<source>Opción múltiple, V/F, Completar espacios en blanco, Secuencia</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1338,62 +1338,62 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3697" restype="Success Shape Placeholder">
 									<trans-unit id="3697-190">
-										<source>Marcador de posición de subtítulo de respuesta correcta</source>
+										<source>Marcador de posición de descripción de respuesta correcta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3715" restype="TimeOut Shape Placeholder">
 									<trans-unit id="3715-190">
-										<source>Marcador de posición de agotamiento de tiempo de espera de comentarios</source>
+										<source>Marcador de posición de comentario de tiempo de espera agotado</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3733" restype="Partial Correct Shape Placeholder">
 									<trans-unit id="3733-190">
-										<source>Marcador de posición de subtítulo de respuesta correcta parcialmente</source>
+										<source>Marcador de posición de descripción de respuesta parcialmente correcta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3751" restype="Retry Shape Placeholder">
 									<trans-unit id="3751-190">
-										<source>Marcador de posición de subtítulo de reintento</source>
+										<source>Marcador de posición de descripción de reintento</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3769" restype="Incomplete Shape Placeholder">
 									<trans-unit id="3769-190">
-										<source>Marcador de posición de subtítulo de respuesta incompleta</source>
+										<source>Marcador de posición de descripción de respuesta incompleta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3787" restype="Failure Shape Placeholder">
 									<trans-unit id="3787-190">
-										<source>Marcador de posición de subtítulo de fallo</source>
+										<source>Marcador de posición de descripción de respuesta incorrecta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3819" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="3819-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>Marcador de posición de botón Atrás</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3838" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="3838-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>Marcador de posición de botón Omitir</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3857" restype="Clear Button Placeholder">
 									<trans-unit id="3857-190">
-										<source>Marcador de posición de botón de borrado</source>
+										<source>Marcador de posición de botón Borrar</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3876" restype="Back Button Placeholder">
 									<trans-unit id="3876-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>Marcador de posición de botón Atrás</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3895" restype="Skip Button Placeholder">
 									<trans-unit id="3895-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>Marcador de posición de botón Omitir</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3914" restype="Submit Button Placeholder">
 									<trans-unit id="3914-190">
-										<source>Marcador de posición de botón de envío</source>
+										<source>Marcador de posición de botón Enviar</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3962" restype="Progress Indicator Placeholder">
@@ -1406,7 +1406,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="4388" resname="Slide 12" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4388-337">
-									<source>Coincidentes</source>
+									<source>Correspondencia</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1453,47 +1453,47 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4149" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4149-190">
-										<source>Marcador de posición de subtítulo de respuesta incompleta</source>
+										<source>Marcador de posición de descripción de respuesta incompleta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4167" restype="Failure Shape Placeholder">
 									<trans-unit id="4167-190">
-										<source>Marcador de posición de subtítulo de fallo</source>
+										<source>Marcador de posición de descripción de respuesta incorrecta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4185" restype="Success Shape Placeholder">
 									<trans-unit id="4185-190">
-										<source>Marcador de posición de subtítulo de respuesta correcta</source>
+										<source>Marcador de posición de descripción de respuesta correcta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4217" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4217-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>Marcador de posición de botón Atrás</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4236" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4236-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>Marcador de posición de botón Omitir</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4255" restype="Clear Button Placeholder">
 									<trans-unit id="4255-190">
-										<source>Marcador de posición de botón de borrado</source>
+										<source>Marcador de posición de botón Borrar</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4274" restype="Back Button Placeholder">
 									<trans-unit id="4274-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>Marcador de posición de botón Atrás</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4293" restype="Skip Button Placeholder">
 									<trans-unit id="4293-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>Marcador de posición de botón Omitir</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4312" restype="Submit Button Placeholder">
 									<trans-unit id="4312-190">
-										<source>Marcador de posición de botón de envío</source>
+										<source>Marcador de posición de botón Enviar</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4360" restype="Progress Indicator Placeholder">
@@ -1506,7 +1506,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="4704" resname="Slide 13" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4704-337">
-									<source>Punto interactivo</source>
+									<source>Zona activa</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1533,47 +1533,47 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4465" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4465-190">
-										<source>Marcador de posición de subtítulo de respuesta incompleta</source>
+										<source>Marcador de posición de descripción de respuesta incompleta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4483" restype="Failure Shape Placeholder">
 									<trans-unit id="4483-190">
-										<source>Marcador de posición de subtítulo de fallo</source>
+										<source>Marcador de posición de descripción de respuesta incorrecta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4501" restype="Success Shape Placeholder">
 									<trans-unit id="4501-190">
-										<source>Marcador de posición de subtítulo de respuesta correcta</source>
+										<source>Marcador de posición de descripción de respuesta correcta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4533" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4533-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>Marcador de posición de botón Atrás</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4552" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4552-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>Marcador de posición de botón Omitir</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4571" restype="Clear Button Placeholder">
 									<trans-unit id="4571-190">
-										<source>Marcador de posición de botón de borrado</source>
+										<source>Marcador de posición de botón Borrar</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4590" restype="Back Button Placeholder">
 									<trans-unit id="4590-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>Marcador de posición de botón Atrás</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4609" restype="Skip Button Placeholder">
 									<trans-unit id="4609-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>Marcador de posición de botón Omitir</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4628" restype="Submit Button Placeholder">
 									<trans-unit id="4628-190">
-										<source>Marcador de posición de botón de envío</source>
+										<source>Marcador de posición de botón Enviar</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4676" restype="Progress Indicator Placeholder">
@@ -1608,12 +1608,12 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4804" restype="Likert Question Area Placeholder">
 									<trans-unit id="4804-190">
-										<source>Marcador de posición para Adobe Captivate 5</source>
+										<source>Marcador de posición de Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4822" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4822-190">
-										<source>Marcador de posición de subtítulo de respuesta incompleta</source>
+										<source>Marcador de posición de descripción de respuesta incompleta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4831" restype="Review Area Placeholder">
@@ -1628,32 +1628,32 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4859" restype="Submit Button Placeholder">
 									<trans-unit id="4859-190">
-										<source>Marcador de posición de botón de envío</source>
+										<source>Marcador de posición de botón Enviar</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4878" restype="Skip Button Placeholder">
 									<trans-unit id="4878-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>Marcador de posición de botón Omitir</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4897" restype="Back Button Placeholder">
 									<trans-unit id="4897-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>Marcador de posición de botón Atrás</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4916" restype="Clear Button Placeholder">
 									<trans-unit id="4916-190">
-										<source>Marcador de posición de botón de borrado</source>
+										<source>Marcador de posición de botón Borrar</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4935" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4935-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>Marcador de posición de botón Omitir</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4954" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4954-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>Marcador de posición de botón Atrás</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1713,7 +1713,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5118" restype="Scoring Result Placeholder">
 									<trans-unit id="5118-190">
-										<source>preguntas en total</source>
+										<source>preguntas totales</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5140" restype="Scoring Result Label Placeholder">
@@ -1733,27 +1733,27 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5180" restype="Scoring Result Placeholder">
 									<trans-unit id="5180-190">
-										<source>intentos en total</source>
+										<source>intentos totales</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5212" restype="Review Button Placeholder">
 									<trans-unit id="5212-190">
-										<source>Marcador de posición para Adobe Captivate 5</source>
+										<source>Marcador de posición de Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5231" restype="Continue Button Placeholder">
 									<trans-unit id="5231-190">
-										<source>Marcador de posición de botón de borrado</source>
+										<source>Marcador de posición de botón Borrar</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5250" restype="Post Result Button Placeholder">
 									<trans-unit id="5250-190">
-										<source>Marcador de posición para Adobe Captivate 5</source>
+										<source>Marcador de posición de Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5269" restype="Retake Button Placeholder">
 									<trans-unit id="5269-190">
-										<source>Marcador de posición para Adobe Captivate 5</source>
+										<source>Marcador de posición de Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5291" restype="Review Area Placeholder">
@@ -1792,7 +1792,7 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10237" restype="x-cp-quiz-review-button-name">
 							<trans-unit id="382-10237">
-								<source>Revisar prueba</source>
+								<source>Cuestionario de revisión</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10269" restype="x-cp-quiz-continue-button-name">
@@ -1813,17 +1813,17 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10105" restype="x-cp-quiz-correct-feedback-text">
 							<trans-unit id="382-10105">
-								<source>Correcta - Haga clic en cualquier punto o pulse “S” para continuar.</source>
+								<source>Respuesta correcta. Haga clic en cualquier lugar o presione “S” para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10291" restype="x-cp-quiz-partial-correct-feedback-text">
 							<trans-unit id="382-10291">
-								<source>Parcialmente correcta - Haga clic en cualquier punto o pulse “S” para continuar.</source>
+								<source>Respuesta parcialmente correcta. Haga clic en cualquier lugar o presione “S” para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10106" restype="x-cp-quiz-incorrect-feedback-text">
 							<trans-unit id="382-10106">
-								<source>Incorrecta - Haga clic en cualquier punto o pulse “S” para continuar.</source>
+								<source>Respuesta incorrecta. Haga clic en cualquier lugar o presione “S” para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10107" restype="x-cp-quiz-retry-feedback-text">
@@ -1833,34 +1833,34 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10184" restype="x-cp-quiz-incomplete-feedback-text">
 							<trans-unit id="382-10184">
-								<source>Debe responder a la pregunta antes de continuar.</source>
+								<source>Debe responder la pregunta para poder continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10188" restype="x-cp-quiz-timeout-feedback-text">
 							<trans-unit id="382-10188">
-								<source>El tiempo para responder a esta pregunta transcurrió. Haga clic en cualquier punto o pulse “S” para continuar.</source>
+								<source>El tiempo para responder esta pregunta caducó. Haga clic en cualquier lugar o presione “S” para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">
 							<trans-unit id="382-10358">
-								<source>Respondió a todas las preguntas. ¿Qué desea hacer a continuación?</source>
+								<source>Respondió todas las preguntas. ¿Qué desea hacer a continuación?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10359" restype="x-cp-quiz-submit-all-incomplete-text">
 							<trans-unit id="382-10359">
-								<source>Una o más preguntas están incompletas. Responda a todas las preguntas para continuar.</source>
+								<source>Una o varias preguntas están incompletas. Responda todas las preguntas para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10360" restype="x-cp-quiz-submit-all-submit-incomplete-text">
 							<trans-unit id="382-10360">
-								<source>Aún no respondió a algunas preguntas. ¿Está seguro de que desea continuar sin responder a esas preguntas?</source>
+								<source>Todavía no respondió algunas preguntas. ¿Seguro que desea continuar sin responder esas preguntas?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-object" extype="10042" id="383" restype="x-cp-quizzes">
 							<group cp:datatype="x-object" extype="10003" id="384" restype="x-cp-quiz">
 								<group cp:datatype="x-property" datatype="plaintext" extype="10002" restype="x-cp-quiz-name">
 									<trans-unit id="384-10002">
-										<source>Prueba</source>
+										<source>Cuestionario</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10231" restype="x-cp-quiz-lms-objective-id">
@@ -1876,17 +1876,17 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10171" restype="x-cp-quiz-review-correct-message">
 									<trans-unit id="384-10171">
-										<source>¡Respondió correctamente!</source>
+										<source>¡Su respuesta es correcta!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10330" restype="x-cp-quiz-review-partial-correct-message">
 									<trans-unit id="384-10330">
-										<source>¡Respondió correctamente en parte!</source>
+										<source>¡Su respuesta es parcialmente correcta!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
 									<trans-unit id="384-10172">
-										<source>No respondió a esta pregunta completamente.</source>
+										<source>Su respuesta a esta pregunta está incompleta.</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
@@ -1901,12 +1901,12 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10165" restype="x-cp-quiz-result-pass-message">
 									<trans-unit id="384-10165">
-										<source>¡Felicitaciones, superó la prueba!</source>
+										<source>¡Felicitaciones! Aprobó el cuestionario.</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10166" restype="x-cp-quiz-result-fail-message">
 									<trans-unit id="384-10166">
-										<source>¡Lo sentimos, no superó la prueba!</source>
+										<source>Lamentablemente, reprobó.</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10170" restype="x-cp-quiz-result-email-button-text">
@@ -1916,7 +1916,7 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10265" restype="x-cp-quiz-result-retake-button-text">
 									<trans-unit id="384-10265">
-										<source>Volver a realizar prueba</source>
+										<source>Repetir cuestionario</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10271" restype="x-cp-quiz-result-post-result-text">
