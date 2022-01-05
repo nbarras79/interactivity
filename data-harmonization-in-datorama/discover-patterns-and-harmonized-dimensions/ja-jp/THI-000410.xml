@@ -151,7 +151,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="40361-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="40361-612-1-1">認知度</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="40361-612-1-1">Awareness</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -160,7 +160,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="40372-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="40372-612-1-1">認知度</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="40372-612-1-1">Awareness</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -169,7 +169,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="40383-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="40383-612-1-1">認知度</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="40383-612-1-1">Awareness</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -178,7 +178,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="40394-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="40394-612-1-1">認知度</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="40394-612-1-1">Awareness</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -187,7 +187,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="40429-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="40429-612-1-1">25 ～ 34</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="40429-612-1-1">25 - 34</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -196,7 +196,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="40440-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="40440-612-1-1">25 ～ 34</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="40440-612-1-1">25 - 34</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -205,7 +205,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="40451-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="40451-612-1-1">25 ～ 34</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="40451-612-1-1">25 - 34</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -214,7 +214,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="40462-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="40462-612-1-1">25 ～ 34</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="40462-612-1-1">25 - 34</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -259,7 +259,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="40565-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="40565-612-1-1">購入数</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="40565-612-1-1">Purchases</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -268,7 +268,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="40576-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="40576-612-1-1">購入数</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="40576-612-1-1">Purchases</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -277,7 +277,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="40587-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="40587-612-1-1">購入数</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="40587-612-1-1">Purchases</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -286,7 +286,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="40598-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="40598-612-1-1">購入数</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="40598-612-1-1">Purchases</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -331,7 +331,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="58884-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="58884-612-1-1">インストール数</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="58884-612-1-1">Installs</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -340,7 +340,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="58917-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="58917-612-1-1">インストール数</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="58917-612-1-1">Installs</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -349,7 +349,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="58950-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="58950-612-1-1">インストール数</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="58950-612-1-1">Installs</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -358,7 +358,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="58983-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="58983-612-1-1">インストール数</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="58983-612-1-1">Installs</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -367,7 +367,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="59021-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="59021-612-1-1">35 ～ 54</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="59021-612-1-1">35 - 54</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -376,7 +376,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="59054-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="59054-612-1-1">35 ～ 54</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="59054-612-1-1">35 - 54</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -385,7 +385,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="59087-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="59087-612-1-1">35 ～ 54</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="59087-612-1-1">35 - 54</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -394,7 +394,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="59120-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="59120-612-1-1">35 ～ 54</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="59120-612-1-1">35 - 54</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -493,7 +493,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="43257-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="43257-19-1-1">オーディエンス</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="43257-19-1-1">対象者</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -706,7 +706,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="42292-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="42292-612-1-1">認知度</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="42292-612-1-1">Awareness</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -715,7 +715,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="42303-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="42303-612-1-1">認知度</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="42303-612-1-1">Awareness</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -724,7 +724,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="42314-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="42314-612-1-1">認知度</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="42314-612-1-1">Awareness</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -751,7 +751,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="42433-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="42433-612-1-1">25 ～ 34</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="42433-612-1-1">25-34</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -760,7 +760,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="42444-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="42444-612-1-1">25 ～ 34</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="42444-612-1-1">25-34</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -769,7 +769,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="42455-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="42455-612-1-1">25 ～ 34</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="42455-612-1-1">25-34</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -841,7 +841,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="42715-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="42715-612-1-1">購入数</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="42715-612-1-1">Purchases</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -850,7 +850,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="42726-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="42726-612-1-1">購入数</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="42726-612-1-1">Purchases</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -859,7 +859,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="42737-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="42737-612-1-1">購入数</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="42737-612-1-1">Purchases</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -931,7 +931,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="59708-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="59708-612-1-1">インストール数</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="59708-612-1-1">Installs</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -940,7 +940,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="59741-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="59741-612-1-1">インストール数</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="59741-612-1-1">Installs</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -949,7 +949,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="59774-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="59774-612-1-1">インストール数</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="59774-612-1-1">Installs</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -976,7 +976,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="59811-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="59811-612-1-1">35 ～ 54</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="59811-612-1-1">35 - 54</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -985,7 +985,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="59844-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="59844-612-1-1">35 ～ 54</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="59844-612-1-1">35 - 54</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -994,7 +994,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="59877-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="59877-612-1-1">35 ～ 54</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="59877-612-1-1">35 - 54</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1021,7 +1021,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="59914-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="59914-612-1-1">18 ～ 24</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="59914-612-1-1">18 - 24</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1030,7 +1030,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="59947-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="59947-612-1-1">18 ～ 24</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="59947-612-1-1">18 - 24</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1039,7 +1039,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="59980-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="59980-612-1-1">18 ～ 24</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="59980-612-1-1">18 - 24</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1612,12 +1612,12 @@
 							<group cp:datatype="x-object" extype="69" id="3963" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="3600" restype="Title Placeholder">
 									<trans-unit id="3600-190">
-										<source>質問のタイトルのプレースホルダ</source>
+										<source>設問のタイトルのプレースホルダ</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3625" restype="Question Placeholder">
 									<trans-unit id="3625-190">
-										<source>質問のテキストのプレースホルダ</source>
+										<source>設問のテキストのプレースホルダ</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3657" restype="Answer Area Placeholder">
@@ -1692,7 +1692,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3962" restype="Progress Indicator Placeholder">
 									<trans-unit id="3962-190">
-										<source>質問 X/Y</source>
+										<source>設問 X/Y</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1712,27 +1712,27 @@
 							<group cp:datatype="x-object" extype="69" id="4361" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4002" restype="Title Placeholder">
 									<trans-unit id="4002-190">
-										<source>質問のタイトルのプレースホルダ</source>
+										<source>設問のタイトルのプレースホルダ</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4027" restype="Question Placeholder">
 									<trans-unit id="4027-190">
-										<source>質問のテキストのプレースホルダ</source>
+										<source>設問のテキストのプレースホルダ</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4049" restype="Column 1 Placeholder">
 									<trans-unit id="4049-190">
-										<source>質問領域のプレースホルダ</source>
+										<source>設問領域のプレースホルダ</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4058" restype="Column 2 Placeholder">
 									<trans-unit id="4058-190">
-										<source>質問領域のプレースホルダ</source>
+										<source>設問領域のプレースホルダ</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4090" restype="Question Area Placeholder">
 									<trans-unit id="4090-190">
-										<source>質問領域のプレースホルダ</source>
+										<source>設問領域のプレースホルダ</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4109" restype="Answer Area Placeholder">
@@ -1792,7 +1792,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4360" restype="Progress Indicator Placeholder">
 									<trans-unit id="4360-190">
-										<source>質問 X/Y</source>
+										<source>設問 X/Y</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1812,12 +1812,12 @@
 							<group cp:datatype="x-object" extype="69" id="4677" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4400" restype="Title Placeholder">
 									<trans-unit id="4400-190">
-										<source>質問のタイトルのプレースホルダ</source>
+										<source>設問のタイトルのプレースホルダ</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4425" restype="Question Placeholder">
 									<trans-unit id="4425-190">
-										<source>質問のテキストのプレースホルダ</source>
+										<source>設問のテキストのプレースホルダ</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4447" restype="Review Area Placeholder">
@@ -1872,7 +1872,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4676" restype="Progress Indicator Placeholder">
 									<trans-unit id="4676-190">
-										<source>質問 X/Y</source>
+										<source>設問 X/Y</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1892,12 +1892,12 @@
 							<group cp:datatype="x-object" extype="69" id="4955" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4716" restype="Title Placeholder">
 									<trans-unit id="4716-190">
-										<source>質問のタイトルのプレースホルダ</source>
+										<source>設問のタイトルのプレースホルダ</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4728" restype="Question Placeholder">
 									<trans-unit id="4728-190">
-										<source>質問のテキストのプレースホルダ</source>
+										<source>設問のテキストのプレースホルダ</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4804" restype="Likert Question Area Placeholder">
@@ -1917,7 +1917,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4840" restype="Progress Indicator Placeholder">
 									<trans-unit id="4840-190">
-										<source>質問 X/Y</source>
+										<source>設問 X/Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4859" restype="Submit Button Placeholder">
@@ -1967,7 +1967,7 @@
 							<group cp:datatype="x-object" extype="69" id="5318" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4994" restype="Result Title Placeholder">
 									<trans-unit id="4994-190">
-										<source>質問のタイトルのプレースホルダ</source>
+										<source>設問のタイトルのプレースホルダ</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5016" restype="Scoring Result Label Placeholder">
@@ -2127,27 +2127,27 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10184" restype="x-cp-quiz-incomplete-feedback-text">
 							<trans-unit id="382-10184">
-								<source>続行するには、質問に回答する必要があります。</source>
+								<source>続行するには、設問に回答する必要があります。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10188" restype="x-cp-quiz-timeout-feedback-text">
 							<trans-unit id="382-10188">
-								<source>この質問に回答する時間制限を超えました。ウィンドウ内をクリックするか、Y キーを押して続行してください。</source>
+								<source>この設問に回答する時間制限を超えました。ウィンドウ内をクリックするか、Y キーを押して続行してください。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">
 							<trans-unit id="382-10358">
-								<source>すべての質問に回答しました。この後はどうされますか?</source>
+								<source>すべての設問に回答しました。この後はどうされますか?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10359" restype="x-cp-quiz-submit-all-incomplete-text">
 							<trans-unit id="382-10359">
-								<source>1 つ以上の質問への回答が不完全です。続行するには、すべての質問に回答してください。</source>
+								<source>1 つ以上の設問への回答が不完全です。続行するには、すべての設問に回答してください。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10360" restype="x-cp-quiz-submit-all-submit-incomplete-text">
 							<trans-unit id="382-10360">
-								<source>まだいくつかの質問に回答していません。それらの質問に回答せずに続行しますか?</source>
+								<source>まだ回答していない設問が残っています。これらの設問に回答せずに続行しますか?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-object" extype="10042" id="383" restype="x-cp-quizzes">
@@ -2180,12 +2180,12 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
 									<trans-unit id="384-10172">
-										<source>この質問に完全に回答しませんでした。</source>
+										<source>この設問への回答が不完全です。</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
 									<trans-unit id="384-10173">
-										<source>あなた回答:</source>
+										<source>あなたの回答:</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10174" restype="x-cp-quiz-review-incorrect-message-line-2">

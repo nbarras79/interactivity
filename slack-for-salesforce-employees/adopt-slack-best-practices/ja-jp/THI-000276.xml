@@ -97,7 +97,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173217-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-1-1">ヒント:  </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-1-1">ヒント: </g>
 												<g css-style="font-family:'Courier New';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-1-2">@channel</g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-1-3"> ではなく </g>
 												<g css-style="font-family:'Courier New';font-face:'Regular';color:#ffffff;font-size:22.0pt" ctype="x-cp-font" id="173217-612-1-4">@here</g>

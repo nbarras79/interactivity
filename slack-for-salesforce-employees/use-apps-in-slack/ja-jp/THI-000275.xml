@@ -112,7 +112,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173217-612-3">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:24.0pt" ctype="x-cp-font" id="173217-612-3-1">「絵文字リアクションを使用すると楽しくメッセージに返信できます。すばやくシンプルで、フォローアップメッセージを送信する必要もないことが多いです。」</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:24.0pt" ctype="x-cp-font" id="173217-612-3-1">「絵文字リアクションを使用すると楽しくメッセージに返信できます。すばやくシンプルでありながら、多くの場合はフォローアップメッセージを送信する必要がなくなります。」</g>
 											</source>
 										</trans-unit>
 									</group>
