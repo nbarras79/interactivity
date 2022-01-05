@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2021-07-18T08:26:32.0Z" original="THI-000400.cptx" source-language="enUS">
+		<file datatype="cptx" date="2022-01-04T16:41:13.0Z" original="THI-000400.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
@@ -125,7 +125,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="6376-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0000ff;font-size:18.0pt;font:decoration:underlined" ctype="x-cp-font" id="6376-612-1-1" hyperlink="https://developer.salesforce.com/docs/atlas.en-us.mc-programmatic-content.meta/mc-programmatic-content/lookuporderedrows.htm?search_text=lookup" hyperlink-id="18372">LookupOrderedRows</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0000ff;font-size:18.0pt;font:decoration:underlined" ctype="x-cp-font" id="6376-612-1-1" hyperlink="https://developer.salesforce.com/docs/marketing/marketing-cloud/guide/lookuporderedrows.html" hyperlink-id="18655">LookupOrderedRows</g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:18.0pt" ctype="x-cp-font" id="6376-612-1-2">(1, 2, 3, 4, 5)</g>
 											</source>
 										</trans-unit>
@@ -163,7 +163,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="6332-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0000ff;font-size:18.0pt;font:decoration:underlined" ctype="x-cp-font" id="6332-612-1-1" hyperlink="https://developer.salesforce.com/docs/atlas.en-us.mc-programmatic-content.meta/mc-programmatic-content/lookuprows.htm?search_text=lookup" hyperlink-id="18368">LookupRows</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0000ff;font-size:18.0pt;font:decoration:underlined" ctype="x-cp-font" id="6332-612-1-1" hyperlink="https://developer.salesforce.com/docs/marketing/marketing-cloud/guide/lookuprows.html" hyperlink-id="18647">LookupRows</g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:18.0pt" ctype="x-cp-font" id="6332-612-1-2">(1, 2, 3)</g>
 											</source>
 										</trans-unit>
@@ -201,7 +201,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="6300-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0000ff;font-size:18.0pt;font:decoration:underlined" ctype="x-cp-font" id="6300-612-1-1" hyperlink="https://developer.salesforce.com/docs/atlas.en-us.mc-programmatic-content.meta/mc-programmatic-content/lookup.htm?search_text=lookup" hyperlink-id="18364">Lookup</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0000ff;font-size:18.0pt;font:decoration:underlined" ctype="x-cp-font" id="6300-612-1-1" hyperlink="https://developer.salesforce.com/docs/marketing/marketing-cloud/guide/lookup.html" hyperlink-id="18639">Lookup</g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:18.0pt" ctype="x-cp-font" id="6300-612-1-2">(1)</g>
 											</source>
 										</trans-unit>
