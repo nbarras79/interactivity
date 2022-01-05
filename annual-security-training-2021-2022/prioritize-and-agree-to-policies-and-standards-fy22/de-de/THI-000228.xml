@@ -89,7 +89,7 @@
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
 								<trans-unit id="21092-1285">
-									<source>Für den Zugriff auf die vollständig barrierefreie Version dieser interaktiven Umgebung klicken Sie auf die Schaltfläche &quot;Barrierefreiheit&quot; oder drücken Sie Z.</source>
+									<source>Für den Zugriff auf die vollständig barrierefreie Version dieser interaktiven Umgebung klicken Sie auf die Schaltfläche "Barrierefreiheit" oder drücken Sie Z.</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-object" extype="69" id="21066" restype="x-cp-items">
