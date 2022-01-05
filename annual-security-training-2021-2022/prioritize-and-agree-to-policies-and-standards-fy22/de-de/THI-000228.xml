@@ -31,7 +31,7 @@
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="592" restype="x-cp-project-password-retry-message">
 						<trans-unit id="1-592">
-							<source>Das eingegebene Kennwort ist falsch. Versuchen Sie es erneut.</source>
+							<source>Der eingegebene Kennwort ist falsch. Versuchen Sie es erneut.</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="593" restype="x-cp-project-password-button-text">

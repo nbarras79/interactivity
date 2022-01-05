@@ -1891,7 +1891,7 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
 									<trans-unit id="384-10173">
-										<source>あなた回答:</source>
+										<source>あなたの回答:</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10174" restype="x-cp-quiz-review-incorrect-message-line-2">

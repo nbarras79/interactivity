@@ -1306,7 +1306,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="3990" resname="Slide 11" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="3990-337">
-									<source>MCQ, T/F, FIB, Sequência</source>
+									<source>MCQ,T/F,FIB,Sequência</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
