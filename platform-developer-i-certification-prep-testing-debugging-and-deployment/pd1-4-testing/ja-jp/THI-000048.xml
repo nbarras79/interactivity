@@ -85,7 +85,7 @@
 						<slide cp:datatype="x-object" extype="30" id="12428" resname="Slide 0" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="12428-337">
-									<source>質問 1</source>
+									<source>問題 1</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -99,7 +99,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="12750-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12750-19-1-1">質問 1/7 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12750-19-1-1">問題 1/7 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -108,7 +108,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="12760-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="12760-19-1-1">開発者が新しい Visualforce ページと Apex 拡張を作成し、新しい Apex 拡張のカバー率を 95% とするテストクラスを記述しています。変更セットの本番へのリリースに失敗し、テストカバー率について「すべての Apex クラスと Apex トリガの平均テストカバー率は 74% です。少なくとも 75% 以上のテストカバー率が必要です」という警告が表示されました。新しい Visualforce ページと拡張を正常にリリースするにはどうすればよいですか?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="12760-19-1-1">開発者が新しい Visualforce ページと Apex 拡張を作成して、新しい Apex 拡張のカバー率を 95% とするテストクラスを記述しています。変更セットの本番へのリリースに失敗し、テストカバー率について「すべての Apex クラスと Apex トリガーの平均テストカバー率は 74% です。少なくとも 75% 以上のテストカバー率が必要です」という警告が表示されました。新しい Visualforce ページと拡張を正常にリリースするにはどうすればよいですか?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -351,7 +351,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
 										<trans-unit id="13575-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13575-19-1-1">以前のリリースの既存のテストクラスをテストメソッドに追加する</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="13575-19-1-1">以前のリリースに既存のテストクラスにテストメソッドを追加する</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -360,7 +360,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13593-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#c13933;font-size:16.0pt" ctype="x-cp-font" id="13593-19-1-1">回答を選択してください</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#c13933;font-size:16.0pt" ctype="x-cp-font" id="13593-19-1-1">解答を選択してください</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -369,7 +369,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13601-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#c13933;font-size:16.0pt" ctype="x-cp-font" id="13601-19-1-1">回答を 2 つ選択</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#c13933;font-size:16.0pt" ctype="x-cp-font" id="13601-19-1-1">解答を 2 つ選択</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -378,7 +378,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="13609-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#c13933;font-size:16.0pt" ctype="x-cp-font" id="13609-19-1-1">回答を 2 つだけ選択</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#c13933;font-size:16.0pt" ctype="x-cp-font" id="13609-19-1-1">解答を 2 つだけ選択</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -387,7 +387,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="15300-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#c13933;font-size:16.0pt" ctype="x-cp-font" id="15300-19-1-1">回答を 3 つ選択</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#c13933;font-size:16.0pt" ctype="x-cp-font" id="15300-19-1-1">解答を 3 つ選択</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -396,7 +396,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="15308-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#c13933;font-size:16.0pt" ctype="x-cp-font" id="15308-19-1-1">回答を 3 つだけ選択</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#c13933;font-size:16.0pt" ctype="x-cp-font" id="15308-19-1-1">解答を 3 つだけ選択</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -459,7 +459,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="15345-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="15345-612-1-1">見直し</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="15345-612-1-1">確認</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -468,7 +468,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="15366-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="15366-612-1-1">見直し</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="15366-612-1-1">確認</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -477,7 +477,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="15387-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="15387-612-1-1">見直し</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="15387-612-1-1">確認</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -550,7 +550,7 @@
 						<slide cp:datatype="x-object" extype="30" id="43457" resname="Slide 1" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="43457-337">
-									<source>質問 2</source>
+									<source>問題 2</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -564,7 +564,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="42683-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="42683-19-1-1">質問 2/7 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="42683-19-1-1">問題 2/7 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -573,7 +573,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="42704-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="42704-19-1-1">Apex での単体テストの作成に関する正確な説明はどれですか?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="42704-19-1-1">Apex での単体テストの作成についての正確な説明はどれですか?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -690,7 +690,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
 										<trans-unit id="43026-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43026-19-1-1">トリガを Sandbox から本番にリリースするために単体テストは必要ない。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43026-19-1-1">トリガーを Sandbox から本番にリリースするために単体テストは必要ない</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -699,7 +699,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="43043-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43043-19-1-1">不正解。トリガもリリースするためには、単体テストの対象にする必要があります。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43043-19-1-1">不正解。トリガーもリリースするためには、単体テストの対象にする必要があります。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -753,7 +753,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
 										<trans-unit id="43147-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43147-19-1-1">単体テストにメソッドが多数ある場合、1 つのメソッドに失敗すると、すべてのメソッドが失敗する</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43147-19-1-1">単体テストにメソッドが多数ある場合、1 つのメソッドが失敗すると、すべてのメソッドが失敗する</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -762,7 +762,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="43164-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43164-19-1-1">不正解。1 つのメソッドに失敗しても、他のメソッドは成功することがあります。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="43164-19-1-1">不正解。1 つのメソッドが失敗しても、他のテストメソッドが正常に実行されることがあります。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -816,7 +816,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
 										<trans-unit id="43268-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43268-19-1-1">コードカバー率が上昇しないというシステムの assert ステートメントも、単体テストの重要なフィードバックになる。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="43268-19-1-1">コードカバー率が上昇しないというシステムの assert ステートメントも、単体テストの重要なフィードバックになる</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -835,7 +835,7 @@
 						<slide cp:datatype="x-object" extype="30" id="23027" resname="Slide 2" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="23027-337">
-									<source>質問 3</source>
+									<source>問題 3</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -849,7 +849,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22283-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22283-19-1-1">質問 3/7 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="22283-19-1-1">問題 3/7 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -921,7 +921,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="22516-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:11.0pt;font:style:italics" ctype="x-cp-font" id="22516-19-1-1">正解。独自のデータを作成することで、メソッドを組織のデータと切り離して検証できます。このため、コードをある組織から別の組織に移動する場合のエラーを回避できます。メソッドが期待どおり機能することを確認するために、作成したデータのさまざまな入力元を使用してメソッドをコールします。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:11.0pt;font:style:italics" ctype="x-cp-font" id="22516-19-1-1">正解。独自のデータを作成することで、メソッドを組織のデータと切り離して検証できます。こうすれば、コードをある組織から別の組織に移動する場合のエラーを回避できます。メソッドが期待どおり機能することを確認するために、作成したデータに基づくさまざまな入力を使用してメソッドをコールします。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -975,7 +975,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
 										<trans-unit id="22620-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22620-19-1-1">★ </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22620-19-1-1"> </g>
 												<g css-style="font-family:'Courier New';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22620-19-1-2">SeeAllData=true</g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22620-19-1-3">を使用してテストデータを照会するテストするメソッドをコールする結果が正しいことを検証する</g>
 											</source>
@@ -1042,7 +1042,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
 										<trans-unit id="22741-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22741-19-1-1">テストのデータを作成する★ </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22741-19-1-1">テストのデータを作成する </g>
 												<g css-style="font-family:'Courier New';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22741-19-1-2">runAllTests()</g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22741-19-1-3">を実行する結果が正しいことを検証する</g>
 											</source>
@@ -1109,9 +1109,9 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
 										<trans-unit id="22838-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22838-19-1-1">★ </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22838-19-1-1"> </g>
 												<g css-style="font-family:'Courier New';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22838-19-1-2">SeeAllData=true</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22838-19-1-3">を使用してテストデータを照会する★ </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22838-19-1-3">を使用してテストデータを照会する </g>
 												<g css-style="font-family:'Courier New';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22838-19-1-4">runAllTests()</g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="22838-19-1-5">を実行する結果が正しいことを検証する</g>
 											</source>
@@ -1134,7 +1134,7 @@
 						<slide cp:datatype="x-object" extype="30" id="24071" resname="Slide 3" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="24071-337">
-									<source>質問 4</source>
+									<source>問題 4</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1148,7 +1148,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23297-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="23297-19-1-1">質問 4/7 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="23297-19-1-1">問題 4/7 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1157,7 +1157,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="23318-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="23318-19-1-1">開発者には、複数の sObject の作成と編集をサポートする Visualforce ウィザードと連動する 1 つのカスタムコントローラクラスがあります。このウィザードは、複数の Visualforce ページにわたるユーザ入力や、最初の URL のパラメータからのデータを受け入れます。カスタムコントローラの単体テスト内に必要なステートメントはどれですか? (3 つ選択してください)</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="23318-19-1-1">開発者には、複数の sObject の作成と編集をサポートする Visualforce ウィザードと連動する 1 つのカスタムコントローラークラスがあります。このウィザードは、複数の Visualforce ページのユーザー入力のデータや、最初の URL のパラメーターのデータを受け入れます。カスタムコントローラーの単体テスト内に必要な 3 つのステートメントはどれですか? (3 つ選択してください)</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1220,7 +1220,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23536-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23536-19-1-1">正解。最初の URL パラメータを取得するために、現在のページを設定する必要があります。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23536-19-1-1">正解。最初の URL パラメーターを取得するように、現在のページを設定する必要があります。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1283,7 +1283,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23657-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23657-19-1-1">正解。このステートメントは、ページのすべてのパラメータを使用して新しいコントローラをインスタンス化します。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23657-19-1-1">正解。このステートメントは、ページのすべてのパラメーターを使用して新しいコントローラーをインスタンス化します。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1348,7 +1348,7 @@
 											<source>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23778-19-1-1">正解。この行は、ページの URL に </g>
 												<g css-style="font-family:'Courier New';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23778-19-1-2">?input=TestValue</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23778-19-1-3"> クエリパラメータを挿入するために使用します。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23778-19-1-3"> というクエリパラメーターを挿入するために使用します。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1411,7 +1411,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="23899-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23899-19-1-1">不正解。これは、コントローラ拡張のコンストラクタの宣言です。このテストクラスには必要ありません。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="23899-19-1-1">不正解。この行は、コントローラー拡張のコンストラクターの宣言です。このテストクラスには必要ありません。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1421,7 +1421,7 @@
 						<slide cp:datatype="x-object" extype="30" id="27099" resname="Slide 4" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="27099-337">
-									<source>質問 5</source>
+									<source>問題 5</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1435,7 +1435,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="26325-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="26325-19-1-1">質問 5/7 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="26325-19-1-1">問題 5/7 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1444,7 +1444,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="26346-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="26346-19-1-1">ある組織には、取引先に関連する機能を実装するさまざまな Apex クラスがあります。取引先オブジェクトに新しい入力規則を追加した後、多数のテストメソッドに失敗しています。この問題を解決し、今後の入力規則で必要になるコードの変更数を減らすアクションはどれですか? (2 つ選択してください)</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="26346-19-1-1">ある組織には、取引先に関連する機能を実装するさまざまな Apex クラスがあります。取引先オブジェクトに新しい入力規則を追加した後、多数のテストメソッドに失敗しています。この問題を解決し、今後の入力規則で必要になるコードの変更数を減らす 2 つのアクションはどれですか? (2 つ選択してください)</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1624,7 +1624,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
 										<trans-unit id="26789-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="26789-19-1-1">動的リソースから有効な取引先レコードを読み込むメソッドを作成し、テストメソッド内でこのメソッドをコールする</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="26789-19-1-1">静的リソースから有効な取引先レコードを読み込むメソッドを作成し、テストメソッド内でこのメソッドをコールする</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1706,7 +1706,7 @@
 						<slide cp:datatype="x-object" extype="30" id="27909" resname="Slide 5" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="27909-337">
-									<source>質問 6</source>
+									<source>問題 6</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1720,7 +1720,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="27135-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="27135-19-1-1">質問 6/7 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="27135-19-1-1">問題 6/7 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1729,7 +1729,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="27156-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="27156-19-1-1">Sandbox 環境で作業中、開発者が新しいテストクラスを本番にリリースする前に、そのテストクラスの機能を確認するために使用すべきものはどれですか? (2 つ選択してください)</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="27156-19-1-1">Sandbox 環境で作業中、開発者が新しいテストクラスを本番にリリースする前に、そのテストクラスの機能を確認するために使用すべき 2 つのものはどれですか? (2 つ選択してください)</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1981,7 +1981,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="27737-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="27737-19-1-1">正解。[Apex テスト実行] ページで単体テストを実行できます。[Apex テスト実行] ページは、テストの完了後にテストの状況を更新し、結果を表示します。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="27737-19-1-1">正解。[Apex テスト実行] ページで単体テストを実行できます。テストの完了後に、[Apex テスト実行] ページでテストの状況が更新され結果が表示されます。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1991,7 +1991,7 @@
 						<slide cp:datatype="x-object" extype="30" id="28719" resname="Slide 6" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="28719-337">
-									<source>質問 7</source>
+									<source>問題 7</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -2005,7 +2005,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="27945-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="27945-19-1-1">質問 7/7 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="27945-19-1-1">問題 7/7 </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -2014,7 +2014,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="27966-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="27966-19-1-1">開発者には、コードブロックを共有ありと共有なしのどちらで実行すべきかを示すステートメントをすべて省略するコードブロックがあります。組織の共有設定と Salesforce 組織でコードを実行するユーザの共有設定に自動的に従うものはどれですか?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="27966-19-1-1">開発者には、コードブロックを共有ありと共有なしのどちらで実行すべきかを示すステートメントをすべて省略するコードブロックがあります。組織の共有設定と Salesforce 組織でコードを実行するユーザーの共有設定に自動的に従うものはどれですか?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -2068,7 +2068,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
 										<trans-unit id="28163-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="28163-19-1-1">Apex コントローラ</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="28163-19-1-1">Apex コントローラー</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -2077,7 +2077,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="28184-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="28184-19-1-1">不正解。Apex は一般に、システムコンテキストで実行されます。つまり、コードの実行時に、現在のユーザの権限、項目レベルセキュリティ、共有ルールは考慮されません。Apex コントローラもこの動作は同じです。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="28184-19-1-1">不正解。Apex は一般に、システムコンテキストで実行されます。つまり、コードの実行時に、現在のユーザーの権限、項目レベルセキュリティ、共有ルールは考慮されません。Apex コントローラーもこの動作は同じです。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -2131,7 +2131,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
 										<trans-unit id="28288-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="28288-19-1-1">Apex トリガ</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="28288-19-1-1">Apex トリガー</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -2140,7 +2140,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="28305-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="28305-19-1-1">不正解。Apex は一般に、システムコンテキストで実行されます。つまり、コードの実行時に、現在のユーザの権限、項目レベルセキュリティ、共有ルールは考慮されません。Apex トリガもこの動作は同じです。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="28305-19-1-1">不正解。Apex は一般に、システムコンテキストで実行されます。つまり、コードの実行時に、現在のユーザーの権限、項目レベルセキュリティ、共有ルールは考慮されません。Apex トリガーもこの動作は同じです。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -2203,7 +2203,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="28426-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="28426-19-1-1">匿名ブロックは、匿名ブロックウィンドウに記述されたコード行だけでなく、既存の Apex クラスを実行できます。匿名ブロックは、現在のユーザのフル権限を使用して実行されます。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="28426-19-1-1">匿名ブロックは、匿名ブロックウィンドウに記述されたコード行だけでなく、既存の Apex クラスを実行できます。匿名ブロックは、現在のユーザーのフル権限を使用して実行されます。</g>
 												<g css-style="font-family:'Helvetica';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="28426-19-1-2">﻿</g>
 											</source>
 										</trans-unit>
@@ -2258,7 +2258,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:16.00">
 										<trans-unit id="28530-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="28530-19-1-1">HTTP コールアウト</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#606060;font-size:16.0pt" ctype="x-cp-font" id="28530-19-1-1">HTTP のコールアウト</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -2267,7 +2267,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="28547-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="28547-19-1-1">不正解。Apex は一般に、システムコンテキストで実行されます。つまり、コードの実行時に、現在のユーザの権限、項目レベルセキュリティ、共有ルールは考慮されません。HTTP コールアウトでもこの動作は同じです。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:style:italics" ctype="x-cp-font" id="28547-19-1-1">不正解。Apex は一般に、システムコンテキストで実行されます。つまり、コードの実行時に、現在のユーザーの権限、項目レベルセキュリティ、共有ルールは考慮されません。HTTP コールアウトでもこの動作は同じです。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -2467,17 +2467,17 @@
 							<group cp:datatype="x-object" extype="69" id="4051" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="3688" restype="Title Placeholder">
 									<trans-unit id="3688-190">
-										<source>質問のタイトルのプレースホルダ</source>
+										<source>問題のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3713" restype="Question Placeholder">
 									<trans-unit id="3713-190">
-										<source>質問のテキストのプレースホルダ</source>
+										<source>問題のテキストのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3745" restype="Answer Area Placeholder">
 									<trans-unit id="3745-190">
-										<source>回答領域のプレースホルダ</source>
+										<source>解答領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3767" restype="Review Area Placeholder">
@@ -2487,67 +2487,67 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3785" restype="Success Shape Placeholder">
 									<trans-unit id="3785-190">
-										<source>成功キャプションのプレースホルダ</source>
+										<source>成功キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3803" restype="TimeOut Shape Placeholder">
 									<trans-unit id="3803-190">
-										<source>タイムアウトフィードバックのプレースホルダ</source>
+										<source>タイムアウトフィードバックのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3821" restype="Partial Correct Shape Placeholder">
 									<trans-unit id="3821-190">
-										<source>一部正解キャプションのプレースホルダ</source>
+										<source>一部正解キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3839" restype="Retry Shape Placeholder">
 									<trans-unit id="3839-190">
-										<source>再試行キャプションのプレースホルダ</source>
+										<source>再試行キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3857" restype="Incomplete Shape Placeholder">
 									<trans-unit id="3857-190">
-										<source>不完全キャプションのプレースホルダ</source>
+										<source>不完全キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3875" restype="Failure Shape Placeholder">
 									<trans-unit id="3875-190">
-										<source>失敗キャプションのプレースホルダ</source>
+										<source>失敗キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3907" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="3907-190">
-										<source>[戻る] ボタンのプレースホルダ</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3926" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="3926-190">
-										<source>[スキップ] ボタンのプレースホルダ</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3945" restype="Clear Button Placeholder">
 									<trans-unit id="3945-190">
-										<source>[消去] ボタンのプレースホルダ</source>
+										<source>[消去] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3964" restype="Back Button Placeholder">
 									<trans-unit id="3964-190">
-										<source>[戻る] ボタンのプレースホルダ</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3983" restype="Skip Button Placeholder">
 									<trans-unit id="3983-190">
-										<source>[スキップ] ボタンのプレースホルダ</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4002" restype="Submit Button Placeholder">
 									<trans-unit id="4002-190">
-										<source>[送信] ボタンのプレースホルダ</source>
+										<source>[送信] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4050" restype="Progress Indicator Placeholder">
 									<trans-unit id="4050-190">
-										<source>質問 X/Y</source>
+										<source>問題 X/Y</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -2555,7 +2555,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="4492" resname="Slide 8" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4492-337">
-									<source>照合</source>
+									<source>一致</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -2567,32 +2567,32 @@
 							<group cp:datatype="x-object" extype="69" id="4457" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4098" restype="Title Placeholder">
 									<trans-unit id="4098-190">
-										<source>質問のタイトルのプレースホルダ</source>
+										<source>問題のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4123" restype="Question Placeholder">
 									<trans-unit id="4123-190">
-										<source>質問のテキストのプレースホルダ</source>
+										<source>問題のテキストのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4145" restype="Column 1 Placeholder">
 									<trans-unit id="4145-190">
-										<source>質問領域のプレースホルダ</source>
+										<source>問題領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4154" restype="Column 2 Placeholder">
 									<trans-unit id="4154-190">
-										<source>質問領域のプレースホルダ</source>
+										<source>問題領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4186" restype="Question Area Placeholder">
 									<trans-unit id="4186-190">
-										<source>質問領域のプレースホルダ</source>
+										<source>問題領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4205" restype="Answer Area Placeholder">
 									<trans-unit id="4205-190">
-										<source>回答領域のプレースホルダ</source>
+										<source>解答領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4227" restype="Review Area Placeholder">
@@ -2602,52 +2602,52 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4245" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4245-190">
-										<source>不完全キャプションのプレースホルダ</source>
+										<source>不完全キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4263" restype="Failure Shape Placeholder">
 									<trans-unit id="4263-190">
-										<source>失敗キャプションのプレースホルダ</source>
+										<source>失敗キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4281" restype="Success Shape Placeholder">
 									<trans-unit id="4281-190">
-										<source>成功キャプションのプレースホルダ</source>
+										<source>成功キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4313" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4313-190">
-										<source>[戻る] ボタンのプレースホルダ</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4332" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4332-190">
-										<source>[スキップ] ボタンのプレースホルダ</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4351" restype="Clear Button Placeholder">
 									<trans-unit id="4351-190">
-										<source>[消去] ボタンのプレースホルダ</source>
+										<source>[消去] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4370" restype="Back Button Placeholder">
 									<trans-unit id="4370-190">
-										<source>[戻る] ボタンのプレースホルダ</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4389" restype="Skip Button Placeholder">
 									<trans-unit id="4389-190">
-										<source>[スキップ] ボタンのプレースホルダ</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4408" restype="Submit Button Placeholder">
 									<trans-unit id="4408-190">
-										<source>[送信] ボタンのプレースホルダ</source>
+										<source>[送信] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4456" restype="Progress Indicator Placeholder">
 									<trans-unit id="4456-190">
-										<source>質問 X/Y</source>
+										<source>問題 X/Y</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -2667,12 +2667,12 @@
 							<group cp:datatype="x-object" extype="69" id="4781" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4504" restype="Title Placeholder">
 									<trans-unit id="4504-190">
-										<source>質問のタイトルのプレースホルダ</source>
+										<source>問題のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4529" restype="Question Placeholder">
 									<trans-unit id="4529-190">
-										<source>質問のテキストのプレースホルダ</source>
+										<source>問題のテキストのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4551" restype="Review Area Placeholder">
@@ -2682,52 +2682,52 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4569" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4569-190">
-										<source>不完全キャプションのプレースホルダ</source>
+										<source>不完全キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4587" restype="Failure Shape Placeholder">
 									<trans-unit id="4587-190">
-										<source>失敗キャプションのプレースホルダ</source>
+										<source>失敗キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4605" restype="Success Shape Placeholder">
 									<trans-unit id="4605-190">
-										<source>成功キャプションのプレースホルダ</source>
+										<source>成功キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4637" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4637-190">
-										<source>[戻る] ボタンのプレースホルダ</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4656" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4656-190">
-										<source>[スキップ] ボタンのプレースホルダ</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4675" restype="Clear Button Placeholder">
 									<trans-unit id="4675-190">
-										<source>[消去] ボタンのプレースホルダ</source>
+										<source>[消去] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4694" restype="Back Button Placeholder">
 									<trans-unit id="4694-190">
-										<source>[戻る] ボタンのプレースホルダ</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4713" restype="Skip Button Placeholder">
 									<trans-unit id="4713-190">
-										<source>[スキップ] ボタンのプレースホルダ</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4732" restype="Submit Button Placeholder">
 									<trans-unit id="4732-190">
-										<source>[送信] ボタンのプレースホルダ</source>
+										<source>[送信] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4780" restype="Progress Indicator Placeholder">
 									<trans-unit id="4780-190">
-										<source>質問 X/Y</source>
+										<source>問題 X/Y</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -2747,22 +2747,22 @@
 							<group cp:datatype="x-object" extype="69" id="5067" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4828" restype="Title Placeholder">
 									<trans-unit id="4828-190">
-										<source>質問のタイトルのプレースホルダ</source>
+										<source>問題のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4840" restype="Question Placeholder">
 									<trans-unit id="4840-190">
-										<source>質問のテキストのプレースホルダ</source>
+										<source>問題のテキストのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4916" restype="Likert Question Area Placeholder">
 									<trans-unit id="4916-190">
-										<source>Adobe Captivate 5 のプレースホルダ</source>
+										<source>Adobe Captivate 5 のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4934" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4934-190">
-										<source>不完全キャプションのプレースホルダ</source>
+										<source>不完全キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4943" restype="Review Area Placeholder">
@@ -2772,37 +2772,37 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4952" restype="Progress Indicator Placeholder">
 									<trans-unit id="4952-190">
-										<source>質問 X/Y</source>
+										<source>問題 X/Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4971" restype="Submit Button Placeholder">
 									<trans-unit id="4971-190">
-										<source>[送信] ボタンのプレースホルダ</source>
+										<source>[送信] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4990" restype="Skip Button Placeholder">
 									<trans-unit id="4990-190">
-										<source>[スキップ] ボタンのプレースホルダ</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5009" restype="Back Button Placeholder">
 									<trans-unit id="5009-190">
-										<source>[戻る] ボタンのプレースホルダ</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5028" restype="Clear Button Placeholder">
 									<trans-unit id="5028-190">
-										<source>[消去] ボタンのプレースホルダ</source>
+										<source>[消去] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5047" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="5047-190">
-										<source>[スキップ] ボタンのプレースホルダ</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5066" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="5066-190">
-										<source>[戻る] ボタンのプレースホルダ</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -2822,22 +2822,22 @@
 							<group cp:datatype="x-object" extype="69" id="5438" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="5114" restype="Result Title Placeholder">
 									<trans-unit id="5114-190">
-										<source>質問のタイトルのプレースホルダ</source>
+										<source>問題のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5136" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5136-190">
-										<source>スコア結果表示ラベルのプレースホルダ</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5145" restype="Scoring Result Placeholder">
 									<trans-unit id="5145-190">
-										<source>スコア</source>
+										<source>score</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5167" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5167-190">
-										<source>スコア結果表示ラベルのプレースホルダ</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5176" restype="Scoring Result Placeholder">
@@ -2847,7 +2847,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5198" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5198-190">
-										<source>スコア結果表示ラベルのプレースホルダ</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5207" restype="Scoring Result Placeholder">
@@ -2857,7 +2857,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5229" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5229-190">
-										<source>スコア結果表示ラベルのプレースホルダ</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5238" restype="Scoring Result Placeholder">
@@ -2867,17 +2867,17 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5260" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5260-190">
-										<source>スコア結果表示ラベルのプレースホルダ</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5269" restype="Scoring Result Placeholder">
 									<trans-unit id="5269-190">
-										<source>パーセント</source>
+										<source>percent</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5291" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5291-190">
-										<source>スコア結果表示ラベルのプレースホルダ</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5300" restype="Scoring Result Placeholder">
@@ -2887,22 +2887,22 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5332" restype="Review Button Placeholder">
 									<trans-unit id="5332-190">
-										<source>Adobe Captivate 5 のプレースホルダ</source>
+										<source>Adobe Captivate 5 のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5351" restype="Continue Button Placeholder">
 									<trans-unit id="5351-190">
-										<source>[消去] ボタンのプレースホルダ</source>
+										<source>[消去] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5370" restype="Post Result Button Placeholder">
 									<trans-unit id="5370-190">
-										<source>Adobe Captivate 5 のプレースホルダ</source>
+										<source>Adobe Captivate 5 のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5389" restype="Retake Button Placeholder">
 									<trans-unit id="5389-190">
-										<source>Adobe Captivate 5 のプレースホルダ</source>
+										<source>Adobe Captivate 5 のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5411" restype="Review Area Placeholder">
@@ -2982,27 +2982,27 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10184" restype="x-cp-quiz-incomplete-feedback-text">
 							<trans-unit id="382-10184">
-								<source>続行するには、質問に回答する必要があります。</source>
+								<source>続行するには、問題に解答する必要があります。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10188" restype="x-cp-quiz-timeout-feedback-text">
 							<trans-unit id="382-10188">
-								<source>この質問に回答する時間制限を超えました。ウィンドウ内をクリックするか、Y キーを押して続行してください。</source>
+								<source>この問題への解答の制限時間を超えました。ウィンドウ内をクリックするか、Y キーを押して続行してください。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">
 							<trans-unit id="382-10358">
-								<source>すべての質問に回答しました。この後はどうされますか?</source>
+								<source>すべての問題に解答しました。この後はどうされますか?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10359" restype="x-cp-quiz-submit-all-incomplete-text">
 							<trans-unit id="382-10359">
-								<source>1 つ以上の質問への回答が不完全です。続行するには、すべての質問に回答してください。</source>
+								<source>1 つ以上の問題への解答が不完全です。続行するには、すべての問題に解答してください。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10360" restype="x-cp-quiz-submit-all-submit-incomplete-text">
 							<trans-unit id="382-10360">
-								<source>まだいくつかの質問に回答していません。それらの質問に回答せずに続行しますか?</source>
+								<source>まだ解答していない問題が残っています。これらの問題に解答せずに続行しますか?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-object" extype="10042" id="383" restype="x-cp-quizzes">
@@ -3035,12 +3035,12 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
 									<trans-unit id="384-10172">
-										<source>この質問に完全に回答しませんでした。</source>
+										<source>この問題への解答が不完全です。</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
 									<trans-unit id="384-10173">
-										<source>あなた回答:</source>
+										<source>あなたの解答:</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10174" restype="x-cp-quiz-review-incorrect-message-line-2">
