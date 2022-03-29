@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2021-02-08T15:30:37.0Z" original="THI-000263.cptx" source-language="enUS">
+		<file datatype="cptx" date="2022-03-25T11:37:04.0Z" original="THI-000263.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
-					<count count-type="total" unit="trans-unit">337</count>
-					<count count-type="total" unit="word">1319</count>
+					<count count-type="total" unit="trans-unit">308</count>
+					<count count-type="total" unit="word">1119</count>
 					<count count-type="total" unit="x-cp-slides">5</count>
 				</count-group>
 			</header>
@@ -106,7 +106,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="12760-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-1-1">The Sales team wants to enter in the key fields on an account. They would also like to ensure the fields are easily accessible in the mobile app. Which standard Lightning component can the App Builder recommend?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#606060;font-size:18.0pt" ctype="x-cp-font" id="12760-19-1-1">The Sales team wants to fill out the key fields on an account. They would also like to ensure the fields are easily accessible in the mobile app. Which standard Lightning component can the App Builder recommend?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -539,232 +539,6 @@
 										<trans-unit id="15545-612-1">
 											<source>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="15545-612-1-1">Retake</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="19" id="52601" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="52601-19-1-1">INSTRUCTIONS</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-1-2">:</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-2">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-2-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-3">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-3-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-4">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-4-1">1. Change the “X” in “Question 1 of X” to the total number of questions (do this on all questions).</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-5">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-5-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-6">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-6-1">2. Type or paste the questions in the questions section.</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-7">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-7-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-8">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-8-1">3. Type or paste the answers in the answer sections.</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-9">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-9-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-10">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-10-1">4. Type or paste the feedback for each answer.</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-11">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-11-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-12">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-12-1">5. In slide actions, click script_window and adjust the following:</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-13">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-13-1">	- </g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="52601-19-13-2">qnc </g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-13-3">= number of correct answers for this question</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-14">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-14-1">	- ans1 = the letter of the correct answer</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-15">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-15-1">	- ans2 = if there is a second correct answer, change to the applicable answer letter</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52601-19-16">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52601-19-16-1">	- ans3 = if there is a third correct answer, change to the applicable answer letter</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="19" id="52649" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="52649-19-1-1">If you need an option E (a fifth answer)</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-1-2">:</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-2">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-2-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-3">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-3-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-4">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-4-1">1. Change the Master slide from </g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="52649-19-4-2">QWF </g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-4-3">to </g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="52649-19-4-4">QWF 5 options</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-4-5">.</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-5">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-5-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-6">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-6-1">2. Re-position all the items back into the fluid boxes (drag until box turns green).</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-7">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-7-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-8">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-8-1">3. From the last slide, copy and paste the three items to the appropriate emply fluid boxes.</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-9">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-9-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-10">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-10-1">4. Click each of the three items and ensure the labels (in Properties tab) are as follows: </g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-11">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-11-1">	- The E button: Q&lt;question #&gt;_D</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-12">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-12-1">	- Option 5: Q&lt;question #&gt;_E_Text</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="52649-19-13">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="52649-19-13-1">	- Option 5 Explanation: Q&lt;question #&gt;_E_Explanation</g>
 											</source>
 										</trans-unit>
 									</group>

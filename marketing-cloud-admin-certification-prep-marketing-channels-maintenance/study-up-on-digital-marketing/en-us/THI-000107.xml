@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2020-10-05T15:26:01.0Z" original="THI-000107.cptx" source-language="enUS">
+		<file datatype="cptx" date="2022-03-28T14:40:07.0Z" original="THI-000107.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
-					<count count-type="total" unit="trans-unit">144</count>
-					<count count-type="total" unit="word">478</count>
+					<count count-type="total" unit="trans-unit">148</count>
+					<count count-type="total" unit="word">505</count>
 					<count count-type="total" unit="x-cp-slides">2</count>
 				</count-group>
 			</header>
@@ -47,8 +47,7 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="429" restype="x-cp-project-info-author">
 							<trans-unit id="305-429">
-								<source>
-								</source>
+								<source>TIDev</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="430" restype="x-cp-project-info-company">
@@ -76,8 +75,7 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="434" restype="x-cp-project-info-description">
 							<trans-unit id="305-434">
-								<source>
-								</source>
+								<source>499 x 320 pxTemplate date: 01_12_2021</source>
 							</trans-unit>
 						</group>
 					</group>
@@ -99,25 +97,61 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="5724-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="5724-612-1-1">1 of 2</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="5724-612-1-1">1 of 1</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="5844" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
-										<trans-unit id="5844-612-1">
+								<group cp:datatype="x-object" extype="612" id="173217" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
+										<trans-unit id="173217-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="5844-612-1-1">The CAN-SPAM act is the U.S. Federal standards for the sending of email messages. The CAN-SPAM act requires that Commercial emails, whose primary purpose is to deliver commercial content, meet a certain set of criteria.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173217-612-1-1">The CAN-SPAM act is the US federal standards for the sending of email messages. The CAN-SPAM act requires that commercial emails, of which the primary purpose is to deliver commercial content, meet a certain set of criteria. </g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="5879" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="173077" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
-										<trans-unit id="5879-612-1">
+										<trans-unit id="173077-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="5879-612-1-1">CAN-SPAM</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173077-612-1-1">CAN-SPAM</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10137" id="160808" restype="Group">
+									<group cp:datatype="x-object" extype="69" id="160809" restype="x-cp-items"/>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="215972" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="215972-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="215972-19-1-1">INSTRUCTIONS</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="215972-19-1-2">:</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="215972-19-2">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="215972-19-2-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="215972-19-3">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="215972-19-3-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="215972-19-4">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="215972-19-4-1">1. Change the “X” in “1 of X” to the total number of flashcards (do this on all flashcards).</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -146,20 +180,20 @@
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="10925" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
-										<trans-unit id="10925-612-1">
+								<group cp:datatype="x-object" extype="612" id="173287" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
+										<trans-unit id="173287-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="10925-612-1-1">Interaction Studio allows you to get omnichannel next best action and orchestration from real-time insights into your customers’ journeys.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173287-612-1-1">Peronalization allows you to get omnichannel next-best action and orchestration from real-time insights into your customers’ journeys.</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="10994" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="173252" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
-										<trans-unit id="10994-612-1">
+										<trans-unit id="173252-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="10994-612-1-1">Interaction Studio</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173252-612-1-1">Personalization</g>
 											</source>
 										</trans-unit>
 									</group>
