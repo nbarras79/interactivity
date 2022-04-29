@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2021-02-17T15:10:04.0Z" original="THI-000264.cptx" source-language="enUS">
+		<file datatype="cptx" date="2022-03-25T11:50:10.0Z" original="THI-000264.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
-					<count count-type="total" unit="trans-unit">161</count>
-					<count count-type="total" unit="word">512</count>
+					<count count-type="total" unit="trans-unit">157</count>
+					<count count-type="total" unit="word">490</count>
 					<count count-type="total" unit="x-cp-slides">4</count>
 				</count-group>
 			</header>
@@ -122,39 +122,6 @@
 								</group>
 								<group cp:datatype="x-object" extype="10137" id="160808" restype="Group">
 									<group cp:datatype="x-object" extype="69" id="160809" restype="x-cp-items"/>
-								</group>
-								<group cp:datatype="x-object" extype="19" id="215972" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="215972-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="215972-19-1-1">説明</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="215972-19-1-2">:</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="215972-19-2">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="215972-19-2-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="215972-19-3">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="215972-19-3-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="215972-19-4">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="215972-19-4-1">1.「1/X」の「X」をフラッシュカードの総数に変更します (これをすべてフラッシュカードで行う)。</g>
-											</source>
-										</trans-unit>
-									</group>
 								</group>
 							</group>
 						</slide>
@@ -353,7 +320,7 @@
 							<group cp:datatype="x-object" extype="69" id="4051" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4050" restype="Progress Indicator Placeholder">
 									<trans-unit id="4050-190">
-										<source>質問 X/Y</source>
+										<source>設問 X/Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3767" restype="Review Area Placeholder">
@@ -363,77 +330,77 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3785" restype="Success Shape Placeholder">
 									<trans-unit id="3785-190">
-										<source>成功キャプションのプレースホルダ</source>
+										<source>成功キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3803" restype="TimeOut Shape Placeholder">
 									<trans-unit id="3803-190">
-										<source>タイムアウトフィードバックのプレースホルダ</source>
+										<source>タイムアウトフィードバックのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3821" restype="Partial Correct Shape Placeholder">
 									<trans-unit id="3821-190">
-										<source>一部正解キャプションのプレースホルダ</source>
+										<source>一部正解キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3839" restype="Retry Shape Placeholder">
 									<trans-unit id="3839-190">
-										<source>再試行キャプションのプレースホルダ</source>
+										<source>再試行キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3857" restype="Incomplete Shape Placeholder">
 									<trans-unit id="3857-190">
-										<source>不完全キャプションのプレースホルダ</source>
+										<source>不完全キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3875" restype="Failure Shape Placeholder">
 									<trans-unit id="3875-190">
-										<source>失敗キャプションのプレースホルダ</source>
+										<source>失敗キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3688" restype="Title Placeholder">
 									<trans-unit id="3688-190">
-										<source>質問のタイトルのプレースホルダ</source>
+										<source>設問のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3713" restype="Question Placeholder">
 									<trans-unit id="3713-190">
-										<source>質問のテキストのプレースホルダ</source>
+										<source>設問のテキストのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3745" restype="Answer Area Placeholder">
 									<trans-unit id="3745-190">
-										<source>回答領域のプレースホルダ</source>
+										<source>回答領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3907" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="3907-190">
-										<source>[戻る] ボタンのプレースホルダ</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3926" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="3926-190">
-										<source>[スキップ] ボタンのプレースホルダ</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3945" restype="Clear Button Placeholder">
 									<trans-unit id="3945-190">
-										<source>[消去] ボタンのプレースホルダ</source>
+										<source>[消去] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3964" restype="Back Button Placeholder">
 									<trans-unit id="3964-190">
-										<source>[戻る] ボタンのプレースホルダ</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3983" restype="Skip Button Placeholder">
 									<trans-unit id="3983-190">
-										<source>[スキップ] ボタンのプレースホルダ</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4002" restype="Submit Button Placeholder">
 									<trans-unit id="4002-190">
-										<source>[送信] ボタンのプレースホルダ</source>
+										<source>[送信] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -453,37 +420,37 @@
 							<group cp:datatype="x-object" extype="69" id="4457" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4456" restype="Progress Indicator Placeholder">
 									<trans-unit id="4456-190">
-										<source>質問 X/Y</source>
+										<source>設問 X/Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4098" restype="Title Placeholder">
 									<trans-unit id="4098-190">
-										<source>質問のタイトルのプレースホルダ</source>
+										<source>設問のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4123" restype="Question Placeholder">
 									<trans-unit id="4123-190">
-										<source>質問のテキストのプレースホルダ</source>
+										<source>設問のテキストのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4145" restype="Column 1 Placeholder">
 									<trans-unit id="4145-190">
-										<source>質問領域のプレースホルダ</source>
+										<source>設問領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4154" restype="Column 2 Placeholder">
 									<trans-unit id="4154-190">
-										<source>質問領域のプレースホルダ</source>
+										<source>設問領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4186" restype="Question Area Placeholder">
 									<trans-unit id="4186-190">
-										<source>質問領域のプレースホルダ</source>
+										<source>設問領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4205" restype="Answer Area Placeholder">
 									<trans-unit id="4205-190">
-										<source>回答領域のプレースホルダ</source>
+										<source>回答領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4227" restype="Review Area Placeholder">
@@ -493,47 +460,47 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4245" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4245-190">
-										<source>不完全キャプションのプレースホルダ</source>
+										<source>不完全キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4263" restype="Failure Shape Placeholder">
 									<trans-unit id="4263-190">
-										<source>失敗キャプションのプレースホルダ</source>
+										<source>失敗キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4281" restype="Success Shape Placeholder">
 									<trans-unit id="4281-190">
-										<source>成功キャプションのプレースホルダ</source>
+										<source>成功キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4313" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4313-190">
-										<source>[戻る] ボタンのプレースホルダ</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4332" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4332-190">
-										<source>[スキップ] ボタンのプレースホルダ</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4351" restype="Clear Button Placeholder">
 									<trans-unit id="4351-190">
-										<source>[消去] ボタンのプレースホルダ</source>
+										<source>[消去] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4370" restype="Back Button Placeholder">
 									<trans-unit id="4370-190">
-										<source>[戻る] ボタンのプレースホルダ</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4389" restype="Skip Button Placeholder">
 									<trans-unit id="4389-190">
-										<source>[スキップ] ボタンのプレースホルダ</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4408" restype="Submit Button Placeholder">
 									<trans-unit id="4408-190">
-										<source>[送信] ボタンのプレースホルダ</source>
+										<source>[送信] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -553,17 +520,17 @@
 							<group cp:datatype="x-object" extype="69" id="4781" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4780" restype="Progress Indicator Placeholder">
 									<trans-unit id="4780-190">
-										<source>質問 X/Y</source>
+										<source>設問 X/Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4504" restype="Title Placeholder">
 									<trans-unit id="4504-190">
-										<source>質問のタイトルのプレースホルダ</source>
+										<source>設問のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4529" restype="Question Placeholder">
 									<trans-unit id="4529-190">
-										<source>質問のテキストのプレースホルダ</source>
+										<source>設問のテキストのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4551" restype="Review Area Placeholder">
@@ -573,47 +540,47 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4569" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4569-190">
-										<source>不完全キャプションのプレースホルダ</source>
+										<source>不完全キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4587" restype="Failure Shape Placeholder">
 									<trans-unit id="4587-190">
-										<source>失敗キャプションのプレースホルダ</source>
+										<source>失敗キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4605" restype="Success Shape Placeholder">
 									<trans-unit id="4605-190">
-										<source>成功キャプションのプレースホルダ</source>
+										<source>成功キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4637" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4637-190">
-										<source>[戻る] ボタンのプレースホルダ</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4656" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4656-190">
-										<source>[スキップ] ボタンのプレースホルダ</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4675" restype="Clear Button Placeholder">
 									<trans-unit id="4675-190">
-										<source>[消去] ボタンのプレースホルダ</source>
+										<source>[消去] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4694" restype="Back Button Placeholder">
 									<trans-unit id="4694-190">
-										<source>[戻る] ボタンのプレースホルダ</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4713" restype="Skip Button Placeholder">
 									<trans-unit id="4713-190">
-										<source>[スキップ] ボタンのプレースホルダ</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4732" restype="Submit Button Placeholder">
 									<trans-unit id="4732-190">
-										<source>[送信] ボタンのプレースホルダ</source>
+										<source>[送信] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -633,22 +600,22 @@
 							<group cp:datatype="x-object" extype="69" id="5067" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4828" restype="Title Placeholder">
 									<trans-unit id="4828-190">
-										<source>質問のタイトルのプレースホルダ</source>
+										<source>設問のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4840" restype="Question Placeholder">
 									<trans-unit id="4840-190">
-										<source>質問のテキストのプレースホルダ</source>
+										<source>設問のテキストのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4916" restype="Likert Question Area Placeholder">
 									<trans-unit id="4916-190">
-										<source>Adobe Captivate 5 のプレースホルダ</source>
+										<source>Adobe Captivate 5 のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4934" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4934-190">
-										<source>不完全キャプションのプレースホルダ</source>
+										<source>不完全キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4943" restype="Review Area Placeholder">
@@ -658,37 +625,37 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4952" restype="Progress Indicator Placeholder">
 									<trans-unit id="4952-190">
-										<source>質問 X/Y</source>
+										<source>設問 X/Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4971" restype="Submit Button Placeholder">
 									<trans-unit id="4971-190">
-										<source>[送信] ボタンのプレースホルダ</source>
+										<source>[送信] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4990" restype="Skip Button Placeholder">
 									<trans-unit id="4990-190">
-										<source>[スキップ] ボタンのプレースホルダ</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5009" restype="Back Button Placeholder">
 									<trans-unit id="5009-190">
-										<source>[戻る] ボタンのプレースホルダ</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5028" restype="Clear Button Placeholder">
 									<trans-unit id="5028-190">
-										<source>[消去] ボタンのプレースホルダ</source>
+										<source>[消去] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5047" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="5047-190">
-										<source>[スキップ] ボタンのプレースホルダ</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5066" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="5066-190">
-										<source>[戻る] ボタンのプレースホルダ</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -708,12 +675,12 @@
 							<group cp:datatype="x-object" extype="69" id="5438" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="5114" restype="Result Title Placeholder">
 									<trans-unit id="5114-190">
-										<source>質問のタイトルのプレースホルダ</source>
+										<source>設問のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5136" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5136-190">
-										<source>スコア結果表示ラベルのプレースホルダ</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5145" restype="Scoring Result Placeholder">
@@ -723,7 +690,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5167" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5167-190">
-										<source>スコア結果表示ラベルのプレースホルダ</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5176" restype="Scoring Result Placeholder">
@@ -733,7 +700,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5198" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5198-190">
-										<source>スコア結果表示ラベルのプレースホルダ</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5207" restype="Scoring Result Placeholder">
@@ -743,7 +710,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5229" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5229-190">
-										<source>スコア結果表示ラベルのプレースホルダ</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5238" restype="Scoring Result Placeholder">
@@ -753,7 +720,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5260" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5260-190">
-										<source>スコア結果表示ラベルのプレースホルダ</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5269" restype="Scoring Result Placeholder">
@@ -763,7 +730,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5291" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5291-190">
-										<source>スコア結果表示ラベルのプレースホルダ</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5300" restype="Scoring Result Placeholder">
@@ -773,22 +740,22 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5332" restype="Review Button Placeholder">
 									<trans-unit id="5332-190">
-										<source>Adobe Captivate 5 のプレースホルダ</source>
+										<source>Adobe Captivate 5 のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5351" restype="Continue Button Placeholder">
 									<trans-unit id="5351-190">
-										<source>[消去] ボタンのプレースホルダ</source>
+										<source>[消去] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5370" restype="Post Result Button Placeholder">
 									<trans-unit id="5370-190">
-										<source>Adobe Captivate 5 のプレースホルダ</source>
+										<source>Adobe Captivate 5 のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5389" restype="Retake Button Placeholder">
 									<trans-unit id="5389-190">
-										<source>Adobe Captivate 5 のプレースホルダ</source>
+										<source>Adobe Captivate 5 のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5411" restype="Review Area Placeholder">
@@ -868,27 +835,27 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10184" restype="x-cp-quiz-incomplete-feedback-text">
 							<trans-unit id="382-10184">
-								<source>続行するには、質問に回答する必要があります。</source>
+								<source>続行するには、設問に回答する必要があります。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10188" restype="x-cp-quiz-timeout-feedback-text">
 							<trans-unit id="382-10188">
-								<source>この質問に回答する時間制限を超えました。ウィンドウ内をクリックするか、Y キーを押して続行してください。</source>
+								<source>この設問に回答する時間制限を超えました。ウィンドウ内をクリックするか、Y キーを押して続行してください。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">
 							<trans-unit id="382-10358">
-								<source>すべての質問に回答しました。この後はどうされますか?</source>
+								<source>すべての設問に回答しました。この後はどうされますか?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10359" restype="x-cp-quiz-submit-all-incomplete-text">
 							<trans-unit id="382-10359">
-								<source>1 つ以上の質問への回答が不完全です。続行するには、すべての質問に回答してください。</source>
+								<source>1 つ以上の設問への回答が不完全です。続行するには、すべての設問に回答してください。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10360" restype="x-cp-quiz-submit-all-submit-incomplete-text">
 							<trans-unit id="382-10360">
-								<source>まだいくつかの質問に回答していません。それらの質問に回答せずに続行しますか?</source>
+								<source>まだ回答していない設問が残っています。これらの設問に回答せずに続行しますか?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-object" extype="10042" id="383" restype="x-cp-quizzes">
@@ -921,12 +888,12 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
 									<trans-unit id="384-10172">
-										<source>この質問に完全に回答しませんでした。</source>
+										<source>この設問への回答が不完全です。</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
 									<trans-unit id="384-10173">
-										<source>あなた回答:</source>
+										<source>あなたの回答:</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10174" restype="x-cp-quiz-review-incorrect-message-line-2">
