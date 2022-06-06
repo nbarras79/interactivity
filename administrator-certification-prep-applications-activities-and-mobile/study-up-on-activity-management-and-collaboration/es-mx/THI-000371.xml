@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2021-06-09T10:08:16.0Z" original="THI-000371n.cptx" source-language="enUS">
+		<file datatype="cptx" date="2022-03-25T11:52:15.0Z" original="THI-000371.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
 					<count count-type="total" unit="trans-unit">185</count>
-					<count count-type="total" unit="word">609</count>
+					<count count-type="total" unit="word">608</count>
 					<count count-type="total" unit="x-cp-slides">9</count>
 				</count-group>
 			</header>
@@ -26,12 +26,12 @@
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="591" restype="x-cp-project-password-message">
 						<trans-unit id="1-591">
-							<source>Escriba la contraseña correcta directamente en el cuadro de texto a continuación y haga clic en el botón que también aparece.</source>
+							<source>Escriba la contrase&ntilde;a correcta directamente en el cuadro de texto a continuaci&oacute;n y haga clic en el bot&oacute;n que tambi&eacute;n aparece.</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="592" restype="x-cp-project-password-retry-message">
 						<trans-unit id="1-592">
-							<source>La contraseña que ingresó es incorrecta. Inténtelo de nuevo.</source>
+							<source>La contrase&ntilde;a que ingres&oacute; es incorrecta. Int&eacute;ntelo de nuevo.</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="593" restype="x-cp-project-password-button-text">
@@ -42,7 +42,7 @@
 					<group cp:datatype="x-object" extype="417" id="305" restype="x-cp-project-information">
 						<group cp:datatype="x-property" datatype="plaintext" extype="428" restype="x-cp-project-info-name">
 							<trans-unit id="305-428">
-								<source>Tarjetas nemotécnicas</source>
+								<source>Tarjetas nemot&eacute;cnicas</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="429" restype="x-cp-project-info-author">
@@ -75,8 +75,8 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="434" restype="x-cp-project-info-description">
 							<trans-unit id="305-434">
-								<source>499 x 320 píxeles
-Fecha de plantilla: 29/03/2021</source>
+								<source>499 x 320&nbsp;p&iacute;xeles
+Fecha de plantilla: 29 de marzo de 2021</source>
 							</trans-unit>
 						</group>
 					</group>
@@ -84,7 +84,7 @@ Fecha de plantilla: 29/03/2021</source>
 						<slide cp:datatype="x-object" extype="30" id="5568" resname="Slide 0" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="5568-337">
-									<source>Tarjeta nemotécnica 1</source>
+									<source>Tarjeta nemot&eacute;cnica 1</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -116,7 +116,7 @@ Fecha de plantilla: 29/03/2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173077-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173077-612-1-1">¿Cómo debe un usuario de Chatter enviar un mensaje a otro usuario de Chatter y que nadie más pueda ver dicho mensaje?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173077-612-1-1">¿C&oacute;mo debe un usuario de Chatter enviar un mensaje a otro usuario de Chatter y que nadie m&aacute;s pueda ver dicho mensaje?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -129,7 +129,7 @@ Fecha de plantilla: 29/03/2021</source>
 						<slide cp:datatype="x-object" extype="30" id="11010" resname="Slide 1" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="11010-337">
-									<source>Tarjeta nemotécnica 2</source>
+									<source>Tarjeta nemot&eacute;cnica 2</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -152,7 +152,7 @@ Fecha de plantilla: 29/03/2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173287-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173287-612-1-1">Registros, ya sean tareas o eventos, de las interacciones de la organización con los registros, como las cuentas, los contactos y las oportunidades</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173287-612-1-1">Registros, ya sean tareas o eventos, de las interacciones de la organizaci&oacute;n con los registros, como las cuentas, los contactos y las oportunidades</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -171,7 +171,7 @@ Fecha de plantilla: 29/03/2021</source>
 						<slide cp:datatype="x-object" extype="30" id="11801" resname="Slide 2" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="11801-337">
-									<source>Tarjeta nemotécnica 3</source>
+									<source>Tarjeta nemot&eacute;cnica 3</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -202,7 +202,7 @@ Fecha de plantilla: 29/03/2021</source>
 										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 											<trans-unit id="173357-612-2">
 												<source>
-													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:24.0pt" ctype="x-cp-font" id="173357-612-2-1">Colaborar en grupos privados, públicos o sin registrar.</g>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:24.0pt" ctype="x-cp-font" id="173357-612-2-1">Colaborar en grupos privados, p&uacute;blicos o sin registrar.</g>
 												</source>
 											</trans-unit>
 										</group>
@@ -216,7 +216,7 @@ Fecha de plantilla: 29/03/2021</source>
 										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 											<trans-unit id="173357-612-4">
 												<source>
-													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:24.0pt" ctype="x-cp-font" id="173357-612-4-1">Publicar actualizaciones, archivos y vínculos.</g>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:24.0pt" ctype="x-cp-font" id="173357-612-4-1">Publicar actualizaciones, archivos y v&iacute;nculos.</g>
 												</source>
 											</trans-unit>
 										</group>
@@ -243,7 +243,7 @@ Fecha de plantilla: 29/03/2021</source>
 						<slide cp:datatype="x-object" extype="30" id="12132" resname="Slide 3" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="12132-337">
-									<source>Tarjeta nemotécnica 4</source>
+									<source>Tarjeta nemot&eacute;cnica 4</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -266,7 +266,7 @@ Fecha de plantilla: 29/03/2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173427-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173427-612-1-1">Acciones rápidas</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173427-612-1-1">Acciones r&aacute;pidas</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -275,7 +275,7 @@ Fecha de plantilla: 29/03/2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173392-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173392-612-1-1">¿Qué opción se puede agregar a los formatos de Publicador de Outlook?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173392-612-1-1">¿Qu&eacute; opci&oacute;n se puede agregar a los formatos de Publicador de Outlook?</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -285,7 +285,7 @@ Fecha de plantilla: 29/03/2021</source>
 						<slide cp:datatype="x-object" extype="30" id="12463" resname="Slide 4" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="12463-337">
-									<source>Tarjeta nemotécnica 5</source>
+									<source>Tarjeta nemot&eacute;cnica 5</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -336,7 +336,7 @@ Fecha de plantilla: 29/03/2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173462-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173462-612-1-1">Lightning for Outlook</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173462-612-1-1">Integraci&oacute;n de Outlook</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -346,7 +346,7 @@ Fecha de plantilla: 29/03/2021</source>
 						<slide cp:datatype="x-object" extype="30" id="12794" resname="Slide 5" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="12794-337">
-									<source>Tarjeta nemotécnica 6</source>
+									<source>Tarjeta nemot&eacute;cnica 6</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -369,7 +369,7 @@ Fecha de plantilla: 29/03/2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173567-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173567-612-1-1">Obtenga acceso a la misma información que puede ver en su equipo, pero organizada de un modo que le permitirá realizar su trabajo cuando no esté en la oficina</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173567-612-1-1">Obtenga acceso a la misma informaci&oacute;n que puede ver en su equipo, pero organizada de un modo que le permitir&aacute; realizar su trabajo cuando no est&eacute; en la oficina</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -378,7 +378,7 @@ Fecha de plantilla: 29/03/2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173532-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173532-612-1-1">Aplicación móvil Salesforce</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173532-612-1-1">Aplicaci&oacute;n m&oacute;vil Salesforce</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -388,7 +388,7 @@ Fecha de plantilla: 29/03/2021</source>
 						<slide cp:datatype="x-object" extype="30" id="13125" resname="Slide 6" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="13125-337">
-									<source>Tarjeta nemotécnica 7</source>
+									<source>Tarjeta nemot&eacute;cnica 7</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -411,7 +411,7 @@ Fecha de plantilla: 29/03/2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173637-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173637-612-1-1">Atrás</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173637-612-1-1">Atr&aacute;s</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -430,7 +430,7 @@ Fecha de plantilla: 29/03/2021</source>
 						<slide cp:datatype="x-object" extype="30" id="13456" resname="Slide 7" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="13456-337">
-									<source>Tarjeta nemotécnica 8</source>
+									<source>Tarjeta nemot&eacute;cnica 8</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -453,7 +453,7 @@ Fecha de plantilla: 29/03/2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173707-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173707-612-1-1">Atrás</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173707-612-1-1">Atr&aacute;s</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -472,7 +472,7 @@ Fecha de plantilla: 29/03/2021</source>
 						<slide cp:datatype="x-object" extype="30" id="13787" resname="Slide 8" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="13787-337">
-									<source>Tarjeta nemotécnica 9</source>
+									<source>Tarjeta nemot&eacute;cnica 9</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -495,7 +495,7 @@ Fecha de plantilla: 29/03/2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173777-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173777-612-1-1">Atrás</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173777-612-1-1">Atr&aacute;s</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -560,82 +560,82 @@ Fecha de plantilla: 29/03/2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3767" restype="Review Area Placeholder">
 									<trans-unit id="3767-190">
-										<source>Área de revisión</source>
+										<source>&Aacute;rea de revisi&oacute;n</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3785" restype="Success Shape Placeholder">
 									<trans-unit id="3785-190">
-										<source>Marcador de posición de subtítulo de respuesta correcta</source>
+										<source>Marcador de posici&oacute;n de subt&iacute;tulo de respuesta correcta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3803" restype="TimeOut Shape Placeholder">
 									<trans-unit id="3803-190">
-										<source>Marcador de posición de agotamiento de tiempo de espera de comentarios</source>
+										<source>Marcador de posici&oacute;n de agotamiento de tiempo de espera de comentarios</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3821" restype="Partial Correct Shape Placeholder">
 									<trans-unit id="3821-190">
-										<source>Marcador de posición de subtítulo de respuesta correcta parcialmente</source>
+										<source>Marcador de posici&oacute;n de subt&iacute;tulo de respuesta correcta parcialmente</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3839" restype="Retry Shape Placeholder">
 									<trans-unit id="3839-190">
-										<source>Marcador de posición de subtítulo de reintento</source>
+										<source>Marcador de posici&oacute;n de subt&iacute;tulo de reintento</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3857" restype="Incomplete Shape Placeholder">
 									<trans-unit id="3857-190">
-										<source>Marcador de posición de subtítulo de respuesta incompleta</source>
+										<source>Marcador de posici&oacute;n de subt&iacute;tulo de respuesta incompleta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3875" restype="Failure Shape Placeholder">
 									<trans-unit id="3875-190">
-										<source>Marcador de posición de subtítulo de fallo</source>
+										<source>Marcador de posici&oacute;n de subt&iacute;tulo de fallo</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3688" restype="Title Placeholder">
 									<trans-unit id="3688-190">
-										<source>Marcador de posición de título de pregunta</source>
+										<source>Marcador de posici&oacute;n de t&iacute;tulo de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3713" restype="Question Placeholder">
 									<trans-unit id="3713-190">
-										<source>Marcador de posición de texto de pregunta</source>
+										<source>Marcador de posici&oacute;n de texto de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3745" restype="Answer Area Placeholder">
 									<trans-unit id="3745-190">
-										<source>Marcador de posición de área de respuesta</source>
+										<source>Marcador de posici&oacute;n de &aacute;rea de respuesta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3907" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="3907-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de retroceso</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3926" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="3926-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de omisi&oacute;n</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3945" restype="Clear Button Placeholder">
 									<trans-unit id="3945-190">
-										<source>Marcador de posición de botón de borrado</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de borrado</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3964" restype="Back Button Placeholder">
 									<trans-unit id="3964-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de retroceso</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3983" restype="Skip Button Placeholder">
 									<trans-unit id="3983-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de omisi&oacute;n</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4002" restype="Submit Button Placeholder">
 									<trans-unit id="4002-190">
-										<source>Marcador de posición de botón de envío</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de env&iacute;o</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -660,82 +660,82 @@ Fecha de plantilla: 29/03/2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4098" restype="Title Placeholder">
 									<trans-unit id="4098-190">
-										<source>Marcador de posición de título de pregunta</source>
+										<source>Marcador de posici&oacute;n de t&iacute;tulo de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4123" restype="Question Placeholder">
 									<trans-unit id="4123-190">
-										<source>Marcador de posición de texto de pregunta</source>
+										<source>Marcador de posici&oacute;n de texto de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4145" restype="Column 1 Placeholder">
 									<trans-unit id="4145-190">
-										<source>Marcador de posición de área de pregunta</source>
+										<source>Marcador de posici&oacute;n de &aacute;rea de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4154" restype="Column 2 Placeholder">
 									<trans-unit id="4154-190">
-										<source>Marcador de posición de área de pregunta</source>
+										<source>Marcador de posici&oacute;n de &aacute;rea de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4186" restype="Question Area Placeholder">
 									<trans-unit id="4186-190">
-										<source>Marcador de posición de área de pregunta</source>
+										<source>Marcador de posici&oacute;n de &aacute;rea de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4205" restype="Answer Area Placeholder">
 									<trans-unit id="4205-190">
-										<source>Marcador de posición de área de respuesta</source>
+										<source>Marcador de posici&oacute;n de &aacute;rea de respuesta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4227" restype="Review Area Placeholder">
 									<trans-unit id="4227-190">
-										<source>Área de revisión</source>
+										<source>&Aacute;rea de revisi&oacute;n</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4245" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4245-190">
-										<source>Marcador de posición de subtítulo de respuesta incompleta</source>
+										<source>Marcador de posici&oacute;n de subt&iacute;tulo de respuesta incompleta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4263" restype="Failure Shape Placeholder">
 									<trans-unit id="4263-190">
-										<source>Marcador de posición de subtítulo de fallo</source>
+										<source>Marcador de posici&oacute;n de subt&iacute;tulo de fallo</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4281" restype="Success Shape Placeholder">
 									<trans-unit id="4281-190">
-										<source>Marcador de posición de subtítulo de respuesta correcta</source>
+										<source>Marcador de posici&oacute;n de subt&iacute;tulo de respuesta correcta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4313" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4313-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de retroceso</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4332" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4332-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de omisi&oacute;n</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4351" restype="Clear Button Placeholder">
 									<trans-unit id="4351-190">
-										<source>Marcador de posición de botón de borrado</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de borrado</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4370" restype="Back Button Placeholder">
 									<trans-unit id="4370-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de retroceso</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4389" restype="Skip Button Placeholder">
 									<trans-unit id="4389-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de omisi&oacute;n</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4408" restype="Submit Button Placeholder">
 									<trans-unit id="4408-190">
-										<source>Marcador de posición de botón de envío</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de env&iacute;o</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -760,62 +760,62 @@ Fecha de plantilla: 29/03/2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4504" restype="Title Placeholder">
 									<trans-unit id="4504-190">
-										<source>Marcador de posición de título de pregunta</source>
+										<source>Marcador de posici&oacute;n de t&iacute;tulo de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4529" restype="Question Placeholder">
 									<trans-unit id="4529-190">
-										<source>Marcador de posición de texto de pregunta</source>
+										<source>Marcador de posici&oacute;n de texto de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4551" restype="Review Area Placeholder">
 									<trans-unit id="4551-190">
-										<source>Área de revisión</source>
+										<source>&Aacute;rea de revisi&oacute;n</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4569" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4569-190">
-										<source>Marcador de posición de subtítulo de respuesta incompleta</source>
+										<source>Marcador de posici&oacute;n de subt&iacute;tulo de respuesta incompleta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4587" restype="Failure Shape Placeholder">
 									<trans-unit id="4587-190">
-										<source>Marcador de posición de subtítulo de fallo</source>
+										<source>Marcador de posici&oacute;n de subt&iacute;tulo de fallo</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4605" restype="Success Shape Placeholder">
 									<trans-unit id="4605-190">
-										<source>Marcador de posición de subtítulo de respuesta correcta</source>
+										<source>Marcador de posici&oacute;n de subt&iacute;tulo de respuesta correcta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4637" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4637-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de retroceso</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4656" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4656-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de omisi&oacute;n</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4675" restype="Clear Button Placeholder">
 									<trans-unit id="4675-190">
-										<source>Marcador de posición de botón de borrado</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de borrado</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4694" restype="Back Button Placeholder">
 									<trans-unit id="4694-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de retroceso</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4713" restype="Skip Button Placeholder">
 									<trans-unit id="4713-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de omisi&oacute;n</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4732" restype="Submit Button Placeholder">
 									<trans-unit id="4732-190">
-										<source>Marcador de posición de botón de envío</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de env&iacute;o</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -835,27 +835,27 @@ Fecha de plantilla: 29/03/2021</source>
 							<group cp:datatype="x-object" extype="69" id="5067" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4828" restype="Title Placeholder">
 									<trans-unit id="4828-190">
-										<source>Marcador de posición de título de pregunta</source>
+										<source>Marcador de posici&oacute;n de t&iacute;tulo de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4840" restype="Question Placeholder">
 									<trans-unit id="4840-190">
-										<source>Marcador de posición de texto de pregunta</source>
+										<source>Marcador de posici&oacute;n de texto de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4916" restype="Likert Question Area Placeholder">
 									<trans-unit id="4916-190">
-										<source>Marcador de posición para Adobe Captivate 5</source>
+										<source>Marcador de posici&oacute;n para Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4934" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4934-190">
-										<source>Marcador de posición de subtítulo de respuesta incompleta</source>
+										<source>Marcador de posici&oacute;n de subt&iacute;tulo de respuesta incompleta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4943" restype="Review Area Placeholder">
 									<trans-unit id="4943-190">
-										<source>Área de revisión</source>
+										<source>&Aacute;rea de revisi&oacute;n</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4952" restype="Progress Indicator Placeholder">
@@ -865,32 +865,32 @@ Fecha de plantilla: 29/03/2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4971" restype="Submit Button Placeholder">
 									<trans-unit id="4971-190">
-										<source>Marcador de posición de botón de envío</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de env&iacute;o</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4990" restype="Skip Button Placeholder">
 									<trans-unit id="4990-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de omisi&oacute;n</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5009" restype="Back Button Placeholder">
 									<trans-unit id="5009-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de retroceso</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5028" restype="Clear Button Placeholder">
 									<trans-unit id="5028-190">
-										<source>Marcador de posición de botón de borrado</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de borrado</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5047" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="5047-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de omisi&oacute;n</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5066" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="5066-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de retroceso</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -910,12 +910,12 @@ Fecha de plantilla: 29/03/2021</source>
 							<group cp:datatype="x-object" extype="69" id="5438" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="5114" restype="Result Title Placeholder">
 									<trans-unit id="5114-190">
-										<source>Marcador de posición de título de pregunta</source>
+										<source>Marcador de posici&oacute;n de t&iacute;tulo de pregunta</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5136" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5136-190">
-										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
+										<source>Marcador de posici&oacute;n de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5145" restype="Scoring Result Placeholder">
@@ -925,17 +925,17 @@ Fecha de plantilla: 29/03/2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5167" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5167-190">
-										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
+										<source>Marcador de posici&oacute;n de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5176" restype="Scoring Result Placeholder">
 									<trans-unit id="5176-190">
-										<source>puntuaje máximo</source>
+										<source>puntuaje m&aacute;ximo</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5198" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5198-190">
-										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
+										<source>Marcador de posici&oacute;n de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5207" restype="Scoring Result Placeholder">
@@ -945,7 +945,7 @@ Fecha de plantilla: 29/03/2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5229" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5229-190">
-										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
+										<source>Marcador de posici&oacute;n de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5238" restype="Scoring Result Placeholder">
@@ -955,7 +955,7 @@ Fecha de plantilla: 29/03/2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5260" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5260-190">
-										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
+										<source>Marcador de posici&oacute;n de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5269" restype="Scoring Result Placeholder">
@@ -965,7 +965,7 @@ Fecha de plantilla: 29/03/2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5291" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5291-190">
-										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
+										<source>Marcador de posici&oacute;n de etiqueta de resultado de puntuaje</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5300" restype="Scoring Result Placeholder">
@@ -975,27 +975,27 @@ Fecha de plantilla: 29/03/2021</source>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5332" restype="Review Button Placeholder">
 									<trans-unit id="5332-190">
-										<source>Marcador de posición para Adobe Captivate 5</source>
+										<source>Marcador de posici&oacute;n para Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5351" restype="Continue Button Placeholder">
 									<trans-unit id="5351-190">
-										<source>Marcador de posición de botón de borrado</source>
+										<source>Marcador de posici&oacute;n de bot&oacute;n de borrado</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5370" restype="Post Result Button Placeholder">
 									<trans-unit id="5370-190">
-										<source>Marcador de posición para Adobe Captivate 5</source>
+										<source>Marcador de posici&oacute;n para Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5389" restype="Retake Button Placeholder">
 									<trans-unit id="5389-190">
-										<source>Marcador de posición para Adobe Captivate 5</source>
+										<source>Marcador de posici&oacute;n para Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5411" restype="Review Area Placeholder">
 									<trans-unit id="5411-190">
-										<source>Área de revisión</source>
+										<source>&Aacute;rea de revisi&oacute;n</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1024,7 +1024,7 @@ Fecha de plantilla: 29/03/2021</source>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10008" restype="x-cp-quiz-back-button-name">
 							<trans-unit id="382-10008">
-								<source>Atrás</source>
+								<source>Atr&aacute;s</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10237" restype="x-cp-quiz-review-button-name">
@@ -1050,17 +1050,17 @@ Fecha de plantilla: 29/03/2021</source>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10105" restype="x-cp-quiz-correct-feedback-text">
 							<trans-unit id="382-10105">
-								<source>Correcta - Haga clic en cualquier punto o pulse “S” para continuar.</source>
+								<source>Correcta - Haga clic en cualquier punto o pulse &ldquo;S&rdquo; para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10291" restype="x-cp-quiz-partial-correct-feedback-text">
 							<trans-unit id="382-10291">
-								<source>Parcialmente correcta - Haga clic en cualquier punto o pulse “S” para continuar.</source>
+								<source>Parcialmente correcta - Haga clic en cualquier punto o pulse &ldquo;S&rdquo; para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10106" restype="x-cp-quiz-incorrect-feedback-text">
 							<trans-unit id="382-10106">
-								<source>Incorrecta - Haga clic en cualquier punto o pulse “S” para continuar.</source>
+								<source>Incorrecta - Haga clic en cualquier punto o pulse &ldquo;S&rdquo; para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10107" restype="x-cp-quiz-retry-feedback-text">
@@ -1075,22 +1075,22 @@ Fecha de plantilla: 29/03/2021</source>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10188" restype="x-cp-quiz-timeout-feedback-text">
 							<trans-unit id="382-10188">
-								<source>El tiempo para responder a esta pregunta transcurrió. Haga clic en cualquier punto o pulse “S” para continuar.</source>
+								<source>El tiempo para responder a esta pregunta transcurri&oacute;. Haga clic en cualquier punto o pulse &ldquo;S&rdquo; para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">
 							<trans-unit id="382-10358">
-								<source>Respondió a todas las preguntas. ¿Qué desea hacer a continuación?</source>
+								<source>Respondi&oacute; a todas las preguntas. ¿Qu&eacute; desea hacer a continuaci&oacute;n?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10359" restype="x-cp-quiz-submit-all-incomplete-text">
 							<trans-unit id="382-10359">
-								<source>Una o más preguntas están incompletas. Responda a todas las preguntas para continuar.</source>
+								<source>Una o m&aacute;s preguntas est&aacute;n incompletas. Responda a todas las preguntas para continuar.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10360" restype="x-cp-quiz-submit-all-submit-incomplete-text">
 							<trans-unit id="382-10360">
-								<source>Aún no respondió a algunas preguntas. ¿Está seguro de que desea continuar sin responder a esas preguntas?</source>
+								<source>A&uacute;n no respondi&oacute; a algunas preguntas. ¿Est&aacute; seguro de que desea continuar sin responder a esas preguntas?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-object" extype="10042" id="383" restype="x-cp-quizzes">
@@ -1113,17 +1113,17 @@ Fecha de plantilla: 29/03/2021</source>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10171" restype="x-cp-quiz-review-correct-message">
 									<trans-unit id="384-10171">
-										<source>¡Respondió correctamente!</source>
+										<source>¡Respondi&oacute; correctamente!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10330" restype="x-cp-quiz-review-partial-correct-message">
 									<trans-unit id="384-10330">
-										<source>¡Respondió correctamente en parte!</source>
+										<source>¡Respondi&oacute; correctamente en parte!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
 									<trans-unit id="384-10172">
-										<source>No respondió a esta pregunta completamente.</source>
+										<source>No respondi&oacute; a esta pregunta completamente.</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
@@ -1138,12 +1138,12 @@ Fecha de plantilla: 29/03/2021</source>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10165" restype="x-cp-quiz-result-pass-message">
 									<trans-unit id="384-10165">
-										<source>¡Felicitaciones, superó la prueba!</source>
+										<source>¡Felicitaciones, super&oacute; la prueba!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10166" restype="x-cp-quiz-result-fail-message">
 									<trans-unit id="384-10166">
-										<source>¡Lo sentimos, no superó la prueba!</source>
+										<source>¡Lo sentimos, no super&oacute; la prueba!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10170" restype="x-cp-quiz-result-email-button-text">
