@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wordchoice>
+  <submitbutton>Submit</submitbutton>
+  <restartbutton>Reset</restartbutton>
+  <incorrecttext>Incorrect, please try again.</incorrecttext>
+  <correcttext>Correct, Great Job!</correcttext>
+  <wordchoice1>
+    <fulltext1>The useful data trait of being {blank_space} clear is evident in this data set because you know where the data comes from.</fulltext1>
+    <choice1>clear</choice1>
+    <choice2>clean</choice2>
+    <choice3>historical</choice3>
+    <choice4>of known pedigree</choice4>
+    <answer>of known pedigree</answer>
+  </wordchoice1>
+  <wordchoice2>
+    <fulltext2>The useful data trait of being {blank_space} historical is evident in this data set because it contains data for 15 years.</fulltext2>
+    <choice1>consistent</choice1>
+    <choice2>historical</choice2>
+    <choice3>richly segmented</choice3>
+    <choice4>of known pedigree</choice4>
+    <answer>historical</answer>
+  </wordchoice2>
+</wordchoice>
