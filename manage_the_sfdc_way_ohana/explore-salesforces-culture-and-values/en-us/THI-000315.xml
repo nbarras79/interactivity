@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2021-04-30T14:59:16.0Z" original="THI-000315.cptx" source-language="enUS">
+		<file datatype="cptx" date="2022-06-27T17:34:04.0Z" original="THI-000315.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
-					<count count-type="total" unit="trans-unit">148</count>
-					<count count-type="total" unit="word">477</count>
+					<count count-type="total" unit="trans-unit">144</count>
+					<count count-type="total" unit="word">456</count>
 					<count count-type="total" unit="x-cp-slides">1</count>
 				</count-group>
 			</header>
@@ -128,7 +128,7 @@ Template date: 02/16/2021</source>
 												<trans-unit id="223796-19-1">
 													<source>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:18.0pt" ctype="x-cp-font" id="223796-19-1-1">Marc Benioff</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:18.0pt" ctype="x-cp-font" id="223796-19-1-2">, Chair and CEO</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:18.0pt" ctype="x-cp-font" id="223796-19-1-2">, Chair and Co-CEO</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -165,39 +165,6 @@ Template date: 02/16/2021</source>
 										<trans-unit id="5724-612-1">
 											<source>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="5724-612-1-1">1 of 1</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="19" id="612233" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="612233-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="612233-19-1-1">INSTRUCTIONS</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="612233-19-1-2">:</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="612233-19-2">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="612233-19-2-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="612233-19-3">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="612233-19-3-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="612233-19-4">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="612233-19-4-1">1. Change the “X” in “1 of X” to the total number of flashcards (do this on all flashcards).</g>
 											</source>
 										</trans-unit>
 									</group>
