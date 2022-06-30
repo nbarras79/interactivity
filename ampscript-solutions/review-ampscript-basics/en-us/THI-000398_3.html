@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+<style>
+
+@font-face {
+  font-family: 'Salesforce Sans regular';
+  src: url("https://dfc-data-production.s3.amazonaws.com/files/sims/fonts/SalesforceSans-Regular.woff2") format("woff2"), url("https://dfc-data-production.s3.amazonaws.com/files/sims/fonts/SalesforceSans-Regular.woff") format("woff");
+  font-weight: 400;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Salesforce Sans bold';
+  src: url("https://dfc-data-production.s3.amazonaws.com/files/sims/fonts/SalesforceSans-Bold.woff2") format("woff2"), url("https://dfc-data-production.s3.amazonaws.com/files/sims/fonts/SalesforceSans-Bold.woff") format("woff");
+  font-weight: 700;
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Courier New';
+  src: url("https://dfc-data-production.s3.amazonaws.com/files/sims/fonts/cour.ttf") format("ttf"), url("https://dfc-data-production.s3.amazonaws.com/files/sims/fonts/cour.ttf") format("ttf");
+  font-weight: 400;
+  font-display: swap;
+}
+body {
+  font-family: 'Salesforce Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1.3em;
+  background-color: #F0F0F0;
+  color: #000000;
+  margin: 0;
+}
+.normal {
+  font-family: 'Salesforce Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1.3em;
+  background-color: #F0F0F0;
+  color: #000000;
+  margin: 0;
+}
+.codetext {
+  font-family: 'Courier New', monospace;
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  border: 1px solid #e1e1e8;
+  background-color: #F7F7F9;
+  color: #FF0000;
+}
+color1 {
+  color: #16325C;
+  font-size: 16px;
+}
+</style>
+</head>
+<body>
+<div>
+<span class="codetext">
+  %%[VAR @price, @quantity, @totalSale
+  <br><br>
+  SET @price = [List-Price]
+  <br>
+  SET @quantity = [Order-Quantity]
+  <br>
+  SET @totalSale = Multiply(@price,@quantity)</span><span class="normal">.</span>
+  <br><br>
+  <span class="codetext">]%%</span>
+  <br><br>
+  <span class="normal">Thanks for your order! Before tax, your total is $</span><span class="codetext">%%=v(@totalSale)=%%</span><span class="normal">.</span>
+  <br><br>
+  <span class="normal"><color1><strong>Output</strong></color1><br><br>Thanks for your order! Before tax, your total is $50.<span>
+</div>
+</body>
+</html>
