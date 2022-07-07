@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wordchoice>
+  <submitbutton>送信</submitbutton>
+  <restartbutton>リセット</restartbutton>
+  <incorrecttext>不正解です。もう一度やり直してください。</incorrecttext>
+  <correcttext>正解です!</correcttext>
+  <wordchoice1>
+    <fulltext1>このデータセットの {blank_space} という有益なデータ特性は明らかです。データの発生源がどこかわかっているからです。</fulltext1>
+    <choice1>明確</choice1>
+    <choice2>クリーン</choice2>
+    <choice3>通時的</choice3>
+    <choice4>既知の系統</choice4>
+    <answer>既知の系統</answer>
+  </wordchoice1>
+  <wordchoice2>
+    <fulltext2>このデータセットの {blank_space} という有益なデータ特性は明らかです。15 年分のデータが含まれているからです。</fulltext2>
+    <choice1>一貫性</choice1>
+    <choice2>通時的</choice2>
+    <choice3>充実したセグメント</choice3>
+    <choice4>既知の系統</choice4>
+    <answer>通時的</answer>
+  </wordchoice2>
+</wordchoice>

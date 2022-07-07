@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wordchoice>
+  <submitbutton>Enviar</submitbutton>
+  <restartbutton>Redefinir</restartbutton>
+  <incorrecttext>Incorreto, tente novamente.</incorrecttext>
+  <correcttext>Correto, ótimo trabalho!</correcttext>
+  <wordchoice1>
+    <fulltext1>O traço de dados útil de ser {blank_space} claro é evidente neste conjunto de dados porque você sabe de onde os dados vêm.</fulltext1>
+    <choice1>claros</choice1>
+    <choice2>limpos</choice2>
+    <choice3>histórico</choice3>
+    <choice4>de procedência conhecida</choice4>
+    <answer>de procedência conhecida</answer>
+  </wordchoice1>
+  <wordchoice2>
+    <fulltext2>O traço de dados útil de ser {blank_space} histórico é evidente neste conjunto de dados porque contém dados que abrangem 15 anos.</fulltext2>
+    <choice1>consistentes</choice1>
+    <choice2>histórico</choice2>
+    <choice3>ricamente segmentados</choice3>
+    <choice4>de procedência conhecida</choice4>
+    <answer>histórico</answer>
+  </wordchoice2>
+</wordchoice>

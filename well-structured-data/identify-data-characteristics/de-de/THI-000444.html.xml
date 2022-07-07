@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wordchoice>
+  <submitbutton>Senden</submitbutton>
+  <restartbutton>Zurücksetzen</restartbutton>
+  <incorrecttext>Falsch, versuchen Sie es erneut.</incorrecttext>
+  <correcttext>Richtig. Gut gemacht!</correcttext>
+  <wordchoice1>
+    <fulltext1>Die nützliche Dateneigenschaft, {blank_space} klar, ist in diesem Datenset offensichtlich, denn Sie wissen, woher die Daten stammen.</fulltext1>
+    <choice1>klar</choice1>
+    <choice2>bereinigt</choice2>
+    <choice3>historisch</choice3>
+    <choice4>mit bekannter Herkunft</choice4>
+    <answer>mit bekannter Herkunft</answer>
+  </wordchoice1>
+  <wordchoice2>
+    <fulltext2>Die nützliche Dateneigenschaft, {blank_space} historisch, ist in diesem Datenset offensichtlich, da es Daten aus 15 Jahren enthält.</fulltext2>
+    <choice1>konsistent</choice1>
+    <choice2>historisch</choice2>
+    <choice3>umfassend segmentiert</choice3>
+    <choice4>mit bekannter Herkunft</choice4>
+    <answer>historisch</answer>
+  </wordchoice2>
+</wordchoice>
