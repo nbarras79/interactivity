@@ -1936,7 +1936,7 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10113" restype="x-cp-quiz-clear-button-name">
 							<trans-unit id="382-10113">
-								<source>明確である (Clear)</source>
+								<source>クリア</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10007" restype="x-cp-quiz-skip-button-name">

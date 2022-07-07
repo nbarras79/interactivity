@@ -135,11 +135,10 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="8887-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8887-612-3-1">かつて、営業担当と言えばあちこちを飛び回るのが仕事でした。今では、相手がどこにいても、どこからでも営業の仕事ができるようになりました。Salesforce では  </g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8887-612-3-1">かつて、営業担当と言えばあちこちを飛び回るのが仕事でした。今では、相手がどこにいても、どこからでも営業の仕事ができるようになりました。Salesforce では </g>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="8887-612-3-2">Sales Cloud</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8887-612-3-3"> を刷新し、会議室やチャットチャネルなど、営業チームがどこからでも仕事をできるようにしました。
- </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="8887-612-3-4">Sales Cloud </g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8887-612-3-3"> を刷新し、会議室やチャットチャネルなど、営業チームがどこからでも仕事をできるようにしました。 </g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="8887-612-3-4">Sales Cloud</g>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8887-612-3-5">を利用すれば、場所を問わずにデジタルで販売を行うことができるため、企業の成長も加速します。</g>
 													</source>
 												</trans-unit>
@@ -169,7 +168,7 @@
 												<trans-unit id="9920-612-3">
 													<source>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9920-612-3-1">Salesforce は、比類のないデジタルサービスエクスペリエンスを </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="9920-612-3-2">提供できるように Service Cloud を</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="9920-612-3-2">Service Cloud</g>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9920-612-3-3"> 刷新しました。以前はコンタクトセンターと言えば建物の中にありましたが、今ではクラウドに存在します。そのため、Salesforce は完全にデジタルなコンタクトセンターを開発しました。これからは、フィールドサービス要員はすべて 1 つの信頼できるデジタルプラットフォーム上で、チケットサービスやデジタルサービスに接続できるようになります。</g>
 													</source>
 												</trans-unit>
@@ -288,7 +287,7 @@
 												<trans-unit id="10276-612-3">
 													<source>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10276-612-3-1"> </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="10276-612-3-2">MuleSoft を利用すると、</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="10276-612-3-2">MuleSoft</g>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10276-612-3-3">レガシーソリューションやバックオフィスソリューションを含め、すべてのビジネスシステムを統合できます。ますます激しく変化する顧客の期待に応えていくためには、今の企業がにはこの軽いフットワークが不可欠です。</g>
 													</source>
 												</trans-unit>
@@ -376,7 +375,7 @@
 												<trans-unit id="11750-612-3">
 													<source>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11750-612-3-1"> </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="11750-612-3-2">Safety Cloud を利用すると、</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="11750-612-3-2">Safety Cloud</g>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11750-612-3-3"> 従業員と顧客の健康データを収集して確認し、健康と安全のためのプロトコルを実装して管理し、イベントや建物への出入りなどを合理化できます。健康と安全を確保することで信頼が構築され、集会の安全が保証されます。</g>
 													</source>
 												</trans-unit>
@@ -990,7 +989,7 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10113" restype="x-cp-quiz-clear-button-name">
 							<trans-unit id="382-10113">
-								<source>明確である (Clear)</source>
+								<source>クリア</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10007" restype="x-cp-quiz-skip-button-name">
