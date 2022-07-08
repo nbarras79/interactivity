@@ -289,7 +289,7 @@
 										<trans-unit id="7823-612-18">
 											<source>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-18-1">あなたのご意見をお聞かせください。この件に関するご意見を、 </g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0000ff;font-size:14.0pt;font:decoration:underlined" ctype="x-cp-font" id="7823-612-18-2" hyperlink="https://salesforce-internal.slack.com/archives/C01QZTHL60P" hyperlink-id="20783">#equality-groups</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0000ff;font-size:14.0pt;font:decoration:underlined" ctype="x-cp-font" id="7823-612-18-2" hyperlink="https://salesforce-internal.slack.com/archives/C01QZTHL60P" hyperlink-id="20783">#equality-groups </g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-18-3"> の Slack チャネルで共有してください。</g>
 											</source>
 										</trans-unit>
@@ -317,7 +317,8 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:0.00">
 										<trans-unit id="7862-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7862-612-1-1">Salesforce にとって、最も価値あるものは信頼であり、それは創業当初から変わっていません。Salesforce のお客様は、パフォーマンスの高い安全なテクノロジーを求めています。Salesforce はすべてのステークホルダーに対して責任を担っています。Salesforce は、倫理と誠実性を常に念頭に置き、テクノロジー、透明性、ディープリスニング、コミットメントの実現を融合することで信頼を構築します。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7862-612-1-1">Salesforce にとって、最も価値あるものは信頼であり、それは創業当初から変わっていません。Salesforce のお客様は、パフォーマンスの高い安全なテクノロジーを求めています。Salesforce はすべてのステークホルダーに対して責任を担っています。Salesforce は、倫理と誠実性を常に念頭に置き、テクノロジー、透明性、ディープリスニング、コミットメントの実現を融合することで信頼を構築します。
+</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -2407,7 +2408,7 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10113" restype="x-cp-quiz-clear-button-name">
 							<trans-unit id="378-10113">
-								<source>クリア</source>
+								<source>明確である (Clear)</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10007" restype="x-cp-quiz-skip-button-name">
