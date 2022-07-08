@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2022-06-08T09:54:11.0Z" original="THI-000474.cptx" source-language="enUS">
+		<file datatype="cptx" date="2022-06-08T14:27:14.0Z" original="THI-000443.cptx" source-language="enUS">
 			<header>
-				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
+				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5" />
 				<count-group name="countGroup1">
-					<count count-type="total" unit="trans-unit">305</count>
-					<count count-type="total" unit="word">1112</count>
+					<count count-type="total" unit="trans-unit">299</count>
+					<count count-type="total" unit="word">846</count>
 					<count count-type="total" unit="x-cp-slides">2</count>
 				</count-group>
 			</header>
@@ -26,23 +26,23 @@
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="591" restype="x-cp-project-password-message">
 						<trans-unit id="1-591">
-							<source>下のテキストボックスに直接正しいパスワードを入力し、ボタンをクリックしてください。</source>
+							<source>Geben Sie das richtige Kennwort direkt in das nachstehende Textfeld ein und klicken Sie auf die nachstehende Schaltfläche.</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="592" restype="x-cp-project-password-retry-message">
 						<trans-unit id="1-592">
-							<source>入力したパスワードが正しくありません。もう一度お試しください。</source>
+							<source>Das eingegebene Kennwort ist falsch. Versuchen Sie es erneut.</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="593" restype="x-cp-project-password-button-text">
 						<trans-unit id="1-593">
-							<source>続行</source>
+							<source>Weiter</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-object" extype="417" id="305" restype="x-cp-project-information">
 						<group cp:datatype="x-property" datatype="plaintext" extype="428" restype="x-cp-project-info-name">
 							<trans-unit id="305-428">
-								<source>Trailhead のインタラクティブ性</source>
+								<source>Trailhead-Interaktivität</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="429" restype="x-cp-project-info-author">
@@ -75,917 +75,858 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="434" restype="x-cp-project-info-description">
 							<trans-unit id="305-434">
-								<source>テンプレートバージョン日: 012/10/2021</source>
+								<source>Datum der Vorlagenversion: 10.12.2021</source>
 							</trans-unit>
 						</group>
 					</group>
 					<group cp:datatype="x-object" extype="195" id="514" restype="x-cp-slides">
-						<slide cp:datatype="x-object" extype="30" id="45857" resname="Slide 0" restype="x-cp-standard-slide">
+						<slide cp:datatype="x-object" extype="30" id="38613" resname="Slide 0" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
-								<trans-unit id="45857-337">
+								<trans-unit id="38613-337">
 									<source>
 									</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
-								<trans-unit id="45857-1285">
-									<source>このインタラクティブな習得度チェックのアクセシビリティバージョンを利用する場合は、アクセシビリティボタンをクリックするか、Z キーを押してください。</source>
+								<trans-unit id="38613-1285">
+									<source>Für den Zugriff auf die vollständig barrierefreie Version dieser interaktiven Umgebung klicken Sie auf die Schaltfläche &quot;Barrierefreiheit&quot; oder drücken Sie Z.</source>
 								</trans-unit>
 							</group>
-							<group cp:datatype="x-object" extype="69" id="45827" restype="x-cp-items">
-								<group cp:datatype="x-object" extype="19" id="44015" restype="Text Caption">
+							<group cp:datatype="x-object" extype="69" id="38587" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="19" id="36999" restype="Text Caption">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44015-19-1">
+										<trans-unit id="36999-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="44015-19-1-1">360 Platform のコンポーネント</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="36999-19-1-1">Merkmale</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="19" id="44032" restype="Text Caption">
+								<group cp:datatype="x-object" extype="19" id="37016" restype="Text Caption">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44032-19-1">
+										<trans-unit id="37016-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="44032-19-1-1">説明</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="37016-19-1-1">Typ der Variable</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="44145" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44145-612-1">
+								<group cp:datatype="x-object" extype="612" id="37082" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="37082-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="44145-612-1-1">Slack</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37082-612-1-1">Kalorien</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="44162" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44162-612-1">
+								<group cp:datatype="x-object" extype="612" id="37099" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="37099-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="44162-612-1-1">Slack</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37099-612-1-1">Kalorien</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="44179" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44179-612-1">
+								<group cp:datatype="x-object" extype="612" id="37116" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="37116-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="44179-612-1-1">Slack</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37116-612-1-1">Kalorien</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="44209" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44209-612-1">
+								<group cp:datatype="x-object" extype="612" id="37146" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="37146-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="44209-612-1-1">Slack</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37146-612-1-1">Kalorien</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="44386" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44386-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="44386-612-1-1">ここにドロップ</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="44397" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44397-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="44397-612-1-1">ここにドロップ</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="46986" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37181" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46986-612-1">
+										<trans-unit id="37181-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="46986-612-1-1">小売や旅行、輸送、プロフェッショナルサービスなどの業界でのデジタル変革を通じた顧客それぞれのニーズに応じた対応。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37181-612-1-1">Geschmack</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="47006" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37192" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47006-612-1">
+										<trans-unit id="37192-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="47006-612-1-1">小売や旅行、輸送、プロフェッショナルサービスなどの業界でのデジタル変革を通じた顧客それぞれのニーズに応じた対応。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37192-612-1-1">Geschmack</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="47026" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37203" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47026-612-1">
+										<trans-unit id="37203-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="47026-612-1-1">小売や旅行、輸送、プロフェッショナルサービスなどの業界でのデジタル変革を通じた顧客それぞれのニーズに応じた対応。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37203-612-1-1">Geschmack</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="47059" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37214" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47059-612-1">
+										<trans-unit id="37214-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="47059-612-1-1">小売や旅行、輸送、プロフェッショナルサービスなどの業界でのデジタル変革を通じた顧客それぞれのニーズに応じた対応。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37214-612-1-1">Geschmack</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="44488" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44488-612-1">
+								<group cp:datatype="x-object" extype="612" id="37249" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="37249-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="44488-612-1-1">Einstein</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37249-612-1-1">Politische Partei</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="44499" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44499-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="44499-612-1-1">Einstein</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="44510" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44510-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="44510-612-1-1">Einstein</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="44521" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44521-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="44521-612-1-1">Einstein</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="44683" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44683-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="44683-612-1-1">ここにドロップ</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="44694" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44694-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="44694-612-1-1">ここにドロップ</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="47096" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37260" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47096-612-1">
+										<trans-unit id="37260-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="47096-612-1-1">プライバシーとセキュリティが確保されたすべての顧客データの一元的なビュー</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37260-612-1-1">Politische Partei</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="47116" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37271" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47116-612-1">
+										<trans-unit id="37271-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="47116-612-1-1">プライバシーとセキュリティが確保されたすべての顧客データの一元的なビュー</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37271-612-1-1">Politische Partei</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="47136" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37282" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47136-612-1">
+										<trans-unit id="37282-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="47136-612-1-1">プライバシーとセキュリティが確保されたすべての顧客データの一元的なビュー</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37282-612-1-1">Politische Partei</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="47169" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37385" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47169-612-1">
+										<trans-unit id="37385-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="47169-612-1-1">プライバシーとセキュリティが確保されたすべての顧客データの一元的なビュー</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37385-612-1-1">Price</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="44785" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44785-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="44785-612-1-1">業種ソリューション</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="44796" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44796-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="44796-612-1-1">業種ソリューション</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="44807" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44807-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="44807-612-1-1">業種ソリューション</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="44818" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44818-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="44818-612-1-1">業種ソリューション</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="44960" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44960-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="44960-612-1-1">ここにドロップ</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="44971" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="44971-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="44971-612-1-1">ここにドロップ</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="47206" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37396" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47206-612-1">
+										<trans-unit id="37396-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="47206-612-1-1">チームのパフォーマンスを高めるエンゲージメントのシステム</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37396-612-1-1">Price</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="47226" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37407" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47226-612-1">
+										<trans-unit id="37407-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="47226-612-1-1">チームのパフォーマンスを高めるエンゲージメントのシステム</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37407-612-1-1">Price</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="47246" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37418" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47246-612-1">
+										<trans-unit id="37418-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="47246-612-1-1">チームのパフォーマンスを高めるエンゲージメントのシステム</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37418-612-1-1">Price</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="47279" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37453" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47279-612-1">
+										<trans-unit id="37453-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="47279-612-1-1">チームのパフォーマンスを高めるエンゲージメントのシステム</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37453-612-1-1">Art</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="45062" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45062-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="45062-612-1-1">Hyperforce</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="45073" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45073-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="45073-612-1-1">Hyperforce</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="45084" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45084-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="45084-612-1-1">Hyperforce</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="45095" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45095-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="45095-612-1-1">Hyperforce</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="45237" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45237-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="45237-612-1-1">ここにドロップ</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="45248" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45248-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="45248-612-1-1">ここにドロップ</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="47316" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37464" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47316-612-1">
+										<trans-unit id="37464-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="47316-612-1-1">統合されたアプリケーションと包括的な AI</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37464-612-1-1">Art</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="47336" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37475" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47336-612-1">
+										<trans-unit id="37475-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="47336-612-1-1">統合されたアプリケーションと包括的な AI</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37475-612-1-1">Art</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="47356" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37486" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47356-612-1">
+										<trans-unit id="37486-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="47356-612-1-1">統合されたアプリケーションと包括的な AI</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37486-612-1-1">Art</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="47389" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37317" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47389-612-1">
+										<trans-unit id="37317-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="47389-612-1-1">統合されたアプリケーションと包括的な AI</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37317-612-1-1">Stimmauszählung</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="45339" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45339-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="45339-612-1-1">Customer 360</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="45350" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45350-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="45350-612-1-1">Customer 360</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="45361" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45361-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="45361-612-1-1">Customer 360</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="45372" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45372-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="45372-612-1-1">Customer 360</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="45490" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45490-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="45490-612-1-1">ここにドロップ</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="45501" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45501-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="45501-612-1-1">ここにドロップ</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="47426" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37328" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47426-612-1">
+										<trans-unit id="37328-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="47426-612-1-1">クラウドネイティブなアーキテクチャを活用し、すべてのパブリッククラウドで利用できる Customer 360 Platform の基盤</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37328-612-1-1">Stimmauszählung</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="47446" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37339" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47446-612-1">
+										<trans-unit id="37339-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="47446-612-1-1">クラウドネイティブなアーキテクチャを活用し、すべてのパブリッククラウドで利用できる Customer 360 Platform の基盤</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37339-612-1-1">Stimmauszählung</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="47466" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="37350" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47466-612-1">
+										<trans-unit id="37350-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="47466-612-1-1">クラウドネイティブなアーキテクチャを活用し、すべてのパブリッククラウドで利用できる Customer 360 Platform の基盤</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37350-612-1-1">Stimmauszählung</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="47499" restype="SmartShape">
+								<group cp:datatype="x-object" extype="19" id="37520" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="37520-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37520-19-1-1">Qualitativ</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="37704" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="37704-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="37704-612-1-1">Hier ablegen</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="37715" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="37715-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="37715-612-1-1">Hier ablegen</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="38005" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="38005-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="38005-19-1-1">Quantitativ</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="37883" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="37883-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="37883-612-1-1">Hier ablegen</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="37894" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="37894-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#c0b8b3;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="37894-612-1-1">Hier ablegen</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="38362" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="38362-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="38362-612-1-1">Zurücksetzen</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="38374" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="38374-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="38374-612-1-1">Zurücksetzen</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="38386" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="38386-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="38386-612-1-1">Zurücksetzen</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="38434" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="38434-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="38434-612-1-1">Senden</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="38445" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="38445-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="38445-612-1-1">Senden</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="38457" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="38457-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="38457-612-1-1">Senden</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="38504" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="38504-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="38504-19-1-1">Falsch. Versuchen Sie es erneut.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="38512" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="38512-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="38512-19-1-1">Richtig. Gut gemacht!</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="38532" restype="Text Caption">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="47499-612-1">
+										<trans-unit id="38532-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="47499-612-1-1">クラウドネイティブなアーキテクチャを活用し、すべてのパブリッククラウドで利用できる Customer 360 Platform の基盤</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="38532-19-1-1">INFORMATIONEN</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="38532-19-1-2">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="38532-19-2">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="38532-19-2-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="38532-19-3">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="38532-19-3-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="38532-19-4">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="38532-19-4-1">Dies ist die standardmäßige</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="38532-19-4-2">ziehen Sie sechs Elemente in zwei Gruppen</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="38532-19-4-3">gezogen und abgelegt werden. Links oben befindet sich eine (ausgeblendete) Schaltfläche, mit der die barrierefreie Version (nächste Folie) angezeigt wird.</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="45602" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45602-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="45602-612-1-1">リセット</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="45614" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45614-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="45614-612-1-1">リセット</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="45626" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45626-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="45626-612-1-1">リセット</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="45674" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45674-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="45674-612-1-1">送信</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="45685" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45685-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="45685-612-1-1">送信</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="45697" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45697-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="45697-612-1-1">送信</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="19" id="45744" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45744-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="45744-19-1-1">不正解です。もう一度お試しください。</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="19" id="45752" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45752-19-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="45752-19-1-1">正解です。お見事です。</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="641" id="45802" restype="Submit Button">
+								<group cp:datatype="x-object" extype="641" id="38562" restype="Submit Button">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:1.00">
-										<trans-unit id="45802-641-1">
+										<trans-unit id="38562-641-1">
 											<source>
-												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="45802-641-1-1">ボタンが使用されていません</g>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="38562-641-1-1">Schaltfläche nicht verwendet</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="641" id="45814" restype="Submit Button">
+								<group cp:datatype="x-object" extype="641" id="38574" restype="Submit Button">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:1.00">
-										<trans-unit id="45814-641-1">
+										<trans-unit id="38574-641-1">
 											<source>
-												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="45814-641-1-1">ボタンが使用されていません</g>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="38574-641-1-1">Schaltfläche nicht verwendet</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="641" id="45826" restype="Submit Button">
+								<group cp:datatype="x-object" extype="641" id="38586" restype="Submit Button">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:1.00">
-										<trans-unit id="45826-641-1">
+										<trans-unit id="38586-641-1">
 											<source>
-												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="45826-641-1-1">ボタンが使用されていません</g>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="38586-641-1-1">Schaltfläche nicht verwendet</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="30" id="46880" resname="Slide 1" restype="x-cp-standard-slide">
+						<slide cp:datatype="x-object" extype="30" id="39832" resname="Slide 1" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
-								<trans-unit id="46880-337">
+								<trans-unit id="39832-337">
 									<source>
 									</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
-								<trans-unit id="46880-1285">
-									<source>列は 2 つあります。  左には文章、右には対応するドロップダウンリストが入っています。ドロップダウンリストから文章に対応する正しい答えを選択してください。すべて選択したら、右下隅にある [送信] ボタンをクリックしてください。すると、どの項目が正解または不正解かが表示されます。不正解があった場合は、戻って修正してから再び [送信] をクリックしてください。最初からやり直すには、右下隅にある [リセット] ボタンをクリックしてください。</source>
+								<trans-unit id="39832-1285">
+									<source>Es gibt zwei Spalten. Die linke Seite enthält Aussagen, die rechte eine zugehörige Dropdown-Liste. Wählen Sie in den Dropdown-Listen die Antwort aus, die der jeweiligen Aussage entspricht. Nachdem Sie alle Angaben gemacht haben, klicken Sie rechts unten auf die Schaltfläche &quot;Senden&quot;. Anschließend wird Ihnen mitgeteilt, welche Angaben Sie richtig und welche Sie falsch gemacht haben. Sie können zurückgehen und die Fehler korrigieren, die Sie ggf. gemacht haben, und erneut auf &quot;Senden&quot; klicken. Um von vorn zu beginnen, klicken Sie rechts unten auf die Schaltfläche &quot;Zurücksetzen&quot;.</source>
 								</trans-unit>
 							</group>
-							<group cp:datatype="x-object" extype="69" id="46865" restype="x-cp-items">
-								<group cp:datatype="x-object" extype="19" id="45866" restype="Text Caption">
+							<group cp:datatype="x-object" extype="69" id="39817" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="19" id="38622" restype="Text Caption">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45866-19-1">
+										<trans-unit id="38622-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="45866-19-1-1">定義</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="38622-19-1-1">Merkmale</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="19" id="45883" restype="Text Caption">
+								<group cp:datatype="x-object" extype="19" id="38639" restype="Text Caption">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45883-19-1">
+										<trans-unit id="38639-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="45883-19-1-1">用語</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#ffffff;font-size:22.0pt;font:weight:bold" ctype="x-cp-font" id="38639-19-1-1">Typ der Variable</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="19" id="45917" restype="Text Caption">
+								<group cp:datatype="x-object" extype="19" id="38673" restype="Text Caption">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45917-19-1">
+										<trans-unit id="38673-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="45917-19-1-1">この項目の選択が不正解です。やり直してください。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38673-19-1-1">Ihre Angabe für dieses Element ist falsch. Versuchen Sie es erneut.</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="19" id="45938" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45938-19-1">
+								<group cp:datatype="x-object" extype="612" id="38721" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="38721-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="45938-19-1-1">この項目の選択は正解です。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="38721-612-1-1">Kalorien</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="45999" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="38751" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="45999-612-1">
+										<trans-unit id="38751-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="45999-612-1-1">小売や旅行、輸送、プロフェッショナルサービスなどの業界でのデジタル変革を通じた顧客それぞれのニーズに応じた対応。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="38751-612-1-1">Kalorien</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46029" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="38762" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46029-612-1">
+										<trans-unit id="38762-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="46029-612-1-1">小売や旅行、輸送、プロフェッショナルサービスなどの業界でのデジタル変革を通じた顧客それぞれのニーズに応じた対応。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="38762-612-1-1">Kalorien</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46040" restype="SmartShape">
+								<group cp:datatype="x-object" extype="19" id="38796" restype="Text Caption">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46040-612-1">
+										<trans-unit id="38796-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="46040-612-1-1">小売や旅行、輸送、プロフェッショナルサービスなどの業界でのデジタル変革を通じた顧客それぞれのニーズに応じた対応。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38796-19-1-1">Ihre Angabe für dieses Element ist richtig.</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="19" id="46092" restype="Text Caption">
+								<group cp:datatype="x-object" extype="19" id="38861" restype="Text Caption">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46092-19-1">
+										<trans-unit id="38861-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="46092-19-1-1">この項目の選択が不正解です。やり直してください。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38861-19-1-1">Ihre Angabe für dieses Element ist falsch. Versuchen Sie es erneut.</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="19" id="46109" restype="Text Caption">
+								<group cp:datatype="x-object" extype="612" id="38891" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46109-19-1">
+										<trans-unit id="38891-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="46109-19-1-1">この項目の選択は正解です。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="38891-612-1-1">Geschmack</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46152" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="38902" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46152-612-1">
+										<trans-unit id="38902-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="46152-612-1-1">プライバシーとセキュリティが確保されたすべての顧客データの一元的なビュー</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="38902-612-1-1">Geschmack</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46163" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="38913" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46163-612-1">
+										<trans-unit id="38913-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="46163-612-1-1">プライバシーとセキュリティが確保されたすべての顧客データの一元的なビュー</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="38913-612-1-1">Geschmack</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46174" restype="SmartShape">
+								<group cp:datatype="x-object" extype="19" id="38943" restype="Text Caption">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46174-612-1">
+										<trans-unit id="38943-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="46174-612-1-1">プライバシーとセキュリティが確保されたすべての顧客データの一元的なビュー</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38943-19-1-1">Ihre Angabe für dieses Element ist richtig.</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="19" id="46220" restype="Text Caption">
+								<group cp:datatype="x-object" extype="19" id="39002" restype="Text Caption">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46220-19-1">
+										<trans-unit id="39002-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="46220-19-1-1">この項目の選択が不正解です。やり直してください。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39002-19-1-1">Ihre Angabe für dieses Element ist falsch. Versuchen Sie es erneut.</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="19" id="46237" restype="Text Caption">
+								<group cp:datatype="x-object" extype="612" id="39032" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46237-19-1">
+										<trans-unit id="39032-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="46237-19-1-1">この項目の選択は正解です。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="39032-612-1-1">Politische Partei</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46280" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="39043" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46280-612-1">
+										<trans-unit id="39043-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="46280-612-1-1">チームのパフォーマンスを高めるエンゲージメントのシステム</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39043-612-1-1">Politische Partei</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46291" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="39054" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46291-612-1">
+										<trans-unit id="39054-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="46291-612-1-1">チームのパフォーマンスを高めるエンゲージメントのシステム</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39054-612-1-1">Politische Partei</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46302" restype="SmartShape">
+								<group cp:datatype="x-object" extype="19" id="39084" restype="Text Caption">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46302-612-1">
+										<trans-unit id="39084-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="46302-612-1-1">チームのパフォーマンスを高めるエンゲージメントのシステム</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39084-19-1-1">Ihre Angabe für dieses Element ist richtig.</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="19" id="46348" restype="Text Caption">
+								<group cp:datatype="x-object" extype="19" id="39143" restype="Text Caption">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46348-19-1">
+										<trans-unit id="39143-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="46348-19-1-1">この項目の選択が不正解です。やり直してください。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39143-19-1-1">Ihre Angabe für dieses Element ist falsch. Versuchen Sie es erneut.</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="19" id="46365" restype="Text Caption">
+								<group cp:datatype="x-object" extype="612" id="39173" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46365-19-1">
+										<trans-unit id="39173-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="46365-19-1-1">この項目の選択は正解です。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="39173-612-1-1">Price</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46408" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="39184" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46408-612-1">
+										<trans-unit id="39184-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="46408-612-1-1">統合されたアプリケーションと包括的な AI</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39184-612-1-1">Price</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46419" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="39195" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46419-612-1">
+										<trans-unit id="39195-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="46419-612-1-1">統合されたアプリケーションと包括的な AI</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39195-612-1-1">Price</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46430" restype="SmartShape">
+								<group cp:datatype="x-object" extype="19" id="39225" restype="Text Caption">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46430-612-1">
+										<trans-unit id="39225-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="46430-612-1-1">統合されたアプリケーションと包括的な AI</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39225-19-1-1">Ihre Angabe für dieses Element ist richtig.</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="19" id="46476" restype="Text Caption">
+								<group cp:datatype="x-object" extype="19" id="39284" restype="Text Caption">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46476-19-1">
+										<trans-unit id="39284-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="46476-19-1-1">この項目の選択が不正解です。やり直してください。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39284-19-1-1">Ihre Angabe für dieses Element ist falsch. Versuchen Sie es erneut.</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="19" id="46493" restype="Text Caption">
+								<group cp:datatype="x-object" extype="612" id="39314" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46493-19-1">
+										<trans-unit id="39314-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="46493-19-1-1">この項目の選択は正解です。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="39314-612-1-1">Art</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46536" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="39325" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46536-612-1">
+										<trans-unit id="39325-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="46536-612-1-1">クラウドネイティブなアーキテクチャを活用し、すべてのパブリッククラウドで利用できる Customer 360 Platform の基盤</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39325-612-1-1">Art</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46547" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="39336" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46547-612-1">
+										<trans-unit id="39336-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="46547-612-1-1">クラウドネイティブなアーキテクチャを活用し、すべてのパブリッククラウドで利用できる Customer 360 Platform の基盤</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39336-612-1-1">Art</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46558" restype="SmartShape">
+								<group cp:datatype="x-object" extype="19" id="39366" restype="Text Caption">
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46558-612-1">
+										<trans-unit id="39366-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="46558-612-1-1">クラウドネイティブなアーキテクチャを活用し、すべてのパブリッククラウドで利用できる Customer 360 Platform の基盤</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39366-19-1-1">Ihre Angabe für dieses Element ist richtig.</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46694" restype="SmartShape">
+								<group cp:datatype="x-object" extype="19" id="39425" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="39425-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39425-19-1-1">Ihre Angabe für dieses Element ist falsch. Versuchen Sie es erneut.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="39455" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="39455-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="39455-612-1-1">Stimmauszählung</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="39466" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="39466-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39466-612-1-1">Stimmauszählung</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="39477" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="39477-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39477-612-1-1">Stimmauszählung</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="39507" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="39507-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39507-19-1-1">Ihre Angabe für dieses Element ist richtig.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="39646" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46694-612-1">
+										<trans-unit id="39646-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="46694-612-1-1">リセット</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="39646-612-1-1">Zurücksetzen</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46706" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="39658" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46706-612-1">
+										<trans-unit id="39658-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="46706-612-1-1">リセット</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="39658-612-1-1">Zurücksetzen</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46718" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="39670" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46718-612-1">
+										<trans-unit id="39670-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="46718-612-1-1">リセット</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="39670-612-1-1">Zurücksetzen</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46766" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="39718" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46766-612-1">
+										<trans-unit id="39718-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="46766-612-1-1">送信</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="39718-612-1-1">Senden</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46777" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="39729" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46777-612-1">
+										<trans-unit id="39729-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="46777-612-1-1">送信</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="39729-612-1-1">Senden</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="46789" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="39741" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46789-612-1">
+										<trans-unit id="39741-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="46789-612-1-1">送信</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="39741-612-1-1">Senden</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="19" id="46836" restype="Text Caption">
+								<group cp:datatype="x-object" extype="19" id="39788" restype="Text Caption">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46836-19-1">
+										<trans-unit id="39788-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="46836-19-1-1">不正解です。もう一度お試しください。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:18.0pt" ctype="x-cp-font" id="39788-19-1-1">Ihre Angaben sind falsch. Versuchen Sie es erneut.</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="19" id="46844" restype="Text Caption">
+								<group cp:datatype="x-object" extype="19" id="39796" restype="Text Caption">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="46844-19-1">
+										<trans-unit id="39796-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="46844-19-1-1">正解です。お見事です。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#1b540c;font-size:18.0pt" ctype="x-cp-font" id="39796-19-1-1">Richtig. Gut gemacht!</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="19" id="39816" restype="Text Caption">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="39816-19-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt;font:weight:bold" ctype="x-cp-font" id="39816-19-1-1">ANWEISUNGEN</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="39816-19-1-2">:</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="39816-19-2">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="39816-19-2-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="39816-19-3">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="39816-19-3-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="39816-19-4">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="39816-19-4-1">Dies dient der Barrierefreiheit.</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="39816-19-5">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:12.0pt" ctype="x-cp-font" id="39816-19-5-1">Spiegeln sie die Informationen auf der Standardfolie wider.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -1005,12 +946,12 @@
 									</source>
 								</trans-unit>
 							</group>
-							<group cp:datatype="x-object" extype="69" id="1500" restype="x-cp-items"/>
+							<group cp:datatype="x-object" extype="69" id="1500" restype="x-cp-items" />
 						</slide>
 						<slide cp:datatype="x-object" extype="584" id="1597" resname="Slide 1" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="1597-337">
-									<source>タイトル</source>
+									<source>Titel</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1031,7 +972,7 @@
 						<slide cp:datatype="x-object" extype="584" id="1625" resname="Slide 2" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="1625-337">
-									<source>空白</source>
+									<source>Leer</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1040,12 +981,12 @@
 									</source>
 								</trans-unit>
 							</group>
-							<group cp:datatype="x-object" extype="69" id="1598" restype="x-cp-items"/>
+							<group cp:datatype="x-object" extype="69" id="1598" restype="x-cp-items" />
 						</slide>
 						<slide cp:datatype="x-object" extype="584" id="1742" resname="Slide 3" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="1742-337">
-									<source>コンテンツ 01</source>
+									<source>Inhalt 01</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1057,7 +998,7 @@
 							<group cp:datatype="x-object" extype="69" id="1731" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="1638" restype="Image Placeholder">
 									<trans-unit id="1638-190">
-										<source>画像</source>
+										<source>BILD</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="1669" restype="Subtitle Placeholder">
@@ -1068,7 +1009,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="1691" restype="Text Caption Placeholder">
 									<trans-unit id="1691-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1076,7 +1017,7 @@
 						<slide cp:datatype="x-object" extype="584" id="2263" resname="Slide 4" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2263-337">
-									<source>コンテンツ 02</source>
+									<source>Inhalt 02</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1100,62 +1041,62 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="1826" restype="Text Caption Placeholder">
 									<trans-unit id="1826-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="1852" restype="Image Placeholder">
 									<trans-unit id="1852-190">
-										<source>画像</source>
+										<source>BILD</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="1887" restype="Text Caption Placeholder">
 									<trans-unit id="1887-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="1913" restype="Image Placeholder">
 									<trans-unit id="1913-190">
-										<source>画像</source>
+										<source>BILD</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="1948" restype="Text Caption Placeholder">
 									<trans-unit id="1948-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="1974" restype="Image Placeholder">
 									<trans-unit id="1974-190">
-										<source>画像</source>
+										<source>BILD</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2026" restype="Image Placeholder">
 									<trans-unit id="2026-190">
-										<source>画像</source>
+										<source>BILD</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2048" restype="Text Caption Placeholder">
 									<trans-unit id="2048-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2087" restype="Image Placeholder">
 									<trans-unit id="2087-190">
-										<source>画像</source>
+										<source>BILD</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2109" restype="Text Caption Placeholder">
 									<trans-unit id="2109-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2148" restype="Image Placeholder">
 									<trans-unit id="2148-190">
-										<source>画像</source>
+										<source>BILD</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2170" restype="Text Caption Placeholder">
 									<trans-unit id="2170-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1163,7 +1104,7 @@
 						<slide cp:datatype="x-object" extype="584" id="2429" resname="Slide 5" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2429-337">
-									<source>コンテンツ 03</source>
+									<source>Inhalt 03</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1187,17 +1128,17 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2334" restype="Text Caption Placeholder">
 									<trans-unit id="2334-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2356" restype="Text Caption Placeholder">
 									<trans-unit id="2356-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2378" restype="Text Caption Placeholder">
 									<trans-unit id="2378-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1205,7 +1146,7 @@
 						<slide cp:datatype="x-object" extype="584" id="2550" resname="Slide 6" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2550-337">
-									<source>コンテンツ 04</source>
+									<source>Inhalt 04</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1223,12 +1164,12 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2473" restype="Image Placeholder">
 									<trans-unit id="2473-190">
-										<source>画像</source>
+										<source>BILD</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2499" restype="Image Placeholder">
 									<trans-unit id="2499-190">
-										<source>画像</source>
+										<source>BILD</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1236,7 +1177,7 @@
 						<slide cp:datatype="x-object" extype="584" id="2619" resname="Slide 7" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2619-337">
-									<source>コンテンツ 05</source>
+									<source>Inhalt 05</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1257,7 +1198,7 @@
 						<slide cp:datatype="x-object" extype="584" id="2901" resname="Slide 8" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2901-337">
-									<source>コンテンツ 06</source>
+									<source>Inhalt 06</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1279,12 +1220,12 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2667" restype="Text Caption Placeholder">
 									<trans-unit id="2667-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2702" restype="Text Caption Placeholder">
 									<trans-unit id="2702-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="2754" restype="SmartShape">
@@ -1299,17 +1240,17 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2776" restype="Text Caption Placeholder">
 									<trans-unit id="2776-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2811" restype="Text Caption Placeholder">
 									<trans-unit id="2811-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2863" restype="Image Placeholder">
 									<trans-unit id="2863-190">
-										<source>画像</source>
+										<source>BILD</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1317,7 +1258,7 @@
 						<slide cp:datatype="x-object" extype="584" id="3018" resname="Slide 9" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="3018-337">
-									<source>コンテンツ 07</source>
+									<source>Inhalt 07</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1335,7 +1276,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="2954" restype="Text Caption Placeholder">
 									<trans-unit id="2954-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1343,7 +1284,7 @@
 						<slide cp:datatype="x-object" extype="584" id="3588" resname="Slide 10" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="3588-337">
-									<source>結論</source>
+									<source>Fazit</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1367,7 +1308,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3132" restype="Image Placeholder">
 									<trans-unit id="3132-190">
-										<source>画像</source>
+										<source>BILD</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="3158" restype="SmartShape">
@@ -1382,7 +1323,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3180" restype="Text Caption Placeholder">
 									<trans-unit id="3180-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="3219" restype="SmartShape">
@@ -1397,7 +1338,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3241" restype="Text Caption Placeholder">
 									<trans-unit id="3241-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="3280" restype="SmartShape">
@@ -1412,7 +1353,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3302" restype="Text Caption Placeholder">
 									<trans-unit id="3302-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="3341" restype="SmartShape">
@@ -1427,7 +1368,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3363" restype="Text Caption Placeholder">
 									<trans-unit id="3363-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="3402" restype="SmartShape">
@@ -1442,7 +1383,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3424" restype="Text Caption Placeholder">
 									<trans-unit id="3424-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="3463" restype="SmartShape">
@@ -1457,7 +1398,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3498" restype="Text Caption Placeholder">
 									<trans-unit id="3498-190">
-										<source>テキストキャプション</source>
+										<source>BESCHRIFTUNGSTEXT</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1465,7 +1406,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="3990" resname="Slide 11" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="3990-337">
-									<source>MCQ,T/F,FIB,Sequence</source>
+									<source>MCQ,T/F,FIB,Sequenz</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1477,87 +1418,87 @@
 							<group cp:datatype="x-object" extype="69" id="3963" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="3600" restype="Title Placeholder">
 									<trans-unit id="3600-190">
-										<source>質問のタイトルのプレースホルダー</source>
+										<source>Platzhalter für Fragetitel</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3625" restype="Question Placeholder">
 									<trans-unit id="3625-190">
-										<source>質問のテキストのプレースホルダー</source>
+										<source>Platzhalter für den Text der Frage</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3657" restype="Answer Area Placeholder">
 									<trans-unit id="3657-190">
-										<source>回答領域のプレースホルダー</source>
+										<source>Platzhalter für den Bereich &quot;Antwort&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3679" restype="Review Area Placeholder">
 									<trans-unit id="3679-190">
-										<source>確認領域</source>
+										<source>Überprüfungsbereich</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3697" restype="Success Shape Placeholder">
 									<trans-unit id="3697-190">
-										<source>成功キャプションのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3715" restype="TimeOut Shape Placeholder">
 									<trans-unit id="3715-190">
-										<source>タイムアウトフィードバックのプレースホルダー</source>
+										<source>Platzhalter für das Feedback &quot;Timeout&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3733" restype="Partial Correct Shape Placeholder">
 									<trans-unit id="3733-190">
-										<source>一部正解キャプションのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Teilweise richtig&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3751" restype="Retry Shape Placeholder">
 									<trans-unit id="3751-190">
-										<source>再試行キャプションのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Wiederholen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3769" restype="Incomplete Shape Placeholder">
 									<trans-unit id="3769-190">
-										<source>不完全キャプションのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Unvollständig&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3787" restype="Failure Shape Placeholder">
 									<trans-unit id="3787-190">
-										<source>失敗キャプションのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Kein Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3819" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="3819-190">
-										<source>[戻る] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3838" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="3838-190">
-										<source>[スキップ] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3857" restype="Clear Button Placeholder">
 									<trans-unit id="3857-190">
-										<source>[消去] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Löschen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3876" restype="Back Button Placeholder">
 									<trans-unit id="3876-190">
-										<source>[戻る] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3895" restype="Skip Button Placeholder">
 									<trans-unit id="3895-190">
-										<source>[スキップ] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3914" restype="Submit Button Placeholder">
 									<trans-unit id="3914-190">
-										<source>[送信] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Senden&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3962" restype="Progress Indicator Placeholder">
 									<trans-unit id="3962-190">
-										<source>質問 X/Y</source>
+										<source>Frage X von Y</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1565,7 +1506,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="4388" resname="Slide 12" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4388-337">
-									<source>照合</source>
+									<source>Abgleich</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1577,87 +1518,87 @@
 							<group cp:datatype="x-object" extype="69" id="4361" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4002" restype="Title Placeholder">
 									<trans-unit id="4002-190">
-										<source>質問のタイトルのプレースホルダー</source>
+										<source>Platzhalter für Fragetitel</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4027" restype="Question Placeholder">
 									<trans-unit id="4027-190">
-										<source>質問のテキストのプレースホルダー</source>
+										<source>Platzhalter für den Text der Frage</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4049" restype="Column 1 Placeholder">
 									<trans-unit id="4049-190">
-										<source>質問領域のプレースホルダー</source>
+										<source>Platzhalter für den Bereich &quot;Frage&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4058" restype="Column 2 Placeholder">
 									<trans-unit id="4058-190">
-										<source>質問領域のプレースホルダー</source>
+										<source>Platzhalter für den Bereich &quot;Frage&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4090" restype="Question Area Placeholder">
 									<trans-unit id="4090-190">
-										<source>質問領域のプレースホルダー</source>
+										<source>Platzhalter für den Bereich &quot;Frage&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4109" restype="Answer Area Placeholder">
 									<trans-unit id="4109-190">
-										<source>回答領域のプレースホルダー</source>
+										<source>Platzhalter für den Bereich &quot;Antwort&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4131" restype="Review Area Placeholder">
 									<trans-unit id="4131-190">
-										<source>確認領域</source>
+										<source>Überprüfungsbereich</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4149" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4149-190">
-										<source>不完全キャプションのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Unvollständig&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4167" restype="Failure Shape Placeholder">
 									<trans-unit id="4167-190">
-										<source>失敗キャプションのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Kein Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4185" restype="Success Shape Placeholder">
 									<trans-unit id="4185-190">
-										<source>成功キャプションのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4217" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4217-190">
-										<source>[戻る] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4236" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4236-190">
-										<source>[スキップ] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4255" restype="Clear Button Placeholder">
 									<trans-unit id="4255-190">
-										<source>[消去] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Löschen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4274" restype="Back Button Placeholder">
 									<trans-unit id="4274-190">
-										<source>[戻る] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4293" restype="Skip Button Placeholder">
 									<trans-unit id="4293-190">
-										<source>[スキップ] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4312" restype="Submit Button Placeholder">
 									<trans-unit id="4312-190">
-										<source>[送信] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Senden&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4360" restype="Progress Indicator Placeholder">
 									<trans-unit id="4360-190">
-										<source>質問 X/Y</source>
+										<source>Frage X von Y</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1665,7 +1606,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="4704" resname="Slide 13" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4704-337">
-									<source>ホットスポット</source>
+									<source>Hotspot</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1677,67 +1618,67 @@
 							<group cp:datatype="x-object" extype="69" id="4677" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4400" restype="Title Placeholder">
 									<trans-unit id="4400-190">
-										<source>質問のタイトルのプレースホルダー</source>
+										<source>Platzhalter für Fragetitel</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4425" restype="Question Placeholder">
 									<trans-unit id="4425-190">
-										<source>質問のテキストのプレースホルダー</source>
+										<source>Platzhalter für den Text der Frage</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4447" restype="Review Area Placeholder">
 									<trans-unit id="4447-190">
-										<source>確認領域</source>
+										<source>Überprüfungsbereich</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4465" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4465-190">
-										<source>不完全キャプションのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Unvollständig&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4483" restype="Failure Shape Placeholder">
 									<trans-unit id="4483-190">
-										<source>失敗キャプションのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Kein Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4501" restype="Success Shape Placeholder">
 									<trans-unit id="4501-190">
-										<source>成功キャプションのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4533" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4533-190">
-										<source>[戻る] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4552" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4552-190">
-										<source>[スキップ] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4571" restype="Clear Button Placeholder">
 									<trans-unit id="4571-190">
-										<source>[消去] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Löschen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4590" restype="Back Button Placeholder">
 									<trans-unit id="4590-190">
-										<source>[戻る] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4609" restype="Skip Button Placeholder">
 									<trans-unit id="4609-190">
-										<source>[スキップ] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4628" restype="Submit Button Placeholder">
 									<trans-unit id="4628-190">
-										<source>[送信] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Senden&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4676" restype="Progress Indicator Placeholder">
 									<trans-unit id="4676-190">
-										<source>質問 X/Y</source>
+										<source>Frage X von Y</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1745,7 +1686,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="4982" resname="Slide 14" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4982-337">
-									<source>リッカート</source>
+									<source>Likert</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1757,62 +1698,62 @@
 							<group cp:datatype="x-object" extype="69" id="4955" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4716" restype="Title Placeholder">
 									<trans-unit id="4716-190">
-										<source>質問のタイトルのプレースホルダー</source>
+										<source>Platzhalter für Fragetitel</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4728" restype="Question Placeholder">
 									<trans-unit id="4728-190">
-										<source>質問のテキストのプレースホルダー</source>
+										<source>Platzhalter für den Text der Frage</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4804" restype="Likert Question Area Placeholder">
 									<trans-unit id="4804-190">
-										<source>Adobe Captivate 5 のプレースホルダー</source>
+										<source>Platzhalter für Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4822" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4822-190">
-										<source>不完全キャプションのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Unvollständig&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4831" restype="Review Area Placeholder">
 									<trans-unit id="4831-190">
-										<source>確認領域</source>
+										<source>Überprüfungsbereich</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4840" restype="Progress Indicator Placeholder">
 									<trans-unit id="4840-190">
-										<source>質問 X/Y</source>
+										<source>Frage X von Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4859" restype="Submit Button Placeholder">
 									<trans-unit id="4859-190">
-										<source>[送信] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Senden&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4878" restype="Skip Button Placeholder">
 									<trans-unit id="4878-190">
-										<source>[スキップ] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4897" restype="Back Button Placeholder">
 									<trans-unit id="4897-190">
-										<source>[戻る] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4916" restype="Clear Button Placeholder">
 									<trans-unit id="4916-190">
-										<source>[消去] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Löschen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4935" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4935-190">
-										<source>[スキップ] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4954" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4954-190">
-										<source>[戻る] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1820,7 +1761,7 @@
 						<slide cp:datatype="x-object" extype="10141" id="5345" resname="Slide 15" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="5345-337">
-									<source>結果</source>
+									<source>Ergebnis</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1832,22 +1773,22 @@
 							<group cp:datatype="x-object" extype="69" id="5318" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4994" restype="Result Title Placeholder">
 									<trans-unit id="4994-190">
-										<source>質問のタイトルのプレースホルダー</source>
+										<source>Platzhalter für Fragetitel</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5016" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5016-190">
-										<source>スコア結果表示ラベルのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5025" restype="Scoring Result Placeholder">
 									<trans-unit id="5025-190">
-										<source>スコア</source>
+										<source>Bewertung</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5047" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5047-190">
-										<source>スコア結果表示ラベルのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5056" restype="Scoring Result Placeholder">
@@ -1857,7 +1798,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5078" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5078-190">
-										<source>スコア結果表示ラベルのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5087" restype="Scoring Result Placeholder">
@@ -1867,7 +1808,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5109" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5109-190">
-										<source>スコア結果表示ラベルのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5118" restype="Scoring Result Placeholder">
@@ -1877,17 +1818,17 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5140" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5140-190">
-										<source>スコア結果表示ラベルのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5149" restype="Scoring Result Placeholder">
 									<trans-unit id="5149-190">
-										<source>パーセント</source>
+										<source>percent</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5171" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5171-190">
-										<source>スコア結果表示ラベルのプレースホルダー</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5180" restype="Scoring Result Placeholder">
@@ -1897,27 +1838,27 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5212" restype="Review Button Placeholder">
 									<trans-unit id="5212-190">
-										<source>Adobe Captivate 5 のプレースホルダー</source>
+										<source>Platzhalter für Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5231" restype="Continue Button Placeholder">
 									<trans-unit id="5231-190">
-										<source>[消去] ボタンのプレースホルダー</source>
+										<source>Platzhalter für die Schaltfläche &quot;Löschen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5250" restype="Post Result Button Placeholder">
 									<trans-unit id="5250-190">
-										<source>Adobe Captivate 5 のプレースホルダー</source>
+										<source>Platzhalter für Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5269" restype="Retake Button Placeholder">
 									<trans-unit id="5269-190">
-										<source>Adobe Captivate 5 のプレースホルダー</source>
+										<source>Platzhalter für Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5291" restype="Review Area Placeholder">
 									<trans-unit id="5291-190">
-										<source>確認領域</source>
+										<source>Überprüfungsbereich</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1926,37 +1867,37 @@
 					<group cp:datatype="x-object" extype="197" id="382" restype="x-cp-quiz-manager">
 						<group cp:datatype="x-property" datatype="plaintext" extype="10009" restype="x-cp-quiz-submit-button-name">
 							<trans-unit id="382-10009">
-								<source>送信</source>
+								<source>Senden</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10335" restype="x-cp-quiz-submit-all-button-name">
 							<trans-unit id="382-10335">
-								<source>すべて送信</source>
+								<source>Alle senden</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10113" restype="x-cp-quiz-clear-button-name">
 							<trans-unit id="382-10113">
-								<source>クリア</source>
+								<source>Klar</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10007" restype="x-cp-quiz-skip-button-name">
 							<trans-unit id="382-10007">
-								<source>スキップ</source>
+								<source>Überspringen</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10008" restype="x-cp-quiz-back-button-name">
 							<trans-unit id="382-10008">
-								<source>戻る</source>
+								<source>Zurück</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10237" restype="x-cp-quiz-review-button-name">
 							<trans-unit id="382-10237">
-								<source>テストを見直す</source>
+								<source>Quiz zur Überprüfung</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10269" restype="x-cp-quiz-continue-button-name">
 							<trans-unit id="382-10269">
-								<source>続行</source>
+								<source>Weiter</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10011" restype="x-cp-quiz-email-address">
@@ -1967,59 +1908,59 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="2207" restype="x-cp-quiz-continue-key">
 							<trans-unit id="382-2207">
-								<source>Y</source>
+								<source>J</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10105" restype="x-cp-quiz-correct-feedback-text">
 							<trans-unit id="382-10105">
-								<source>正解 - ウィンドウ内をクリックするか、Y キーを押して続行してください。</source>
+								<source>Richtig. Klicken Sie auf eine beliebige Stelle oder drücken Sie &quot;j&quot;, um fortzufahren.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10291" restype="x-cp-quiz-partial-correct-feedback-text">
 							<trans-unit id="382-10291">
-								<source>一部正解 - ウィンドウ内をクリックするか、Y キーを押して続行してください。</source>
+								<source>Teilweise richtig. Klicken Sie auf eine beliebige Stelle oder drücken Sie &quot;j&quot;, um fortzufahren.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10106" restype="x-cp-quiz-incorrect-feedback-text">
 							<trans-unit id="382-10106">
-								<source>不正解 - ウィンドウ内をクリックするか、Y キーを押して続行してください。</source>
+								<source>Falsch. Klicken Sie auf eine beliebige Stelle oder drücken Sie &quot;j&quot;, um fortzufahren.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10107" restype="x-cp-quiz-retry-feedback-text">
 							<trans-unit id="382-10107">
-								<source>再試行</source>
+								<source>Versuchen Sie es erneut</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10184" restype="x-cp-quiz-incomplete-feedback-text">
 							<trans-unit id="382-10184">
-								<source>続行するには、質問に回答する必要があります。</source>
+								<source>Um fortfahren zu können, müssen Sie die Frage beantworten.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10188" restype="x-cp-quiz-timeout-feedback-text">
 							<trans-unit id="382-10188">
-								<source>この質問に回答する時間制限を超えました。ウィンドウ内をクリックするか、Y キーを押して続行してください。</source>
+								<source>Die Zeit zur Beantwortung dieser Frage ist abgelaufen. Klicken Sie auf eine beliebige Stelle oder drücken Sie &quot;j&quot;, um fortzufahren.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">
 							<trans-unit id="382-10358">
-								<source>すべての質問に回答しました。この後はどうされますか?</source>
+								<source>Sie haben alle Fragen beantwortet. Was möchten Sie als Nächstes tun?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10359" restype="x-cp-quiz-submit-all-incomplete-text">
 							<trans-unit id="382-10359">
-								<source>1 つ以上の質問への回答が不完全です。続行するには、すべての質問に回答してください。</source>
+								<source>Eine oder mehrere Fragen sind unvollständig. Beantworten Sie alle Fragen, um fortzufahren.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10360" restype="x-cp-quiz-submit-all-submit-incomplete-text">
 							<trans-unit id="382-10360">
-								<source>まだいくつかの質問に回答していません。未回答の質問に回答せずに続行しますか?</source>
+								<source>Sie haben noch nicht alle Fragen beantwortet. Möchten Sie wirklich fortfahren, ohne diese Fragen zu beantworten?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-object" extype="10042" id="383" restype="x-cp-quizzes">
 							<group cp:datatype="x-object" extype="10003" id="384" restype="x-cp-quiz">
 								<group cp:datatype="x-property" datatype="plaintext" extype="10002" restype="x-cp-quiz-name">
 									<trans-unit id="384-10002">
-										<source>テスト</source>
+										<source>Quiz</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10231" restype="x-cp-quiz-lms-objective-id">
@@ -2035,52 +1976,52 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10171" restype="x-cp-quiz-review-correct-message">
 									<trans-unit id="384-10171">
-										<source>正解です!</source>
+										<source>Sie haben diese Frage richtig beantwortet!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10330" restype="x-cp-quiz-review-partial-correct-message">
 									<trans-unit id="384-10330">
-										<source>一部正解です!</source>
+										<source>Sie haben diese Frage teilweise richtig beantwortet!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
 									<trans-unit id="384-10172">
-										<source>この質問に完全に回答しませんでした。</source>
+										<source>Sie haben diese Frage nicht vollständig beantwortet.</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
 									<trans-unit id="384-10173">
-										<source>あなたの回答:</source>
+										<source>Ihre Antwort:</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10174" restype="x-cp-quiz-review-incorrect-message-line-2">
 									<trans-unit id="384-10174">
-										<source>正解:</source>
+										<source>Die richtige Antwort ist:</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10165" restype="x-cp-quiz-result-pass-message">
 									<trans-unit id="384-10165">
-										<source>おめでとうございます。テストに合格しました!</source>
+										<source>Glückwunsch! Sie haben das Quiz bestanden.</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10166" restype="x-cp-quiz-result-fail-message">
 									<trans-unit id="384-10166">
-										<source>残念ながら不合格でした。</source>
+										<source>Sie haben leider nicht bestanden!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10170" restype="x-cp-quiz-result-email-button-text">
 									<trans-unit id="384-10170">
-										<source>メールを送信</source>
+										<source>E-Mail senden</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10265" restype="x-cp-quiz-result-retake-button-text">
 									<trans-unit id="384-10265">
-										<source>テストをやり直す</source>
+										<source>Quiz wiederholen</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10271" restype="x-cp-quiz-result-post-result-text">
 									<trans-unit id="384-10271">
-										<source>結果を投稿</source>
+										<source>Ergebnis posten</source>
 									</trans-unit>
 								</group>
 							</group>
