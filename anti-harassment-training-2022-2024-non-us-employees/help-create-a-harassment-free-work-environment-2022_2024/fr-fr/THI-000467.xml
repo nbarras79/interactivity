@@ -347,7 +347,7 @@ Date du modèle : 15/03/2022</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173427-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173427-612-1-1">Verso</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173427-612-1-1">Retour</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -389,7 +389,7 @@ Date du modèle : 15/03/2022</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173497-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173497-612-1-1">Verso</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173497-612-1-1">Retour</g>
 											</source>
 										</trans-unit>
 									</group>
