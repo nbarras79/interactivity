@@ -1,0 +1,44 @@
+{
+  "_id": "trailhead.challenge.meet-insurance-professionals-and-customers.en.us.192",
+  "color": "",
+  "description_html": "",
+  "icon_url": "",
+  "langLocale": "en-us",
+  "success_html": "",
+  "title": "Meet the Professionals and Customers",
+  "total_mins": 10,
+  "type": "challenge",
+  "code_evaluation_json": {
+    "title": "Quiz for Meet Insurance Professionals and Customers",
+    "description": "",
+    "requirements": [],
+    "assessment": [],
+    "questions": [
+      {
+        "question": "Which roles are part of the insurance sector?",
+        "questionID": "2617446a-b868-44e6-8d78-5738a0012cff",
+        "options": [
+          "Customer service agents and administrative support staff",
+          "Central banking policymakers and bond market brokers",
+          "Claim adjusters, investigators, and underwriters",
+          "A and B",
+          "A and C"
+        ],
+        "answers": [4]
+      },
+      {
+        "question": "What’s the difference between captive agents and independent agents?",
+        "questionID": "b842771e-3114-429a-9389-7fb5e365b406",
+        "options": [
+          "Captive agents sell products and services on behalf of adjusters. Independent brokers represent one insurance company.",
+          "Captive agents sell products for only one insurance company. Independent agents represent multiple insurance companies.",
+          "Captive agents and independent brokers both represent multiple insurance companies.",
+          "Captive agents and independent brokers both represent just one company.",
+          "It depends on the company and region."
+        ],
+        "answers": [1]
+      }
+    ]
+  },
+  "org": ""
+}
