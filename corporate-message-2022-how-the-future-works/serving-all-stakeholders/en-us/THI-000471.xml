@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2022-07-29T15:21:07.0Z" original="THI-000471.cptx" source-language="enUS">
+		<file datatype="cptx" date="2022-08-05T13:21:50.0Z" original="THI-000471.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
@@ -120,7 +120,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:0.00">
 										<trans-unit id="8130-612-4">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-4-1">We’ve created Net Zero Cloud to help every company go net zero, now. We continue to operate as a net zero greenhouse gas emissions company, run on 100% renewable energy, and deliver our solutions via a carbon-neutral cloud. And to date, we’ve planted 43.5M trees as part of our pledge to grow 100M trees as a founding member of </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-4-1">We’ve created Net Zero Cloud to help every company go net zero, now. We continue to operate as a net zero greenhouse gas emissions company, run on 100% renewable energy, and deliver our solutions via a carbon-neutral cloud. And to date, we’ve planted 44M trees as part of our pledge to grow 100M trees as a founding member of </g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0000ff;font-size:16.0pt;font:decoration:underlined" ctype="x-cp-font" id="8130-612-4-2" hyperlink="https://www.1t.org/" hyperlink-id="21211">1t.org</g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-4-3">. </g>
 											</source>
@@ -131,7 +131,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="7823-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-1-1">We are all allies striving to create a more inclusive and diverse workplace and more equal world. We believe that business is the greatest platform for change and advocate for the fundamental human rights of every person. We believe that equality and diversity make us a better company.  Salesforce advocates for equality through initiatives such as investing $100 million in Black-owned businesses and $100 million to underrepresented minority-founded companies by 2023. </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-1-1">We are all allies striving to create a more inclusive and diverse workplace and more equal world. We believe that business is the greatest platform for change and advocate for the fundamental human rights of every person. We believe that equality and diversity make us a better company. Salesforce advocates for equality through initiatives such as investing $100 million in Black-owned businesses and $100 million to underrepresented minority-founded companies by 2023. </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -488,7 +488,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.40;line-indent:0.00">
 										<trans-unit id="13302-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#223946;font-size:18.0pt" ctype="x-cp-font" id="13302-612-1-1">Guide by Our Core Values</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#223946;font-size:18.0pt" ctype="x-cp-font" id="13302-612-1-1">Guided by Our Core Values</g>
 											</source>
 										</trans-unit>
 									</group>

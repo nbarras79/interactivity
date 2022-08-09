@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2022-06-08T09:52:25.0Z" original="THI-000473.cptx" source-language="enUS">
+		<file datatype="cptx" date="2022-08-03T14:57:47.0Z" original="THI-000473.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
 					<count count-type="total" unit="trans-unit">174</count>
-					<count count-type="total" unit="word">904</count>
+					<count count-type="total" unit="word">1102</count>
 					<count count-type="total" unit="x-cp-slides">1</count>
 				</count-group>
 			</header>
@@ -100,7 +100,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 										<trans-unit id="8146-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#302c2c;font-size:14.0pt" ctype="x-cp-font" id="8146-19-1-1">Click a Customer 360 solution icon (including Slack) to learn more about how they can help our customers.$$_null$$</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#302c2c;font-size:14.0pt" ctype="x-cp-font" id="8146-19-1-1">Click a Customer 360 solution icon (including Customer Success) to learn more about how they can help our customers.$$_null$$</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -135,11 +135,8 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="8887-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8887-612-3-1">Salespeople used to be road warriors. Today, they sell everywhere, from anywhere. We’ve reimagined </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="8887-612-3-2">Sales Cloud</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8887-612-3-3"> to work for any sales team—whether they’re in conference rooms or chat channels. With </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="8887-612-3-4">Sales Cloud</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8887-612-3-5">, businesses sell digitally from anywhere so they can get back to growth faster.</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="8887-612-3-1">Sales Cloud</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8887-612-3-2"> is the trusted home for revenue teams, allowing them to deliver efficient growth and sell from a unified platform supercharged with Slack. It empowers reps with insights generated from Einstein AI, scales buyer-led experiences with convenient self-service, and automates impactful outcomes across the platform. </g>
 													</source>
 												</trans-unit>
 											</group>
@@ -167,9 +164,8 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="9920-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9920-612-3-1">We reimagined </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="9920-612-3-2">Service Cloud</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9920-612-3-3"> to deliver exceptional digital service experiences. Contact centers used to be buildings, but today they’re in the cloud. That’s why we invented the all-digital contact center—so customers can connect field service to ticketing to digital service, all on one trusted digital platform.</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="9920-612-3-1">Service Cloud</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9920-612-3-2"> brings together customers’ contact centers, field service, and employee service—all on one platform. It drives efficiency through digital experiences with self-service and Einstein bots to act faster and lower costs. And it allows customers to tailor experiences to their consumers’ unique needs, and scale that personal touch with intelligent automation.</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -197,9 +193,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="10009-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10009-612-3-1">We rebuilt marketing for our cookieless future so businesses can put privacy and trust at the center of every digital marketing conversation. With </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="10009-612-3-2">Marketing Cloud</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10009-612-3-3">, customers build relationships from anywhere through relevant, trusted, moment-by-moment engagements.</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10009-612-3-1">We rebuilt marketing for our cookieless future so businesses can put privacy and trust at the center of every digital marketing conversation. Marketing Cloud enables customers to unlock consumer value with connected first-party data using a single source of truth. They can humanize every moment in real time, all while automating every engagement—from email, mobile, in-store, and beyond—and optimize marketing performance and spend.</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -228,7 +222,7 @@
 												<trans-unit id="10098-612-3">
 													<source>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="10098-612-3-1">Commerce Cloud</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10098-612-3-2"> has new features that make it possible for businesses to meet their customers where they are—especially as they scale for direct-to-consumer experiences. Salesforce Customer Data Platform (CDP) for Commerce powers relevant, trusted engagements using seamless digital commerce capabilities.</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10098-612-3-2"> helps customers extend personalized experiences across every channel—all with a secure, trusted, and highly scalable platform, allowing for the flexibility needed to adapt to market shifts. It makes every transaction more profitable by helping them move fast with flexible tools, automate from discovery to fulfillment, personalize at scale with unified data, and win customer loyalty through a connected journey. </g>
 													</source>
 												</trans-unit>
 											</group>
@@ -241,7 +235,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="10187-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="10187-612-1-1">Analytics$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="10187-612-1-1">Tableau$$_null$$</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -256,9 +250,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="10187-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10187-612-3-1">In today’s digital economy, data is fuel. With </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="10187-612-3-2">Tableau</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10187-612-3-3">, businesses see and understand data across everything in Customer 360. With analytics available for every Customer 360 application, customers can take personalization and intelligence to new levels—all with built-in trust and security.</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10187-612-3-1">Tableau enables data everywhere, for everyone, no matter where that data is located, and no matter the skill level of your employees. With Tableau, everyone can use data to make every decision across the entire Customer 360 through collaborative and actionable insights built into Slack and Data Stories fueled by Einstein AI that automate insights. </g>
 													</source>
 												</trans-unit>
 											</group>
@@ -271,7 +263,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="10276-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="10276-612-1-1">Integration$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="10276-612-1-1">Mulesoft$$_null$$</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -288,7 +280,7 @@
 													<source>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10276-612-3-1">With </g>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="10276-612-3-2">MuleSoft</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10276-612-3-3">, customers integrate all their business systems—even legacy and back-office solutions. This is how today’s businesses keep pace with changing customer expectations, now that they’re moving faster than ever before.</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10276-612-3-3">, customers integrate all their business systems—even legacy and back-office solutions. MuleSoft empowers any company to quickly unlock and integrate their apps and data that can automate anything for everyone. This allows teams to deliver truly connected customer experiences faster.</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -316,9 +308,9 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="11673-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11673-612-3-1">Customers develop engaging, smarter apps for their customers, employees, and partners on one trusted, flexible </g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11673-612-3-1">The </g>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="11673-612-3-2">Salesforce Platform</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11673-612-3-3">.</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11673-612-3-3"> unleashes productivity across the Customer 360 while keeping the consumer at the center of everything. Low-code tools let customers automate complex tasks easily. Security and governance bring trust to every person and activity, everywhere. And a single, digital-first platform connects every capability of the Customer 360, delivering seamless experiences and faster business value.</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -331,7 +323,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="12135-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="12135-612-1-1">Industries$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="12135-612-1-1">CDP$$_null$$</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -346,7 +338,8 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="12135-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12135-612-3-1">Customers work with solutions designed for their specific industries like Retail &amp; Consumer Goods, Healthcare &amp; Life Sciences, Financial Services—and more. </g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="12135-612-3-1">Customer Data Platform</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12135-612-3-2"> (CDP) connects data across sources and helps customers discover smarter segments using AI so they can personalize every moment for their consumers. With CDP, they can activate their data across Service, Sales, Commerce, and more to create smarter segments and take action on real-time insights everywhere.</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -359,7 +352,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="11750-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11750-612-1-1">Safety$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11750-612-1-1">Slack$$_null$$</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -374,9 +367,8 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="11750-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11750-612-3-1">With </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="11750-612-3-2">Safety Cloud</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11750-612-3-3"> you can collect and verify employee and customer health status, implement and manage health and safety protocols, and streamline entry into events or buildings. Health and safety helps build trust and safely bring people together.</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11750-612-3-1">Slack </g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11750-612-3-2">brings a more inclusive and connected way to work anywhere, any way by helping companies break down silos, embrace flexibility, and automate work. Serving as a Digital HQ, Slack brings a whole new way for teams to engage—with each other and the work itself—so they can work together faster, more efficiently, and in a way that’s more enjoyable.</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -389,7 +381,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="11827-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11827-612-1-1">Sustainability$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11827-612-1-1">Net Zero$$_null$$</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -405,7 +397,7 @@
 												<trans-unit id="11827-612-3">
 													<source>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11827-612-3-1">With </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="11827-612-3-2">Net Zero Cloud</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11827-612-3-2">Net Zero Cloud</g>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11827-612-3-3"> customers track carbon emissions, gain actionable insights on emissions data, and access fast and secure supplier collaboration to reduce supply chain emissions. This is how we help our customers accelerate to net zero emissions and create long-term, sustainable value.</g>
 													</source>
 												</trans-unit>
@@ -419,7 +411,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="11904-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11904-612-1-1">Partners$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11904-612-1-1">Industries$$_null$$</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -434,8 +426,9 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="11904-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="11904-612-3-1">Partners </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11904-612-3-2">bring the power of apps and expertise to solve any customer challenge across products, industries, and regions. Salesforce customers have access to 9K+ apps and solutions from the Salesforce AppExchange, and more than 150K Salesforce credentialed experts (consultants) lead implementations.</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11904-612-3-1">Salesforce is the #1 CRM for industries, with 12 </g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11904-612-3-2">Industries </g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11904-612-3-3">clouds that provide purpose-built functionality, data models, and processes, all designed by industry experts. Our solutions are built on top of Customer 360, fast-tracking digital transformation across industries like Retail, Travel, Transportation, and Professional Services. </g>
 													</source>
 												</trans-unit>
 											</group>
@@ -448,7 +441,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="11981-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11981-612-1-1">Success$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11981-612-1-1">Partners$$_null$$</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -463,7 +456,8 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="11981-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11981-612-3-1">Share resources and guidance customers need to achieve long-term success with Salesforce through always-on solutions like adoption and professional services.</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11981-612-3-1">Partners </g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11981-612-3-2">bring the power of apps and expertise to solve any customer challenge across products, industries, and regions. Salesforce customers have access to 9K+ apps and solutions from the Salesforce AppExchange. And more than 150K Salesforce credentialed experts (consultants) lead implementations. We also have strategic technology partnerships with AWS, Google, Honeywell, Apple, Disney, and dozens more.</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -476,7 +470,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="12058-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="12058-612-1-1">Slack$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="12058-612-1-1">Customer Success$$_null$$</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -491,8 +485,8 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="12058-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="12058-612-3-1">Slack </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12058-612-3-2">connects your teams, tools, customers, and partners in a digital place that’s fast, flexible, and inclusive in a work-from-anywhere world. It helps customers break down communication and collaboration silos, embrace flexibility so employees can do their best work, and bring the power of automation to everyone.</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12058-612-3-1">Customer Success</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12058-612-3-2"> aligns to customers’ vision and goals and helps them achieve value faster. Having worked with thousands of innovative customers, we have proven best practices to help our customers get the most value from their Salesforce investment. </g>
 													</source>
 												</trans-unit>
 											</group>
