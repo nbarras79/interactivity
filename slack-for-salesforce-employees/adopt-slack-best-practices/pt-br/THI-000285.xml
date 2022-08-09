@@ -26,12 +26,12 @@
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="591" restype="x-cp-project-password-message">
 						<trans-unit id="1-591">
-							<source>Digite a senha correta diretamente na caixa de texto abaixo e clique no bot&atilde;o abaixo.</source>
+							<source>Digite a senha correta diretamente na caixa de texto abaixo e clique no botão abaixo.</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="592" restype="x-cp-project-password-retry-message">
 						<trans-unit id="1-592">
-							<source>A senha que voc&ecirc; digitou est&aacute; incorreta. Tente novamente.</source>
+							<source>A senha que você digitou está incorreta. Tente novamente.</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="593" restype="x-cp-project-password-button-text">
