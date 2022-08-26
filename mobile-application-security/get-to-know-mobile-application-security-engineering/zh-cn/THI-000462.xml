@@ -455,7 +455,7 @@
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
 								<trans-unit id="39832-1285">
-									<source>包含两列。  左侧是陈述，右侧是相应的下拉列表。从陈述相应的下拉列表中选择正确答案。完成所有选择后，单击右下角的提交按钮。您将知道哪些选择是对的，哪些是错的。您可以返回修改错误的选项（如有），然后重新单击&ldquo;提交&rdquo;。要重新开始，单击右下角的&ldquo;重置&rdquo;按钮。</source>
+									<source>包含两列。  左侧是陈述，右侧是相应的下拉列表。从陈述相应的下拉列表中选择正确答案。完成所有选择后，单击右下角的提交按钮。您将知道哪些选择是对的，哪些是错的。您可以返回修改错误的选项（如有），然后重新单击“提交”。要重新开始，单击右下角的“重置”按钮。</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-object" extype="69" id="39817" restype="x-cp-items">
@@ -1756,17 +1756,17 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10105" restype="x-cp-quiz-correct-feedback-text">
 							<trans-unit id="382-10105">
-								<source>正确 - 单击任意位置或按&ldquo;y&rdquo;继续。</source>
+								<source>正确 - 单击任意位置或按“y”继续。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10291" restype="x-cp-quiz-partial-correct-feedback-text">
 							<trans-unit id="382-10291">
-								<source>部分正确 - 单击任意位置或按&ldquo;y&rdquo;继续。</source>
+								<source>部分正确 - 单击任意位置或按“y”继续。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10106" restype="x-cp-quiz-incorrect-feedback-text">
 							<trans-unit id="382-10106">
-								<source>不正确 - 单击任意位置或按&ldquo;y&rdquo;继续。</source>
+								<source>不正确 - 单击任意位置或按“y”继续。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10107" restype="x-cp-quiz-retry-feedback-text">
@@ -1781,7 +1781,7 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10188" restype="x-cp-quiz-timeout-feedback-text">
 							<trans-unit id="382-10188">
-								<source>回答这个问题的时间已过。单击任意位置或按&ldquo;y&rdquo;继续。</source>
+								<source>回答这个问题的时间已过。单击任意位置或按“y”继续。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">

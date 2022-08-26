@@ -26,7 +26,7 @@
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="591" restype="x-cp-project-password-message">
 						<trans-unit id="1-591">
-							<source>Geben Sie das richtige Kennwort direkt in das nachstehende Textfeld ein und klicken Sie auf die nachstehende Schaltfl&auml;che.</source>
+							<source>Geben Sie das richtige Kennwort direkt in das nachstehende Textfeld ein und klicken Sie auf die nachstehende Schaltfläche.</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="592" restype="x-cp-project-password-retry-message">
@@ -42,7 +42,7 @@
 					<group cp:datatype="x-object" extype="417" id="305" restype="x-cp-project-information">
 						<group cp:datatype="x-property" datatype="plaintext" extype="428" restype="x-cp-project-info-name">
 							<trans-unit id="305-428">
-								<source>Trailhead-Interaktivit&auml;t</source>
+								<source>Trailhead-Interaktivität</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="429" restype="x-cp-project-info-author">
@@ -89,7 +89,7 @@
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
 								<trans-unit id="38613-1285">
-									<source>F&uuml;r den Zugriff auf die vollst&auml;ndig barrierefreie Version dieser interaktiven Umgebung klicken Sie auf die Schaltfl&auml;che &quot;Barrierefreiheit&quot; oder dr&uuml;cken Sie Z.</source>
+									<source>Für den Zugriff auf die vollständig barrierefreie Version dieser interaktiven Umgebung klicken Sie auf die Schaltfläche &quot;Barrierefreiheit&quot; oder drücken Sie Z.</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-object" extype="69" id="38587" restype="x-cp-items">
@@ -115,7 +115,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="37082-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37082-612-1-1">Verantwortlich f&uuml;r das Festlegen von Sicherheitskontrollen und Designanforderungen im gesamten Softwareentwicklungszyklus</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37082-612-1-1">Verantwortlich für das Festlegen von Sicherheitskontrollen und Designanforderungen im gesamten Softwareentwicklungszyklus</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -124,7 +124,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="37099-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37099-612-1-1">Verantwortlich f&uuml;r das Festlegen von Sicherheitskontrollen und Designanforderungen im gesamten Softwareentwicklungszyklus</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37099-612-1-1">Verantwortlich für das Festlegen von Sicherheitskontrollen und Designanforderungen im gesamten Softwareentwicklungszyklus</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -133,7 +133,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="37116-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37116-612-1-1">Verantwortlich f&uuml;r das Festlegen von Sicherheitskontrollen und Designanforderungen im gesamten Softwareentwicklungszyklus</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37116-612-1-1">Verantwortlich für das Festlegen von Sicherheitskontrollen und Designanforderungen im gesamten Softwareentwicklungszyklus</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -142,7 +142,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="37146-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37146-612-1-1">Verantwortlich f&uuml;r das Festlegen von Sicherheitskontrollen und Designanforderungen im gesamten Softwareentwicklungszyklus</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37146-612-1-1">Verantwortlich für das Festlegen von Sicherheitskontrollen und Designanforderungen im gesamten Softwareentwicklungszyklus</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -187,7 +187,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="37249-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37249-612-1-1">Zu den Aufgaben geh&ouml;ren das Entwickeln von Bedrohungsmodellen und die Risikobeurteilung von Anwendungen.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37249-612-1-1">Zu den Aufgaben gehören das Entwickeln von Bedrohungsmodellen und die Risikobeurteilung von Anwendungen.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -196,7 +196,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="37260-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37260-612-1-1">Zu den Aufgaben geh&ouml;ren das Entwickeln von Bedrohungsmodellen und die Risikobeurteilung von Anwendungen.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37260-612-1-1">Zu den Aufgaben gehören das Entwickeln von Bedrohungsmodellen und die Risikobeurteilung von Anwendungen.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -205,7 +205,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="37271-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37271-612-1-1">Zu den Aufgaben geh&ouml;ren das Entwickeln von Bedrohungsmodellen und die Risikobeurteilung von Anwendungen.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37271-612-1-1">Zu den Aufgaben gehören das Entwickeln von Bedrohungsmodellen und die Risikobeurteilung von Anwendungen.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -214,7 +214,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="37282-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37282-612-1-1">Zu den Aufgaben geh&ouml;ren das Entwickeln von Bedrohungsmodellen und die Risikobeurteilung von Anwendungen.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37282-612-1-1">Zu den Aufgaben gehören das Entwickeln von Bedrohungsmodellen und die Risikobeurteilung von Anwendungen.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -223,7 +223,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="37317-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37317-612-1-1">Verantwortlich f&uuml;r Programmierung, Design, Anwendungsverwaltung, Fehlerbehebung, Update-&Uuml;berwachung und Endbenutzer-Support </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37317-612-1-1">Verantwortlich für Programmierung, Design, Anwendungsverwaltung, Fehlerbehebung, Update-Überwachung und Endbenutzer-Support </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -232,7 +232,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="37328-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37328-612-1-1">Verantwortlich f&uuml;r Programmierung, Design, Anwendungsverwaltung, Fehlerbehebung, Update-&Uuml;berwachung und Endbenutzer-Support </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37328-612-1-1">Verantwortlich für Programmierung, Design, Anwendungsverwaltung, Fehlerbehebung, Update-Überwachung und Endbenutzer-Support </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -241,7 +241,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="37339-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37339-612-1-1">Verantwortlich f&uuml;r Programmierung, Design, Anwendungsverwaltung, Fehlerbehebung, Update-&Uuml;berwachung und Endbenutzer-Support </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37339-612-1-1">Verantwortlich für Programmierung, Design, Anwendungsverwaltung, Fehlerbehebung, Update-Überwachung und Endbenutzer-Support </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -250,7 +250,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="37350-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37350-612-1-1">Verantwortlich f&uuml;r Programmierung, Design, Anwendungsverwaltung, Fehlerbehebung, Update-&Uuml;berwachung und Endbenutzer-Support </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37350-612-1-1">Verantwortlich für Programmierung, Design, Anwendungsverwaltung, Fehlerbehebung, Update-Überwachung und Endbenutzer-Support </g>
 											</source>
 										</trans-unit>
 									</group>
@@ -259,7 +259,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="37385-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37385-612-1-1">Zu den Aufgaben geh&ouml;ren das &Uuml;berwachen mobiler Anwendungen nach ihrer Ver&ouml;ffentlichung und das Identifizieren und Beheben neuer oder zuvor nicht erkannter Sicherheitsl&uuml;cken.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37385-612-1-1">Zu den Aufgaben gehören das Überwachen mobiler Anwendungen nach ihrer Veröffentlichung und das Identifizieren und Beheben neuer oder zuvor nicht erkannter Sicherheitslücken.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -268,7 +268,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="37396-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37396-612-1-1">Zu den Aufgaben geh&ouml;ren das &Uuml;berwachen mobiler Anwendungen nach ihrer Ver&ouml;ffentlichung und das Identifizieren und Beheben neuer oder zuvor nicht erkannter Sicherheitsl&uuml;cken.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="37396-612-1-1">Zu den Aufgaben gehören das Überwachen mobiler Anwendungen nach ihrer Veröffentlichung und das Identifizieren und Beheben neuer oder zuvor nicht erkannter Sicherheitslücken.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -277,7 +277,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="37407-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37407-612-1-1">Zu den Aufgaben geh&ouml;ren das &Uuml;berwachen mobiler Anwendungen nach ihrer Ver&ouml;ffentlichung und das Identifizieren und Beheben neuer oder zuvor nicht erkannter Sicherheitsl&uuml;cken.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37407-612-1-1">Zu den Aufgaben gehören das Überwachen mobiler Anwendungen nach ihrer Veröffentlichung und das Identifizieren und Beheben neuer oder zuvor nicht erkannter Sicherheitslücken.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -286,7 +286,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="37418-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37418-612-1-1">Zu den Aufgaben geh&ouml;ren das &Uuml;berwachen mobiler Anwendungen nach ihrer Ver&ouml;ffentlichung und das Identifizieren und Beheben neuer oder zuvor nicht erkannter Sicherheitsl&uuml;cken.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="37418-612-1-1">Zu den Aufgaben gehören das Überwachen mobiler Anwendungen nach ihrer Veröffentlichung und das Identifizieren und Beheben neuer oder zuvor nicht erkannter Sicherheitslücken.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -349,7 +349,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="38362-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="38362-612-1-1">Zur&uuml;cksetzen</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="38362-612-1-1">Zurücksetzen</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -358,7 +358,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="38374-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="38374-612-1-1">Zur&uuml;cksetzen</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="38374-612-1-1">Zurücksetzen</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -367,7 +367,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="38386-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="38386-612-1-1">Zur&uuml;cksetzen</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="38386-612-1-1">Zurücksetzen</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -421,7 +421,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:1.00">
 										<trans-unit id="38562-641-1">
 											<source>
-												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="38562-641-1-1">Schaltfl&auml;che nicht verwendet</g>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="38562-641-1-1">Schaltfläche nicht verwendet</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -430,7 +430,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:1.00">
 										<trans-unit id="38574-641-1">
 											<source>
-												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="38574-641-1-1">Schaltfl&auml;che nicht verwendet</g>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="38574-641-1-1">Schaltfläche nicht verwendet</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -439,7 +439,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:1.00">
 										<trans-unit id="38586-641-1">
 											<source>
-												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="38586-641-1-1">Schaltfl&auml;che nicht verwendet</g>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#333333;font-size:14.0pt" ctype="x-cp-font" id="38586-641-1-1">Schaltfläche nicht verwendet</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -455,7 +455,7 @@
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
 								<trans-unit id="39832-1285">
-									<source>Es gibt zwei Spalten.  Die linke Seite enth&auml;lt Aussagen, die rechte eine zugeh&ouml;rige Dropdown-Liste. W&auml;hlen Sie in den Dropdown-Listen die Antwort aus, die der jeweiligen Aussage entspricht. Nachdem Sie alle Angaben gemacht haben, klicken Sie rechts unten auf die Schaltfl&auml;che &quot;Senden&quot;. Anschlie&szlig;end wird Ihnen mitgeteilt, welche Angaben Sie richtig und welche Sie falsch gemacht haben. Sie k&ouml;nnen zur&uuml;ckgehen und die Fehler korrigieren, die Sie ggf. gemacht haben, und erneut auf &quot;Senden&quot; klicken. Um von vorn zu beginnen, klicken Sie rechts unten auf die Schaltfl&auml;che &quot;Zur&uuml;cksetzen&quot;.</source>
+									<source>Es gibt zwei Spalten.  Die linke Seite enthält Aussagen, die rechte eine zugehörige Dropdown-Liste. Wählen Sie in den Dropdown-Listen die Antwort aus, die der jeweiligen Aussage entspricht. Nachdem Sie alle Angaben gemacht haben, klicken Sie rechts unten auf die Schaltfläche &quot;Senden&quot;. Anschließend wird Ihnen mitgeteilt, welche Angaben Sie richtig und welche Sie falsch gemacht haben. Sie können zurückgehen und die Fehler korrigieren, die Sie ggf. gemacht haben, und erneut auf &quot;Senden&quot; klicken. Um von vorn zu beginnen, klicken Sie rechts unten auf die Schaltfläche &quot;Zurücksetzen&quot;.</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-object" extype="69" id="39817" restype="x-cp-items">
@@ -481,7 +481,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="38673-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38673-19-1-1">Ihre Angabe f&uuml;r dieses Element ist falsch. Versuchen Sie es erneut.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38673-19-1-1">Ihre Angabe für dieses Element ist falsch. Versuchen Sie es erneut.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -490,7 +490,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="38721-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="38721-612-1-1">Verantwortlich f&uuml;r das Festlegen von Sicherheitskontrollen und Designanforderungen im gesamten Softwareentwicklungszyklus</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="38721-612-1-1">Verantwortlich für das Festlegen von Sicherheitskontrollen und Designanforderungen im gesamten Softwareentwicklungszyklus</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -499,7 +499,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="38751-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="38751-612-1-1">Verantwortlich f&uuml;r das Festlegen von Sicherheitskontrollen und Designanforderungen im gesamten Softwareentwicklungszyklus</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="38751-612-1-1">Verantwortlich für das Festlegen von Sicherheitskontrollen und Designanforderungen im gesamten Softwareentwicklungszyklus</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -508,7 +508,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="38762-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="38762-612-1-1">Verantwortlich f&uuml;r das Festlegen von Sicherheitskontrollen und Designanforderungen im gesamten Softwareentwicklungszyklus</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="38762-612-1-1">Verantwortlich für das Festlegen von Sicherheitskontrollen und Designanforderungen im gesamten Softwareentwicklungszyklus</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -517,7 +517,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="38796-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38796-19-1-1">Ihre Angabe f&uuml;r dieses Element ist richtig.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38796-19-1-1">Ihre Angabe für dieses Element ist richtig.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -526,7 +526,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="38861-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38861-19-1-1">Ihre Angabe f&uuml;r dieses Element ist falsch. Versuchen Sie es erneut.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38861-19-1-1">Ihre Angabe für dieses Element ist falsch. Versuchen Sie es erneut.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -562,7 +562,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="38943-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38943-19-1-1">Ihre Angabe f&uuml;r dieses Element ist richtig.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="38943-19-1-1">Ihre Angabe für dieses Element ist richtig.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -571,7 +571,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39002-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39002-19-1-1">Ihre Angabe f&uuml;r dieses Element ist falsch. Versuchen Sie es erneut.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39002-19-1-1">Ihre Angabe für dieses Element ist falsch. Versuchen Sie es erneut.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -580,7 +580,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39032-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="39032-612-1-1">Zu den Aufgaben geh&ouml;ren das Entwickeln von Bedrohungsmodellen und die Risikobeurteilung von Anwendungen.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="39032-612-1-1">Zu den Aufgaben gehören das Entwickeln von Bedrohungsmodellen und die Risikobeurteilung von Anwendungen.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -589,7 +589,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39043-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39043-612-1-1">Zu den Aufgaben geh&ouml;ren das Entwickeln von Bedrohungsmodellen und die Risikobeurteilung von Anwendungen.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39043-612-1-1">Zu den Aufgaben gehören das Entwickeln von Bedrohungsmodellen und die Risikobeurteilung von Anwendungen.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -598,7 +598,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39054-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39054-612-1-1">Zu den Aufgaben geh&ouml;ren das Entwickeln von Bedrohungsmodellen und die Risikobeurteilung von Anwendungen.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39054-612-1-1">Zu den Aufgaben gehören das Entwickeln von Bedrohungsmodellen und die Risikobeurteilung von Anwendungen.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -607,7 +607,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39084-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39084-19-1-1">Ihre Angabe f&uuml;r dieses Element ist richtig.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39084-19-1-1">Ihre Angabe für dieses Element ist richtig.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -616,7 +616,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39143-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39143-19-1-1">Ihre Angabe f&uuml;r dieses Element ist falsch. Versuchen Sie es erneut.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39143-19-1-1">Ihre Angabe für dieses Element ist falsch. Versuchen Sie es erneut.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -625,7 +625,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39173-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="39173-612-1-1">Verantwortlich f&uuml;r Programmierung, Design, Anwendungsverwaltung, Fehlerbehebung, Update-&Uuml;berwachung und Endbenutzer-Support</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="39173-612-1-1">Verantwortlich für Programmierung, Design, Anwendungsverwaltung, Fehlerbehebung, Update-Überwachung und Endbenutzer-Support</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -634,7 +634,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39184-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39184-612-1-1">Verantwortlich f&uuml;r Programmierung, Design, Anwendungsverwaltung, Fehlerbehebung, Update-&Uuml;berwachung und Endbenutzer-Support</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39184-612-1-1">Verantwortlich für Programmierung, Design, Anwendungsverwaltung, Fehlerbehebung, Update-Überwachung und Endbenutzer-Support</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -643,7 +643,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39195-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39195-612-1-1">Verantwortlich f&uuml;r Programmierung, Design, Anwendungsverwaltung, Fehlerbehebung, Update-&Uuml;berwachung und Endbenutzer-Support</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39195-612-1-1">Verantwortlich für Programmierung, Design, Anwendungsverwaltung, Fehlerbehebung, Update-Überwachung und Endbenutzer-Support</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -652,7 +652,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39225-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39225-19-1-1">Ihre Angabe f&uuml;r dieses Element ist richtig.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39225-19-1-1">Ihre Angabe für dieses Element ist richtig.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -661,7 +661,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39284-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39284-19-1-1">Ihre Angabe f&uuml;r dieses Element ist falsch. Versuchen Sie es erneut.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#990000;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39284-19-1-1">Ihre Angabe für dieses Element ist falsch. Versuchen Sie es erneut.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -670,7 +670,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39314-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="39314-612-1-1">Zu den Aufgaben geh&ouml;ren das &Uuml;berwachen mobiler Anwendungen nach ihrer Ver&ouml;ffentlichung und das Identifizieren und Beheben neuer oder zuvor nicht erkannter Sicherheitsl&uuml;cken.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="39314-612-1-1">Zu den Aufgaben gehören das Überwachen mobiler Anwendungen nach ihrer Veröffentlichung und das Identifizieren und Beheben neuer oder zuvor nicht erkannter Sicherheitslücken.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -679,7 +679,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39325-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39325-612-1-1">Zu den Aufgaben geh&ouml;ren das &Uuml;berwachen mobiler Anwendungen nach ihrer Ver&ouml;ffentlichung und das Identifizieren und Beheben neuer oder zuvor nicht erkannter Sicherheitsl&uuml;cken.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39325-612-1-1">Zu den Aufgaben gehören das Überwachen mobiler Anwendungen nach ihrer Veröffentlichung und das Identifizieren und Beheben neuer oder zuvor nicht erkannter Sicherheitslücken.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -688,7 +688,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39336-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39336-612-1-1">Zu den Aufgaben geh&ouml;ren das &Uuml;berwachen mobiler Anwendungen nach ihrer Ver&ouml;ffentlichung und das Identifizieren und Beheben neuer oder zuvor nicht erkannter Sicherheitsl&uuml;cken.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="39336-612-1-1">Zu den Aufgaben gehören das Überwachen mobiler Anwendungen nach ihrer Veröffentlichung und das Identifizieren und Beheben neuer oder zuvor nicht erkannter Sicherheitslücken.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -697,7 +697,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39366-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39366-19-1-1">Ihre Angabe f&uuml;r dieses Element ist richtig.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#1b540c;font-size:15.0pt;font:weight:bold" ctype="x-cp-font" id="39366-19-1-1">Ihre Angabe für dieses Element ist richtig.</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -706,7 +706,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39646-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="39646-612-1-1">Zur&uuml;cksetzen</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="39646-612-1-1">Zurücksetzen</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -715,7 +715,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39658-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="39658-612-1-1">Zur&uuml;cksetzen</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="39658-612-1-1">Zurücksetzen</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -724,7 +724,7 @@
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="39670-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="39670-612-1-1">Zur&uuml;cksetzen</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0070d2;font-size:18.0pt;font:weight:bold" ctype="x-cp-font" id="39670-612-1-1">Zurücksetzen</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -829,7 +829,7 @@
 						<slide cp:datatype="x-object" extype="584" id="1742" resname="Slide 3" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="1742-337">
-									<source>Inhalt&nbsp;01</source>
+									<source>Inhalt 01</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -860,7 +860,7 @@
 						<slide cp:datatype="x-object" extype="584" id="2263" resname="Slide 4" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2263-337">
-									<source>Inhalt&nbsp;02</source>
+									<source>Inhalt 02</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -947,7 +947,7 @@
 						<slide cp:datatype="x-object" extype="584" id="2429" resname="Slide 5" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2429-337">
-									<source>Inhalt&nbsp;03</source>
+									<source>Inhalt 03</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -989,7 +989,7 @@
 						<slide cp:datatype="x-object" extype="584" id="2550" resname="Slide 6" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2550-337">
-									<source>Inhalt&nbsp;04</source>
+									<source>Inhalt 04</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1020,7 +1020,7 @@
 						<slide cp:datatype="x-object" extype="584" id="2619" resname="Slide 7" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2619-337">
-									<source>Inhalt&nbsp;05</source>
+									<source>Inhalt 05</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1041,7 +1041,7 @@
 						<slide cp:datatype="x-object" extype="584" id="2901" resname="Slide 8" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2901-337">
-									<source>Inhalt&nbsp;06</source>
+									<source>Inhalt 06</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1101,7 +1101,7 @@
 						<slide cp:datatype="x-object" extype="584" id="3018" resname="Slide 9" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="3018-337">
-									<source>Inhalt&nbsp;07</source>
+									<source>Inhalt 07</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -1261,82 +1261,82 @@
 							<group cp:datatype="x-object" extype="69" id="3963" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="3600" restype="Title Placeholder">
 									<trans-unit id="3600-190">
-										<source>Platzhalter f&uuml;r Fragetitel</source>
+										<source>Platzhalter für Fragetitel</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3625" restype="Question Placeholder">
 									<trans-unit id="3625-190">
-										<source>Platzhalter f&uuml;r den Text der Frage</source>
+										<source>Platzhalter für den Text der Frage</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3657" restype="Answer Area Placeholder">
 									<trans-unit id="3657-190">
-										<source>Platzhalter f&uuml;r den Bereich &quot;Antwort&quot;</source>
+										<source>Platzhalter für den Bereich &quot;Antwort&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3679" restype="Review Area Placeholder">
 									<trans-unit id="3679-190">
-										<source>&Uuml;berpr&uuml;fungsbereich</source>
+										<source>Überprüfungsbereich</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3697" restype="Success Shape Placeholder">
 									<trans-unit id="3697-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Erfolg&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3715" restype="TimeOut Shape Placeholder">
 									<trans-unit id="3715-190">
-										<source>Platzhalter f&uuml;r das Feedback &quot;Timeout&quot;</source>
+										<source>Platzhalter für das Feedback &quot;Timeout&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3733" restype="Partial Correct Shape Placeholder">
 									<trans-unit id="3733-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Teilweise richtig&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Teilweise richtig&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3751" restype="Retry Shape Placeholder">
 									<trans-unit id="3751-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Wiederholen&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Wiederholen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3769" restype="Incomplete Shape Placeholder">
 									<trans-unit id="3769-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Unvollst&auml;ndig&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Unvollständig&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3787" restype="Failure Shape Placeholder">
 									<trans-unit id="3787-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Kein Erfolg&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Kein Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3819" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="3819-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Zur&uuml;ck&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3838" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="3838-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;&Uuml;berspringen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3857" restype="Clear Button Placeholder">
 									<trans-unit id="3857-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;L&ouml;schen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Löschen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3876" restype="Back Button Placeholder">
 									<trans-unit id="3876-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Zur&uuml;ck&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3895" restype="Skip Button Placeholder">
 									<trans-unit id="3895-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;&Uuml;berspringen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3914" restype="Submit Button Placeholder">
 									<trans-unit id="3914-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Senden&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Senden&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3962" restype="Progress Indicator Placeholder">
@@ -1361,82 +1361,82 @@
 							<group cp:datatype="x-object" extype="69" id="4361" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4002" restype="Title Placeholder">
 									<trans-unit id="4002-190">
-										<source>Platzhalter f&uuml;r Fragetitel</source>
+										<source>Platzhalter für Fragetitel</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4027" restype="Question Placeholder">
 									<trans-unit id="4027-190">
-										<source>Platzhalter f&uuml;r den Text der Frage</source>
+										<source>Platzhalter für den Text der Frage</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4049" restype="Column 1 Placeholder">
 									<trans-unit id="4049-190">
-										<source>Platzhalter f&uuml;r den Bereich &quot;Frage&quot;</source>
+										<source>Platzhalter für den Bereich &quot;Frage&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4058" restype="Column 2 Placeholder">
 									<trans-unit id="4058-190">
-										<source>Platzhalter f&uuml;r den Bereich &quot;Frage&quot;</source>
+										<source>Platzhalter für den Bereich &quot;Frage&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4090" restype="Question Area Placeholder">
 									<trans-unit id="4090-190">
-										<source>Platzhalter f&uuml;r den Bereich &quot;Frage&quot;</source>
+										<source>Platzhalter für den Bereich &quot;Frage&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4109" restype="Answer Area Placeholder">
 									<trans-unit id="4109-190">
-										<source>Platzhalter f&uuml;r den Bereich &quot;Antwort&quot;</source>
+										<source>Platzhalter für den Bereich &quot;Antwort&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4131" restype="Review Area Placeholder">
 									<trans-unit id="4131-190">
-										<source>&Uuml;berpr&uuml;fungsbereich</source>
+										<source>Überprüfungsbereich</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4149" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4149-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Unvollst&auml;ndig&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Unvollständig&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4167" restype="Failure Shape Placeholder">
 									<trans-unit id="4167-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Kein Erfolg&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Kein Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4185" restype="Success Shape Placeholder">
 									<trans-unit id="4185-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Erfolg&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4217" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4217-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Zur&uuml;ck&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4236" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4236-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;&Uuml;berspringen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4255" restype="Clear Button Placeholder">
 									<trans-unit id="4255-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;L&ouml;schen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Löschen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4274" restype="Back Button Placeholder">
 									<trans-unit id="4274-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Zur&uuml;ck&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4293" restype="Skip Button Placeholder">
 									<trans-unit id="4293-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;&Uuml;berspringen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4312" restype="Submit Button Placeholder">
 									<trans-unit id="4312-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Senden&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Senden&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4360" restype="Progress Indicator Placeholder">
@@ -1461,62 +1461,62 @@
 							<group cp:datatype="x-object" extype="69" id="4677" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4400" restype="Title Placeholder">
 									<trans-unit id="4400-190">
-										<source>Platzhalter f&uuml;r Fragetitel</source>
+										<source>Platzhalter für Fragetitel</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4425" restype="Question Placeholder">
 									<trans-unit id="4425-190">
-										<source>Platzhalter f&uuml;r den Text der Frage</source>
+										<source>Platzhalter für den Text der Frage</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4447" restype="Review Area Placeholder">
 									<trans-unit id="4447-190">
-										<source>&Uuml;berpr&uuml;fungsbereich</source>
+										<source>Überprüfungsbereich</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4465" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4465-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Unvollst&auml;ndig&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Unvollständig&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4483" restype="Failure Shape Placeholder">
 									<trans-unit id="4483-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Kein Erfolg&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Kein Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4501" restype="Success Shape Placeholder">
 									<trans-unit id="4501-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Erfolg&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Erfolg&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4533" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4533-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Zur&uuml;ck&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4552" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4552-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;&Uuml;berspringen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4571" restype="Clear Button Placeholder">
 									<trans-unit id="4571-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;L&ouml;schen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Löschen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4590" restype="Back Button Placeholder">
 									<trans-unit id="4590-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Zur&uuml;ck&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4609" restype="Skip Button Placeholder">
 									<trans-unit id="4609-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;&Uuml;berspringen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4628" restype="Submit Button Placeholder">
 									<trans-unit id="4628-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Senden&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Senden&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4676" restype="Progress Indicator Placeholder">
@@ -1541,27 +1541,27 @@
 							<group cp:datatype="x-object" extype="69" id="4955" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4716" restype="Title Placeholder">
 									<trans-unit id="4716-190">
-										<source>Platzhalter f&uuml;r Fragetitel</source>
+										<source>Platzhalter für Fragetitel</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4728" restype="Question Placeholder">
 									<trans-unit id="4728-190">
-										<source>Platzhalter f&uuml;r den Text der Frage</source>
+										<source>Platzhalter für den Text der Frage</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4804" restype="Likert Question Area Placeholder">
 									<trans-unit id="4804-190">
-										<source>Platzhalter f&uuml;r Adobe Captivate 5</source>
+										<source>Platzhalter für Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4822" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4822-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Unvollst&auml;ndig&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Unvollständig&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4831" restype="Review Area Placeholder">
 									<trans-unit id="4831-190">
-										<source>&Uuml;berpr&uuml;fungsbereich</source>
+										<source>Überprüfungsbereich</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4840" restype="Progress Indicator Placeholder">
@@ -1571,32 +1571,32 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4859" restype="Submit Button Placeholder">
 									<trans-unit id="4859-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Senden&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Senden&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4878" restype="Skip Button Placeholder">
 									<trans-unit id="4878-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;&Uuml;berspringen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4897" restype="Back Button Placeholder">
 									<trans-unit id="4897-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Zur&uuml;ck&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4916" restype="Clear Button Placeholder">
 									<trans-unit id="4916-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;L&ouml;schen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Löschen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4935" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4935-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;&Uuml;berspringen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Überspringen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4954" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4954-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;Zur&uuml;ck&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Zurück&quot;</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1616,12 +1616,12 @@
 							<group cp:datatype="x-object" extype="69" id="5318" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4994" restype="Result Title Placeholder">
 									<trans-unit id="4994-190">
-										<source>Platzhalter f&uuml;r Fragetitel</source>
+										<source>Platzhalter für Fragetitel</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5016" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5016-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Bewertungsergebnis&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5025" restype="Scoring Result Placeholder">
@@ -1631,7 +1631,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5047" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5047-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Bewertungsergebnis&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5056" restype="Scoring Result Placeholder">
@@ -1641,7 +1641,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5078" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5078-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Bewertungsergebnis&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5087" restype="Scoring Result Placeholder">
@@ -1651,7 +1651,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5109" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5109-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Bewertungsergebnis&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5118" restype="Scoring Result Placeholder">
@@ -1661,7 +1661,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5140" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5140-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Bewertungsergebnis&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5149" restype="Scoring Result Placeholder">
@@ -1671,7 +1671,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5171" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5171-190">
-										<source>Platzhalter f&uuml;r die Beschriftung &quot;Bewertungsergebnis&quot;</source>
+										<source>Platzhalter für die Beschriftung &quot;Bewertungsergebnis&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5180" restype="Scoring Result Placeholder">
@@ -1681,27 +1681,27 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5212" restype="Review Button Placeholder">
 									<trans-unit id="5212-190">
-										<source>Platzhalter f&uuml;r Adobe Captivate 5</source>
+										<source>Platzhalter für Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5231" restype="Continue Button Placeholder">
 									<trans-unit id="5231-190">
-										<source>Platzhalter f&uuml;r die Schaltfl&auml;che &quot;L&ouml;schen&quot;</source>
+										<source>Platzhalter für die Schaltfläche &quot;Löschen&quot;</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5250" restype="Post Result Button Placeholder">
 									<trans-unit id="5250-190">
-										<source>Platzhalter f&uuml;r Adobe Captivate 5</source>
+										<source>Platzhalter für Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5269" restype="Retake Button Placeholder">
 									<trans-unit id="5269-190">
-										<source>Platzhalter f&uuml;r Adobe Captivate 5</source>
+										<source>Platzhalter für Adobe Captivate 5</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5291" restype="Review Area Placeholder">
 									<trans-unit id="5291-190">
-										<source>&Uuml;berpr&uuml;fungsbereich</source>
+										<source>Überprüfungsbereich</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1725,17 +1725,17 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10007" restype="x-cp-quiz-skip-button-name">
 							<trans-unit id="382-10007">
-								<source>&Uuml;berspringen</source>
+								<source>Überspringen</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10008" restype="x-cp-quiz-back-button-name">
 							<trans-unit id="382-10008">
-								<source>Zur&uuml;ck</source>
+								<source>Zurück</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10237" restype="x-cp-quiz-review-button-name">
 							<trans-unit id="382-10237">
-								<source>Quiz zur &Uuml;berpr&uuml;fung</source>
+								<source>Quiz zur Überprüfung</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10269" restype="x-cp-quiz-continue-button-name">
@@ -1756,17 +1756,17 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10105" restype="x-cp-quiz-correct-feedback-text">
 							<trans-unit id="382-10105">
-								<source>Richtig. Klicken Sie auf eine beliebige Stelle oder dr&uuml;cken Sie &quot;j&quot;, um fortzufahren.</source>
+								<source>Richtig. Klicken Sie auf eine beliebige Stelle oder drücken Sie &quot;j&quot;, um fortzufahren.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10291" restype="x-cp-quiz-partial-correct-feedback-text">
 							<trans-unit id="382-10291">
-								<source>Teilweise richtig. Klicken Sie auf eine beliebige Stelle oder dr&uuml;cken Sie &quot;j&quot;, um fortzufahren.</source>
+								<source>Teilweise richtig. Klicken Sie auf eine beliebige Stelle oder drücken Sie &quot;j&quot;, um fortzufahren.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10106" restype="x-cp-quiz-incorrect-feedback-text">
 							<trans-unit id="382-10106">
-								<source>Falsch. Klicken Sie auf eine beliebige Stelle oder dr&uuml;cken Sie &quot;j&quot;, um fortzufahren.</source>
+								<source>Falsch. Klicken Sie auf eine beliebige Stelle oder drücken Sie &quot;j&quot;, um fortzufahren.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10107" restype="x-cp-quiz-retry-feedback-text">
@@ -1776,27 +1776,27 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10184" restype="x-cp-quiz-incomplete-feedback-text">
 							<trans-unit id="382-10184">
-								<source>Um fortfahren zu k&ouml;nnen, m&uuml;ssen Sie die Frage beantworten.</source>
+								<source>Um fortfahren zu können, müssen Sie die Frage beantworten.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10188" restype="x-cp-quiz-timeout-feedback-text">
 							<trans-unit id="382-10188">
-								<source>Die Zeit zur Beantwortung dieser Frage ist abgelaufen. Klicken Sie auf eine beliebige Stelle oder dr&uuml;cken Sie &quot;j&quot;, um fortzufahren.</source>
+								<source>Die Zeit zur Beantwortung dieser Frage ist abgelaufen. Klicken Sie auf eine beliebige Stelle oder drücken Sie &quot;j&quot;, um fortzufahren.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">
 							<trans-unit id="382-10358">
-								<source>Sie haben alle Fragen beantwortet. Was m&ouml;chten Sie als N&auml;chstes tun?</source>
+								<source>Sie haben alle Fragen beantwortet. Was möchten Sie als Nächstes tun?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10359" restype="x-cp-quiz-submit-all-incomplete-text">
 							<trans-unit id="382-10359">
-								<source>Eine oder mehrere Fragen sind unvollst&auml;ndig. Beantworten Sie alle Fragen, um fortzufahren.</source>
+								<source>Eine oder mehrere Fragen sind unvollständig. Beantworten Sie alle Fragen, um fortzufahren.</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10360" restype="x-cp-quiz-submit-all-submit-incomplete-text">
 							<trans-unit id="382-10360">
-								<source>Sie haben noch nicht alle Fragen beantwortet. M&ouml;chten Sie wirklich fortfahren, ohne diese Fragen zu beantworten?</source>
+								<source>Sie haben noch nicht alle Fragen beantwortet. Möchten Sie wirklich fortfahren, ohne diese Fragen zu beantworten?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-object" extype="10042" id="383" restype="x-cp-quizzes">
@@ -1829,7 +1829,7 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
 									<trans-unit id="384-10172">
-										<source>Sie haben diese Frage nicht vollst&auml;ndig beantwortet.</source>
+										<source>Sie haben diese Frage nicht vollständig beantwortet.</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
@@ -1844,7 +1844,7 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10165" restype="x-cp-quiz-result-pass-message">
 									<trans-unit id="384-10165">
-										<source>Gl&uuml;ckwunsch! Sie haben das Quiz bestanden.</source>
+										<source>Glückwunsch! Sie haben das Quiz bestanden.</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10166" restype="x-cp-quiz-result-fail-message">
