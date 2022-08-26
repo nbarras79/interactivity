@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2022-07-15T09:14:56.0Z" original="THI-000471.cptx" source-language="enUS">
+		<file datatype="cptx" date="2022-08-05T13:21:50.0Z" original="THI-000471.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
-					<count count-type="total" unit="trans-unit">417</count>
-					<count count-type="total" unit="word">1236</count>
+					<count count-type="total" unit="trans-unit">413</count>
+					<count count-type="total" unit="word">1193</count>
 					<count count-type="total" unit="x-cp-slides">1</count>
 				</count-group>
 			</header>
@@ -94,7 +94,7 @@
 							</group>
 							<group cp:datatype="x-object" extype="69" id="7907" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="612" id="8130" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:0.00">
 										<trans-unit id="8130-612-1">
 											<source>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-1-1">
@@ -102,14 +102,14 @@
 											</source>
 										</trans-unit>
 									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:0.00">
 										<trans-unit id="8130-612-2">
 											<source>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-2-1">新しいコアバリューを追加することは大事な仕事です。他方、私たちは気候の緊急事態に直面しており、まさに今、大胆なリーダーシップが求められています。Salesforce は、どの組織も炭素排出量の実質ゼロを達成できるように、こうした取り組みのリーダーとして体系的な変化を推進しています。 </g>
 											</source>
 										</trans-unit>
 									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:0.00">
 										<trans-unit id="8130-612-3">
 											<source>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-3-1">
@@ -117,43 +117,12 @@
 											</source>
 										</trans-unit>
 									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:0.00">
 										<trans-unit id="8130-612-4">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-4-1">たとえば、Net Zero Cloud を開発し、各企業が今すぐネットゼロに取り組めるようにしています。また、温室効果ガス排出量の実質ゼロ企業として、引き続き 100% 再生可能エネルギーで稼動し、カーボンニュートラルなクラウド経由でソリューションを配信します。さらに、1t.org の創設メンバーである Salesforce は、1 億本の植樹を目指し、現時点までに 4,350 万本を植樹しています。 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-4-1">たとえば、Net Zero Cloud を開発し、各企業が今すぐネットゼロに取り組めるようにしています。また、温室効果ガス排出量の実質ゼロ企業として、引き続き 100% 再生可能エネルギーで稼動し、カーボンニュートラルなクラウド経由でソリューションを配信します。さらに、1t.org の創設メンバーである Salesforce は、1 億本の植樹を目指し、現時点までに 4,400 万本を植樹しています。 </g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0000ff;font-size:16.0pt;font:decoration:underlined" ctype="x-cp-font" id="8130-612-4-2" hyperlink="https://www.1t.org/" hyperlink-id="21211"></g>
 												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-4-3"> </g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
-										<trans-unit id="8130-612-5">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-5-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
-										<trans-unit id="8130-612-6">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-6-1">私たちは、成功とは地球上のすべての人々に、さらには地球自体に恩恵があるべきものと考えています。この信念に基づいて立ち上げた #TeamEarth という取り組みでは、当社のバリューを実践して、人々が成功し、エコシステムが繁栄し、コミュニティが輝けるようにしています。 </g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
-										<trans-unit id="8130-612-7">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-7-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.40;line-indent:0.00">
-										<trans-unit id="8130-612-8">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0000ff;font-size:16.0pt;font:decoration:underlined" ctype="x-cp-font" id="8130-612-8-1" hyperlink="https://www.salesforce.com/company/teamearth/#" hyperlink-id="20728">#TeamEarth の詳細はこちら</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-8-2"></g>
 											</source>
 										</trans-unit>
 									</group>
@@ -162,7 +131,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
 										<trans-unit id="7823-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-1-1">Salesforce は、よりインクルーシブで多様な職場、そしてより平等な世界を作り上げるために努力を続けている人々を応援しています。また、企業は変化を生み出す最高のプラットフォームであると信じ、すべての人の基本的人権を支持しています。そして、平等と多様性こそが Salesforce をさらに良い企業へと成長させることを確信しています。  Salesforce は、平等を推進するイニシアチブの一環として、2023 年までに黒人が経営する企業に 1 億ドル、過少比率マイノリティ (URM) が設立した企業に 1 億ドルを投資します。 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-1-1">Salesforce は、よりインクルーシブで多様な職場、そしてより平等な世界を作り上げるために努力を続けている人々を応援しています。また、企業は変化を生み出す最高のプラットフォームであると信じ、すべての人の基本的人権を支持しています。そして、平等と多様性こそが Salesforce をさらに良い企業へと成長させることを確信しています。Salesforce は、平等を推進するイニシアチブの一環として、2023 年までに黒人が経営する企業に 1 億ドル、過少比率マイノリティ (URM) が設立した企業に 1 億ドルを投資します。 </g>
 											</source>
 										</trans-unit>
 									</group>

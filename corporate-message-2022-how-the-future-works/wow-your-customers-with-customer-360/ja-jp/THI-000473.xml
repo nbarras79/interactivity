@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2022-06-08T09:52:25.0Z" original="THI-000473.cptx" source-language="enUS">
+		<file datatype="cptx" date="2022-08-03T14:57:47.0Z" original="THI-000473.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
 					<count count-type="total" unit="trans-unit">174</count>
-					<count count-type="total" unit="word">904</count>
+					<count count-type="total" unit="word">1102</count>
 					<count count-type="total" unit="x-cp-slides">1</count>
 				</count-group>
 			</header>
@@ -100,7 +100,7 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 										<trans-unit id="8146-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#302c2c;font-size:14.0pt" ctype="x-cp-font" id="8146-19-1-1">Customer 360 ソリューションアイコン (Slack を含む) をクリックすると、これらのソリューションがお客様をどのように支援するかについての詳細が表示されます。$$_null$$</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#302c2c;font-size:14.0pt" ctype="x-cp-font" id="8146-19-1-1">Customer 360 ソリューションアイコン (カスタマーサクセスを含む) をクリックすると、これらのソリューションがお客様をどのように支援するかについての詳細が表示されます。$$_null$$</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -135,11 +135,8 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="8887-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8887-612-3-1">かつて、営業担当と言えばあちこちを飛び回るのが仕事でした。今では、相手がどこにいても、どこからでも営業の仕事ができるようになりました。Salesforce では </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="8887-612-3-2">Sales Cloud</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8887-612-3-3"> を刷新し、会議室やチャットチャネルなど、営業チームがどこからでも仕事をできるようにしました。 </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="8887-612-3-4">Sales Cloud</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8887-612-3-5">を利用すれば、場所を問わずにデジタルで販売を行うことができるため、企業の成長も加速します。</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="8887-612-3-1">Sales Cloud</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8887-612-3-2"> は収益チームの信頼できるホームです。チームは効率的なビジネス成長を実現し、Slack で大幅に機能が向上した統合プラットフォームから営業活動を行うことができます。営業担当は、Einstein AI で生成されたインサイトを利用し、購入者主導のエクスペリエンスを便利なセルフサービスで拡張し、自動化によりプラットフォーム全体でインパクトの大きい成果を出すことができます。 </g>
 													</source>
 												</trans-unit>
 											</group>
@@ -167,9 +164,8 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="9920-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9920-612-3-1">Salesforce は、比類のないデジタルサービスエクスペリエンスを </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="9920-612-3-2">Service Cloud</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9920-612-3-3"> 刷新しました。以前はコンタクトセンターと言えば建物の中にありましたが、今ではクラウドに存在します。そのため、Salesforce は完全にデジタルなコンタクトセンターを開発しました。これからは、フィールドサービス要員はすべて 1 つの信頼できるデジタルプラットフォーム上で、チケットサービスやデジタルサービスに接続できるようになります。</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="9920-612-3-1">Service Cloud</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9920-612-3-2"> で、お客様のコンタクトセンター、フィールドサービス、従業員サービスのすべてが 1 つのプラットフォーム上にまとまります。セルフサービスと Einstein ボットを備えたデジタルエクスペリエンスで効率化を促進し、より迅速な行動やコスト削減を可能にします。さらに、お客様は消費者固有のニーズに合わせてエクスペリエンスを調整し、インテリジェントなオートメーションを使用してそのパーソナライズを大規模に展開できます。</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -197,9 +193,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="10009-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10009-612-3-1">Salesforce は、企業がすべてのデジタルマーケティングトークの中心にプライバシーと信頼を据えることができるように、Cookie を使用しない未来に向けてマーケティングを再構築しました。 </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="10009-612-3-2">お客様は、Marketing Cloud を利用することで、</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10009-612-3-3">すべての瞬間において関連性の高い信頼できるエンゲージメントを通して、顧客との信頼関係を築くことができます。</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10009-612-3-1">Salesforce は、企業がすべてのデジタルマーケティングトークの中心にプライバシーと信頼を据えることができるように、Cookie を使用しない未来に向けてマーケティングを再構築しました。Marketing Cloud では、お客様が一元化された情報源を使用し、関連するファーストパーディデータで消費者の価値を引き出すことができます。あらゆる瞬間をリアルタイムでヒューマナイズしながら、メール、モバイル、店舗などからのエンゲージメントをすべて自動化し、マーケティングのパフォーマンスと支出を最適化できます。</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -227,8 +221,8 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="10098-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="10098-612-3-1">Commerce Cloud には、</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10098-612-3-2"> 特に消費者との直接取引を拡大しつつある企業に向けて、どこにいる顧客ともやり取りできるようにした新機能が追加されています。Salesforce Customer Data Platform (CDP) for Commerce は、シームレスなデジタルコマース機能によって、関連性の高い信頼できるエンゲージメントを推進します。</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="10098-612-3-1">Commerce Cloud</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10098-612-3-2"> では、お客様がセキュアで信頼できる拡張性の高いプラットフォームを使用して、パーソナライズしたエクスペリエンスをあらゆるチャネルに拡張し、市場の変化に適応するために必要な柔軟性を実現できます。柔軟なツールを使用して迅速に行動し、ディスカバリーから履行に至るまで自動化し、統合データでパーソナライズを大規模に展開し、つながりのあるジャーニーで顧客ロイヤルティを獲得できるため、あらゆる取引の利益率が高まります。 </g>
 													</source>
 												</trans-unit>
 											</group>
@@ -241,7 +235,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="10187-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="10187-612-1-1">Analytics$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="10187-612-1-1">Tableau$$_null$$</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -256,9 +250,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="10187-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10187-612-3-1">現在のデジタル社会では、データは燃料です。 </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="10187-612-3-2">Tableau を利用すると、</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10187-612-3-3">あらゆるデータを Customer 360 で可視化して把握することができます。すべての Customer 360 アプリケーションで利用できる分析機能は、信頼とセキュリティを確保したまま、新しいレベルのパーソナライズとインテリジェンスを実現します。</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10187-612-3-1">Tableau では、データの保管場所や従業員のスキルレベルに関係なく、あらゆる場所のデータを誰もが利用できます。Tableau を使用すると、Einstein AI で自動生成されて取り込まれ、Slack やデータストーリーに組み込まれたコラボレーティブでアクション可能なインサイトを通じ、Customer 360 全体で誰もがデータを利用してあらゆる判断を下すことができます。 </g>
 													</source>
 												</trans-unit>
 											</group>
@@ -271,7 +263,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="10276-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="10276-612-1-1">Integration$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="10276-612-1-1">Mulesoft$$_null$$</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -288,7 +280,7 @@
 													<source>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10276-612-3-1"> </g>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="10276-612-3-2">MuleSoft</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10276-612-3-3">レガシーソリューションやバックオフィスソリューションを含め、すべてのビジネスシステムを統合できます。ますます激しく変化する顧客の期待に応えていくためには、今の企業がにはこの軽いフットワークが不可欠です。</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10276-612-3-3">レガシーソリューションやバックオフィスソリューションを含め、すべてのビジネスシステムを統合できます。MuleSoft で企業はアプリケーションとデータをすばやく解き放して統合し、何でも誰向けにでも自動化できます。これにより、チームは真のコネクテッドカスタマーエクスペリエンスをより迅速に提供できます。</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -316,9 +308,9 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="11673-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11673-612-3-1">お客様は、信頼できる柔軟な Salesforce Platform を活用することで、自社の顧客、従業員、パートナー向けに魅力的でスマートなアプリケーションを開発できます。 </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="11673-612-3-2"></g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11673-612-3-3"></g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11673-612-3-1">The </g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="11673-612-3-2">Salesforce Platform</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11673-612-3-3"> は、消費者をすべての中心としながら、Customer 360 全体で生産性を大幅に高めます。ローコードツールで複雑なタスクを簡単に自動化できます。セキュリティとガバナンスであらゆる場所のあらゆる人と活動に信頼をもたらします。1 つのデジタルファーストプラットフォームが Customer 360 のすべての機能をつないでシームレスなエクスペリエンスを提供し、より早くビジネス価値を実現します。</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -331,7 +323,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="12135-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="12135-612-1-1">Industries$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="12135-612-1-1">CDP$$_null$$</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -346,7 +338,8 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="12135-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12135-612-3-1">小売と消費財、ヘルスケアとライフサイエンス、金融サービスなど、特定の業種に合わせて設計されたソリューションです。 </g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="12135-612-3-1">カスタマーデータプラットフォーム</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12135-612-3-2"> (CDP) は複数のソースのデータをつなぎ、お客様が AI を使用してよりスマートなセグメントを見つけ、消費者のあらゆる瞬間をパーソナライズできるようにします。CDP を使用して Service、Sales、Commerce などのデータを有効化し、よりスマートなセグメントを作成し、どこでもリアルタイムのインサイトに基づいてアクションを実行できます。</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -359,7 +352,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="11750-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11750-612-1-1">Safety$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11750-612-1-1">Slack$$_null$$</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -374,9 +367,8 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="11750-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11750-612-3-1"> </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="11750-612-3-2">Safety Cloud</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11750-612-3-3"> 従業員と顧客の健康データを収集して確認し、健康と安全のためのプロトコルを実装して管理し、イベントや建物への出入りなどを合理化できます。健康と安全を確保することで信頼が構築され、集会の安全が保証されます。</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11750-612-3-1">Slack </g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11750-612-3-2">で、企業はサイロを解消し、柔軟性を高め、作業を自動化できるようになるため、場所や方法を問わず、よりインクルーシブでつながりのある働き方が可能になります。デジタル HQ として機能する Slack では、まったく新しい方法でチームが他のメンバーや仕事と関わることができるため、協力し合ってより迅速かつ効率的に楽しく働くことができます。</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -389,7 +381,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="11827-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11827-612-1-1">Sustainability$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11827-612-1-1">Net Zero$$_null$$</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -405,7 +397,7 @@
 												<trans-unit id="11827-612-3">
 													<source>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11827-612-3-1"> </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="11827-612-3-2">Net Zero Cloud を利用すると、</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11827-612-3-2">Net Zero Cloud を利用すると、</g>
 														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11827-612-3-3"> 炭素排出量を追跡し、排出量データからアクション可能なインサイトを取得して、サプライヤーとの連携によるサプライチェーンの排出量削減を迅速かつ安全に実施できます。Salesforce は、Net Zero Cloud によってお客様のネットゼロ排出の実現を加速し、長期的に持続可能なバリューの創出を支援します。</g>
 													</source>
 												</trans-unit>
@@ -419,7 +411,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="11904-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11904-612-1-1">Partners$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11904-612-1-1">Industries$$_null$$</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -434,8 +426,9 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="11904-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="11904-612-3-1">パートナー </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11904-612-3-2">は、製品、業種、地域の壁を越えて、お客様のあらゆる問題を解決するためのアプリケーションや専門技術を提供してくれます。Salesforce のお客様は、Salesforce AppExchange から 9000 件を超えるアプリケーションやソリューションをダウンロードでき、15 万人を超える Salesforce 認定エキスパート (コンサルタント) による実装の支援を受けることができます。</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11904-612-3-1">業種向けナンバーワン CRM の Salesforce では、12 の </g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11904-612-3-2">業種 </g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11904-612-3-3">クラウドで業種専用の機能、データモデル、プロセスを提供します。すべて各業界のエキスパートによって設計されています。ソリューションは Customer 360 上に構築され、小売、旅行、輸送、プロフェッショナルサービスのような業種でデジタルトランスフォーメーションを迅速に進めています。 </g>
 													</source>
 												</trans-unit>
 											</group>
@@ -448,7 +441,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="11981-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11981-612-1-1">Success$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11981-612-1-1">Partners$$_null$$</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -463,7 +456,8 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="11981-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11981-612-3-1">利用促進やプロフェッショナルサービスといった常に利用可能なリソースを通して、Salesforce を利用しているお客様の長期的な成功を達成するために必要なリソースとガイダンスを共有します。</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11981-612-3-1">パートナー </g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11981-612-3-2">は、製品、業種、地域の壁を越えて、お客様のあらゆる問題を解決するためのアプリケーションや専門技術を提供してくれます。Salesforce のお客様は Salesforce AppExchange から 9,000 以上のアプリケーションやソリューションにアクセスできます。15 万人以上の Salesforce 認定エキスパート (コンサルタント) が実装をサポートします。戦略的テクノロジーパートナーシップも AWS、Google、Honeywell、Apple、Disney、その他数十社と結んでいます。</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -476,7 +470,7 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="12058-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="12058-612-1-1">Slack$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="12058-612-1-1">カスタマーサクセス$$_null$$</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -491,8 +485,8 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="12058-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="12058-612-3-1">Slack </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12058-612-3-2">お客様のチーム、ツール、顧客、パートナーを、高速かつ柔軟で、インクルーシブなデジタル環境で結び付け、どこからでも働ける世界を実現します。Slack は、コミュニケーションやコラボレーションのサイロ化を打ち破り、従業員が最高の仕事を遂行できる柔軟性を保証して、自動化のパワーをすべてのユーザーにもたらします。</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12058-612-3-1">カスタマーサクセス</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12058-612-3-2"> では、お客様がそのビジョンと目標に沿って早期に価値を実現できるようにサポートします。数千ものイノベーティブなお客様との協力から導き出した実証済みのベストプラクティスで、お客様は Salesforce 投資から最大の価値を実現できます。 </g>
 													</source>
 												</trans-unit>
 											</group>
