@@ -1,0 +1,2817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
+		<file datatype="cptx" date="2022-08-11T13:35:11.0Z" original="THI-000576.cptx" source-language="enUS">
+			<header>
+				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
+				<count-group name="countGroup1">
+					<count count-type="total" unit="trans-unit">446</count>
+					<count count-type="total" unit="word">1589</count>
+					<count count-type="total" unit="x-cp-slides">1</count>
+				</count-group>
+			</header>
+			<body>
+				<group cp:datatype="x-object" extype="4" id="1" restype="x-cp-project">
+					<group cp:datatype="x-property" datatype="plaintext" extype="73" restype="x-cp-project-exp-line-1">
+						<trans-unit id="1-73">
+							<source>This project has expired.</source>
+						</trans-unit>
+					</group>
+					<group cp:datatype="x-property" datatype="plaintext" extype="74" restype="x-cp-project-exp-line-2">
+						<trans-unit id="1-74">
+							<source>
+							</source>
+						</trans-unit>
+					</group>
+					<group cp:datatype="x-property" datatype="plaintext" extype="591" restype="x-cp-project-password-message">
+						<trans-unit id="1-591">
+							<source>Please type the correct password directly into the text box below and click the button below.</source>
+						</trans-unit>
+					</group>
+					<group cp:datatype="x-property" datatype="plaintext" extype="592" restype="x-cp-project-password-retry-message">
+						<trans-unit id="1-592">
+							<source>The Password you entered is incorrect. Please try again.</source>
+						</trans-unit>
+					</group>
+					<group cp:datatype="x-property" datatype="plaintext" extype="593" restype="x-cp-project-password-button-text">
+						<trans-unit id="1-593">
+							<source>Continue</source>
+						</trans-unit>
+					</group>
+					<group cp:datatype="x-object" extype="417" id="301" restype="x-cp-project-information">
+						<group cp:datatype="x-property" datatype="plaintext" extype="428" restype="x-cp-project-info-name">
+							<trans-unit id="301-428">
+								<source>Trailhead Interactivity</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="429" restype="x-cp-project-info-author">
+							<trans-unit id="301-429">
+								<source>TIDev</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="430" restype="x-cp-project-info-company">
+							<trans-unit id="301-430">
+								<source>Salesforce</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="431" restype="x-cp-project-info-email">
+							<trans-unit id="301-431">
+								<source>
+								</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="432" restype="x-cp-project-info-website">
+							<trans-unit id="301-432">
+								<source>
+								</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="433" restype="x-cp-project-info-copyright-info">
+							<trans-unit id="301-433">
+								<source>
+								</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="434" restype="x-cp-project-info-description">
+							<trans-unit id="301-434">
+								<source>Template version date: 06/20/2022</source>
+							</trans-unit>
+						</group>
+					</group>
+					<group cp:datatype="x-object" extype="195" id="510" restype="x-cp-slides">
+						<slide cp:datatype="x-object" extype="30" id="20261" resname="Slide 0" restype="x-cp-standard-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="20261-337">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="20261-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="20246" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="612" id="20428" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20428-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="20428-612-1-1">These approvers </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="20428-612-1-2">review EBF change cases</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="20428-612-1-3"> to weigh the technical risk of making an emergency change with the business risk of the impact. This trade-off decision can be difficult in an emergency situation and needs accountability from an executive-level decision maker as part of the decision-making process. They’re responsible for:</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-bullet-list-numbering-specialchar" ctype="x-cp-bullet">
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="20428-612-2">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="20428-612-2-1">Reviewing exemptions and overriding requests during moratoriums.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="20428-612-3">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="20428-612-3-1">Reviewing EBF change cases to weigh the technical risk of making an emergency change in relation to said risks vs. customer needs.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="20428-612-4">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="20428-612-4-1">Approving changes that pass review for implementation.</g>
+												</source>
+											</trans-unit>
+										</group>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19523" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="19523-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19523-612-1-1">CAB members </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19523-612-1-2">review all high and unknown risks</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19523-612-1-3"> to significant changes and advise the CAB on how to assess the risks, prioritize, and schedule these changes.</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="19523-612-2">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19523-612-2-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="19523-612-3">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19523-612-3-1">They provide vetting for Significant change cases to assess the risk and scope of impact and attend meetings if needed. This includes any change cases as requested by Global Change Management.</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="19523-612-4">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19523-612-4-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19536" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
+										<trans-unit id="19536-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19536-612-1-1">Global Change Managers </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19536-612-1-2">assess and review</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19536-612-1-3"> change cases, templates, and processes to maintain engineering alignment with Salesforce compliance standards in relation to technical changes made in our production environments. Their responsibilities include:</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-bullet-list-numbering-specialchar" ctype="x-cp-bullet">
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
+											<trans-unit id="19536-612-2">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19536-612-2-1">Performing a risk assessment to verify alignment with stated case risk.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
+											<trans-unit id="19536-612-3">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19536-612-3-1">Coordination and facilitation of CAB meetings with concurrent review of Subject Matter Expert opinion to surface and manage availability risks.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
+											<trans-unit id="19536-612-4">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19536-612-4-1">Ensuring that change cases do not cause system conflicts and are written in accordance with company standards.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
+											<trans-unit id="19536-612-5">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19536-612-5-1">Approving or denying change cases based on risks identified and case analysis.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
+											<trans-unit id="19536-612-6">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19536-612-6-1">Provide ongoing Change Management education and training to Salesforce.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
+											<trans-unit id="19536-612-7">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19536-612-7-1">Ensure Change tools, procedures, and standards are known and effective for compliance assurance. </g>
+												</source>
+											</trans-unit>
+										</group>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19549" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:0.00">
+										<trans-unit id="19549-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19549-612-1-1">They are part of the Site Reliability team which </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19549-612-1-2">ensures that the production system is reliable</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19549-612-1-3"> and the service is stable. They are responsible for:</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-bullet-list-numbering-specialchar" ctype="x-cp-bullet">
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:0.00">
+											<trans-unit id="19549-612-2">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19549-612-2-1">Approving EBFs for certain teams by</g>
+												</source>
+											</trans-unit>
+										</group>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:32.00">
+										<trans-unit id="19549-612-3">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19549-612-3-1">- Verifying that all approvals have been noted.</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:32.00">
+										<trans-unit id="19549-612-4">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19549-612-4-1">- Checking that pre-verification plans have been completed and documented.</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:32.00">
+										<trans-unit id="19549-612-5">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19549-612-5-1">- Supporting the completion of the Verification plan and making sure that the results have been noted.</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:32.00">
+										<trans-unit id="19549-612-6">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19549-612-6-1">- Sending the change plan back to the Case Owner/Implementer if any of the technical steps need to be modified.</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:32.00">
+										<trans-unit id="19549-612-7">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19549-612-7-1">- Monitoring the area of change for possible issues.</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-bullet-list-numbering-specialchar" ctype="x-cp-bullet">
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:0.00">
+											<trans-unit id="19549-612-8">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19549-612-8-1">Providing technical oversight, ensuring the proposed change has no conflicts with any other ongoing changes, releases, or moratoriums. </g>
+												</source>
+											</trans-unit>
+										</group>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19562" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="19562-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19562-612-1-1">The Manager Approver is the Engineering or Technical Manager who’s charged with </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19562-612-1-2">ensuring compliance</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19562-612-1-3"> of the change plans. They’re responsible for:</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-bullet-list-numbering-specialchar" ctype="x-cp-bullet">
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="19562-612-2">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19562-612-2-1">Reviewing the business justification and the accuracy of the change plan.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="19562-612-3">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19562-612-3-1">Attending the CAB meetings.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="19562-612-4">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19562-612-4-1">Verifying the implementation risks and collaborating with the Case Owner to address concerns, errors, and any scheduling conflicts.</g>
+												</source>
+											</trans-unit>
+										</group>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19575" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="19575-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19575-612-1-1">The Peer Approver is a technical peer of the case owner. They </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19575-612-1-2">review the case</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19575-612-1-3"> and are responsible for maintaining accuracy and completeness in partnership with the Case Owner. They’re the first line of defense against weak change cases, and are responsible for:</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-bullet-list-numbering-specialchar" ctype="x-cp-bullet">
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="19575-612-2">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19575-612-2-1">Ensuring that the appropriate change type has been used based on the technical risks of the change.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="19575-612-3">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19575-612-3-1">Validating and reviewing all areas of the change case for technical accuracy and completeness, including scheduling.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="19575-612-4">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19575-612-4-1">Collaborating with the Case Owner to address concerns and errors. Due diligence during the review process ensures testing methods and post-change validation are accurate and documented.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="19575-612-5">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19575-612-5-1">Rejecting any low-quality or deficient change cases and providing feedback to the Case Owner.</g>
+												</source>
+											</trans-unit>
+										</group>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19588" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="19588-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19588-612-1-1">The Case Implementer, who may also be the Case Owner, </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19588-612-1-2">implements the change</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19588-612-1-3">. This role owns the implementation steps that are assigned to them, and is responsible for:</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-bullet-list-numbering-specialchar" ctype="x-cp-bullet">
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="19588-612-2">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19588-612-2-1">Ensuring the actual start time of each implementation step is accurate and doesn’t conflict with other maintenance activities. </g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="19588-612-3">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19588-612-3-1">Operating within the change’s approved start and end time.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="19588-612-4">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19588-612-4-1">Following the steps as documented and approved.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="19588-612-5">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19588-612-5-1">Closing out each step in a timely manner with an accurate closure status.</g>
+												</source>
+											</trans-unit>
+										</group>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19601" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="19601-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19601-612-1-1">The case owner is accountable for </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19601-612-1-2">providing a high-quality change case</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19601-612-1-3">, which includes the following:</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-bullet-list-numbering-specialchar" ctype="x-cp-bullet">
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="19601-612-2">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19601-612-2-1">An accurate risk summary describing a worst-case scenario from a customer or an internal team’s point of view. This includes a listing of technical aspects and the radius of impact. What would “worst case” look like to users that might be impacted?</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="19601-612-3">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19601-612-3-1">A well-documented, previously tested rollback plan which includes rollback and remediation time estimates.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="19601-612-4">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19601-612-4-1">Documented verification and testing of the change.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="19601-612-5">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19601-612-5-1">Correct infrastructure targets with accurate dates and times.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="19601-612-6">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19601-612-6-1">Procuring all necessary approvals prior to implementation.</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+											<trans-unit id="19601-612-7">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19601-612-7-1">Representing your change at the relevant CAB meetings, if applicable.</g>
+												</source>
+											</trans-unit>
+										</group>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19803" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19803-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19803-612-1-1">Manager Approver</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19814" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19814-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="19814-612-1-1">Manager Approver</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19715" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19715-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19715-612-1-1">Change Manager</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19726" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19726-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="19726-612-1-1">Change Manager</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19827" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19827-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19827-612-1-1">Manager Approver</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19840" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19840-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19840-612-1-1">Change Manager</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19851" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19851-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19851-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19872" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19872-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19872-612-1-1">Site Reliability Engineer (SRE)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19883" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19883-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="19883-612-1-1">Site Reliability Engineer (SRE)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19896" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19896-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19896-612-1-1">Site Reliability Engineer (SRE)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19907" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19907-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19907-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19928" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19928-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19928-612-1-1">Peer Approver</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19939" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19939-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="19939-612-1-1">Peer Approver</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19952" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19952-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19952-612-1-1">Peer Approver</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19963" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19963-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19963-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20024" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20024-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="20024-612-1-1">Case Implementer</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20035" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20035-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="20035-612-1-1">Case Implementer</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20048" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20048-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="20048-612-1-1">Case Implementer</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20365" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20365-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="20365-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19677" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19677-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19677-612-1-1">Change Advisory Board (CAB)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19635" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19635-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19635-612-1-1">Change Advisory Board (CAB)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19646" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19646-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="19646-612-1-1">Change Advisory Board (CAB)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20059" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20059-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="20059-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19974" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19974-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19974-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19694" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19694-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19694-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19747" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19747-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19747-612-1-1">Case Owner</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19758" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19758-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="19758-612-1-1">Case Owner</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19771" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19771-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19771-612-1-1">Case Owner</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="19782" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="19782-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="19782-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20292" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20292-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="20292-612-1-1">VP/SVP/EVP Approvers</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20313" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20313-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="20313-612-1-1">VP/SVP/EVP Approvers</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20345" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="20345-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="20345-612-1-1">VP/SVP/EVP Approvers</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="20245" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="20245-612-1">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#223946;font-size:18.0pt" ctype="x-cp-font" id="20245-612-1-1">Directions</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="20245-612-2">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#223946;font-size:18.0pt" ctype="x-cp-font" id="20245-612-2-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="20245-612-3">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:18.0pt" ctype="x-cp-font" id="20245-612-3-1">Click a role on the left to view responsibilities.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="583" id="5470" resname="Slide 0" restype="x-cp-main-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="5470-337">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="5470-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="1495" restype="x-cp-items"/>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="1608" resname="Slide 1" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="1608-337">
+									<source>Title</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="1608-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="1589" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="1560" restype="Title Placeholder">
+									<trans-unit id="1560-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="1644" resname="Slide 2" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="1644-337">
+									<source>Blank</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="1644-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="1609" restype="x-cp-items"/>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="21236" resname="Slide 3" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="21236-337">
+									<source>Horizontal</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="21236-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="21201" restype="x-cp-items"/>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="1769" resname="Slide 4" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="1769-337">
+									<source>Content 01</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="1769-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="1750" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="1657" restype="Image Placeholder">
+									<trans-unit id="1657-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1710" restype="Text Caption Placeholder">
+									<trans-unit id="1710-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1688" restype="Subtitle Placeholder">
+									<trans-unit id="1688-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="2298" resname="Slide 5" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="2298-337">
+									<source>Content 02</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="2298-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="2279" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="2075" restype="Text Caption Placeholder">
+									<trans-unit id="2075-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1940" restype="Image Placeholder">
+									<trans-unit id="1940-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2175" restype="Image Placeholder">
+									<trans-unit id="2175-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1975" restype="Text Caption Placeholder">
+									<trans-unit id="1975-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2136" restype="Text Caption Placeholder">
+									<trans-unit id="2136-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2197" restype="Text Caption Placeholder">
+									<trans-unit id="2197-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2114" restype="Image Placeholder">
+									<trans-unit id="2114-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2001" restype="Image Placeholder">
+									<trans-unit id="2001-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2053" restype="Image Placeholder">
+									<trans-unit id="2053-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1831" restype="Subtitle Placeholder">
+									<trans-unit id="1831-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1787" restype="Title Placeholder">
+									<trans-unit id="1787-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1853" restype="Text Caption Placeholder">
+									<trans-unit id="1853-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1879" restype="Image Placeholder">
+									<trans-unit id="1879-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1914" restype="Text Caption Placeholder">
+									<trans-unit id="1914-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="2472" resname="Slide 6" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="2472-337">
+									<source>Content 03</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="2472-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="2453" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="2316" restype="Title Placeholder">
+									<trans-unit id="2316-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2391" restype="Text Caption Placeholder">
+									<trans-unit id="2391-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2413" restype="Text Caption Placeholder">
+									<trans-unit id="2413-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2369" restype="Text Caption Placeholder">
+									<trans-unit id="2369-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2347" restype="Subtitle Placeholder">
+									<trans-unit id="2347-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="2601" resname="Slide 7" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="2601-337">
+									<source>Content 04</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="2601-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="2582" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="2542" restype="Image Placeholder">
+									<trans-unit id="2542-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2490" restype="Title Placeholder">
+									<trans-unit id="2490-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2516" restype="Image Placeholder">
+									<trans-unit id="2516-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="2678" resname="Slide 8" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="2678-337">
+									<source>Content 05</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="2678-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="2659" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="2619" restype="Subtitle Placeholder">
+									<trans-unit id="2619-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="2968" resname="Slide 9" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="2968-337">
+									<source>Content 06</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="2968-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="2949" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="612" id="2813" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="2813-612-1">
+											<source>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#223946;font-size:15.0pt" ctype="x-cp-font" id="2813-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2726" restype="Text Caption Placeholder">
+									<trans-unit id="2726-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2835" restype="Text Caption Placeholder">
+									<trans-unit id="2835-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2870" restype="Text Caption Placeholder">
+									<trans-unit id="2870-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2761" restype="Text Caption Placeholder">
+									<trans-unit id="2761-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="2704" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="2704-612-1">
+											<source>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#223946;font-size:15.0pt" ctype="x-cp-font" id="2704-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2922" restype="Image Placeholder">
+									<trans-unit id="2922-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="3093" resname="Slide 10" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="3093-337">
+									<source>Content 07</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="3093-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="3074" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="2999" restype="Subtitle Placeholder">
+									<trans-unit id="2999-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3021" restype="Text Caption Placeholder">
+									<trans-unit id="3021-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="3671" resname="Slide 11" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="3671-337">
+									<source>Conclusion</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="3671-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="3652" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="3316" restype="Text Caption Placeholder">
+									<trans-unit id="3316-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3377" restype="Text Caption Placeholder">
+									<trans-unit id="3377-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="3416" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="3416-612-1">
+											<source>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#223946;font-size:15.0pt" ctype="x-cp-font" id="3416-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="3233" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="3233-612-1">
+											<source>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#223946;font-size:15.0pt" ctype="x-cp-font" id="3233-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3255" restype="Text Caption Placeholder">
+									<trans-unit id="3255-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3438" restype="Text Caption Placeholder">
+									<trans-unit id="3438-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="3355" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="3355-612-1">
+											<source>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#223946;font-size:15.0pt" ctype="x-cp-font" id="3355-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="3294" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="3294-612-1">
+											<source>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#223946;font-size:15.0pt" ctype="x-cp-font" id="3294-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="3477" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="3477-612-1">
+											<source>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#223946;font-size:15.0pt" ctype="x-cp-font" id="3477-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3499" restype="Text Caption Placeholder">
+									<trans-unit id="3499-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="3538" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="3538-612-1">
+											<source>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#223946;font-size:15.0pt" ctype="x-cp-font" id="3538-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3573" restype="Text Caption Placeholder">
+									<trans-unit id="3573-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3124" restype="Subtitle Placeholder">
+									<trans-unit id="3124-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3207" restype="Image Placeholder">
+									<trans-unit id="3207-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3155" restype="Title Placeholder">
+									<trans-unit id="3155-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="4081" resname="Slide 12" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="4081-337">
+									<source>MCQ,T/F,FIB,Sequence</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="4081-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="4046" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="4045" restype="Progress Indicator Placeholder">
+									<trans-unit id="4045-190">
+										<source>Question X of Y</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3740" restype="Answer Area Placeholder">
+									<trans-unit id="3740-190">
+										<source>Answer Area Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3902" restype="Review Mode Back Button Placeholder">
+									<trans-unit id="3902-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3921" restype="Review Mode Next Button Placeholder">
+									<trans-unit id="3921-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3940" restype="Clear Button Placeholder">
+									<trans-unit id="3940-190">
+										<source>Clear Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3959" restype="Back Button Placeholder">
+									<trans-unit id="3959-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3978" restype="Skip Button Placeholder">
+									<trans-unit id="3978-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3997" restype="Submit Button Placeholder">
+									<trans-unit id="3997-190">
+										<source>Submit Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3708" restype="Question Placeholder">
+									<trans-unit id="3708-190">
+										<source>Question Text Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3762" restype="Review Area Placeholder">
+									<trans-unit id="3762-190">
+										<source>Review area</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3780" restype="Success Shape Placeholder">
+									<trans-unit id="3780-190">
+										<source>Success Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3798" restype="TimeOut Shape Placeholder">
+									<trans-unit id="3798-190">
+										<source>TimeOut Feedback Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3816" restype="Partial Correct Shape Placeholder">
+									<trans-unit id="3816-190">
+										<source>Partial Correct Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3834" restype="Retry Shape Placeholder">
+									<trans-unit id="3834-190">
+										<source>Retry Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3852" restype="Incomplete Shape Placeholder">
+									<trans-unit id="3852-190">
+										<source>Incomplete Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3870" restype="Failure Shape Placeholder">
+									<trans-unit id="3870-190">
+										<source>Failure Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3683" restype="Title Placeholder">
+									<trans-unit id="3683-190">
+										<source>Question Title Placeholder</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="4487" resname="Slide 13" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="4487-337">
+									<source>Matching</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="4487-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="4452" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="4451" restype="Progress Indicator Placeholder">
+									<trans-unit id="4451-190">
+										<source>Question X of Y</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4181" restype="Question Area Placeholder">
+									<trans-unit id="4181-190">
+										<source>Question Area Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4200" restype="Answer Area Placeholder">
+									<trans-unit id="4200-190">
+										<source>Answer Area Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4140" restype="Column 1 Placeholder">
+									<trans-unit id="4140-190">
+										<source>Question Area Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4149" restype="Column 2 Placeholder">
+									<trans-unit id="4149-190">
+										<source>Question Area Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4093" restype="Title Placeholder">
+									<trans-unit id="4093-190">
+										<source>Question Title Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4118" restype="Question Placeholder">
+									<trans-unit id="4118-190">
+										<source>Question Text Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4222" restype="Review Area Placeholder">
+									<trans-unit id="4222-190">
+										<source>Review area</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4240" restype="Incomplete Shape Placeholder">
+									<trans-unit id="4240-190">
+										<source>Incomplete Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4258" restype="Failure Shape Placeholder">
+									<trans-unit id="4258-190">
+										<source>Failure Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4276" restype="Success Shape Placeholder">
+									<trans-unit id="4276-190">
+										<source>Success Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4308" restype="Review Mode Back Button Placeholder">
+									<trans-unit id="4308-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4327" restype="Review Mode Next Button Placeholder">
+									<trans-unit id="4327-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4346" restype="Clear Button Placeholder">
+									<trans-unit id="4346-190">
+										<source>Clear Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4365" restype="Back Button Placeholder">
+									<trans-unit id="4365-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4384" restype="Skip Button Placeholder">
+									<trans-unit id="4384-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4403" restype="Submit Button Placeholder">
+									<trans-unit id="4403-190">
+										<source>Submit Button Placeholder</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="4811" resname="Slide 14" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="4811-337">
+									<source>Hot Spot</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="4811-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="4776" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="4775" restype="Progress Indicator Placeholder">
+									<trans-unit id="4775-190">
+										<source>Question X of Y</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4499" restype="Title Placeholder">
+									<trans-unit id="4499-190">
+										<source>Question Title Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4524" restype="Question Placeholder">
+									<trans-unit id="4524-190">
+										<source>Question Text Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4632" restype="Review Mode Back Button Placeholder">
+									<trans-unit id="4632-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4651" restype="Review Mode Next Button Placeholder">
+									<trans-unit id="4651-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4670" restype="Clear Button Placeholder">
+									<trans-unit id="4670-190">
+										<source>Clear Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4689" restype="Back Button Placeholder">
+									<trans-unit id="4689-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4708" restype="Skip Button Placeholder">
+									<trans-unit id="4708-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4727" restype="Submit Button Placeholder">
+									<trans-unit id="4727-190">
+										<source>Submit Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4546" restype="Review Area Placeholder">
+									<trans-unit id="4546-190">
+										<source>Review area</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4564" restype="Incomplete Shape Placeholder">
+									<trans-unit id="4564-190">
+										<source>Incomplete Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4582" restype="Failure Shape Placeholder">
+									<trans-unit id="4582-190">
+										<source>Failure Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4600" restype="Success Shape Placeholder">
+									<trans-unit id="4600-190">
+										<source>Success Caption Placeholder</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="5097" resname="Slide 15" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="5097-337">
+									<source>Likert</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="5097-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="5062" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="4823" restype="Title Placeholder">
+									<trans-unit id="4823-190">
+										<source>Question Title Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4835" restype="Question Placeholder">
+									<trans-unit id="4835-190">
+										<source>Question Text Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4911" restype="Likert Question Area Placeholder">
+									<trans-unit id="4911-190">
+										<source>PlaceHolder for Adobe Captivate 5</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4929" restype="Incomplete Shape Placeholder">
+									<trans-unit id="4929-190">
+										<source>Incomplete Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4938" restype="Review Area Placeholder">
+									<trans-unit id="4938-190">
+										<source>Review area</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4947" restype="Progress Indicator Placeholder">
+									<trans-unit id="4947-190">
+										<source>Question X of Y</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4966" restype="Submit Button Placeholder">
+									<trans-unit id="4966-190">
+										<source>Submit Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4985" restype="Skip Button Placeholder">
+									<trans-unit id="4985-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5004" restype="Back Button Placeholder">
+									<trans-unit id="5004-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5023" restype="Clear Button Placeholder">
+									<trans-unit id="5023-190">
+										<source>Clear Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5042" restype="Review Mode Next Button Placeholder">
+									<trans-unit id="5042-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5061" restype="Review Mode Back Button Placeholder">
+									<trans-unit id="5061-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="5468" resname="Slide 16" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="5468-337">
+									<source>Result</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="5468-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="5433" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="5193" restype="Scoring Result Label Placeholder">
+									<trans-unit id="5193-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5202" restype="Scoring Result Placeholder">
+									<trans-unit id="5202-190">
+										<source>correct-questions</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5286" restype="Scoring Result Label Placeholder">
+									<trans-unit id="5286-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5295" restype="Scoring Result Placeholder">
+									<trans-unit id="5295-190">
+										<source>total-attempts</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5224" restype="Scoring Result Label Placeholder">
+									<trans-unit id="5224-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5233" restype="Scoring Result Placeholder">
+									<trans-unit id="5233-190">
+										<source>total-questions</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5255" restype="Scoring Result Label Placeholder">
+									<trans-unit id="5255-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5264" restype="Scoring Result Placeholder">
+									<trans-unit id="5264-190">
+										<source>percent</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5406" restype="Review Area Placeholder">
+									<trans-unit id="5406-190">
+										<source>Review area</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5131" restype="Scoring Result Label Placeholder">
+									<trans-unit id="5131-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5140" restype="Scoring Result Placeholder">
+									<trans-unit id="5140-190">
+										<source>score</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5327" restype="Review Button Placeholder">
+									<trans-unit id="5327-190">
+										<source>PlaceHolder for Adobe Captivate 5</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5346" restype="Continue Button Placeholder">
+									<trans-unit id="5346-190">
+										<source>Clear Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5365" restype="Post Result Button Placeholder">
+									<trans-unit id="5365-190">
+										<source>PlaceHolder for Adobe Captivate 5</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5384" restype="Retake Button Placeholder">
+									<trans-unit id="5384-190">
+										<source>PlaceHolder for Adobe Captivate 5</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5162" restype="Scoring Result Label Placeholder">
+									<trans-unit id="5162-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5171" restype="Scoring Result Placeholder">
+									<trans-unit id="5171-190">
+										<source>max-score</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5109" restype="Result Title Placeholder">
+									<trans-unit id="5109-190">
+										<source>Question Title Placeholder</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="583" id="13079" resname="Slide 0" restype="x-cp-main-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="13079-337">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="13079-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="9232" restype="x-cp-items"/>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="9329" resname="Slide 1" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="9329-337">
+									<source>Title</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="9329-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="9318" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="9289" restype="Title Placeholder">
+									<trans-unit id="9289-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="9357" resname="Slide 2" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="9357-337">
+									<source>Blank</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="9357-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="9330" restype="x-cp-items"/>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="9474" resname="Slide 3" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="9474-337">
+									<source>Content 01</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="9474-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="9463" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="9370" restype="Image Placeholder">
+									<trans-unit id="9370-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="9401" restype="Subtitle Placeholder">
+									<trans-unit id="9401-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="9423" restype="Text Caption Placeholder">
+									<trans-unit id="9423-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="9995" resname="Slide 4" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="9995-337">
+									<source>Content 02</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="9995-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="9984" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="9492" restype="Title Placeholder">
+									<trans-unit id="9492-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="9536" restype="Subtitle Placeholder">
+									<trans-unit id="9536-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="9558" restype="Text Caption Placeholder">
+									<trans-unit id="9558-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="9584" restype="Image Placeholder">
+									<trans-unit id="9584-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="9619" restype="Text Caption Placeholder">
+									<trans-unit id="9619-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="9645" restype="Image Placeholder">
+									<trans-unit id="9645-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="9680" restype="Text Caption Placeholder">
+									<trans-unit id="9680-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="9706" restype="Image Placeholder">
+									<trans-unit id="9706-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="9758" restype="Image Placeholder">
+									<trans-unit id="9758-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="9780" restype="Text Caption Placeholder">
+									<trans-unit id="9780-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="9819" restype="Image Placeholder">
+									<trans-unit id="9819-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="9841" restype="Text Caption Placeholder">
+									<trans-unit id="9841-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="9880" restype="Image Placeholder">
+									<trans-unit id="9880-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="9902" restype="Text Caption Placeholder">
+									<trans-unit id="9902-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="10161" resname="Slide 5" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="10161-337">
+									<source>Content 03</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="10161-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="10150" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="10013" restype="Title Placeholder">
+									<trans-unit id="10013-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="10044" restype="Subtitle Placeholder">
+									<trans-unit id="10044-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="10066" restype="Text Caption Placeholder">
+									<trans-unit id="10066-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="10088" restype="Text Caption Placeholder">
+									<trans-unit id="10088-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="10110" restype="Text Caption Placeholder">
+									<trans-unit id="10110-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="10282" resname="Slide 6" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="10282-337">
+									<source>Content 04</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="10282-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="10271" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="10179" restype="Title Placeholder">
+									<trans-unit id="10179-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="10205" restype="Image Placeholder">
+									<trans-unit id="10205-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="10231" restype="Image Placeholder">
+									<trans-unit id="10231-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="10351" resname="Slide 7" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="10351-337">
+									<source>Content 05</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="10351-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="10340" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="10300" restype="Subtitle Placeholder">
+									<trans-unit id="10300-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="10633" resname="Slide 8" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="10633-337">
+									<source>Content 06</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="10633-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="10622" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="612" id="10377" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="10377-612-1">
+											<source>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="10377-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="10399" restype="Text Caption Placeholder">
+									<trans-unit id="10399-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="10434" restype="Text Caption Placeholder">
+									<trans-unit id="10434-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="10486" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="10486-612-1">
+											<source>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="10486-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="10508" restype="Text Caption Placeholder">
+									<trans-unit id="10508-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="10543" restype="Text Caption Placeholder">
+									<trans-unit id="10543-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="10595" restype="Image Placeholder">
+									<trans-unit id="10595-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="10750" resname="Slide 9" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="10750-337">
+									<source>Content 07</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="10750-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="10739" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="10664" restype="Subtitle Placeholder">
+									<trans-unit id="10664-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="10686" restype="Text Caption Placeholder">
+									<trans-unit id="10686-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="11320" resname="Slide 10" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="11320-337">
+									<source>Conclusion</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="11320-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="11309" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="10781" restype="Subtitle Placeholder">
+									<trans-unit id="10781-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="10812" restype="Title Placeholder">
+									<trans-unit id="10812-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="10864" restype="Image Placeholder">
+									<trans-unit id="10864-190">
+										<source>IMAGE</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="10890" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="10890-612-1">
+											<source>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="10890-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="10912" restype="Text Caption Placeholder">
+									<trans-unit id="10912-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="10951" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="10951-612-1">
+											<source>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="10951-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="10973" restype="Text Caption Placeholder">
+									<trans-unit id="10973-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="11012" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="11012-612-1">
+											<source>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="11012-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11034" restype="Text Caption Placeholder">
+									<trans-unit id="11034-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="11073" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="11073-612-1">
+											<source>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="11073-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11095" restype="Text Caption Placeholder">
+									<trans-unit id="11095-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="11134" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="11134-612-1">
+											<source>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="11134-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11156" restype="Text Caption Placeholder">
+									<trans-unit id="11156-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="11195" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="11195-612-1">
+											<source>
+												<g css-style="font-family:'Tahoma';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="11195-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11230" restype="Text Caption Placeholder">
+									<trans-unit id="11230-190">
+										<source>TEXT CAPTION</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="11722" resname="Slide 11" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="11722-337">
+									<source>MCQ,T/F,FIB,Sequence</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="11722-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="11695" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="11332" restype="Title Placeholder">
+									<trans-unit id="11332-190">
+										<source>Question Title Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11357" restype="Question Placeholder">
+									<trans-unit id="11357-190">
+										<source>Question Text Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11389" restype="Answer Area Placeholder">
+									<trans-unit id="11389-190">
+										<source>Answer Area Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11411" restype="Review Area Placeholder">
+									<trans-unit id="11411-190">
+										<source>Review area</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11429" restype="Success Shape Placeholder">
+									<trans-unit id="11429-190">
+										<source>Success Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11447" restype="TimeOut Shape Placeholder">
+									<trans-unit id="11447-190">
+										<source>TimeOut Feedback Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11465" restype="Partial Correct Shape Placeholder">
+									<trans-unit id="11465-190">
+										<source>Partial Correct Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11483" restype="Retry Shape Placeholder">
+									<trans-unit id="11483-190">
+										<source>Retry Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11501" restype="Incomplete Shape Placeholder">
+									<trans-unit id="11501-190">
+										<source>Incomplete Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11519" restype="Failure Shape Placeholder">
+									<trans-unit id="11519-190">
+										<source>Failure Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11551" restype="Review Mode Back Button Placeholder">
+									<trans-unit id="11551-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11570" restype="Review Mode Next Button Placeholder">
+									<trans-unit id="11570-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11589" restype="Clear Button Placeholder">
+									<trans-unit id="11589-190">
+										<source>Clear Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11608" restype="Back Button Placeholder">
+									<trans-unit id="11608-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11627" restype="Skip Button Placeholder">
+									<trans-unit id="11627-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11646" restype="Submit Button Placeholder">
+									<trans-unit id="11646-190">
+										<source>Submit Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11694" restype="Progress Indicator Placeholder">
+									<trans-unit id="11694-190">
+										<source>Question X of Y</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="12120" resname="Slide 12" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="12120-337">
+									<source>Matching</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="12120-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="12093" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="11734" restype="Title Placeholder">
+									<trans-unit id="11734-190">
+										<source>Question Title Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11759" restype="Question Placeholder">
+									<trans-unit id="11759-190">
+										<source>Question Text Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11781" restype="Column 1 Placeholder">
+									<trans-unit id="11781-190">
+										<source>Question Area Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11790" restype="Column 2 Placeholder">
+									<trans-unit id="11790-190">
+										<source>Question Area Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11822" restype="Question Area Placeholder">
+									<trans-unit id="11822-190">
+										<source>Question Area Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11841" restype="Answer Area Placeholder">
+									<trans-unit id="11841-190">
+										<source>Answer Area Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11863" restype="Review Area Placeholder">
+									<trans-unit id="11863-190">
+										<source>Review area</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11881" restype="Incomplete Shape Placeholder">
+									<trans-unit id="11881-190">
+										<source>Incomplete Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11899" restype="Failure Shape Placeholder">
+									<trans-unit id="11899-190">
+										<source>Failure Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11917" restype="Success Shape Placeholder">
+									<trans-unit id="11917-190">
+										<source>Success Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11949" restype="Review Mode Back Button Placeholder">
+									<trans-unit id="11949-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11968" restype="Review Mode Next Button Placeholder">
+									<trans-unit id="11968-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="11987" restype="Clear Button Placeholder">
+									<trans-unit id="11987-190">
+										<source>Clear Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12006" restype="Back Button Placeholder">
+									<trans-unit id="12006-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12025" restype="Skip Button Placeholder">
+									<trans-unit id="12025-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12044" restype="Submit Button Placeholder">
+									<trans-unit id="12044-190">
+										<source>Submit Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12092" restype="Progress Indicator Placeholder">
+									<trans-unit id="12092-190">
+										<source>Question X of Y</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="12436" resname="Slide 13" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="12436-337">
+									<source>Hot Spot</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="12436-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="12409" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="12132" restype="Title Placeholder">
+									<trans-unit id="12132-190">
+										<source>Question Title Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12157" restype="Question Placeholder">
+									<trans-unit id="12157-190">
+										<source>Question Text Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12179" restype="Review Area Placeholder">
+									<trans-unit id="12179-190">
+										<source>Review area</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12197" restype="Incomplete Shape Placeholder">
+									<trans-unit id="12197-190">
+										<source>Incomplete Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12215" restype="Failure Shape Placeholder">
+									<trans-unit id="12215-190">
+										<source>Failure Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12233" restype="Success Shape Placeholder">
+									<trans-unit id="12233-190">
+										<source>Success Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12265" restype="Review Mode Back Button Placeholder">
+									<trans-unit id="12265-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12284" restype="Review Mode Next Button Placeholder">
+									<trans-unit id="12284-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12303" restype="Clear Button Placeholder">
+									<trans-unit id="12303-190">
+										<source>Clear Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12322" restype="Back Button Placeholder">
+									<trans-unit id="12322-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12341" restype="Skip Button Placeholder">
+									<trans-unit id="12341-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12360" restype="Submit Button Placeholder">
+									<trans-unit id="12360-190">
+										<source>Submit Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12408" restype="Progress Indicator Placeholder">
+									<trans-unit id="12408-190">
+										<source>Question X of Y</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="12714" resname="Slide 14" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="12714-337">
+									<source>Likert</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="12714-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="12687" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="12448" restype="Title Placeholder">
+									<trans-unit id="12448-190">
+										<source>Question Title Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12460" restype="Question Placeholder">
+									<trans-unit id="12460-190">
+										<source>Question Text Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12536" restype="Likert Question Area Placeholder">
+									<trans-unit id="12536-190">
+										<source>PlaceHolder for Adobe Captivate 5</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12554" restype="Incomplete Shape Placeholder">
+									<trans-unit id="12554-190">
+										<source>Incomplete Caption Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12563" restype="Review Area Placeholder">
+									<trans-unit id="12563-190">
+										<source>Review area</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12572" restype="Progress Indicator Placeholder">
+									<trans-unit id="12572-190">
+										<source>Question X of Y</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12591" restype="Submit Button Placeholder">
+									<trans-unit id="12591-190">
+										<source>Submit Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12610" restype="Skip Button Placeholder">
+									<trans-unit id="12610-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12629" restype="Back Button Placeholder">
+									<trans-unit id="12629-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12648" restype="Clear Button Placeholder">
+									<trans-unit id="12648-190">
+										<source>Clear Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12667" restype="Review Mode Next Button Placeholder">
+									<trans-unit id="12667-190">
+										<source>Skip Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12686" restype="Review Mode Back Button Placeholder">
+									<trans-unit id="12686-190">
+										<source>Back Button Placeholder</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="13077" resname="Slide 15" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="13077-337">
+									<source>Result</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="13077-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="13050" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="12726" restype="Result Title Placeholder">
+									<trans-unit id="12726-190">
+										<source>Question Title Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12748" restype="Scoring Result Label Placeholder">
+									<trans-unit id="12748-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12757" restype="Scoring Result Placeholder">
+									<trans-unit id="12757-190">
+										<source>score</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12779" restype="Scoring Result Label Placeholder">
+									<trans-unit id="12779-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12788" restype="Scoring Result Placeholder">
+									<trans-unit id="12788-190">
+										<source>max-score</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12810" restype="Scoring Result Label Placeholder">
+									<trans-unit id="12810-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12819" restype="Scoring Result Placeholder">
+									<trans-unit id="12819-190">
+										<source>correct-questions</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12841" restype="Scoring Result Label Placeholder">
+									<trans-unit id="12841-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12850" restype="Scoring Result Placeholder">
+									<trans-unit id="12850-190">
+										<source>total-questions</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12872" restype="Scoring Result Label Placeholder">
+									<trans-unit id="12872-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12881" restype="Scoring Result Placeholder">
+									<trans-unit id="12881-190">
+										<source>percent</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12903" restype="Scoring Result Label Placeholder">
+									<trans-unit id="12903-190">
+										<source>Scoring Result Label Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12912" restype="Scoring Result Placeholder">
+									<trans-unit id="12912-190">
+										<source>total-attempts</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12944" restype="Review Button Placeholder">
+									<trans-unit id="12944-190">
+										<source>PlaceHolder for Adobe Captivate 5</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12963" restype="Continue Button Placeholder">
+									<trans-unit id="12963-190">
+										<source>Clear Button Placeholder</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="12982" restype="Post Result Button Placeholder">
+									<trans-unit id="12982-190">
+										<source>PlaceHolder for Adobe Captivate 5</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="13001" restype="Retake Button Placeholder">
+									<trans-unit id="13001-190">
+										<source>PlaceHolder for Adobe Captivate 5</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="13023" restype="Review Area Placeholder">
+									<trans-unit id="13023-190">
+										<source>Review area</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+					</group>
+					<group cp:datatype="x-object" extype="197" id="378" restype="x-cp-quiz-manager">
+						<group cp:datatype="x-property" datatype="plaintext" extype="10009" restype="x-cp-quiz-submit-button-name">
+							<trans-unit id="378-10009">
+								<source>Submit</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10335" restype="x-cp-quiz-submit-all-button-name">
+							<trans-unit id="378-10335">
+								<source>Submit All</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10113" restype="x-cp-quiz-clear-button-name">
+							<trans-unit id="378-10113">
+								<source>Clear</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10007" restype="x-cp-quiz-skip-button-name">
+							<trans-unit id="378-10007">
+								<source>Skip</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10008" restype="x-cp-quiz-back-button-name">
+							<trans-unit id="378-10008">
+								<source>Back</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10237" restype="x-cp-quiz-review-button-name">
+							<trans-unit id="378-10237">
+								<source>Review Quiz</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10269" restype="x-cp-quiz-continue-button-name">
+							<trans-unit id="378-10269">
+								<source>Continue</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10011" restype="x-cp-quiz-email-address">
+							<trans-unit id="378-10011">
+								<source>
+								</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="2207" restype="x-cp-quiz-continue-key">
+							<trans-unit id="378-2207">
+								<source>Y</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10105" restype="x-cp-quiz-correct-feedback-text">
+							<trans-unit id="378-10105">
+								<source>Correct - Click anywhere or press 'y' to continue.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10291" restype="x-cp-quiz-partial-correct-feedback-text">
+							<trans-unit id="378-10291">
+								<source>Partially Correct - Click anywhere or press 'y' to continue.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10106" restype="x-cp-quiz-incorrect-feedback-text">
+							<trans-unit id="378-10106">
+								<source>Incorrect - Click anywhere or press 'y' to continue.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10107" restype="x-cp-quiz-retry-feedback-text">
+							<trans-unit id="378-10107">
+								<source>Try again</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10184" restype="x-cp-quiz-incomplete-feedback-text">
+							<trans-unit id="378-10184">
+								<source>You must answer the question before continuing.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10188" restype="x-cp-quiz-timeout-feedback-text">
+							<trans-unit id="378-10188">
+								<source>The time to answer this question has expired. Click anywhere or press 'y' to continue.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">
+							<trans-unit id="378-10358">
+								<source>You have answered all questions. What do you want to do next?</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10359" restype="x-cp-quiz-submit-all-incomplete-text">
+							<trans-unit id="378-10359">
+								<source>One or more questions is incomplete. Answer all questions to continue.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10360" restype="x-cp-quiz-submit-all-submit-incomplete-text">
+							<trans-unit id="378-10360">
+								<source>You have not answered a few questions yet. Are you sure you want to proceed without answering those questions?</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-object" extype="10042" id="379" restype="x-cp-quizzes">
+							<group cp:datatype="x-object" extype="10003" id="380" restype="x-cp-quiz">
+								<group cp:datatype="x-property" datatype="plaintext" extype="10002" restype="x-cp-quiz-name">
+									<trans-unit id="380-10002">
+										<source>Quiz</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10231" restype="x-cp-quiz-lms-objective-id">
+									<trans-unit id="380-10231">
+										<source>Quiz_2021127163949</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10072" restype="x-cp-quiz-interaction-id-prefix">
+									<trans-unit id="380-10072">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10171" restype="x-cp-quiz-review-correct-message">
+									<trans-unit id="380-10171">
+										<source>You answered this correctly!</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10330" restype="x-cp-quiz-review-partial-correct-message">
+									<trans-unit id="380-10330">
+										<source>You answered this partially correct!</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
+									<trans-unit id="380-10172">
+										<source>You did not answer this question completely.</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
+									<trans-unit id="380-10173">
+										<source>Your answer:</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10174" restype="x-cp-quiz-review-incorrect-message-line-2">
+									<trans-unit id="380-10174">
+										<source>The correct answer is:</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10165" restype="x-cp-quiz-result-pass-message">
+									<trans-unit id="380-10165">
+										<source>Congratulations, you passed the quiz!</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10166" restype="x-cp-quiz-result-fail-message">
+									<trans-unit id="380-10166">
+										<source>Sorry, you failed!</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10170" restype="x-cp-quiz-result-email-button-text">
+									<trans-unit id="380-10170">
+										<source>Send E-mail</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10265" restype="x-cp-quiz-result-retake-button-text">
+									<trans-unit id="380-10265">
+										<source>Retake Quiz</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10271" restype="x-cp-quiz-result-post-result-text">
+									<trans-unit id="380-10271">
+										<source>Post Result</source>
+									</trans-unit>
+								</group>
+							</group>
+						</group>
+					</group>
+				</group>
+			</body>
+		</file>
+	</xliff>
