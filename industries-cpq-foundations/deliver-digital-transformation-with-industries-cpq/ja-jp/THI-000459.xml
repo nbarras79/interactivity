@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2022-08-03T14:57:47.0Z" original="THI-000473.cptx" source-language="enUS">
+		<file datatype="cptx" date="2022-06-14T12:31:17.0Z" original="THI-000459.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
-					<count count-type="total" unit="trans-unit">174</count>
-					<count count-type="total" unit="word">1102</count>
+					<count count-type="total" unit="trans-unit">147</count>
+					<count count-type="total" unit="word">725</count>
 					<count count-type="total" unit="x-cp-slides">1</count>
 				</count-group>
 			</header>
@@ -14,8 +14,7 @@
 				<group cp:datatype="x-object" extype="4" id="1" restype="x-cp-project">
 					<group cp:datatype="x-property" datatype="plaintext" extype="73" restype="x-cp-project-exp-line-1">
 						<trans-unit id="1-73">
-							<source>
-							</source>
+							<source>このプロジェクトの有効期限が切れました。</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="74" restype="x-cp-project-exp-line-2">
@@ -31,7 +30,7 @@
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="592" restype="x-cp-project-password-retry-message">
 						<trans-unit id="1-592">
-							<source>入力したパスワードが正しくありません。もう一度お試しください。</source>
+							<source>入力したパスワードが正しくありません。もう一度やり直してください。</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="593" restype="x-cp-project-password-button-text">
@@ -91,8 +90,7 @@
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
 								<trans-unit id="7907-1285">
-									<source>
-									</source>
+									<source>この画像は、「Industries CPQ の主な実装アプローチ」のホットスポットインタラクティブコンテンツです。左側に情報セクションがあり、右側にホットスポットの画像が表示されています。画像上に、4 つのホットスポットが縦横 2 つずつ正方形に配置されています。左上は「オンプレミス CRM ソリューション」です。右上は「Industries CPQ」です。左下は「カスタム CRM」です。右下は「全業種向け CRM Cloud」です。上段の 2 つは「ビジネスへの影響が大」に分類され、下段の 2 つは「ビジネスへの影響が小」に分類されます。右列の 2 つは「価値実現が長時間」に分類され、左列の 2 つは「価値実現が短時間」に分類されます。各ホットスポットをクリックすると、その長所と短所の詳細が表示されます。</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-object" extype="69" id="7908" restype="x-cp-items">
@@ -100,76 +98,21 @@
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 										<trans-unit id="8146-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#302c2c;font-size:14.0pt" ctype="x-cp-font" id="8146-19-1-1">Customer 360 ソリューションアイコン (カスタマーサクセスを含む) をクリックすると、これらのソリューションがお客様をどのように支援するかについての詳細が表示されます。$$_null$$</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#302c2c;font-size:14.0pt" ctype="x-cp-font" id="8146-19-1-1">各ソリューションをクリックして、その長所と短所を確認してください。 </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:10.0pt" ctype="x-cp-font" id="8146-19-1-2">$$_null$$</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="19" id="8156" restype="Text Caption">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="8156-19-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:28.0pt" ctype="x-cp-font" id="8156-19-1-1">Customer 360$$_null$$</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:18.0pt" ctype="x-cp-font" id="8156-19-1-1">Industries CPQ の主な実装アプローチ</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8156-19-1-2"> </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:8.0pt" ctype="x-cp-font" id="8156-19-1-3">$$_null$$</g>
 											</source>
 										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="10137" id="8955" restype="Group">
-									<group cp:datatype="x-object" extype="69" id="8954" restype="x-cp-items">
-										<group cp:datatype="x-object" extype="612" id="8887" restype="SmartShape">
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="8887-612-1">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="8887-612-1-1">Sales$$_null$$</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="8887-612-2">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8887-612-2-1">
-														</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="8887-612-3">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="8887-612-3-1">Sales Cloud</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8887-612-3-2"> は収益チームの信頼できるホームです。チームは効率的なビジネス成長を実現し、Slack で大幅に機能が向上した統合プラットフォームから営業活動を行うことができます。営業担当は、Einstein AI で生成されたインサイトを利用し、購入者主導のエクスペリエンスを便利なセルフサービスで拡張し、自動化によりプラットフォーム全体でインパクトの大きい成果を出すことができます。 </g>
-													</source>
-												</trans-unit>
-											</group>
-										</group>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="10137" id="9988" restype="Group">
-									<group cp:datatype="x-object" extype="69" id="9987" restype="x-cp-items">
-										<group cp:datatype="x-object" extype="612" id="9920" restype="SmartShape">
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="9920-612-1">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="9920-612-1-1">Service$$_null$$</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="9920-612-2">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9920-612-2-1">
-														</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="9920-612-3">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="9920-612-3-1">Service Cloud</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9920-612-3-2"> で、お客様のコンタクトセンター、フィールドサービス、従業員サービスのすべてが 1 つのプラットフォーム上にまとまります。セルフサービスと Einstein ボットを備えたデジタルエクスペリエンスで効率化を促進し、より迅速な行動やコスト削減を可能にします。さらに、お客様は消費者固有のニーズに合わせてエクスペリエンスを調整し、インテリジェントなオートメーションを使用してそのパーソナライズを大規模に展開できます。</g>
-													</source>
-												</trans-unit>
-											</group>
-										</group>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="10137" id="10077" restype="Group">
@@ -178,7 +121,8 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="10009-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="10009-612-1-1">Marketing$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:10.0pt" ctype="x-cp-font" id="10009-612-1-1">$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="10009-612-1-2">全業種向け CRM Cloud</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -193,7 +137,36 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="10009-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10009-612-3-1">Salesforce は、企業がすべてのデジタルマーケティングトークの中心にプライバシーと信頼を据えることができるように、Cookie を使用しない未来に向けてマーケティングを再構築しました。Marketing Cloud では、お客様が一元化された情報源を使用し、関連するファーストパーディデータで消費者の価値を引き出すことができます。あらゆる瞬間をリアルタイムでヒューマナイズしながら、メール、モバイル、店舗などからのエンゲージメントをすべて自動化し、マーケティングのパフォーマンスと支出を最適化できます。</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10009-612-3-1">全業種向け CRM Cloud ソリューションは迅速に実装できますが、継続的なカスタマイズを要し、カスタムのコーディング、インテグレーション、テストに関連する社内リソースへの投資が必要になります。</g>
+													</source>
+												</trans-unit>
+											</group>
+										</group>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10137" id="9988" restype="Group">
+									<group cp:datatype="x-object" extype="69" id="9987" restype="x-cp-items">
+										<group cp:datatype="x-object" extype="612" id="9920" restype="SmartShape">
+											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
+												<trans-unit id="9920-612-1">
+													<source>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:10.0pt" ctype="x-cp-font" id="9920-612-1-1">$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="9920-612-1-2">カスタム CRM</g>
+													</source>
+												</trans-unit>
+											</group>
+											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
+												<trans-unit id="9920-612-2">
+													<source>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9920-612-2-1">
+														</g>
+													</source>
+												</trans-unit>
+											</group>
+											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
+												<trans-unit id="9920-612-3">
+													<source>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="9920-612-3-1">カスタムソリューションは各自のビジネスに合わせて設計されますが、インフラストラクチャコストが高く、カスタムのコーディング、インテグレーション、テストが必要になります。このアプローチでは、イノベーションをシステムに組み込む必要があるため、大量のリソースを要する可能性があります。</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -206,7 +179,8 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="10098-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="10098-612-1-1">Commerce$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:10.0pt" ctype="x-cp-font" id="10098-612-1-1">$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="10098-612-1-2">Industries CPQ</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -221,272 +195,36 @@
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
 												<trans-unit id="10098-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="10098-612-3-1">Commerce Cloud</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10098-612-3-2"> では、お客様がセキュアで信頼できる拡張性の高いプラットフォームを使用して、パーソナライズしたエクスペリエンスをあらゆるチャネルに拡張し、市場の変化に適応するために必要な柔軟性を実現できます。柔軟なツールを使用して迅速に行動し、ディスカバリーから履行に至るまで自動化し、統合データでパーソナライズを大規模に展開し、つながりのあるジャーニーで顧客ロイヤルティを獲得できるため、あらゆる取引の利益率が高まります。 </g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10098-612-3-1">Industries CPQ は各自の業種向けに設計されており、SaaS (サービスとしてのソフトウェア) モデルの使用によってインフラストラクチャコストが軽減されます。事前構築されたインテグレーションや、コードではなくクリック操作による宣言型のカスタマイズにより、実装に伴う時間とコストが削減され、ビジネス価値をいち早く実現できます。</g>
 													</source>
 												</trans-unit>
 											</group>
 										</group>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="10137" id="10255" restype="Group">
-									<group cp:datatype="x-object" extype="69" id="10254" restype="x-cp-items">
-										<group cp:datatype="x-object" extype="612" id="10187" restype="SmartShape">
+								<group cp:datatype="x-object" extype="10137" id="8955" restype="Group">
+									<group cp:datatype="x-object" extype="69" id="8954" restype="x-cp-items">
+										<group cp:datatype="x-object" extype="612" id="8887" restype="SmartShape">
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="10187-612-1">
+												<trans-unit id="8887-612-1">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="10187-612-1-1">Tableau$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:10.0pt" ctype="x-cp-font" id="8887-612-1-1">$$_null$$</g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="8887-612-1-2">オンプレミス CRM ソリューション</g>
 													</source>
 												</trans-unit>
 											</group>
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="10187-612-2">
+												<trans-unit id="8887-612-2">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10187-612-2-1">
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8887-612-2-1">
 														</g>
 													</source>
 												</trans-unit>
 											</group>
 											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="10187-612-3">
+												<trans-unit id="8887-612-3">
 													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10187-612-3-1">Tableau では、データの保管場所や従業員のスキルレベルに関係なく、あらゆる場所のデータを誰もが利用できます。Tableau を使用すると、Einstein AI で自動生成されて取り込まれ、Slack やデータストーリーに組み込まれたコラボレーティブでアクション可能なインサイトを通じ、Customer 360 全体で誰もがデータを利用してあらゆる判断を下すことができます。 </g>
-													</source>
-												</trans-unit>
-											</group>
-										</group>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="10137" id="10344" restype="Group">
-									<group cp:datatype="x-object" extype="69" id="10343" restype="x-cp-items">
-										<group cp:datatype="x-object" extype="612" id="10276" restype="SmartShape">
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="10276-612-1">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="10276-612-1-1">Mulesoft$$_null$$</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="10276-612-2">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10276-612-2-1">
-														</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="10276-612-3">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10276-612-3-1"> </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="10276-612-3-2">MuleSoft</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10276-612-3-3">レガシーソリューションやバックオフィスソリューションを含め、すべてのビジネスシステムを統合できます。MuleSoft で企業はアプリケーションとデータをすばやく解き放して統合し、何でも誰向けにでも自動化できます。これにより、チームは真のコネクテッドカスタマーエクスペリエンスをより迅速に提供できます。</g>
-													</source>
-												</trans-unit>
-											</group>
-										</group>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="10137" id="11708" restype="Group">
-									<group cp:datatype="x-object" extype="69" id="11707" restype="x-cp-items">
-										<group cp:datatype="x-object" extype="612" id="11673" restype="SmartShape">
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="11673-612-1">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11673-612-1-1">Platform$$_null$$</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="11673-612-2">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11673-612-2-1">
-														</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="11673-612-3">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11673-612-3-1">The </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="11673-612-3-2">Salesforce Platform</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11673-612-3-3"> は、消費者をすべての中心としながら、Customer 360 全体で生産性を大幅に高めます。ローコードツールで複雑なタスクを簡単に自動化できます。セキュリティとガバナンスであらゆる場所のあらゆる人と活動に信頼をもたらします。1 つのデジタルファーストプラットフォームが Customer 360 のすべての機能をつないでシームレスなエクスペリエンスを提供し、より早くビジネス価値を実現します。</g>
-													</source>
-												</trans-unit>
-											</group>
-										</group>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="10137" id="12170" restype="Group">
-									<group cp:datatype="x-object" extype="69" id="12169" restype="x-cp-items">
-										<group cp:datatype="x-object" extype="612" id="12135" restype="SmartShape">
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="12135-612-1">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="12135-612-1-1">CDP$$_null$$</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="12135-612-2">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12135-612-2-1">
-														</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="12135-612-3">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt;font:weight:bold" ctype="x-cp-font" id="12135-612-3-1">カスタマーデータプラットフォーム</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12135-612-3-2"> (CDP) は複数のソースのデータをつなぎ、お客様が AI を使用してよりスマートなセグメントを見つけ、消費者のあらゆる瞬間をパーソナライズできるようにします。CDP を使用して Service、Sales、Commerce などのデータを有効化し、よりスマートなセグメントを作成し、どこでもリアルタイムのインサイトに基づいてアクションを実行できます。</g>
-													</source>
-												</trans-unit>
-											</group>
-										</group>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="10137" id="11785" restype="Group">
-									<group cp:datatype="x-object" extype="69" id="11784" restype="x-cp-items">
-										<group cp:datatype="x-object" extype="612" id="11750" restype="SmartShape">
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="11750-612-1">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11750-612-1-1">Slack$$_null$$</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="11750-612-2">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11750-612-2-1">
-														</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="11750-612-3">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11750-612-3-1">Slack </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11750-612-3-2">で、企業はサイロを解消し、柔軟性を高め、作業を自動化できるようになるため、場所や方法を問わず、よりインクルーシブでつながりのある働き方が可能になります。デジタル HQ として機能する Slack では、まったく新しい方法でチームが他のメンバーや仕事と関わることができるため、協力し合ってより迅速かつ効率的に楽しく働くことができます。</g>
-													</source>
-												</trans-unit>
-											</group>
-										</group>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="10137" id="11862" restype="Group">
-									<group cp:datatype="x-object" extype="69" id="11861" restype="x-cp-items">
-										<group cp:datatype="x-object" extype="612" id="11827" restype="SmartShape">
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="11827-612-1">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11827-612-1-1">Net Zero$$_null$$</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="11827-612-2">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11827-612-2-1">
-														</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="11827-612-3">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11827-612-3-1"> </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11827-612-3-2">Net Zero Cloud を利用すると、</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11827-612-3-3"> 炭素排出量を追跡し、排出量データからアクション可能なインサイトを取得して、サプライヤーとの連携によるサプライチェーンの排出量削減を迅速かつ安全に実施できます。Salesforce は、Net Zero Cloud によってお客様のネットゼロ排出の実現を加速し、長期的に持続可能なバリューの創出を支援します。</g>
-													</source>
-												</trans-unit>
-											</group>
-										</group>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="10137" id="11939" restype="Group">
-									<group cp:datatype="x-object" extype="69" id="11938" restype="x-cp-items">
-										<group cp:datatype="x-object" extype="612" id="11904" restype="SmartShape">
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="11904-612-1">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11904-612-1-1">Industries$$_null$$</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="11904-612-2">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11904-612-2-1">
-														</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="11904-612-3">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11904-612-3-1">業種向けナンバーワン CRM の Salesforce では、12 の </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11904-612-3-2">業種 </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11904-612-3-3">クラウドで業種専用の機能、データモデル、プロセスを提供します。すべて各業界のエキスパートによって設計されています。ソリューションは Customer 360 上に構築され、小売、旅行、輸送、プロフェッショナルサービスのような業種でデジタルトランスフォーメーションを迅速に進めています。 </g>
-													</source>
-												</trans-unit>
-											</group>
-										</group>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="10137" id="12016" restype="Group">
-									<group cp:datatype="x-object" extype="69" id="12015" restype="x-cp-items">
-										<group cp:datatype="x-object" extype="612" id="11981" restype="SmartShape">
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="11981-612-1">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="11981-612-1-1">Partners$$_null$$</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="11981-612-2">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11981-612-2-1">
-														</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="11981-612-3">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11981-612-3-1">パートナー </g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11981-612-3-2">は、製品、業種、地域の壁を越えて、お客様のあらゆる問題を解決するためのアプリケーションや専門技術を提供してくれます。Salesforce のお客様は Salesforce AppExchange から 9,000 以上のアプリケーションやソリューションにアクセスできます。15 万人以上の Salesforce 認定エキスパート (コンサルタント) が実装をサポートします。戦略的テクノロジーパートナーシップも AWS、Google、Honeywell、Apple、Disney、その他数十社と結んでいます。</g>
-													</source>
-												</trans-unit>
-											</group>
-										</group>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="10137" id="12093" restype="Group">
-									<group cp:datatype="x-object" extype="69" id="12092" restype="x-cp-items">
-										<group cp:datatype="x-object" extype="612" id="12058" restype="SmartShape">
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="12058-612-1">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:20.0pt;font:weight:bold" ctype="x-cp-font" id="12058-612-1-1">カスタマーサクセス$$_null$$</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="12058-612-2">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12058-612-2-1">
-														</g>
-													</source>
-												</trans-unit>
-											</group>
-											<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.50;line-indent:0.00">
-												<trans-unit id="12058-612-3">
-													<source>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12058-612-3-1">カスタマーサクセス</g>
-														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12058-612-3-2"> では、お客様がそのビジョンと目標に沿って早期に価値を実現できるようにサポートします。数千ものイノベーティブなお客様との協力から導き出した実証済みのベストプラクティスで、お客様は Salesforce 投資から最大の価値を実現できます。 </g>
+														<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="8887-612-3-1">オンプレミスソリューションは各自がホストします。つまり、各自がソフトウェアとハードウェアを全面的に管理し、全責任を担います。通常は、ソリューションをホストするハードウェアやソフトウェア、そのサポートスタッフなど、インフラストラクチャコストが高くつきます。アップグレードにカスタムのコーディング、インテグレーション、テストが必要になるため、高額になることがあります。</g>
 													</source>
 												</trans-unit>
 											</group>
@@ -539,7 +277,7 @@
 							<group cp:datatype="x-object" extype="69" id="6406" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="6342" restype="Progress Indicator Placeholder">
 									<trans-unit id="6342-190">
-										<source>質問 X/Y</source>
+										<source>設問 X/Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="6360" restype="Incomplete Shape Placeholder">
@@ -564,12 +302,12 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="6097" restype="Title Placeholder">
 									<trans-unit id="6097-190">
-										<source>質問のタイトルのプレースホルダー</source>
+										<source>設問のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="6122" restype="Question Placeholder">
 									<trans-unit id="6122-190">
-										<source>質問のテキストのプレースホルダー</source>
+										<source>設問のテキストのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="6154" restype="Answer Area Placeholder">
@@ -624,7 +362,7 @@
 							<group cp:datatype="x-object" extype="69" id="6796" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="6750" restype="Progress Indicator Placeholder">
 									<trans-unit id="6750-190">
-										<source>質問 X/Y</source>
+										<source>設問 X/Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="6759" restype="Review Area Placeholder">
@@ -674,27 +412,27 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="6462" restype="Question Placeholder">
 									<trans-unit id="6462-190">
-										<source>質問のテキストのプレースホルダー</source>
+										<source>設問のテキストのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="6484" restype="Column 1 Placeholder">
 									<trans-unit id="6484-190">
-										<source>質問領域のプレースホルダー</source>
+										<source>設問領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="6493" restype="Column 2 Placeholder">
 									<trans-unit id="6493-190">
-										<source>質問領域のプレースホルダー</source>
+										<source>設問領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="6437" restype="Title Placeholder">
 									<trans-unit id="6437-190">
-										<source>質問のタイトルのプレースホルダー</source>
+										<source>設問のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="6525" restype="Question Area Placeholder">
 									<trans-unit id="6525-190">
-										<source>質問領域のプレースホルダー</source>
+										<source>設問領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="6544" restype="Answer Area Placeholder">
@@ -724,7 +462,7 @@
 							<group cp:datatype="x-object" extype="69" id="7120" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="7056" restype="Progress Indicator Placeholder">
 									<trans-unit id="7056-190">
-										<source>質問 X/Y</source>
+										<source>設問 X/Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="7074" restype="Success Shape Placeholder">
@@ -749,12 +487,12 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="6843" restype="Title Placeholder">
 									<trans-unit id="6843-190">
-										<source>質問のタイトルのプレースホルダー</source>
+										<source>設問のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="6868" restype="Question Placeholder">
 									<trans-unit id="6868-190">
-										<source>質問のテキストのプレースホルダー</source>
+										<source>設問のテキストのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="6913" restype="Review Mode Back Button Placeholder">
@@ -819,12 +557,12 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="7270" restype="Title Placeholder">
 									<trans-unit id="7270-190">
-										<source>質問のタイトルのプレースホルダー</source>
+										<source>設問のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="7282" restype="Question Placeholder">
 									<trans-unit id="7282-190">
-										<source>質問のテキストのプレースホルダー</source>
+										<source>設問のテキストのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="7301" restype="Review Mode Back Button Placeholder">
@@ -859,7 +597,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="7405" restype="Progress Indicator Placeholder">
 									<trans-unit id="7405-190">
-										<source>質問 X/Y</source>
+										<source>設問 X/Y</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -884,7 +622,7 @@
 								</group>
 								<group cp:datatype="x-object" extype="190" id="7453" restype="Result Title Placeholder">
 									<trans-unit id="7453-190">
-										<source>質問のタイトルのプレースホルダー</source>
+										<source>設問のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="7475" restype="Scoring Result Label Placeholder">
@@ -983,7 +721,7 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10113" restype="x-cp-quiz-clear-button-name">
 							<trans-unit id="382-10113">
-								<source>クリア</source>
+								<source>明確</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10007" restype="x-cp-quiz-skip-button-name">
@@ -1039,27 +777,27 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10184" restype="x-cp-quiz-incomplete-feedback-text">
 							<trans-unit id="382-10184">
-								<source>続行するには、質問に回答する必要があります。</source>
+								<source>続行するには、設問に回答する必要があります。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10188" restype="x-cp-quiz-timeout-feedback-text">
 							<trans-unit id="382-10188">
-								<source>この質問に回答する時間制限を超えました。ウィンドウ内をクリックするか、Y キーを押して続行してください。</source>
+								<source>この設問に回答する時間制限を超えました。ウィンドウ内をクリックするか、Y キーを押して続行してください。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">
 							<trans-unit id="382-10358">
-								<source>すべての質問に回答しました。この後はどうされますか?</source>
+								<source>すべての設問に回答しました。この後はどうされますか?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10359" restype="x-cp-quiz-submit-all-incomplete-text">
 							<trans-unit id="382-10359">
-								<source>1 つ以上の質問への回答が不完全です。続行するには、すべての質問に回答してください。</source>
+								<source>1 つ以上の設問への回答が不完全です。続行するには、すべての設問に回答してください。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10360" restype="x-cp-quiz-submit-all-submit-incomplete-text">
 							<trans-unit id="382-10360">
-								<source>まだいくつかの質問に回答していません。未回答の質問に回答せずに続行しますか?</source>
+								<source>まだ回答していない設問が残っています。これらの設問に回答せずに続行しますか?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-object" extype="10042" id="383" restype="x-cp-quizzes">
@@ -1092,7 +830,7 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
 									<trans-unit id="384-10172">
-										<source>この質問に完全に回答しませんでした。</source>
+										<source>この設問への回答が不完全です。</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">

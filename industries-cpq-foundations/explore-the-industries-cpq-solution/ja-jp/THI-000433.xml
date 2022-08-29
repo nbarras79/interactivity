@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2022-03-25T11:52:15.0Z" original="THI-000371.cptx" source-language="enUS">
+		<file datatype="cptx" date="2022-06-02T14:19:07.0Z" original="THI-000433.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
-					<count count-type="total" unit="trans-unit">185</count>
-					<count count-type="total" unit="word">608</count>
-					<count count-type="total" unit="x-cp-slides">9</count>
+					<count count-type="total" unit="trans-unit">171</count>
+					<count count-type="total" unit="word">492</count>
+					<count count-type="total" unit="x-cp-slides">5</count>
 				</count-group>
 			</header>
 			<body>
@@ -26,23 +26,23 @@
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="591" restype="x-cp-project-password-message">
 						<trans-unit id="1-591">
-							<source>Escriba la contraseña correcta directamente en el cuadro de texto a continuación y haga clic en el botón que también aparece.</source>
+							<source>下のテキストボックスに直接正しいパスワードを入力し、ボタンをクリックしてください。</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="592" restype="x-cp-project-password-retry-message">
 						<trans-unit id="1-592">
-							<source>La contraseña que ingresó es incorrecta. Inténtelo de nuevo.</source>
+							<source>入力したパスワードが正しくありません。もう一度やり直してください。</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-property" datatype="plaintext" extype="593" restype="x-cp-project-password-button-text">
 						<trans-unit id="1-593">
-							<source>Continuar</source>
+							<source>続行</source>
 						</trans-unit>
 					</group>
 					<group cp:datatype="x-object" extype="417" id="305" restype="x-cp-project-information">
 						<group cp:datatype="x-property" datatype="plaintext" extype="428" restype="x-cp-project-info-name">
 							<trans-unit id="305-428">
-								<source>Tarjetas nemotécnicas</source>
+								<source>フラッシュカード</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="429" restype="x-cp-project-info-author">
@@ -75,8 +75,8 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="434" restype="x-cp-project-info-description">
 							<trans-unit id="305-434">
-								<source>499 x 320 píxeles
-Fecha de plantilla: 29 de marzo de 2021</source>
+								<source>499 x 320 px
+テンプレート日: 2022 年 3 月 15 日</source>
 							</trans-unit>
 						</group>
 					</group>
@@ -84,7 +84,7 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 						<slide cp:datatype="x-object" extype="30" id="5568" resname="Slide 0" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="5568-337">
-									<source>Tarjeta nemotécnica 1</source>
+									<source>フラッシュカード 1</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -98,25 +98,69 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="5724-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="5724-612-1-1">1 de 6</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="5724-612-1-1">1/3</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="173217" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173217-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173217-612-1-1">Debe publicar un mensaje privado para el destinatario.</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173217-612-1-1">次のものを定義し変更する。</g>
 											</source>
 										</trans-unit>
+									</group>
+									<group cp:datatype="x-bullet-list-numbering-specialchar" ctype="x-cp-bullet">
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
+											<trans-unit id="173217-612-2">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173217-612-2-1">商品バンドル</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
+											<trans-unit id="173217-612-3">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173217-612-3-1">複雑な商品</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
+											<trans-unit id="173217-612-4">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173217-612-4-1">プロモーション</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
+											<trans-unit id="173217-612-5">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173217-612-5-1">割引</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
+											<trans-unit id="173217-612-6">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173217-612-6-1">単純または複雑な価格設定</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
+											<trans-unit id="173217-612-7">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173217-612-7-1">プランの変更</g>
+												</source>
+											</trans-unit>
+										</group>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="173077" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173077-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173077-612-1-1">¿Cómo debe un usuario de Chatter enviar un mensaje a otro usuario de Chatter y que nadie más pueda ver dicho mensaje?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173077-612-1-1">商品データの管理</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -129,7 +173,7 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 						<slide cp:datatype="x-object" extype="30" id="11010" resname="Slide 1" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="11010-337">
-									<source>Tarjeta nemotécnica 2</source>
+									<source>フラッシュカード 2</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -143,25 +187,48 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="10772-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10772-612-1-1">2 de 6</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="10772-612-1-1">2/3</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="173287" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173287-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173287-612-1-1">Registros, ya sean tareas o eventos, de las interacciones de la organización con los registros, como las cuentas, los contactos y las oportunidades</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173287-612-1-1">次の商用ルールを定義し変更する。</g>
 											</source>
 										</trans-unit>
+									</group>
+									<group cp:datatype="x-bullet-list-numbering-specialchar" ctype="x-cp-bullet">
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
+											<trans-unit id="173287-612-2">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173287-612-2-1">対象条件</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
+											<trans-unit id="173287-612-3">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173287-612-3-1">利用可能性</g>
+												</source>
+											</trans-unit>
+										</group>
+										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
+											<trans-unit id="173287-612-4">
+												<source>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173287-612-4-1">価格設定</g>
+												</source>
+											</trans-unit>
+										</group>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="173252" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173252-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173252-612-1-1">Actividades</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173252-612-1-1">ルールの管理</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -171,7 +238,7 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 						<slide cp:datatype="x-object" extype="30" id="11801" resname="Slide 2" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="11801-337">
-									<source>Tarjeta nemotécnica 3</source>
+									<source>フラッシュカード 3</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -185,7 +252,7 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="11563-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11563-612-1-1">3 de 6</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11563-612-1-1">3/3</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -194,7 +261,7 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173357-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:24.0pt;font:weight:bold" ctype="x-cp-font" id="173357-612-1-1">Los usuarios de grupos de Chatter pueden:</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173357-612-1-1">次のものをサポートする。</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -202,28 +269,21 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 											<trans-unit id="173357-612-2">
 												<source>
-													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:24.0pt" ctype="x-cp-font" id="173357-612-2-1">Colaborar en grupos privados, públicos o sin registrar.</g>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173357-612-2-1">インテグレーションのための文書化された構造</g>
 												</source>
 											</trans-unit>
 										</group>
 										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 											<trans-unit id="173357-612-3">
 												<source>
-													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:24.0pt" ctype="x-cp-font" id="173357-612-3-1">Utilizar anuncios para mensajes importantes.</g>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173357-612-3-1">オープン API</g>
 												</source>
 											</trans-unit>
 										</group>
 										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
 											<trans-unit id="173357-612-4">
 												<source>
-													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:24.0pt" ctype="x-cp-font" id="173357-612-4-1">Publicar actualizaciones, archivos y vínculos.</g>
-												</source>
-											</trans-unit>
-										</group>
-										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
-											<trans-unit id="173357-612-5">
-												<source>
-													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:24.0pt" ctype="x-cp-font" id="173357-612-5-1">Incluir a clientes en grupos privados.</g>
+													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173357-612-4-1">事前構築されたインテグレーション (Matrixx など)</g>
 												</source>
 											</trans-unit>
 										</group>
@@ -233,7 +293,7 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173322-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173322-612-1-1">Funciones de los grupos de Chatter</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173322-612-1-1">商品データの統合</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -243,7 +303,7 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 						<slide cp:datatype="x-object" extype="30" id="12132" resname="Slide 3" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="12132-337">
-									<source>Tarjeta nemotécnica 4</source>
+									<source>フラッシュカード 4</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -257,7 +317,7 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="11894-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11894-612-1-1">4 de 6</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="11894-612-1-1">4/X</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -266,7 +326,7 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173427-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173427-612-1-1">Acciones rápidas</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173427-612-1-1">戻る</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -275,7 +335,7 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173392-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173392-612-1-1">¿Qué opción se puede agregar a los formatos de Publicador de Outlook?</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173392-612-1-1">表</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -285,7 +345,7 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 						<slide cp:datatype="x-object" extype="30" id="12463" resname="Slide 4" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="12463-337">
-									<source>Tarjeta nemotécnica 5</source>
+									<source>フラッシュカード 5</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -299,212 +359,25 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
 										<trans-unit id="12225-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12225-612-1-1">5 de 6</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12225-612-1-1">5/X</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="173497" restype="SmartShape">
-									<group cp:datatype="x-bullet-list-numbering-specialchar" ctype="x-cp-bullet">
-										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
-											<trans-unit id="173497-612-1">
-												<source>
-													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173497-612-1-1">Vincular emails de Microsoft Outlook a contactos, prospectos, cuentas, oportunidades y casos de Salesforce</g>
-												</source>
-											</trans-unit>
-										</group>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
-										<trans-unit id="173497-612-2">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
+										<trans-unit id="173497-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173497-612-2-1">
-												</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173497-612-1-1">戻る</g>
 											</source>
 										</trans-unit>
-									</group>
-									<group cp:datatype="x-bullet-list-numbering-specialchar" ctype="x-cp-bullet">
-										<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.10;line-indent:0.00">
-											<trans-unit id="173497-612-3">
-												<source>
-													<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173497-612-3-1">Relacionar eventos con registros dentro de Salesforce</g>
-												</source>
-											</trans-unit>
-										</group>
 									</group>
 								</group>
 								<group cp:datatype="x-object" extype="612" id="173462" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
 										<trans-unit id="173462-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173462-612-1-1">Integración de Outlook</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-							</group>
-						</slide>
-						<slide cp:datatype="x-object" extype="30" id="12794" resname="Slide 5" restype="x-cp-standard-slide">
-							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
-								<trans-unit id="12794-337">
-									<source>Tarjeta nemotécnica 6</source>
-								</trans-unit>
-							</group>
-							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
-								<trans-unit id="12794-1285">
-									<source>
-									</source>
-								</trans-unit>
-							</group>
-							<group cp:datatype="x-object" extype="69" id="12779" restype="x-cp-items">
-								<group cp:datatype="x-object" extype="612" id="12556" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="12556-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12556-612-1-1">6 de 6</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="173567" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
-										<trans-unit id="173567-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173567-612-1-1">Obtenga acceso a la misma información que puede ver en su equipo, pero organizada de un modo que le permitirá realizar su trabajo cuando no esté en la oficina</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="173532" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
-										<trans-unit id="173532-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173532-612-1-1">Aplicación móvil Salesforce</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-							</group>
-						</slide>
-						<slide cp:datatype="x-object" extype="30" id="13125" resname="Slide 6" restype="x-cp-standard-slide">
-							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
-								<trans-unit id="13125-337">
-									<source>Tarjeta nemotécnica 7</source>
-								</trans-unit>
-							</group>
-							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
-								<trans-unit id="13125-1285">
-									<source>
-									</source>
-								</trans-unit>
-							</group>
-							<group cp:datatype="x-object" extype="69" id="13110" restype="x-cp-items">
-								<group cp:datatype="x-object" extype="612" id="12887" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="12887-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="12887-612-1-1">7 de X</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="173637" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
-										<trans-unit id="173637-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173637-612-1-1">Atrás</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="173602" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
-										<trans-unit id="173602-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173602-612-1-1">Anverso</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-							</group>
-						</slide>
-						<slide cp:datatype="x-object" extype="30" id="13456" resname="Slide 7" restype="x-cp-standard-slide">
-							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
-								<trans-unit id="13456-337">
-									<source>Tarjeta nemotécnica 8</source>
-								</trans-unit>
-							</group>
-							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
-								<trans-unit id="13456-1285">
-									<source>
-									</source>
-								</trans-unit>
-							</group>
-							<group cp:datatype="x-object" extype="69" id="13441" restype="x-cp-items">
-								<group cp:datatype="x-object" extype="612" id="13218" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="13218-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="13218-612-1-1">8 de X</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="173707" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
-										<trans-unit id="173707-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173707-612-1-1">Atrás</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="173672" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
-										<trans-unit id="173672-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173672-612-1-1">Anverso</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-							</group>
-						</slide>
-						<slide cp:datatype="x-object" extype="30" id="13787" resname="Slide 8" restype="x-cp-standard-slide">
-							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
-								<trans-unit id="13787-337">
-									<source>Tarjeta nemotécnica 9</source>
-								</trans-unit>
-							</group>
-							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
-								<trans-unit id="13787-1285">
-									<source>
-									</source>
-								</trans-unit>
-							</group>
-							<group cp:datatype="x-object" extype="69" id="13772" restype="x-cp-items">
-								<group cp:datatype="x-object" extype="612" id="13549" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="13549-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#000000;font-size:16.0pt" ctype="x-cp-font" id="13549-612-1-1">9 de X</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="173777" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
-										<trans-unit id="173777-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:26.0pt" ctype="x-cp-font" id="173777-612-1-1">Atrás</g>
-											</source>
-										</trans-unit>
-									</group>
-								</group>
-								<group cp:datatype="x-object" extype="612" id="173742" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="line-spacing:1.10;line-indent:0.00">
-										<trans-unit id="173742-612-1">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173742-612-1-1">Anverso</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#15325b;font-size:26.0pt" ctype="x-cp-font" id="173462-612-1-1">表</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -529,7 +402,7 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 						<slide cp:datatype="x-object" extype="584" id="1649" resname="Slide 1" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="1649-337">
-									<source>En blanco</source>
+									<source>空白</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -543,7 +416,7 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 						<slide cp:datatype="x-object" extype="10141" id="4086" resname="Slide 2" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4086-337">
-									<source>MCQ,T/F,FIB,Secuencia</source>
+									<source>MCQ,T/F,FIB,Sequence</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -555,87 +428,87 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 							<group cp:datatype="x-object" extype="69" id="4051" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4050" restype="Progress Indicator Placeholder">
 									<trans-unit id="4050-190">
-										<source>Pregunta X de Y</source>
+										<source>設問 X/Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3767" restype="Review Area Placeholder">
 									<trans-unit id="3767-190">
-										<source>Área de revisión</source>
+										<source>確認領域</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3785" restype="Success Shape Placeholder">
 									<trans-unit id="3785-190">
-										<source>Marcador de posición de subtítulo de respuesta correcta</source>
+										<source>成功キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3803" restype="TimeOut Shape Placeholder">
 									<trans-unit id="3803-190">
-										<source>Marcador de posición de agotamiento de tiempo de espera de comentarios</source>
+										<source>タイムアウトフィードバックのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3821" restype="Partial Correct Shape Placeholder">
 									<trans-unit id="3821-190">
-										<source>Marcador de posición de subtítulo de respuesta correcta parcialmente</source>
+										<source>一部正解キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3839" restype="Retry Shape Placeholder">
 									<trans-unit id="3839-190">
-										<source>Marcador de posición de subtítulo de reintento</source>
+										<source>再試行キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3857" restype="Incomplete Shape Placeholder">
 									<trans-unit id="3857-190">
-										<source>Marcador de posición de subtítulo de respuesta incompleta</source>
+										<source>不完全キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3875" restype="Failure Shape Placeholder">
 									<trans-unit id="3875-190">
-										<source>Marcador de posición de subtítulo de fallo</source>
+										<source>失敗キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3688" restype="Title Placeholder">
 									<trans-unit id="3688-190">
-										<source>Marcador de posición de título de pregunta</source>
+										<source>設問のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3713" restype="Question Placeholder">
 									<trans-unit id="3713-190">
-										<source>Marcador de posición de texto de pregunta</source>
+										<source>設問のテキストのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3745" restype="Answer Area Placeholder">
 									<trans-unit id="3745-190">
-										<source>Marcador de posición de área de respuesta</source>
+										<source>回答領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3907" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="3907-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3926" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="3926-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3945" restype="Clear Button Placeholder">
 									<trans-unit id="3945-190">
-										<source>Marcador de posición de botón de borrado</source>
+										<source>[消去] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3964" restype="Back Button Placeholder">
 									<trans-unit id="3964-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="3983" restype="Skip Button Placeholder">
 									<trans-unit id="3983-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4002" restype="Submit Button Placeholder">
 									<trans-unit id="4002-190">
-										<source>Marcador de posición de botón de envío</source>
+										<source>[送信] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -643,7 +516,7 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 						<slide cp:datatype="x-object" extype="10141" id="4492" resname="Slide 3" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4492-337">
-									<source>Coincidentes</source>
+									<source>照合</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -655,87 +528,87 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 							<group cp:datatype="x-object" extype="69" id="4457" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4456" restype="Progress Indicator Placeholder">
 									<trans-unit id="4456-190">
-										<source>Pregunta X de Y</source>
+										<source>設問 X/Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4098" restype="Title Placeholder">
 									<trans-unit id="4098-190">
-										<source>Marcador de posición de título de pregunta</source>
+										<source>設問のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4123" restype="Question Placeholder">
 									<trans-unit id="4123-190">
-										<source>Marcador de posición de texto de pregunta</source>
+										<source>設問のテキストのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4145" restype="Column 1 Placeholder">
 									<trans-unit id="4145-190">
-										<source>Marcador de posición de área de pregunta</source>
+										<source>設問領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4154" restype="Column 2 Placeholder">
 									<trans-unit id="4154-190">
-										<source>Marcador de posición de área de pregunta</source>
+										<source>設問領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4186" restype="Question Area Placeholder">
 									<trans-unit id="4186-190">
-										<source>Marcador de posición de área de pregunta</source>
+										<source>設問領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4205" restype="Answer Area Placeholder">
 									<trans-unit id="4205-190">
-										<source>Marcador de posición de área de respuesta</source>
+										<source>回答領域のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4227" restype="Review Area Placeholder">
 									<trans-unit id="4227-190">
-										<source>Área de revisión</source>
+										<source>確認領域</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4245" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4245-190">
-										<source>Marcador de posición de subtítulo de respuesta incompleta</source>
+										<source>不完全キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4263" restype="Failure Shape Placeholder">
 									<trans-unit id="4263-190">
-										<source>Marcador de posición de subtítulo de fallo</source>
+										<source>失敗キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4281" restype="Success Shape Placeholder">
 									<trans-unit id="4281-190">
-										<source>Marcador de posición de subtítulo de respuesta correcta</source>
+										<source>成功キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4313" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4313-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4332" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4332-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4351" restype="Clear Button Placeholder">
 									<trans-unit id="4351-190">
-										<source>Marcador de posición de botón de borrado</source>
+										<source>[消去] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4370" restype="Back Button Placeholder">
 									<trans-unit id="4370-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4389" restype="Skip Button Placeholder">
 									<trans-unit id="4389-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4408" restype="Submit Button Placeholder">
 									<trans-unit id="4408-190">
-										<source>Marcador de posición de botón de envío</source>
+										<source>[送信] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -743,7 +616,7 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 						<slide cp:datatype="x-object" extype="10141" id="4816" resname="Slide 4" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4816-337">
-									<source>Punto interactivo</source>
+									<source>ホットスポット</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -755,67 +628,67 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 							<group cp:datatype="x-object" extype="69" id="4781" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4780" restype="Progress Indicator Placeholder">
 									<trans-unit id="4780-190">
-										<source>Pregunta X de Y</source>
+										<source>設問 X/Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4504" restype="Title Placeholder">
 									<trans-unit id="4504-190">
-										<source>Marcador de posición de título de pregunta</source>
+										<source>設問のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4529" restype="Question Placeholder">
 									<trans-unit id="4529-190">
-										<source>Marcador de posición de texto de pregunta</source>
+										<source>設問のテキストのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4551" restype="Review Area Placeholder">
 									<trans-unit id="4551-190">
-										<source>Área de revisión</source>
+										<source>確認領域</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4569" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4569-190">
-										<source>Marcador de posición de subtítulo de respuesta incompleta</source>
+										<source>不完全キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4587" restype="Failure Shape Placeholder">
 									<trans-unit id="4587-190">
-										<source>Marcador de posición de subtítulo de fallo</source>
+										<source>失敗キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4605" restype="Success Shape Placeholder">
 									<trans-unit id="4605-190">
-										<source>Marcador de posición de subtítulo de respuesta correcta</source>
+										<source>成功キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4637" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="4637-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4656" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="4656-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4675" restype="Clear Button Placeholder">
 									<trans-unit id="4675-190">
-										<source>Marcador de posición de botón de borrado</source>
+										<source>[消去] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4694" restype="Back Button Placeholder">
 									<trans-unit id="4694-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4713" restype="Skip Button Placeholder">
 									<trans-unit id="4713-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4732" restype="Submit Button Placeholder">
 									<trans-unit id="4732-190">
-										<source>Marcador de posición de botón de envío</source>
+										<source>[送信] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -823,7 +696,7 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 						<slide cp:datatype="x-object" extype="10141" id="5102" resname="Slide 5" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="5102-337">
-									<source>Likert</source>
+									<source>リッカート</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -835,62 +708,62 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 							<group cp:datatype="x-object" extype="69" id="5067" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="4828" restype="Title Placeholder">
 									<trans-unit id="4828-190">
-										<source>Marcador de posición de título de pregunta</source>
+										<source>設問のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4840" restype="Question Placeholder">
 									<trans-unit id="4840-190">
-										<source>Marcador de posición de texto de pregunta</source>
+										<source>設問のテキストのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4916" restype="Likert Question Area Placeholder">
 									<trans-unit id="4916-190">
-										<source>Marcador de posición para Adobe Captivate 5</source>
+										<source>Adobe Captivate 5 のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4934" restype="Incomplete Shape Placeholder">
 									<trans-unit id="4934-190">
-										<source>Marcador de posición de subtítulo de respuesta incompleta</source>
+										<source>不完全キャプションのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4943" restype="Review Area Placeholder">
 									<trans-unit id="4943-190">
-										<source>Área de revisión</source>
+										<source>確認領域</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4952" restype="Progress Indicator Placeholder">
 									<trans-unit id="4952-190">
-										<source>Pregunta X de Y</source>
+										<source>設問 X/Y</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4971" restype="Submit Button Placeholder">
 									<trans-unit id="4971-190">
-										<source>Marcador de posición de botón de envío</source>
+										<source>[送信] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="4990" restype="Skip Button Placeholder">
 									<trans-unit id="4990-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5009" restype="Back Button Placeholder">
 									<trans-unit id="5009-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5028" restype="Clear Button Placeholder">
 									<trans-unit id="5028-190">
-										<source>Marcador de posición de botón de borrado</source>
+										<source>[消去] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5047" restype="Review Mode Next Button Placeholder">
 									<trans-unit id="5047-190">
-										<source>Marcador de posición de botón de omisión</source>
+										<source>[スキップ] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5066" restype="Review Mode Back Button Placeholder">
 									<trans-unit id="5066-190">
-										<source>Marcador de posición de botón de retroceso</source>
+										<source>[戻る] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -898,7 +771,7 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 						<slide cp:datatype="x-object" extype="10141" id="5473" resname="Slide 6" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="5473-337">
-									<source>Resultado</source>
+									<source>結果</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
@@ -910,92 +783,92 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 							<group cp:datatype="x-object" extype="69" id="5438" restype="x-cp-items">
 								<group cp:datatype="x-object" extype="190" id="5114" restype="Result Title Placeholder">
 									<trans-unit id="5114-190">
-										<source>Marcador de posición de título de pregunta</source>
+										<source>設問のタイトルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5136" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5136-190">
-										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5145" restype="Scoring Result Placeholder">
 									<trans-unit id="5145-190">
-										<source>puntuaje</source>
+										<source>スコア</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5167" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5167-190">
-										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5176" restype="Scoring Result Placeholder">
 									<trans-unit id="5176-190">
-										<source>puntuaje máximo</source>
+										<source>max-score</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5198" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5198-190">
-										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5207" restype="Scoring Result Placeholder">
 									<trans-unit id="5207-190">
-										<source>preguntas correctas</source>
+										<source>correct-questions</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5229" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5229-190">
-										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5238" restype="Scoring Result Placeholder">
 									<trans-unit id="5238-190">
-										<source>preguntas en total</source>
+										<source>total-questions</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5260" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5260-190">
-										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5269" restype="Scoring Result Placeholder">
 									<trans-unit id="5269-190">
-										<source>porcentaje</source>
+										<source>パーセント</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5291" restype="Scoring Result Label Placeholder">
 									<trans-unit id="5291-190">
-										<source>Marcador de posición de etiqueta de resultado de puntuaje</source>
+										<source>スコア結果表示ラベルのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5300" restype="Scoring Result Placeholder">
 									<trans-unit id="5300-190">
-										<source>intentos en total</source>
+										<source>total-attempts</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5332" restype="Review Button Placeholder">
 									<trans-unit id="5332-190">
-										<source>Marcador de posición para Adobe Captivate 5</source>
+										<source>Adobe Captivate 5 のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5351" restype="Continue Button Placeholder">
 									<trans-unit id="5351-190">
-										<source>Marcador de posición de botón de borrado</source>
+										<source>[消去] ボタンのプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5370" restype="Post Result Button Placeholder">
 									<trans-unit id="5370-190">
-										<source>Marcador de posición para Adobe Captivate 5</source>
+										<source>Adobe Captivate 5 のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5389" restype="Retake Button Placeholder">
 									<trans-unit id="5389-190">
-										<source>Marcador de posición para Adobe Captivate 5</source>
+										<source>Adobe Captivate 5 のプレースホルダー</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-object" extype="190" id="5411" restype="Review Area Placeholder">
 									<trans-unit id="5411-190">
-										<source>Área de revisión</source>
+										<source>確認領域</source>
 									</trans-unit>
 								</group>
 							</group>
@@ -1004,37 +877,37 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 					<group cp:datatype="x-object" extype="197" id="382" restype="x-cp-quiz-manager">
 						<group cp:datatype="x-property" datatype="plaintext" extype="10009" restype="x-cp-quiz-submit-button-name">
 							<trans-unit id="382-10009">
-								<source>Enviar</source>
+								<source>送信</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10335" restype="x-cp-quiz-submit-all-button-name">
 							<trans-unit id="382-10335">
-								<source>Enviar todo</source>
+								<source>すべて送信</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10113" restype="x-cp-quiz-clear-button-name">
 							<trans-unit id="382-10113">
-								<source>Borrar</source>
+								<source>明確</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10007" restype="x-cp-quiz-skip-button-name">
 							<trans-unit id="382-10007">
-								<source>Omitir</source>
+								<source>スキップ</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10008" restype="x-cp-quiz-back-button-name">
 							<trans-unit id="382-10008">
-								<source>Atrás</source>
+								<source>戻る</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10237" restype="x-cp-quiz-review-button-name">
 							<trans-unit id="382-10237">
-								<source>Revisar prueba</source>
+								<source>テストを見直す</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10269" restype="x-cp-quiz-continue-button-name">
 							<trans-unit id="382-10269">
-								<source>Continuar</source>
+								<source>続行</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10011" restype="x-cp-quiz-email-address">
@@ -1045,59 +918,59 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="2207" restype="x-cp-quiz-continue-key">
 							<trans-unit id="382-2207">
-								<source>S</source>
+								<source>Y</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10105" restype="x-cp-quiz-correct-feedback-text">
 							<trans-unit id="382-10105">
-								<source>Correcta - Haga clic en cualquier punto o pulse “S” para continuar.</source>
+								<source>正解 - ウィンドウ内をクリックするか、Y キーを押して続行してください。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10291" restype="x-cp-quiz-partial-correct-feedback-text">
 							<trans-unit id="382-10291">
-								<source>Parcialmente correcta - Haga clic en cualquier punto o pulse “S” para continuar.</source>
+								<source>一部正解 - ウィンドウ内をクリックするか、Y キーを押して続行してください。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10106" restype="x-cp-quiz-incorrect-feedback-text">
 							<trans-unit id="382-10106">
-								<source>Incorrecta - Haga clic en cualquier punto o pulse “S” para continuar.</source>
+								<source>不正解 - ウィンドウ内をクリックするか、Y キーを押して続行してください。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10107" restype="x-cp-quiz-retry-feedback-text">
 							<trans-unit id="382-10107">
-								<source>Intentarlo de nuevo</source>
+								<source>再試行</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10184" restype="x-cp-quiz-incomplete-feedback-text">
 							<trans-unit id="382-10184">
-								<source>Debe responder a la pregunta antes de continuar.</source>
+								<source>続行するには、設問に回答する必要があります。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10188" restype="x-cp-quiz-timeout-feedback-text">
 							<trans-unit id="382-10188">
-								<source>El tiempo para responder a esta pregunta transcurrió. Haga clic en cualquier punto o pulse “S” para continuar.</source>
+								<source>この設問に回答する時間制限を超えました。ウィンドウ内をクリックするか、Y キーを押して続行してください。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">
 							<trans-unit id="382-10358">
-								<source>Respondió a todas las preguntas. ¿Qué desea hacer a continuación?</source>
+								<source>すべての設問に回答しました。この後はどうされますか?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10359" restype="x-cp-quiz-submit-all-incomplete-text">
 							<trans-unit id="382-10359">
-								<source>Una o más preguntas están incompletas. Responda a todas las preguntas para continuar.</source>
+								<source>1 つ以上の設問への回答が不完全です。続行するには、すべての設問に回答してください。</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10360" restype="x-cp-quiz-submit-all-submit-incomplete-text">
 							<trans-unit id="382-10360">
-								<source>Aún no respondió a algunas preguntas. ¿Está seguro de que desea continuar sin responder a esas preguntas?</source>
+								<source>まだ回答していない設問が残っています。これらの設問に回答せずに続行しますか?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-object" extype="10042" id="383" restype="x-cp-quizzes">
 							<group cp:datatype="x-object" extype="10003" id="384" restype="x-cp-quiz">
 								<group cp:datatype="x-property" datatype="plaintext" extype="10002" restype="x-cp-quiz-name">
 									<trans-unit id="384-10002">
-										<source>Prueba</source>
+										<source>テスト</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10231" restype="x-cp-quiz-lms-objective-id">
@@ -1113,52 +986,52 @@ Fecha de plantilla: 29 de marzo de 2021</source>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10171" restype="x-cp-quiz-review-correct-message">
 									<trans-unit id="384-10171">
-										<source>¡Respondió correctamente!</source>
+										<source>正解です!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10330" restype="x-cp-quiz-review-partial-correct-message">
 									<trans-unit id="384-10330">
-										<source>¡Respondió correctamente en parte!</source>
+										<source>一部正解です!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
 									<trans-unit id="384-10172">
-										<source>No respondió a esta pregunta completamente.</source>
+										<source>この設問への回答が不完全です。</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
 									<trans-unit id="384-10173">
-										<source>Su respuesta:</source>
+										<source>あなたの回答:</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10174" restype="x-cp-quiz-review-incorrect-message-line-2">
 									<trans-unit id="384-10174">
-										<source>La respuesta correcta es:</source>
+										<source>正解:</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10165" restype="x-cp-quiz-result-pass-message">
 									<trans-unit id="384-10165">
-										<source>¡Felicitaciones, superó la prueba!</source>
+										<source>おめでとうございます。テストに合格しました!</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10166" restype="x-cp-quiz-result-fail-message">
 									<trans-unit id="384-10166">
-										<source>¡Lo sentimos, no superó la prueba!</source>
+										<source>残念ながら不合格でした。</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10170" restype="x-cp-quiz-result-email-button-text">
 									<trans-unit id="384-10170">
-										<source>Enviar email</source>
+										<source>メールを送信</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10265" restype="x-cp-quiz-result-retake-button-text">
 									<trans-unit id="384-10265">
-										<source>Volver a realizar prueba</source>
+										<source>テストをやり直す</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10271" restype="x-cp-quiz-result-post-result-text">
 									<trans-unit id="384-10271">
-										<source>Publicar resultado</source>
+										<source>結果を投稿</source>
 									</trans-unit>
 								</group>
 							</group>

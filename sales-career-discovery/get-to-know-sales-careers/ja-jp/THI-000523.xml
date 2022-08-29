@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
-		<file datatype="cptx" date="2022-08-05T13:21:50.0Z" original="THI-000471.cptx" source-language="enUS">
+		<file datatype="cptx" date="2022-07-29T14:05:07.0Z" original="THI-000523.cptx" source-language="enUS">
 			<header>
 				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="11.5"/>
 				<count-group name="countGroup1">
-					<count count-type="total" unit="trans-unit">413</count>
-					<count count-type="total" unit="word">1193</count>
+					<count count-type="total" unit="trans-unit">415</count>
+					<count count-type="total" unit="word">984</count>
 					<count count-type="total" unit="x-cp-slides">1</count>
 				</count-group>
 			</header>
@@ -74,436 +74,411 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="434" restype="x-cp-project-info-description">
 							<trans-unit id="301-434">
-								<source>テンプレートバージョン日: 02/09/2022</source>
+								<source>テンプレートバージョン日: 06/20/2022</source>
 							</trans-unit>
 						</group>
 					</group>
 					<group cp:datatype="x-object" extype="195" id="510" restype="x-cp-slides">
-						<slide cp:datatype="x-object" extype="30" id="7922" resname="Slide 0" restype="x-cp-standard-slide">
+						<slide cp:datatype="x-object" extype="30" id="21200" resname="Slide 0" restype="x-cp-standard-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
-								<trans-unit id="7922-337">
+								<trans-unit id="21200-337">
 									<source>
 									</source>
 								</trans-unit>
 							</group>
 							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
-								<trans-unit id="7922-1285">
+								<trans-unit id="21200-1285">
 									<source>
 									</source>
 								</trans-unit>
 							</group>
-							<group cp:datatype="x-object" extype="69" id="7907" restype="x-cp-items">
-								<group cp:datatype="x-object" extype="612" id="8130" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:0.00">
-										<trans-unit id="8130-612-1">
+							<group cp:datatype="x-object" extype="69" id="21185" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="612" id="21433" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21433-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-1-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:0.00">
-										<trans-unit id="8130-612-2">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-2-1">新しいコアバリューを追加することは大事な仕事です。他方、私たちは気候の緊急事態に直面しており、まさに今、大胆なリーダーシップが求められています。Salesforce は、どの組織も炭素排出量の実質ゼロを達成できるように、こうした取り組みのリーダーとして体系的な変化を推進しています。 </g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:0.00">
-										<trans-unit id="8130-612-3">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-3-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:0.00">
-										<trans-unit id="8130-612-4">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-4-1">たとえば、Net Zero Cloud を開発し、各企業が今すぐネットゼロに取り組めるようにしています。また、温室効果ガス排出量の実質ゼロ企業として、引き続き 100% 再生可能エネルギーで稼動し、カーボンニュートラルなクラウド経由でソリューションを配信します。さらに、1t.org の創設メンバーである Salesforce は、1 億本の植樹を目指し、現時点までに 4,400 万本を植樹しています。 </g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0000ff;font-size:16.0pt;font:decoration:underlined" ctype="x-cp-font" id="8130-612-4-2" hyperlink="https://www.1t.org/" hyperlink-id="21211"></g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8130-612-4-3"> </g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="21433-612-1-1">Sales Development</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7823" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-1">
+								<group cp:datatype="x-object" extype="612" id="21716" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21716-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-1-1">Salesforce は、よりインクルーシブで多様な職場、そしてより平等な世界を作り上げるために努力を続けている人々を応援しています。また、企業は変化を生み出す最高のプラットフォームであると信じ、すべての人の基本的人権を支持しています。そして、平等と多様性こそが Salesforce をさらに良い企業へと成長させることを確信しています。Salesforce は、平等を推進するイニシアチブの一環として、2023 年までに黒人が経営する企業に 1 億ドル、過少比率マイノリティ (URM) が設立した企業に 1 億ドルを投資します。 </g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-2">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-2-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-3">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-3-1">Salesforce のインクルージョンに関するメッセージは、こちらからご覧ください。</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-4">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-4-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-5">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-5-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-6">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-6-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-7">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-7-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-8">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-8-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-9">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-9-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-10">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-10-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-11">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-11-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-12">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-12-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-13">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-13-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-14">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-14-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-15">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-15-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-16">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-16-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-17">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-17-1">
-												</g>
-											</source>
-										</trans-unit>
-									</group>
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.20;line-indent:0.00">
-										<trans-unit id="7823-612-18">
-											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-18-1">あなたのご意見をお聞かせください。この件に関するご意見を、 </g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#0000ff;font-size:14.0pt;font:decoration:underlined" ctype="x-cp-font" id="7823-612-18-2" hyperlink="https://salesforce-internal.slack.com/archives/C01QZTHL60P" hyperlink-id="20783">#equality-groups</g>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="7823-612-18-3"> の Slack チャネルで共有してください。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21716-612-1-1">Sales Development</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7836" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:0.00">
-										<trans-unit id="7836-612-1">
+								<group cp:datatype="x-object" extype="612" id="21728" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21728-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7836-612-1-1">Salesforce の「概念先行型」製品は、使いやすく、統合され、拡張性に優れている上、グローバルな仕様であるため、お客様の顧客も心が動かされるものと信じています。Salesforce は、お客様が革新的な商品を開発して常に競争で優位に立てるように、最新のテクノロジーを提供しています。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="21728-612-1-1">Sales Development</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7849" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:0.00">
-										<trans-unit id="7849-612-1">
+								<group cp:datatype="x-object" extype="612" id="21704" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21704-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7849-612-1-1">Salesforce の成功は、お客様の成功が実現して初めて達成されます。そのため、Salesforce は常にカスタマーファーストを実践しています。Salesforce とお客様との間で構築された信頼関係は、新しいデジタル社会で成功できるようにお客様を導き、お客様と共に成長する喜びを味わえるという、貴重な経験をもたらしてくれます。Salesforce は、お客様がビジネスバリューをいち早く実現し、かつてないほど効果的な労働環境を確率できるように、持てる力をフルに活用してお客様を支援します。Salesforce は、最も一緒に仕事がしやすいソフトウェア企業であると自負しています。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="21704-612-1-1">Sales Development</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7862" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.60;line-indent:0.00">
-										<trans-unit id="7862-612-1">
+								<group cp:datatype="x-object" extype="612" id="21703" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21703-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7862-612-1-1">Salesforce にとって、最も価値あるものは信頼であり、それは創業当初から変わっていません。Salesforce のお客様は、パフォーマンスの高い安全なテクノロジーを求めています。Salesforce はすべてのステークホルダーに対して責任を担っています。Salesforce は、倫理と誠実性を常に念頭に置き、テクノロジー、透明性、ディープリスニング、コミットメントの実現を融合することで信頼を構築します。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="21703-612-1-1">Core AE</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7977" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7977-612-1">
+								<group cp:datatype="x-object" extype="612" id="21751" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21751-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7977-612-1-1">サステナビリティ</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21751-612-1-1">Core AE</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7998" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7998-612-1">
+								<group cp:datatype="x-object" extype="612" id="21763" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21763-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="7998-612-1-1">サステナビリティ</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="21763-612-1-1">Core AE</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="8030" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="8030-612-1">
+								<group cp:datatype="x-object" extype="612" id="21739" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21739-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8030-612-1-1">サステナビリティ</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="21739-612-1-1">Core AE</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="8063" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="8063-612-1">
+								<group cp:datatype="x-object" extype="612" id="21567" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21567-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="8063-612-1-1">
-												</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="21567-612-1-1">Enterprise Corporate Sales (ECS)</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7425" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7425-612-1">
+								<group cp:datatype="x-object" extype="612" id="21786" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21786-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7425-612-1-1">平等</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21786-612-1-1">Enterprise Corporate Sales (ECS)</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7436" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7436-612-1">
+								<group cp:datatype="x-object" extype="612" id="21798" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21798-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="7436-612-1-1">平等</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="21798-612-1-1">Enterprise Corporate Sales (ECS)</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7467" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7467-612-1">
+								<group cp:datatype="x-object" extype="612" id="21774" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21774-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7467-612-1-1">平等</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="21774-612-1-1">Enterprise Corporate Sales (ECS)</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7478" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7478-612-1">
+								<group cp:datatype="x-object" extype="612" id="21601" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21601-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7478-612-1-1">
-												</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="21601-612-1-1">Specialist AE</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7499" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7499-612-1">
+								<group cp:datatype="x-object" extype="612" id="21821" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21821-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7499-612-1-1">イノベーション</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21821-612-1-1">Specialist AE</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7510" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7510-612-1">
+								<group cp:datatype="x-object" extype="612" id="21833" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21833-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="7510-612-1-1">イノベーション</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="21833-612-1-1">Specialist AE</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7523" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7523-612-1">
+								<group cp:datatype="x-object" extype="612" id="21809" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21809-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7523-612-1-1">イノベーション</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="21809-612-1-1">Specialist AE</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7534" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7534-612-1">
+								<group cp:datatype="x-object" extype="612" id="21635" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21635-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7534-612-1-1">
-												</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="21635-612-1-1">Emerging/Growth</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7555" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7555-612-1">
+								<group cp:datatype="x-object" extype="612" id="21856" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21856-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7555-612-1-1">カスタマーサクセス</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="21856-612-1-1">Emerging/Growth</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7566" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7566-612-1">
+								<group cp:datatype="x-object" extype="612" id="21868" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21868-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="7566-612-1-1">カスタマーサクセス</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="21868-612-1-1">Emerging/Growth</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7579" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7579-612-1">
+								<group cp:datatype="x-object" extype="612" id="21844" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="21844-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7579-612-1-1">カスタマーサクセス</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="21844-612-1-1">Emerging/Growth</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7590" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7590-612-1">
+								<group cp:datatype="x-object" extype="612" id="22001" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="22001-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7590-612-1-1">
-												</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt;font:decoration:underlined;font:weight:bold" ctype="x-cp-font" id="22001-612-1-1">職務 													グレードレベル</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="22001-612-2">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="22001-612-2-1">New Markets Account Executive						4 - 10</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="22001-612-3">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="22001-612-3-1">Reseller Account Executive							3 - 8</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7611" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7611-612-1">
+								<group cp:datatype="x-object" extype="612" id="20688" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20688-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7611-612-1-1">信頼</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt;font:decoration:underlined;font:weight:bold" ctype="x-cp-font" id="20688-612-1-1">職務 													グレードレベル</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20688-612-2">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="20688-612-2-1">Cloud Account Executive								3 - 9</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20688-612-3">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="20688-612-3-1">Prime Named Account Executive						6 - 10</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20688-612-4">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="20688-612-4-1">Prime Territory Account Executiv						3 - 6</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7622" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7622-612-1">
+								<group cp:datatype="x-object" extype="612" id="20701" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20701-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#ffffff;font-size:16.0pt" ctype="x-cp-font" id="7622-612-1-1">信頼</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt;font:decoration:underlined;font:weight:bold" ctype="x-cp-font" id="20701-612-1-1">職務 													グレードレベル</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20701-612-2">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="20701-612-2-1">プライム ECS アカウントエグゼクティブ		                   			4 - 6</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20701-612-3">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="20701-612-3-1">ECS アカウントエグゼクティブ          							4 - 6</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7633" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7633-612-1">
+								<group cp:datatype="x-object" extype="612" id="20714" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20714-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7633-612-1-1">
-												</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt;font:decoration:underlined;font:weight:bold" ctype="x-cp-font" id="20714-612-1-1">職務 													グレードレベル</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20714-612-2">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="20714-612-2-1">Strategic &amp; Business Development Executive				8 - 11</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20714-612-3">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="20714-612-3-1">Global Account Manager								9 - 11</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20714-612-4">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="20714-612-4-1">Named Account Executive								6 - 11</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20714-612-5">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="20714-612-5-1">Territory Account Executive							3 - 6</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20714-612-6">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="20714-612-6-1">New Logo Account Executive							5 - 8</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="7646" restype="SmartShape">
-									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
-										<trans-unit id="7646-612-1">
+								<group cp:datatype="x-object" extype="612" id="20727" restype="SmartShape">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20727-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:16.0pt" ctype="x-cp-font" id="7646-612-1-1">信頼</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt;font:decoration:underlined;font:weight:bold" ctype="x-cp-font" id="20727-612-1-1">職務 													グレードレベル</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20727-612-2">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="20727-612-2-1">Account Development Representative*					2 - 4</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20727-612-3">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="20727-612-3-1">Business Development Representative**				2 - 3</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20727-612-4">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="20727-612-4-1">Sales Development Representative						2</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20727-612-5">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="20727-612-5-1">Business Development Analyst							1</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20727-612-6">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:20.0pt" ctype="x-cp-font" id="20727-612-6-1">         				</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20727-612-7">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="20727-612-7-1">*ADR は MuleSoft のみ。</g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.80;line-indent:0.00">
+										<trans-unit id="20727-612-8">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:14.0pt" ctype="x-cp-font" id="20727-612-8-1">**BDR グレード 2 は Tableau のみ。</g>
 											</source>
 										</trans-unit>
 									</group>
 								</group>
-								<group cp:datatype="x-object" extype="612" id="13302" restype="SmartShape">
+								<group cp:datatype="x-object" extype="612" id="21118" restype="SmartShape">
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.40;line-indent:0.00">
-										<trans-unit id="13302-612-1">
+										<trans-unit id="21118-612-1">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#223946;font-size:18.0pt" ctype="x-cp-font" id="13302-612-1-1">コアバリューを指針に</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#223946;font-size:18.0pt" ctype="x-cp-font" id="21118-612-1-1">はじめに</g>
 											</source>
 										</trans-unit>
 									</group>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.40;line-indent:0.00">
-										<trans-unit id="13302-612-2">
+										<trans-unit id="21118-612-2">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#223946;font-size:18.0pt" ctype="x-cp-font" id="13302-612-2-1">
+												<g css-style="font-family:'Salesforce Sans';font-face:'Bold';color:#223946;font-size:18.0pt" ctype="x-cp-font" id="21118-612-2-1">
 												</g>
 											</source>
 										</trans-unit>
 									</group>
 									<group cp:datatype="x-paragraph" css-style="line-spacing:1.40;line-indent:0.00">
-										<trans-unit id="13302-612-3">
+										<trans-unit id="21118-612-3">
 											<source>
-												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:18.0pt" ctype="x-cp-font" id="13302-612-3-1">左側の各コアバリューをクリックすると説明が表示されますので、それぞれのバリューの詳細をお読みください。</g>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:18.0pt" ctype="x-cp-font" id="21118-612-3-1">ビジネスカテゴリーをクリックすると、Foundational Jobs と、関連するグレードレベルが表示されます。  </g>
+											</source>
+										</trans-unit>
+									</group>
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.40;line-indent:0.00">
+										<trans-unit id="21118-612-4">
+											<source>
+												<g css-style="font-family:'Salesforce Sans';font-face:'Regular';color:#223946;font-size:18.0pt" ctype="x-cp-font" id="21118-612-4-1">
+												</g>
 											</source>
 										</trans-unit>
 									</group>
@@ -560,7 +535,21 @@
 							</group>
 							<group cp:datatype="x-object" extype="69" id="1609" restype="x-cp-items"/>
 						</slide>
-						<slide cp:datatype="x-object" extype="584" id="1769" resname="Slide 3" restype="x-cp-content-master-slide">
+						<slide cp:datatype="x-object" extype="584" id="21236" resname="Slide 3" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="21236-337">
+									<source>横方向</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="21236-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="21201" restype="x-cp-items"/>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="1769" resname="Slide 4" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="1769-337">
 									<source>コンテンツ 01</source>
@@ -591,7 +580,7 @@
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="584" id="2298" resname="Slide 4" restype="x-cp-content-master-slide">
+						<slide cp:datatype="x-object" extype="584" id="2298" resname="Slide 5" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2298-337">
 									<source>コンテンツ 02</source>
@@ -678,7 +667,7 @@
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="584" id="2472" resname="Slide 5" restype="x-cp-content-master-slide">
+						<slide cp:datatype="x-object" extype="584" id="2472" resname="Slide 6" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2472-337">
 									<source>コンテンツ 03</source>
@@ -720,7 +709,7 @@
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="584" id="2601" resname="Slide 6" restype="x-cp-content-master-slide">
+						<slide cp:datatype="x-object" extype="584" id="2601" resname="Slide 7" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2601-337">
 									<source>コンテンツ 04</source>
@@ -751,7 +740,7 @@
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="584" id="2678" resname="Slide 7" restype="x-cp-content-master-slide">
+						<slide cp:datatype="x-object" extype="584" id="2678" resname="Slide 8" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2678-337">
 									<source>コンテンツ 05</source>
@@ -772,7 +761,7 @@
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="584" id="2968" resname="Slide 8" restype="x-cp-content-master-slide">
+						<slide cp:datatype="x-object" extype="584" id="2968" resname="Slide 9" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="2968-337">
 									<source>コンテンツ 06</source>
@@ -832,7 +821,7 @@
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="584" id="3093" resname="Slide 9" restype="x-cp-content-master-slide">
+						<slide cp:datatype="x-object" extype="584" id="3093" resname="Slide 10" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="3093-337">
 									<source>コンテンツ 07</source>
@@ -858,7 +847,7 @@
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="584" id="3671" resname="Slide 10" restype="x-cp-content-master-slide">
+						<slide cp:datatype="x-object" extype="584" id="3671" resname="Slide 11" restype="x-cp-content-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="3671-337">
 									<source>結論</source>
@@ -980,7 +969,7 @@
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="10141" id="4081" resname="Slide 11" restype="x-cp-quiz-master-slide">
+						<slide cp:datatype="x-object" extype="10141" id="4081" resname="Slide 12" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4081-337">
 									<source>MCQ,T/F,FIB,Sequence</source>
@@ -1080,7 +1069,7 @@
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="10141" id="4487" resname="Slide 12" restype="x-cp-quiz-master-slide">
+						<slide cp:datatype="x-object" extype="10141" id="4487" resname="Slide 13" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4487-337">
 									<source>照合</source>
@@ -1180,7 +1169,7 @@
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="10141" id="4811" resname="Slide 13" restype="x-cp-quiz-master-slide">
+						<slide cp:datatype="x-object" extype="10141" id="4811" resname="Slide 14" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="4811-337">
 									<source>ホットスポット</source>
@@ -1260,7 +1249,7 @@
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="10141" id="5097" resname="Slide 14" restype="x-cp-quiz-master-slide">
+						<slide cp:datatype="x-object" extype="10141" id="5097" resname="Slide 15" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="5097-337">
 									<source>リッカート</source>
@@ -1335,7 +1324,7 @@
 								</group>
 							</group>
 						</slide>
-						<slide cp:datatype="x-object" extype="10141" id="5468" resname="Slide 15" restype="x-cp-quiz-master-slide">
+						<slide cp:datatype="x-object" extype="10141" id="5468" resname="Slide 16" restype="x-cp-quiz-master-slide">
 							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
 								<trans-unit id="5468-337">
 									<source>結果</source>
@@ -2450,7 +2439,7 @@
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">
 							<trans-unit id="378-10358">
-								<source>すべての質問に回答しました。この後はどうされますか?</source>
+								<source>すべての質問に回答しました。次はどうしますか?</source>
 							</trans-unit>
 						</group>
 						<group cp:datatype="x-property" datatype="plaintext" extype="10359" restype="x-cp-quiz-submit-all-incomplete-text">
@@ -2493,7 +2482,7 @@
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
 									<trans-unit id="380-10172">
-										<source>この質問に完全に回答しませんでした。</source>
+										<source>この質問への回答が完全ではありませんでした。</source>
 									</trans-unit>
 								</group>
 								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
